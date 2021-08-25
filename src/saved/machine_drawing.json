@@ -1,0 +1,2882 @@
+[
+    {
+        "id": 1,
+        "Question": "Axonometric view is a type of _____________",
+        "Options": [
+            "a) Orthographic view",
+            "b) Pictorial view",
+            "c) Oblique View",
+            "d) Pictorial and Oblique View",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 2,
+        "Question": "In an axonometric view, line of site are   ______________",
+        "Options": [
+            "a) Perpendicular to plane of projection with all three faces equally inclined to picture plane",
+            "b) Perpendicular to plane of projection with all three faces need not be equally inclined to picture plane",
+            "c) Inclined to the plane of projection at certain angle",
+            "d) One face of the object needs to be parallel",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 3,
+        "Question": "In which of the following view the vanishing point is assumed to be located at infinity?",
+        "Options": [
+            "a) Perspective view",
+            "b) Orthographic view",
+            "c) Axonometric view",
+            "d) Perspective with one face of object parallel to the plane of picture",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 4,
+        "Question": "In which of the below given views, the picture plane is the same as the plane of the projection?",
+        "Options": [
+            "a) Pictorial view",
+            "b) Perspective view",
+            "c) Orthographic view",
+            "d) Oblique view",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 5,
+        "Question": "Projectors are referred to______________",
+        "Options": [
+            "a) Plane of projection",
+            "b) Picture plane",
+            "c) Rays intersecting the corner and edges of the object",
+            "d) Line of site",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 6,
+        "Question": "A designer is looking to draw the side view of a car in perspective, which of the below given choice is the best?",
+        "Options": [
+            "a) Choosing vanishing points in the paper area",
+            "b) Choosing a single vanishing point at infinity",
+            "c) Choosing a three-point perspective",
+            "d) Choosing an orthographic view",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 7,
+        "Question": "The principal plane chosen in an orthographic view of a machine drawing is/are ______",
+        "Options": [
+            "a) Horizontal, vertical and side plane",
+            "b) Horizontal and side plane only",
+            "c) Vertical and horizontal plane only",
+            "d) Only vertical plane",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 8,
+        "Question": "A pictorial view must show __________ of a machine.",
+        "Options": [
+            "a) All the details necessary for its construction",
+            "b) The outside appearance",
+            "c) True shape of the machine",
+            "d) All the faces of the machine",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 9,
+        "Question": "Side view is drawn by viewing from either the left or right side, whichever is __________",
+        "Options": [
+            "a) Easy to read",
+            "b) Suitable to draw",
+            "c) Having longest dimensions",
+            "d) More informative",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 10,
+        "Question": "In perspective view, the object can be inclined at ______ angle.",
+        "Options": [
+            "a) 300",
+            "b) 450",
+            "c) 600",
+            "d) Any",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 11,
+        "Question": "The method of ________ projection is universally adopted for the purpose of engineering drawing.",
+        "Options": [
+            "a) Orthographic",
+            "b) Isometric",
+            "c) Oblique",
+            "d) Perspective",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 12,
+        "Question": "Single view may be enough to describe the shape of _______",
+        "Options": [
+            "a) Thick objects",
+            "b) Thin objects",
+            "c) Symmetric objects",
+            "d) Vertical objects",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 13,
+        "Question": "Sectional views can be drawn to show the ____________",
+        "Options": [
+            "a) Hatching lines",
+            "b) Outside views",
+            "c) Internal details",
+            "d) Symmetric objects",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 14,
+        "Question": "While drawing an object on paper, which of the following method is not suitable regarding to its size?",
+        "Options": [
+            "a) Enlarge suitably if it is too small",
+            "b) Reduce if it is bigger than the paper size",
+            "c) Always should be drawn of the same size",
+            "d) Drawn of the same size if it can be accommodated on the paper",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 15,
+        "Question": "Which of the following is not a subtype of pictorial view?",
+        "Options": [
+            "a) Cabinet view",
+            "b) Auxiliary section view",
+            "c) Cavalier view",
+            "d) 3 vanishing point view",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 16,
+        "Question": "_______ is an object seen by a human eye.",
+        "Options": [
+            "a) Perspective view",
+            "b) Axonometric view",
+            "c) Orthogonal view",
+            "d) Isometric view",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 17,
+        "Question": "The system in which variation in size is accepted is termed as ___________",
+        "Options": [
+            "a) Limit system",
+            "b) Tolerance System",
+            "c) Limit and tolerance system",
+            "d) Variable system",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 18,
+        "Question": "What is the basic size?",
+        "Options": [
+            "a) Size calculated by the design engineer to withstand the stress coming in component",
+            "b) Size exactly of that of given object under consideration",
+            "c) Size of the object with given deviations",
+            "d) Size with which a job come out of the shop",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 19,
+        "Question": "What is the actual size?",
+        "Options": [
+            "a) Dimension of a component on paper",
+            "b) Dimension of the component manufactured",
+            "c) Size of the component as per theory of failure",
+            "d) Size of the object with all the tolerances",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 20,
+        "Question": "Tolerance is ___________",
+        "Options": [
+            "a) Difference between the basic size and maximum limit",
+            "b) Difference Between the minimum and basic size",
+            "c) Difference between the maximum and minimum limit size",
+            "d) The maximum size of the component allowed",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 21,
+        "Question": "Cost of manufacturing is ____________",
+        "Options": [
+            "a) Inversely proportional to the amount of tolerance specified",
+            "b) Directly proportional to the amount of tolerance specified",
+            "c) Does not depends on tolerance specified",
+            "d) Does depends non-linearly",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 22,
+        "Question": "As far as possible dimensions should be given in one unit, preferably in _______",
+        "Options": [
+            "a) Meters",
+            "b) Centimeters",
+            "c) Millimeters",
+            "d) Inches",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 23,
+        "Question": "Addition of numerals on the drawing defines the object for ______",
+        "Options": [
+            "a) Shape",
+            "b) Size",
+            "c) Projections",
+            "d) Tolerances",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 24,
+        "Question": "Size is given by ________ for linear distances, radii, diameters, angles, etc.",
+        "Options": [
+            "a) Dimensions",
+            "b) Measurements",
+            "c) Arrows",
+            "d) Projections",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 25,
+        "Question": "Which of the following is the method of preparing drawing?",
+        "Options": [
+            "a) Machine drawing",
+            "b) Production drawing",
+            "c) Assembly drawing",
+            "d) Finished drawing",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 26,
+        "Question": "Output of CAD is not _________",
+        "Options": [
+            "a) Printed with a printer if it is small up to A4 size",
+            "b) Saved in the magnetic memory of the computer",
+            "c) Drawn on the paper with special drawing apparatus",
+            "d) Printed with multiple plotters if it is large",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 27,
+        "Question": "While preparing a drawing with freehand sketching _______",
+        "Options": [
+            "a) Special apparatus are used to draw curves",
+            "b) Angles are drawn with a protractor",
+            "c) Straight lines are drawn with set square",
+            "d) Sketching is done without any aid of drawing apparatus",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 28,
+        "Question": "CAD is the method of preparing drawings, which is an abbreviation of ______",
+        "Options": [
+            "a) Computer Aided Drafting",
+            "b) Call a Design",
+            "c) Completely Automated Designing",
+            "d) Common Application Data",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 29,
+        "Question": "Which of the following statement is not about Computer Aided Drafting?",
+        "Options": [
+            "a) Quality of such drawing is excellent",
+            "b) Output is taken with the help of plotter or printer",
+            "c) Drawings are saved in the magnetic memory of the computer or hard disk",
+            "d) Letters are written using stencils for good appearance",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 30,
+        "Question": "Which of the following option is not expressing the freehand sketch method of preparing drawing?",
+        "Options": [
+            "a) Sketching is done with pencil and paper",
+            "b) Lines may not be the exact length in such drawings",
+            "c) It is good in learning process",
+            "d) In sketching, circles are drawn with compass",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 31,
+        "Question": "_________ is a drawing giving details about size tolerance, heat treatment, etc.",
+        "Options": [
+            "a) Exploded drawing",
+            "b) Production drawing",
+            "c) Assembly drawing",
+            "d) Machine drawing",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 32,
+        "Question": "_________ is an authorized document to produce a part in the workshop.",
+        "Options": [
+            "a) Assembly drawing",
+            "b) Exploded drawing",
+            "c) Part drawing",
+            "d) Production drawing",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 33,
+        "Question": "Drawing showing the position of each part with respect to each other is called _______",
+        "Options": [
+            "a) assembly drawing",
+            "b) part drawing",
+            "c) machine drawing",
+            "d) installation drawing",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 34,
+        "Question": "Exploded drawing is the drawing which gives the ____________ of each component of an assembly and they arranged in the same sequence in which they are assembled.",
+        "Options": [
+            "a) clear view",
+            "b) sectional view",
+            "c) pictorial view",
+            "d) front view",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 35,
+        "Question": "Detailed drawing of each part of a machine is called _________",
+        "Options": [
+            "a) part drawing",
+            "b) assembly drawing",
+            "c) patent drawing",
+            "d) tabular drawing",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 36,
+        "Question": "Production drawing of a part of a machine is also called a _______",
+        "Options": [
+            "a) working drawing",
+            "b) installation drawing",
+            "c) machine drawing",
+            "d) sub-assembly drawing",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 37,
+        "Question": "Which type of drawing is supplied by the manufacturer to the client?",
+        "Options": [
+            "a) Tabular drawing",
+            "b) Assembly drawing",
+            "c) Client drawing",
+            "d) Installation drawing",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 38,
+        "Question": "Tabular drawings are used for parts that have __________",
+        "Options": [
+            "a) square shape",
+            "b) same size and same shape",
+            "c) same shape but different sizes",
+            "d) different shape but same size",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 39,
+        "Question": "___________ is used to communicate information to industry.",
+        "Options": [
+            "a) design data",
+            "b) installation drawing",
+            "c) machine drawing",
+            "d) patent drawing",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 40,
+        "Question": "Working drawing is used by _______",
+        "Options": [
+            "a) production department",
+            "b) customer",
+            "c) marketing department",
+            "d) designer",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 41,
+        "Question": "The abbreviation WCS stands for _________",
+        "Options": [
+            "a) Windows Coordinate System",
+            "b) Wide Coordinate system",
+            "c) World Coordinate System",
+            "d) World CAD system",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 42,
+        "Question": "Which type of coordinate system is used in AutoCAD?",
+        "Options": [
+            "a) 2-Dimensional",
+            "b) 3-Dimensional",
+            "c) 1-Dimensional",
+            "d) User dependent",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 43,
+        "Question": "Origin of User Coordinate System ___________",
+        "Options": [
+            "a) must coincide with WCS",
+            "b) at the left lower corner of drawing area",
+            "c) at the center of drawing area",
+            "d) can be anywhere in the WCS",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 44,
+        "Question": "When working with User Coordinate System display of square of an icon can be put ON or OFF using ____________",
+        "Options": [
+            "a) UCSICON command",
+            "b) UCS command",
+            "c) Double click on axes",
+            "d) VIEW command",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 45,
+        "Question": "UCS icon is displayed using a line width of _________ by default.",
+        "Options": [
+            "a) 5 pixel",
+            "b) 1 pixel",
+            "c) 3 pixel",
+            "d) 4 pixel",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 46,
+        "Question": "The position and orientation of the UCS origin is controlled by ________",
+        "Options": [
+            "a) UCS command",
+            "b) UCSICON command",
+            "c) VIEW command",
+            "d) MOVE command",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 47,
+        "Question": "Select the incorrect statement about Snap from the following options.",
+        "Options": [
+            "a) It is the smallest invisible distance of increment that can be set for the mouse",
+            "b) If it is set ON, the mouse moves in steps of the set increment",
+            "c) If it is set OFF, the mouse cannot move to any intermediate point between the dots of the grid",
+            "d) Function key F9 is used to make Snap on/off",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 48,
+        "Question": "If _______ mode is set on then all lines are drawn along the X and Y direction only.",
+        "Options": [
+            "a) snap",
+            "b) osnap",
+            "c) ortho",
+            "d) grid",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 49,
+        "Question": "Function key F9 is used to toggle _______",
+        "Options": [
+            "a) snap",
+            "b) ortho",
+            "c) osnap",
+            "d) grid",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 50,
+        "Question": "Which function key is used to set Grid on or off?",
+        "Options": [
+            "a) F7",
+            "b) F4",
+            "c) F3",
+            "d) F5",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 51,
+        "Question": "Symbol for quadrant snap, which appears on the entity while selecting is ____________",
+        "Options": [
+            "a) □",
+            "b) ◊",
+            "c) ○",
+            "d) ×",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 52,
+        "Question": "It is difficult to pick a point exactly and quickly with the mouse. In order to allow specifying a point exactly, which of the following command will help?",
+        "Options": [
+            "a) Grid",
+            "b) Ortho",
+            "c) Snap",
+            "d) OSNAP",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 53,
+        "Question": "Object snap increases ________",
+        "Options": [
+            "a) speed, accuracy and ease of drafting",
+            "b) speed of drawing",
+            "c) memory utilization",
+            "d) accuracy while drafting",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 54,
+        "Question": "Which function key is used to make OSNAP on/off?",
+        "Options": [
+            "a) F5",
+            "b) F3",
+            "c) F4",
+            "d) F7",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 55,
+        "Question": "Before you use modify commands, you need to make a selection of _________",
+        "Options": [
+            "a) only one object",
+            "b) one or more objects",
+            "c) minimum two objects",
+            "d) maximum two objects",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 56,
+        "Question": "Which items are selected in a fence selection option?",
+        "Options": [
+            "a) Around the fence",
+            "b) Lower the fence",
+            "c) Above the fence",
+            "d) Crosses the fence",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 57,
+        "Question": "The most obvious way to select an object in AutoCAD is _________",
+        "Options": [
+            "a) to simply pick it",
+            "b) give the selection command",
+            "c) right click on the object",
+            "d) move the cursor over it",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 58,
+        "Question": "To select an object designer has to place the pickbox over a part of the object and left click the mouse. When the object has been picked ___________",
+        "Options": [
+            "a) it is highlighted in a black colour",
+            "b) it is highlighted in a thick line",
+            "c) it becomes darker",
+            "d) it is highlighted in a dashed line",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 59,
+        "Question": "For object selection once the window is defined, objects which are ____________ will be selected.",
+        "Options": [
+            "a) around the window",
+            "b) lie entirely within the window",
+            "c) touching the window",
+            "d) only partially enclosed",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 60,
+        "Question": "Which type of command works only with a crossing window?",
+        "Options": [
+            "a) Stretch",
+            "b) Erase",
+            "c) Copy",
+            "d) Mirror",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 61,
+        "Question": "Which command is used to create multiple copies of selected objects in rectangular or polar form?",
+        "Options": [
+            "a) Change",
+            "b) Polar copy",
+            "c) Array",
+            "d) Pedit",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 62,
+        "Question": "__________ command is exclusively used for editing of polygon properties or plines.",
+        "Options": [
+            "a) Grips",
+            "b) Line",
+            "c) Pedit",
+            "d) Explode",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 63,
+        "Question": "By default, for any corner, radius of fillet is _______",
+        "Options": [
+            "a) zero",
+            "b) one",
+            "c) infinite",
+            "d) two",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 64,
+        "Question": "Grips are used to ________",
+        "Options": [
+            "a) hide the drawing",
+            "b) modify operations",
+            "c) stop an object from moving",
+            "d) lock an object to fix the properties",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 65,
+        "Question": "Command used to bevel the corner at specified distances of intersecting lines is _________",
+        "Options": [
+            "a) Join",
+            "b) Fillet",
+            "c) Chamfer",
+            "d) Align",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 66,
+        "Question": "A hexagon drawn with a polygon command has six lines. If you try to delete one of its lines, whole hexagon will be deleted. What should be done to edit it?",
+        "Options": [
+            "a) With Explode command break into separate entities",
+            "b) Erase with Erase command",
+            "c) Delete the hexagon and draw again",
+            "d) Use array command",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 67,
+        "Question": "Pressing Ctrl and 1 key together is used for ________ command.",
+        "Options": [
+            "a) object selection",
+            "b) correcting mistakes",
+            "c) match properties",
+            "d) modify properties",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 68,
+        "Question": "Which of the following short-cut key is useful for modifying the 3-dimensional visualization properties?",
+        "Options": [
+            "a) CTRL + 1",
+            "b) CTRL + 5",
+            "c) CTRL + 3",
+            "d) CTRL + 4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 69,
+        "Question": "Elements of dimensioning are ___________",
+        "Options": [
+            "a) Extension line, Leader line, Arrowheads",
+            "b) Trim, Crop, Construction line",
+            "c) Polyline, Helix",
+            "d) Donut, Circle",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 70,
+        "Question": "_______ lines extend from the object towards outside.",
+        "Options": [
+            "a) Dimension",
+            "b) Extension",
+            "c) Leader",
+            "d) Arrowhead",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 71,
+        "Question": "An extension line should ________ any line.",
+        "Options": [
+            "a) cross",
+            "b) not cross",
+            "c) pass over to",
+            "d) pass below to",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 72,
+        "Question": "A leader line is drawn at an angle between _______ and not less than 30 degrees from horizontal.",
+        "Options": [
+            "a) 30 & 45 degree",
+            "b) 45 & 60 degree",
+            "c) 60 & 75 degree",
+            "d) 75 & 90 degree",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 73,
+        "Question": "Leader line is pointed over an area; arrow is replaced by a dot about _____ diameter.",
+        "Options": [
+            "a) 1 mm",
+            "b) 2 mm",
+            "c) 3 mm",
+            "d) 1.5 mm",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 74,
+        "Question": "The rule followed by the leader line is ____________",
+        "Options": [
+            "a) All notes are written in horizontal direction",
+            "b) Leader line should cross with other dimension lines",
+            "c) Leader line should be very long",
+            "d) Leader line is drawn at an angle less than 30 degrees from horizontal",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 75,
+        "Question": "Dimension line is drawn slightly away from the object, about _____",
+        "Options": [
+            "a) 4 to 6 mm",
+            "b) 2 to 4 mm",
+            "c) 6 to 8 mm",
+            "d) 8 to 10 mm",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 76,
+        "Question": "The line which is drawn under the two extension lines, ending with an arrow is called _____",
+        "Options": [
+            "a) leader line",
+            "b) dimension line",
+            "c) extension line",
+            "d) polyline",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 77,
+        "Question": "The dimensional line should be _______ to the object.",
+        "Options": [
+            "a) vertical",
+            "b) horizontal",
+            "c) parallel",
+            "d) perpendicular",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 78,
+        "Question": "Preferably a dimension should be placed ______ the view.",
+        "Options": [
+            "a) inside",
+            "b) outside",
+            "c) left side",
+            "d) right side",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 79,
+        "Question": "Important point on which the arrowhead is to be drawn is ___________",
+        "Options": [
+            "a) They are drawn graphically by using scale",
+            "b) Height of arrow is kept about one third of the length of arrow",
+            "c) They should be non symmetrical about the dimension line",
+            "d) Pointed end of arrow should not touch the extension line",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 80,
+        "Question": "_______ are the numbers that are written on the dimension line to specify the size of the object drawn in SI or FPS units.",
+        "Options": [
+            "a) Scales",
+            "b) Prime numbers",
+            "c) Even numbers",
+            "d) Dimensional Values",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 81,
+        "Question": "The dimensional values should be of ______ size.",
+        "Options": [
+            "a) potential",
+            "b) approximate",
+            "c) actual",
+            "d) preferable",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 82,
+        "Question": "In dimensioning a 2D sketch, to dimension the radius of the arc ________",
+        "Options": [
+            "a) click on the two end points of arc",
+            "b) click on the arc only",
+            "c) click one of the end point and the arc",
+            "d) click on the center point and arc",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 83,
+        "Question": "To dimension the true length of arc __________",
+        "Options": [
+            "a) click on the arc, then the two end points",
+            "b) click on the two end points, then the arc",
+            "c) click on the arc only",
+            "d) click on the end points only",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 84,
+        "Question": "In a multiple view sketching, dimension should be placed on ___________",
+        "Options": [
+            "a) front view only",
+            "b) each view",
+            "c) the face that describe the feature most clearly",
+            "d) the face which has maximum dimensions to show",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 85,
+        "Question": "Clicking on the model edge and a line intersecting it will dimension for the _______",
+        "Options": [
+            "a) length of model edge",
+            "b) length of intersecting line",
+            "c) angle between them",
+            "d) length of both lines",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 86,
+        "Question": "The various dimensioning methods include ____________",
+        "Options": [
+            "a) Parallel dimensioning",
+            "b) Vertical dimensioning",
+            "c) Inclined dimensioning",
+            "d) Horizontal dimensioning",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 87,
+        "Question": "The method which it indicates the distances by linear dimensions measured parallel or perpendicular to reference axes or two perpendicular datum is called _________",
+        "Options": [
+            "a) parallel dimension",
+            "b) chain dimensioning",
+            "c) rectangular coordinates dimensioning",
+            "d) tabular dimensioning",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 88,
+        "Question": "The method in which the series of dimensions are applied from one point to other is called _________",
+        "Options": [
+            "a) Parallel dimension",
+            "b) Chain dimensioning",
+            "c) Combined dimensioning",
+            "d) Tabular dimensioning",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 89,
+        "Question": "The method which starts with a circle is called as ___________",
+        "Options": [
+            "a) parallel dimensioning",
+            "b) superimposed running dimensioning",
+            "c) combined dimensioning",
+            "d) tabular dimensioning",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 90,
+        "Question": "The dimension which is measured with the help of the reference line is called _________",
+        "Options": [
+            "a) parallel dimensioning",
+            "b) superimposed running dimensioning",
+            "c) combined dimensioning",
+            "d) tabular dimensioning",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 91,
+        "Question": "The method in which it uses the same reference or datum which is used by another dimensioning method is called __________",
+        "Options": [
+            "a) vertical dimensioning",
+            "b) inclined dimensioning",
+            "c) combined dimensioning",
+            "d) horizontal dimensioning",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 92,
+        "Question": "The method in which it uses the alphabet for dimensioning is called as ________",
+        "Options": [
+            "a) vertical dimensioning",
+            "b) tabular dimensioning",
+            "c) combined dimensioning",
+            "d) horizontal dimensioning",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 93,
+        "Question": "_______ in AutoCAD is a transparent imaginary plane on which a drawing is created.",
+        "Options": [
+            "a) Plane",
+            "b) Command",
+            "c) Layer",
+            "d) Overlay",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 94,
+        "Question": "The command which is used to set a new layer is called _______",
+        "Options": [
+            "a) LAYOFF",
+            "b) LAYVPI",
+            "c) LAYDEL",
+            "d) LAYER",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 95,
+        "Question": "Modifying a layer consist of ________________",
+        "Options": [
+            "a) Line weight and line type",
+            "b) Thawing",
+            "c) Freeze",
+            "d) Deleting a layer",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 96,
+        "Question": "Orthographic projection is drawn using two methods which is ___________",
+        "Options": [
+            "a) Second angle and third angle method",
+            "b) First angle and third angle method",
+            "c) First angle and fourth angle method",
+            "d) Second angle and fourth angle method",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 97,
+        "Question": "The method in which the object is placed in the first quadrant is known as __________ method.",
+        "Options": [
+            "a) third angle",
+            "b) second angle",
+            "c) first angle",
+            "d) fourth angle",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 98,
+        "Question": "In first angle method the top view is drawn _______ of the front view.",
+        "Options": [
+            "a) above",
+            "b) right Side",
+            "c) left side",
+            "d) bottom",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 99,
+        "Question": "The method in which the object is placed in the third quadrant is known as __________ method.",
+        "Options": [
+            "a) third angle",
+            "b) second angle",
+            "c) first angle",
+            "d) fourth angle",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 100,
+        "Question": "In third angle method the top view is drawn _______ of the front view.",
+        "Options": [
+            "a) above",
+            "b) right Side",
+            "c) left side",
+            "d) bottom",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 101,
+        "Question": "In ______ method the plane of projection is transparent.",
+        "Options": [
+            "a) third angle",
+            "b) second angle",
+            "c) first angle",
+            "d) fourth angle",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 102,
+        "Question": "On which drawing basic command is mostly used?",
+        "Options": [
+            "a) Two dimensional views",
+            "b) Three dimensional views",
+            "c) Four dimensional views",
+            "d) Five dimensional views",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 103,
+        "Question": "The drawing in which both the commands are used i.e. basic and modified command the view is known as __________",
+        "Options": [
+            "a) two dimensional views",
+            "b) three dimensional views",
+            "c) four dimensional views",
+            "d) five dimensional views",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 104,
+        "Question": "If the total detail is not obtained from the three directional views the ______ is drawn.",
+        "Options": [
+            "a) pictorial view",
+            "b) oblique view",
+            "c) perspective view",
+            "d) two dimensional view",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 105,
+        "Question": "Which of the following is a pictorial view?",
+        "Options": [
+            "a) Isometric view",
+            "b) Cavalier view",
+            "c) Axonometric view",
+            "d) Cabinet view",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 106,
+        "Question": "For __________ an object is first rotated in horizontal plane about a vertical axis to make an angle with the picture plane.",
+        "Options": [
+            "a) isometric view",
+            "b) axonometric view",
+            "c) cavalier view",
+            "d) cabinet view",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 107,
+        "Question": "The type of projections which is preliminary decisions for making drawing is ___________",
+        "Options": [
+            "a) Second angle and third angle method",
+            "b) First angle and third angle method",
+            "c) First angle and fourth angle method",
+            "d) Second angle and fourth angle method",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 108,
+        "Question": "The object can be placed in several positions with respect to a projection plane is called _________",
+        "Options": [
+            "a) object viewing",
+            "b) object placing",
+            "c) object Orientation",
+            "d) object drawing",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 109,
+        "Question": "An object is placed at an angle with picture plane________ the drawing.",
+        "Options": [
+            "a) easy",
+            "b) difficult",
+            "c) complicate",
+            "d) simple",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 110,
+        "Question": "__________ of the object should be the largest of all the other views.",
+        "Options": [
+            "a) Right hand side view",
+            "b) Left hand side View",
+            "c) Top View",
+            "d) Front view",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 111,
+        "Question": "Which side view gives more details about the object?",
+        "Options": [
+            "a) Left",
+            "b) Right",
+            "c) Top",
+            "d) Bottom",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 112,
+        "Question": "The number of views to be drawn depends upon the _______ of the object.",
+        "Options": [
+            "a) Size",
+            "b) Shape",
+            "c) Measure",
+            "d) Dimension",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 113,
+        "Question": "Axis symmetric objects require minimum _______",
+        "Options": [
+            "a) one view",
+            "b) two views",
+            "c) three views",
+            "d) four views",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 114,
+        "Question": "By which property the drawing of the object is to enlarge is __________",
+        "Options": [
+            "a) Selection of scale",
+            "b) Spacing of views",
+            "c) Object orientation",
+            "d) Number of views",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 115,
+        "Question": "The dimension put on the drawing is _______ dimensions.",
+        "Options": [
+            "a) approximate",
+            "b) better",
+            "c) actual",
+            "d) true",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 116,
+        "Question": "The reduced scale is written in the form _______",
+        "Options": [
+            "a) 1:X",
+            "b) X: 1",
+            "c) X: Y",
+            "d) Y: X",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 117,
+        "Question": "A gap of about ________ mm should be kept to accommodate dimensions and view titles.",
+        "Options": [
+            "a) 15-20",
+            "b) 20-35",
+            "c) 25-40",
+            "d) 10-25",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 118,
+        "Question": "For sheets of A3 size, a border is at _______ mm from left and ________ mm for all other sides from the edges of the sheet.",
+        "Options": [
+            "a) 10, 15",
+            "b) 20, 10",
+            "c) 10, 20",
+            "d) 15, 25",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 119,
+        "Question": "A represent the ________ gap and B represent the ________ gap between views from the border.",
+        "Options": [
+            "a) vertical, horizontal",
+            "b) horizontal, vertical",
+            "c) left, right",
+            "d) right, left",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 120,
+        "Question": "Various types of plotter which are commonly used include ____________",
+        "Options": [
+            "a) Flatbed plotter",
+            "b) Simple plotter",
+            "c) Complex plotter",
+            "d) Combination plotter",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 121,
+        "Question": "A drawing created using drafting software is _________ of the drawing.",
+        "Options": [
+            "a) hard copy",
+            "b) soft copy",
+            "c) simple copy",
+            "d) complex copy",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 122,
+        "Question": "The point which is used for plotting is ______________",
+        "Options": [
+            "a) Setting the plotting device",
+            "b) Select the printer",
+            "c) Select the paper",
+            "d) Set the page orientation",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 123,
+        "Question": "The rule in which we select the size of paper is called _______",
+        "Options": [
+            "a) setting the plotting device",
+            "b) choosing paper size",
+            "c) select the paper",
+            "d) set the page orientation",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 124,
+        "Question": "What is the meaning of display which is used plotter in defining plot area?",
+        "Options": [
+            "a) Chooses the entire drawing even if it is outside the specified limit",
+            "b) Plots the drawing falling within specified limit",
+            "c) Plots whatever is displayed on the screen",
+            "d) Allows choosing a specified area within window on the screen",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 125,
+        "Question": "The property or rule in which in which we select the or choose the scale for plotting is called as ______",
+        "Options": [
+            "a) plot scale",
+            "b) scale",
+            "c) reduced scale",
+            "d) increase scale",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 126,
+        "Question": "The property in which the drawing which are not properly aligned is goes to the middle is known as ________",
+        "Options": [
+            "a) plot scale",
+            "b) centering the plot",
+            "c) drawing orientation",
+            "d) previewing",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 127,
+        "Question": "The property in the plotters is used for changing the printing view i.e. portrait to landscape and landscape to portrait is known as _______",
+        "Options": [
+            "a) plot scale",
+            "b) centering the plot",
+            "c) drawing orientation",
+            "d) previewing",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 128,
+        "Question": "The view which is complete and ready to print is called ________",
+        "Options": [
+            "a) preview",
+            "b) better view",
+            "c) after view",
+            "d) front view",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 129,
+        "Question": "When the interior of an object is complicated, which of the following view is used?",
+        "Options": [
+            "a) Front view",
+            "b) Side view",
+            "c) Top view",
+            "d) Sectional view",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 130,
+        "Question": "What is the type of sections from given option?",
+        "Options": [
+            "a) Full section",
+            "b) Side section",
+            "c) Top section",
+            "d) Front section",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 131,
+        "Question": "When the cutting plane cuts the entire object the section is known as _______",
+        "Options": [
+            "a) Full section",
+            "b) Half section",
+            "c) Revolved section",
+            "d) Removed section",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 132,
+        "Question": "Straight cutting plane in one line can be used if ___________",
+        "Options": [
+            "a) all the hidden objects are not in one line",
+            "b) all the hidden objects are in one line",
+            "c) the single line nor offset sectioning is useful and shape of the object is inclined",
+            "d) it is used for combined objects",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 133,
+        "Question": "Inclined and offset cutting planes can be used if __________",
+        "Options": [
+            "a) all the hidden objects are not in one line",
+            "b) all the hidden objects are in one line",
+            "c) the single line nor offset sectioning is useful and shape of the object is inclined",
+            "d) it is used for combined objects",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 134,
+        "Question": "For the object which is symmetrical about the central axis; from which method of section it can be drawn __________",
+        "Options": [
+            "a) Full section",
+            "b) Half section",
+            "c) Revolved section",
+            "d) Removed section",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 135,
+        "Question": "When the section is to be drawn for a small area of the object, a ________section is used.",
+        "Options": [
+            "a) full section",
+            "b) half section",
+            "c) revolved section",
+            "d) removed section",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 136,
+        "Question": "Crane hook is to drawn by _________method.",
+        "Options": [
+            "a) full section",
+            "b) half section",
+            "c) removed section",
+            "d) revolved section",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 137,
+        "Question": "The section in which the sectional views are not drawn there itself, but at a place adjacent to it is known as _________",
+        "Options": [
+            "a) removed section",
+            "b) broken out section",
+            "c) auxiliary section",
+            "d) assembly section",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 138,
+        "Question": "The cutting plane cut the small portion after before the is cut by the full or half section, the section is known as __________",
+        "Options": [
+            "a) removed section",
+            "b) broken out section",
+            "c) auxiliary section",
+            "d) assembly section",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 139,
+        "Question": "The section which cuts the object at an angle is called ________",
+        "Options": [
+            "a) removed section",
+            "b) broken out section",
+            "c) auxiliary section",
+            "d) assembly section",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 140,
+        "Question": "The section which draws the section of assembly drawing is called as ____________",
+        "Options": [
+            "a) removed section",
+            "b) broken out section",
+            "c) auxiliary section",
+            "d) assembly section",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 141,
+        "Question": "Cutting plane is shown by _______ with thick end and two arrows in the direction view.",
+        "Options": [
+            "a) section line",
+            "b) chain line",
+            "c) single line",
+            "d) double line",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 142,
+        "Question": "In assembly half section, the section line cut the plane at an angle _________ or ________",
+        "Options": [
+            "a) 35, 45",
+            "b) 45, 125",
+            "c) 35, 135",
+            "d) 45, 135",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 143,
+        "Question": "If some important details are in the view it is sown by the ______ line.",
+        "Options": [
+            "a) section line",
+            "b) chain line",
+            "c) dashed line",
+            "d) double line",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 144,
+        "Question": "Thin parts like stiffeners, webs, bolts, rivets, etc. are ________ if they are cut by the cutting plane along their axis.",
+        "Options": [
+            "a) not hatched",
+            "b) hatched",
+            "c) sectioned",
+            "d) not sectioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 145,
+        "Question": "________ are not hatched but darkened like solids.",
+        "Options": [
+            "a) Very thin parts",
+            "b) Thin parts",
+            "c) Thick parts",
+            "d) Single part",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 146,
+        "Question": "Long parts that cannot be accommodated on the drawing sheet are ____________",
+        "Options": [
+            "a) Shown continuous",
+            "b) Shown partly brake and partly continuous",
+            "c) Shown broken",
+            "d) Shown by reducing its scale",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 147,
+        "Question": "The crests of the thread are shown by a ______ continuous line and roots by ______ continuous line.",
+        "Options": [
+            "a) thin, thick",
+            "b) thick, thin",
+            "c) single, thin",
+            "d) double, thick",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 148,
+        "Question": "The gap between crest and root lines should not be less than ______ the thickness of thick line.",
+        "Options": [
+            "a) half",
+            "b) equal",
+            "c) twice",
+            "d) thrice",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 149,
+        "Question": "Whatever material is cut by the cutting plane, should be _______",
+        "Options": [
+            "a) not hatched",
+            "b) hatched",
+            "c) empty",
+            "d) vertical",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 150,
+        "Question": "The hatching line should be inclined at an angle ________",
+        "Options": [
+            "a) 35°",
+            "b) 25°",
+            "c) 45°",
+            "d) 55°",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 151,
+        "Question": "When two different parts are adjacent to each other, then the section line is drawn at an angle _____ and _______",
+        "Options": [
+            "a) 35° and 125°",
+            "b) 45° and 135°",
+            "c) 45° and 125°",
+            "d) 35° and 135°",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 152,
+        "Question": "For three parts are placed in which of the case is fitted for that ___________",
+        "Options": [
+            "a) Change angle of hatching for third part as 45° or 75°",
+            "b) The gap between the section lines for object is same for the entire object",
+            "c) There will be no offset for the section line",
+            "d) The gap between the section lines for object is not same for the entire object",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 153,
+        "Question": "The distance between two section lines is called ________",
+        "Options": [
+            "a) length of the section line",
+            "b) width of the section line",
+            "c) thickness of the section line",
+            "d) pitch of the section line",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 154,
+        "Question": "The method which suggests the draw the section lines at equal distances is called _________",
+        "Options": [
+            "a) distance of section lines",
+            "b) drawing section lines",
+            "c) pitch of section lines",
+            "d) angle of section lines",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 155,
+        "Question": "To project the auxiliary the auxiliary view, an imaginary plane, known as _________",
+        "Options": [
+            "a) reference plane",
+            "b) principle plane",
+            "c) normal plane",
+            "d) inclined plane",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 156,
+        "Question": "Dimension of one side of the inclined surface can be ______ projected on the reference plane.",
+        "Options": [
+            "a) indirectly",
+            "b) equally",
+            "c) directly",
+            "d) normally",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 157,
+        "Question": "The method in which the edge or surface is divided into small number of parts and projection is transferred for each point is called _____________",
+        "Options": [
+            "a) drawing auxiliary view of an inclined surface",
+            "b) drawing auxiliary view of an curved surface",
+            "c) drawing auxiliary view of opposite surface",
+            "d) drawing auxiliary view of an equal surface",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 158,
+        "Question": "If there are more than one inclined surfaces, then _________",
+        "Options": [
+            "a) auxiliary view for each surface is can drawn single or double",
+            "b) auxiliary view is draw on single view",
+            "c) auxiliary view is draw parallel to the main view",
+            "d) auxiliary view for each surface can be drawn separately",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 159,
+        "Question": "If the surface contours are complicated then_______",
+        "Options": [
+            "a) auxiliary view for each surface is can drawn single or double",
+            "b) auxiliary view is draw on single view",
+            "c) the top view is omitted and auxiliary view is draw by transferring dimension",
+            "d) auxiliary view for each surface can be drawn separately",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 160,
+        "Question": "Using XLINE command the line is to be drawn is called _______",
+        "Options": [
+            "a) construction line",
+            "b) inclined line",
+            "c) vertical line",
+            "d) horizontal line",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 161,
+        "Question": "In construction line HOR represents ____________",
+        "Options": [
+            "a) create vertical xlines passing through specified points",
+            "b) creates horizontal xlines passing through specified points",
+            "c) creates an xlines parallel to an object at a specified offset distance",
+            "d) creates xlines at a specified angle passing through specified points",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 162,
+        "Question": "Command to draw conveniently many construction lines at a specified angle is _________",
+        "Options": [
+            "a) ALINE",
+            "b) LINE",
+            "c) PARLINE",
+            "d) XLINE",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 163,
+        "Question": "Transfer width of side view to inclined projection lines as shown by _________",
+        "Options": [
+            "a) construction of circle",
+            "b) construction of line",
+            "c) construction of arc",
+            "d) construction of polygon",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 164,
+        "Question": "The drawing in which the view is drawn at an angle 30° and 150° is called ___________",
+        "Options": [
+            "a) Auxiliary view",
+            "b) Front view",
+            "c) Isometric view",
+            "d) Perspective view",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 165,
+        "Question": "The view in which the victory stand is drawn is known as __________",
+        "Options": [
+            "a) auxiliary view",
+            "b) 3D view",
+            "c) perspective view",
+            "d) isometric view",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 166,
+        "Question": "All horizontal lines are in isometric drawing is _________",
+        "Options": [
+            "a) parallel to OX",
+            "b) parallel to OZ",
+            "c) parallel to OY",
+            "d) inclined to OX",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 167,
+        "Question": "The scale which is used in the isometric drawing is known as ________",
+        "Options": [
+            "a) simple scale",
+            "b) reducing scale",
+            "c) enlarged scale",
+            "d) isometric scale",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 168,
+        "Question": "The command which is used for drawing isometric grid is _____",
+        "Options": [
+            "a) XLINE",
+            "b) POLYLINE",
+            "c) DDRMODES",
+            "d) CIRCLE",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 169,
+        "Question": "The default spacing in GRID Y is _________ mm.",
+        "Options": [
+            "a) 11",
+            "b) 21",
+            "c) 12",
+            "d) 10",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 170,
+        "Question": "The model which is created by using basic entities of two dimensioning is called __________",
+        "Options": [
+            "a) Surface model",
+            "b) Wire frame model",
+            "c) Solid model",
+            "d) Isometric model",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 171,
+        "Question": "Types of models which is commonly used are ___________",
+        "Options": [
+            "a) Simple model",
+            "b) Composite model",
+            "c) Isometric model",
+            "d) Solid model",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 172,
+        "Question": "In which of the types of wire frame model is used for drawing flat objects?",
+        "Options": [
+            "a) 2D wire frame model",
+            "b) 2.5 wire frame model",
+            "c) 3D wire frame model",
+            "d) Solid model",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 173,
+        "Question": "The __________ form the basis for surface models.",
+        "Options": [
+            "a) surface model",
+            "b) solid model",
+            "c) wire frame model",
+            "d) isometric model",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 174,
+        "Question": "The wire frame entities are _________",
+        "Options": [
+            "a) Plane surface",
+            "b) Ruled surface",
+            "c) Tabulated surface",
+            "d) Polygons",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 175,
+        "Question": "The representation of complex objects which is not be drawn by wire frame model is called as ____________",
+        "Options": [
+            "a) Surface model",
+            "b) Wire frame model",
+            "c) Solid model",
+            "d) Isometric model",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 176,
+        "Question": "The surface model is created by using ___________",
+        "Options": [
+            "a) Analytic entities",
+            "b) Synthetic entities",
+            "c) Analytic and Synthetic entities",
+            "d) Basic entities",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 177,
+        "Question": "What is the basic part of the surface model on which the surface is to be drawn?",
+        "Options": [
+            "a) Ruled",
+            "b) Ruler",
+            "c) Size",
+            "d) Mesh",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 178,
+        "Question": "The basic surface modeling entities are ____________",
+        "Options": [
+            "a) Polygons",
+            "b) Circle",
+            "c) Surface of revolution",
+            "d) Chamfers",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 179,
+        "Question": "The surface which is not to be drawn by the surface model drawn by __________",
+        "Options": [
+            "a) Surface model",
+            "b) Wire frame model",
+            "c) Solid model",
+            "d) Isometric model",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 180,
+        "Question": "For drawing perspective view firstly draw the __________",
+        "Options": [
+            "a) Perspective view",
+            "b) Top view",
+            "c) Side view",
+            "d) Front view",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 181,
+        "Question": "From which of the view we get the piercing point ________",
+        "Options": [
+            "a) Perspective view",
+            "b) Side view",
+            "c) Top view",
+            "d) Front view",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 182,
+        "Question": "We get the vanishing point from _________",
+        "Options": [
+            "a) Perspective view",
+            "b) Side view",
+            "c) Top view",
+            "d) Front view",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 183,
+        "Question": "From which of the point from which we draw the perspective view?",
+        "Options": [
+            "a) horizontal axis",
+            "b) vertical axis",
+            "c) vanishing point",
+            "d) station point",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 184,
+        "Question": "For drawing parallel perspective view we use the _____vanishing point.",
+        "Options": [
+            "a) one",
+            "b) two",
+            "c) three",
+            "d) four",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 185,
+        "Question": "The drawing in which we use the two vanishing point the view is called _________",
+        "Options": [
+            "a) Parallel perspective view",
+            "b) Perpendicular perspective view",
+            "c) Angular perspective view",
+            "d) Perspective view",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 186,
+        "Question": "What is the purpose of RAY command?",
+        "Options": [
+            "a) to draw line between two points",
+            "b) to draw line in the form of rays",
+            "c) to draw line of infinite length in both direction",
+            "d) to draw a line between multiple point",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 187,
+        "Question": "If one specified point P1 first and then point P2, the line passing through P2 to infinity and starting from P1 is called as ________",
+        "Options": [
+            "a) Line",
+            "b) Segment",
+            "c) Ray",
+            "d) 2-point line",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 188,
+        "Question": "If one specifies three nonlinear points P1, P2, P3, the ray passes through _________",
+        "Options": [
+            "a) P1 and P2",
+            "b) P1 and P3",
+            "c) P2 and P3",
+            "d) All three points",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 189,
+        "Question": "RAY icon is shown _______",
+        "Options": [
+            "a) on the draw panel",
+            "b) on the home tab",
+            "c) on the expanded draw panel of the home tab",
+            "d) nowhere",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 190,
+        "Question": "A rivet consists of a cylindrical part called _______",
+        "Options": [
+            "a) head",
+            "b) shank",
+            "c) cylinder",
+            "d) snap",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 191,
+        "Question": "Rivets are usually made of ________",
+        "Options": [
+            "a) cast iron",
+            "b) wrought iron",
+            "c) aluminum",
+            "d) steel",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 192,
+        "Question": "Which of the following is not a type of rivet head?",
+        "Options": [
+            "a) Flat head",
+            "b) Mushroom head",
+            "c) High head",
+            "d) Low head",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 193,
+        "Question": "Shank diameter of the rivet depends upon the ________",
+        "Options": [
+            "a) thickness of the plates to be joined",
+            "b) height of the shank",
+            "c) material of shank",
+            "d) standards of manufacturing",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 194,
+        "Question": "d=6√t is the equation for diameter (d) and thickness (t) when _________",
+        "Options": [
+            "a) d and t are in millimeters",
+            "b) d and t are in inches",
+            "c) d is taken from standard chart and t is calculated",
+            "d) t is taken from standard chart and d is calculated",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 195,
+        "Question": "Rivets of 3 to 10 mm shank diameter size are not used for_______",
+        "Options": [
+            "a) sheet metal",
+            "b) light structural work",
+            "c) heavy steel structure",
+            "d) iron sheets",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 196,
+        "Question": "Size of large rivets varies from _______ shank diameter.",
+        "Options": [
+            "a) 3 to 10 mm",
+            "b) 5 to 20 mm",
+            "c) 10 to 15 mm",
+            "d) 12 to 48 mm",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 197,
+        "Question": "Thickness of the plates to be joined and the type of joint decides the _______ of the rivet needed.",
+        "Options": [
+            "a) type of head",
+            "b) diameter",
+            "c) length",
+            "d) holes",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 198,
+        "Question": "If the volume of the extra length is lesser than the head, the joint may be _________",
+        "Options": [
+            "a) loose",
+            "b) tight",
+            "c) broken",
+            "d) failed",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 199,
+        "Question": "Caulking tool is used for ________ joint.",
+        "Options": [
+            "a) loose",
+            "b) tight",
+            "c) leak-proof",
+            "d) every rivet",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 200,
+        "Question": "According to arrangements of plates, which of the following is not a type of riveted joints?",
+        "Options": [
+            "a) single cover plate butt joint",
+            "b) double cover plate butt joint",
+            "c) lap joint",
+            "d) zigzag joint",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 201,
+        "Question": "When Plate A and Plate B are joined by overlapping each other, the joint is _________",
+        "Options": [
+            "a) lap joint",
+            "b) single cover plate butt joint",
+            "c) double cover plate butt joint",
+            "d) chain joint",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 202,
+        "Question": "What is the purpose to increase the number of rows of rivets?",
+        "Options": [
+            "a) To increase the strength",
+            "b) To make it double riveted joint",
+            "c) To make a suitable design",
+            "d) Reduce the number of rivets in one row",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 203,
+        "Question": "For double riveted butt joint, number of rows of rivet is _______________",
+        "Options": [
+            "a) two",
+            "b) three",
+            "c) four",
+            "d) one",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 204,
+        "Question": "For butt joints, number of cover plates can be ________",
+        "Options": [
+            "a) one only",
+            "b) minimum two",
+            "c) two only",
+            "d) one or two",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 205,
+        "Question": "If one cover plate is used, thickness of cover plate is kept _________ times that of the main plate.",
+        "Options": [
+            "a) 0.75",
+            "b) 1.25",
+            "c) 1.125",
+            "d) 1.5",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 206,
+        "Question": "If the number of rivets in each adjacent row goes on decreasing in subsequent rows towards edge, it is called _________ riveting.",
+        "Options": [
+            "a) diamond",
+            "b) chain",
+            "c) square",
+            "d) zigzag",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 207,
+        "Question": "If the rivets are used along a number of rows such that the rivets in the adjacent rows are placed directly opposite to each other, it is known as _________",
+        "Options": [
+            "a) diamond",
+            "b) chain",
+            "c) square",
+            "d) zigzag",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 208,
+        "Question": "In ________ riveting, the rivets in the adjacent rows are staggered and are placed in between those of the previous row.",
+        "Options": [
+            "a) diamond",
+            "b) chain",
+            "c) square",
+            "d) zigzag",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 209,
+        "Question": "Which of the following structural section is not considered for rivet joints?",
+        "Options": [
+            "a) Tee section",
+            "b) Flat section",
+            "c) I section",
+            "d) Circular section",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 210,
+        "Question": "Explosive rivet is another type of ______ rivet.",
+        "Options": [
+            "a) blind rivet",
+            "b) gusset plates",
+            "c) zigzag riveting",
+            "d) chain riveting",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 211,
+        "Question": "________ is a technique to form a rivet head without access to the other side of the joint.",
+        "Options": [
+            "a) full-tubular riveting",
+            "b) blind riveting",
+            "c) split riveting",
+            "d) flush joint",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 212,
+        "Question": "In explosive rivets, instead of mandrel _______ is used.",
+        "Options": [
+            "a) rod",
+            "b) explosive",
+            "c) breaking type of mandrel",
+            "d) non-breaking type of mandrel",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 213,
+        "Question": "Which type of rivet is used for applications like air-craft?",
+        "Options": [
+            "a) Counter sunk rivet",
+            "b) Blind rivet",
+            "c) Explosive rivet",
+            "d) Flat rivet",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 214,
+        "Question": "For light-work, the rivet size used varies from ______ mm.",
+        "Options": [
+            "a) 4 to 8",
+            "b) 2 to 4",
+            "c) 0 to 3",
+            "d) 3 to 6",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 215,
+        "Question": "L/D ratio for light work applications is kept not more than _______",
+        "Options": [
+            "a) 5:2",
+            "b) 6:1",
+            "c) 4:1",
+            "d) 5:1",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 216,
+        "Question": "In a __________ the body is sawn to produce a prolonged shank.",
+        "Options": [
+            "a) semi-tubular rivet",
+            "b) tubular rivet",
+            "c) split pin rivet",
+            "d) compression rivet",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 217,
+        "Question": "For plastics, the margin (i.e. center of rivet to the edge) is between _______",
+        "Options": [
+            "a) 2d to 4d",
+            "b) 1d to 3d",
+            "c) 2d to 3d",
+            "d) 1d to 2d",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 218,
+        "Question": "Structural drawings are prepared generally to a scale of _______",
+        "Options": [
+            "a) 1:15",
+            "b) 1:20",
+            "c) 1:10",
+            "d) 1:5",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 219,
+        "Question": "When two structural members are joined at an angle, sometimes ________ are used to impart strength and stiffness to the joint.",
+        "Options": [
+            "a) gusset plates",
+            "b) end joints",
+            "c) end cover",
+            "d) cupped end cover",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 220,
+        "Question": "A group of entities, named as BLOCK can be defined as ___________",
+        "Options": [
+            "a) selecting each item",
+            "b) crossing window",
+            "c) a special command",
+            "d) simple windowing",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 221,
+        "Question": "Insertion base point of a block ________",
+        "Options": [
+            "a) has to be at its base",
+            "b) has to be on a specific surface only",
+            "c) should be on the block only",
+            "d) can be anywhere on the block or away from the block",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 222,
+        "Question": "MINSERT command is used to _________",
+        "Options": [
+            "a) make multiple blocks",
+            "b) insert the block in other drawings",
+            "c) insert a block at many places (in an array form)",
+            "d) insert many blocks randomly",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 223,
+        "Question": "EXPLODE command is used to_______",
+        "Options": [
+            "a) erase the drawing parts",
+            "b) break a block into separate entities",
+            "c) remove the enter key of the text command",
+            "d) delete the drawing quickly",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 224,
+        "Question": "Scale factors in the X and Y directions for a block __________",
+        "Options": [
+            "a) can be different without mentioning at the time of saving a block",
+            "b) can be only in a particular ratio",
+            "c) should be the same",
+            "d) can be different if specially mentioned at the time of saving a block",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 225,
+        "Question": "How to retrieve a created and saved BLOCK in other drawings?",
+        "Options": [
+            "a) with insert command",
+            "b) with explode command",
+            "c) with array command",
+            "d) it is not possible to retrieve a created and saved block in other drawings",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 226,
+        "Question": "If a screw thread advances in the nut when turned in a clockwise direction, it is called _________",
+        "Options": [
+            "a) left hand helix",
+            "b) right hand helix",
+            "c) clockwise helix",
+            "d) anticlockwise helix",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 227,
+        "Question": "Threads are classified into V thread, Acme thread, Knuckle thread, etc. on the basis of _________",
+        "Options": [
+            "a) start of threads",
+            "b) hand of helix",
+            "c) profile of the groove",
+            "d) surface",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 228,
+        "Question": "Pitch of the profile depends on the ______",
+        "Options": [
+            "a) nominal diameter",
+            "b) internal diameter",
+            "c) external diameter",
+            "d) mean diameter",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 229,
+        "Question": "Metric threads are not termed as ___________",
+        "Options": [
+            "a) BSW thread",
+            "b) V thread",
+            "c) American thread",
+            "d) Unified thread",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 230,
+        "Question": "Depth of thread is ______ times of pitch in case of British Standard Whitworth Thread.",
+        "Options": [
+            "a) 0.75",
+            "b) 0.64",
+            "c) 0.55",
+            "d) 0.80",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 231,
+        "Question": "Vice used for carpentry work has ______ thread.",
+        "Options": [
+            "a) square",
+            "b) buttress",
+            "c) acme",
+            "d) square",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 232,
+        "Question": "Which of the following option do not specify a knuckle thread?",
+        "Options": [
+            "a) Semi-circular profile of radius 1/4th of pitch",
+            "b) Suitably formed by molding or rolling",
+            "c) Used in sheet metal covers for jars",
+            "d) Transmits power in one direction only",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 233,
+        "Question": "Coarse pitches are used for ____________",
+        "Options": [
+            "a) rough application",
+            "b) general application",
+            "c) precision application",
+            "d) special application",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 234,
+        "Question": "Square threads are used for ________",
+        "Options": [
+            "a) power transmission",
+            "b) clamping devices",
+            "c) easy operation of engagement and disengagement",
+            "d) fastening purpose",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 235,
+        "Question": "__________ is the slight improvement over square thread.",
+        "Options": [
+            "a) Buttress thread",
+            "b) Knuckle thread",
+            "c) Acme thread",
+            "d) BSW thread",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 236,
+        "Question": "A metric thread is designated by _________",
+        "Options": [
+            "a) its profile of the groove",
+            "b) letter M",
+            "c) its hand of the helix",
+            "d) thread profile",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 237,
+        "Question": "What do you mean by M10?",
+        "Options": [
+            "a) Metric thread with a major diameter of 10.00mm and fine pitch",
+            "b) Metric thread with a major diameter of 10.00mm and coarse pitch",
+            "c) Metric thread with a major diameter of 10.00cm and fine pitch",
+            "d) Metric thread with a minor diameter of 10.00mm and coarse pitch",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 238,
+        "Question": "Which thread is denoted by SQ 40*10?",
+        "Options": [
+            "a) Square thread with 40mm major diameter and 10mm pitch",
+            "b) Square thread with 10mm major diameter and 40mm pitch",
+            "c) Metric thread with 40mm major diameter and 10mm pitch",
+            "d) Square thread with 40mm minor diameter and 10mm pitch",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 239,
+        "Question": "If a thread is specified as ‘M 16*1.5 8 g LH DOUBLE’, g stands for ____________",
+        "Options": [
+            "a) type of pitch – coarse",
+            "b) grade",
+            "c) tolerance",
+            "d) hand of the helix",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 240,
+        "Question": "How to specify metric thread with major diameter 45mm, 2mm pitch, grade 7, tolerance grade h (internal thread), right hand double start threaded profile?",
+        "Options": [
+            "a) M 45*2-7-H-RH-DOUBLE",
+            "b) M 45*2-7-h-RH-DOUBLE",
+            "c) M 45*2-7-H-LH-DOUBLE",
+            "d) M 45*7-2-H-RH-DOUBLE",
+            ""
+        ],
+        "Answer": "Answer: c"
+    }
+]

@@ -1,0 +1,1466 @@
+[
+    {
+        "Category": "Interview Preparation",
+        "Title": "1000 C Problems-Algorithms-Solutions",
+        "Link": "https://www.sanfoundry.com/1000-c-algorithms-problems-programming-examples/"
+    },
+    {
+        "Category": "Interview Preparation",
+        "Title": "1000 C++ Problems-Algorithms-Solutions",
+        "Link": "https://www.sanfoundry.com/1000-cpp-algorithms-problems-programming-examples/"
+    },
+    {
+        "Category": "Interview Preparation",
+        "Title": "1000 Java Problems-Algorithms-Solutions",
+        "Link": "https://www.sanfoundry.com/1000-java-algorithms-problems-programming-examples/"
+    },
+    {
+        "Category": "Interview Preparation",
+        "Title": "1000 Data Structures & Algorithms I MCQs",
+        "Link": "https://www.sanfoundry.com/1000-data-structure-questions-answers/"
+    },
+    {
+        "Category": "Interview Preparation",
+        "Title": "1000 Data Structures & Algorithms II MCQs",
+        "Link": "https://www.sanfoundry.com/1000-data-structures-algorithms-ii-questions-answers/"
+    },
+    {
+        "Category": "Interview Preparation",
+        "Title": "1000 Python MCQs",
+        "Link": "https://www.sanfoundry.com/1000-python-questions-answers/"
+    },
+    {
+        "Category": "Interview Preparation",
+        "Title": "1000 C# MCQs",
+        "Link": "https://www.sanfoundry.com/1000-csharp-questions-answers/"
+    },
+    {
+        "Category": "School MCQs",
+        "Title": "1000 Mathematics MCQs – Class 8",
+        "Link": "https://www.sanfoundry.com/1000-mathematics-questions-answers-class-8/"
+    },
+    {
+        "Category": "School MCQs",
+        "Title": "1000 Mathematics MCQs – Class 9",
+        "Link": "https://www.sanfoundry.com/1000-mathematics-questions-answers-class-9/"
+    },
+    {
+        "Category": "School MCQs",
+        "Title": "1000 Mathematics MCQs – Class 10",
+        "Link": "https://www.sanfoundry.com/1000-mathematics-questions-answers-class-10/"
+    },
+    {
+        "Category": "School MCQs",
+        "Title": "1000 Mathematics MCQs – Class 11",
+        "Link": "https://www.sanfoundry.com/1000-mathematics-questions-answers-class-11/"
+    },
+    {
+        "Category": "School MCQs",
+        "Title": "1000 Mathematics MCQs – Class 12",
+        "Link": "https://www.sanfoundry.com/1000-mathematics-questions-answers-class-12/"
+    },
+    {
+        "Category": "School MCQs",
+        "Title": "1000 Physics MCQs – Class 11",
+        "Link": "https://www.sanfoundry.com/1000-physics-questions-answers-class-11/"
+    },
+    {
+        "Category": "School MCQs",
+        "Title": "1000 Physics MCQs – Class 12",
+        "Link": "https://www.sanfoundry.com/1000-physics-questions-answers-class-12/"
+    },
+    {
+        "Category": "School MCQs",
+        "Title": "1000 Chemistry MCQs – Class 11",
+        "Link": "https://www.sanfoundry.com/1000-chemistry-questions-answers-class-11/"
+    },
+    {
+        "Category": "School MCQs",
+        "Title": "1000 Chemistry MCQs – Class 12",
+        "Link": "https://www.sanfoundry.com/1000-chemistry-questions-answers-class-12/"
+    },
+    {
+        "Category": "School MCQs",
+        "Title": "1000 Biology MCQs – Class 11",
+        "Link": "https://www.sanfoundry.com/1000-biology-questions-answers-class-11/"
+    },
+    {
+        "Category": "School MCQs",
+        "Title": "1000 Biology MCQs – Class 12",
+        "Link": "https://www.sanfoundry.com/1000-biology-questions-answers-class-12/"
+    },
+    {
+        "Category": "Interview Preparation",
+        "Title": "1000 Data Structures & Algorithms I MCQs",
+        "Link": "https://www.sanfoundry.com/1000-data-structure-questions-answers/"
+    },
+    {
+        "Category": "Interview Preparation",
+        "Title": "1000 Data Structures & Algorithms II MCQs",
+        "Link": "https://www.sanfoundry.com/1000-data-structures-algorithms-ii-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 Object Oriented Programming MCQs",
+        "Link": "https://www.sanfoundry.com/1000-object-oriented-programming-oops-questions-answers/"
+    },
+    {
+        "Category": "Interview Preparation",
+        "Title": "1000 C# MCQs",
+        "Link": "https://www.sanfoundry.com/1000-csharp-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 JUnit MCQs",
+        "Link": "https://www.sanfoundry.com/1000-junit-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 JavaScript MCQs",
+        "Link": "https://www.sanfoundry.com/1000-javascript-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 Spring MCQs",
+        "Link": "https://www.sanfoundry.com/1000-spring-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 PHP MCQs",
+        "Link": "https://www.sanfoundry.com/1000-php-questions-answers/"
+    },
+    {
+        "Category": "Interview Preparation",
+        "Title": "1000 Python MCQs",
+        "Link": "https://www.sanfoundry.com/1000-python-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 Ruby MCQs",
+        "Link": "https://www.sanfoundry.com/1000-ruby-programming-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 Hadoop MCQs",
+        "Link": "https://www.sanfoundry.com/1000-hadoop-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 R Programming MCQs",
+        "Link": "https://www.sanfoundry.com/1000-r-programming-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 Cloud Computing MCQs",
+        "Link": "https://www.sanfoundry.com/1000-cloud-computing-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 Data Science MCQs",
+        "Link": "https://www.sanfoundry.com/1000-data-science-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 MongoDB MCQs",
+        "Link": "https://www.sanfoundry.com/1000-mongodb-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 SQL Server MCQs",
+        "Link": "https://www.sanfoundry.com/1000-sql-server-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 MySQL MCQs",
+        "Link": "https://www.sanfoundry.com/1000-mysql-database-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 Oracle MCQs",
+        "Link": "https://www.sanfoundry.com/1000-oracle-database-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 HTML MCQs",
+        "Link": "https://www.sanfoundry.com/1000-html-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 CSS MCQs",
+        "Link": "https://www.sanfoundry.com/1000-css-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 IOT MCQs",
+        "Link": "https://www.sanfoundry.com/1000-iot-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 Unix MCQs",
+        "Link": "https://www.sanfoundry.com/1000-unix-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 Computer Fundamentals MCQs",
+        "Link": "https://www.sanfoundry.com/1000-computer-fundamentals-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 Cyber Security MCQs",
+        "Link": "https://www.sanfoundry.com/1000-cyber-security-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 Visual Basic MCQs",
+        "Link": "https://www.sanfoundry.com/1000-visual-basic-questions-answers/"
+    },
+    {
+        "Category": "Interview Preparation",
+        "Title": "1000 Data Structures & Algorithms I MCQs",
+        "Link": "https://www.sanfoundry.com/1000-data-structure-questions-answers/"
+    },
+    {
+        "Category": "Interview Preparation",
+        "Title": "1000 Data Structures & Algorithms II MCQs",
+        "Link": "https://www.sanfoundry.com/1000-data-structures-algorithms-ii-questions-answers/"
+    },
+    {
+        "Category": "Computer Science MCQs",
+        "Title": "1000 Computer Architecture MCQs",
+        "Link": "https://www.sanfoundry.com/1000-computer-organization-architecture-questions-answers/"
+    },
+    {
+        "Category": "Computer Science MCQs",
+        "Title": "1000 Cryptograph & Network Security MCQs",
+        "Link": "https://www.sanfoundry.com/1000-cryptography-network-security-questions-answers/"
+    },
+    {
+        "Category": "Computer Science MCQs",
+        "Title": "1000 Microcontroller MCQs",
+        "Link": "https://www.sanfoundry.com/1000-microcontroller-questions-answers/"
+    },
+    {
+        "Category": "Computer Science MCQs",
+        "Title": "1000 Computer Graphics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-computer-graphics-questions-answers/"
+    },
+    {
+        "Category": "Computer Science MCQs",
+        "Title": "1000 Database Management MCQs",
+        "Link": "https://www.sanfoundry.com/1000-database-management-system-questions-answers/"
+    },
+    {
+        "Category": "Computer Science MCQs",
+        "Title": "1000 RDBMS MCQs",
+        "Link": "https://www.sanfoundry.com/1000-rdbms-questions-answers/"
+    },
+    {
+        "Category": "Computer Science MCQs",
+        "Title": "1000 Discrete Mathematics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-discrete-mathematics-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 Object Oriented Programming MCQs",
+        "Link": "https://www.sanfoundry.com/1000-object-oriented-programming-oops-questions-answers/"
+    },
+    {
+        "Category": "Computer Science MCQs",
+        "Title": "1000 Compiler MCQs",
+        "Link": "https://www.sanfoundry.com/1000-compilers-questions-answers/"
+    },
+    {
+        "Category": "Computer Science MCQs",
+        "Title": "1000 Embedded Systems MCQs",
+        "Link": "https://www.sanfoundry.com/1000-embedded-system-questions-answers/"
+    },
+    {
+        "Category": "Computer Science MCQs",
+        "Title": "1000 Automata Theory MCQs",
+        "Link": "https://www.sanfoundry.com/1000-automata-theory-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 Unix MCQs",
+        "Link": "https://www.sanfoundry.com/1000-unix-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 Computer Fundamentals MCQs",
+        "Link": "https://www.sanfoundry.com/1000-computer-fundamentals-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 Cyber Security MCQs",
+        "Link": "https://www.sanfoundry.com/1000-cyber-security-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 Visual Basic MCQs",
+        "Link": "https://www.sanfoundry.com/1000-visual-basic-questions-answers/"
+    },
+    {
+        "Category": "Basic Engineering Subjects MCQs",
+        "Title": "1000 Engineering Mathematics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-engineering-mathematics-questions-answers/"
+    },
+    {
+        "Category": "Basic Engineering Subjects MCQs",
+        "Title": "1000 Probability and Statistics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-probability-statistics-questions-answers/"
+    },
+    {
+        "Category": "Basic Engineering Subjects MCQs",
+        "Title": "1000 Numerical Methods MCQs",
+        "Link": "https://www.sanfoundry.com/1000-numerical-methods-questions-answers/"
+    },
+    {
+        "Category": "Basic Engineering Subjects MCQs",
+        "Title": "1000 Engineering Physics I MCQs",
+        "Link": "https://www.sanfoundry.com/1000-engineering-physics-questions-answers/"
+    },
+    {
+        "Category": "Basic Engineering Subjects MCQs",
+        "Title": "1000 Engineering Physics II MCQs",
+        "Link": "https://www.sanfoundry.com/1000-engineering-physics-ii-questions-answers/"
+    },
+    {
+        "Category": "Basic Engineering Subjects MCQs",
+        "Title": "1000 Engineering Chemistry I MCQs",
+        "Link": "https://www.sanfoundry.com/1000-engineering-chemistry-questions-answers/"
+    },
+    {
+        "Category": "Basic Engineering Subjects MCQs",
+        "Title": "1000 Engineering Chemistry II MCQs",
+        "Link": "https://www.sanfoundry.com/1000-engineering-chemistry-ii-questions-answers/"
+    },
+    {
+        "Category": "Basic Engineering Subjects MCQs",
+        "Title": "1000 Engineering Mechanics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-engineering-mechanics-questions-answers/"
+    },
+    {
+        "Category": "Basic Engineering Subjects MCQs",
+        "Title": "1000 Engineering Drawing MCQs",
+        "Link": "https://www.sanfoundry.com/1000-engineering-drawing-questions-answers/"
+    },
+    {
+        "Category": "Basic Engineering Subjects MCQs",
+        "Title": "1000 Professional Communication MCQs",
+        "Link": "https://www.sanfoundry.com/1000-professional-communication-questions-answers/"
+    },
+    {
+        "Category": "Basic Engineering Subjects MCQs",
+        "Title": "1000 Basic Electrical Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-basic-electrical-engineering-questions-answers/"
+    },
+    {
+        "Category": "Basic Engineering Subjects MCQs",
+        "Title": "1000 Basic Chemical Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-chemical-engineering-questions-answers/"
+    },
+    {
+        "Category": "Basic Engineering Subjects MCQs",
+        "Title": "1000 Basic Civil Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-basic-civil-engineering-questions-answers/"
+    },
+    {
+        "Category": "Basic Engineering Subjects MCQs",
+        "Title": "1000 Applied Chemistry MCQs",
+        "Link": "https://www.sanfoundry.com/1000-applied-chemistry-questions-answers/"
+    },
+    {
+        "Category": "Basic Engineering Subjects MCQs",
+        "Title": "1000 Basic Chemical Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-chemical-engineering-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Chemical Technology MCQs",
+        "Link": "https://www.sanfoundry.com/1000-chemical-technology-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Heat Transfer MCQs",
+        "Link": "https://www.sanfoundry.com/1000-heat-transfer-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Mass Transfer MCQs",
+        "Link": "https://www.sanfoundry.com/1000-mass-transfer-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Heat Transfer Operations MCQs",
+        "Link": "https://www.sanfoundry.com/1000-heat-transfer-operations-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Polymer Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-polymer-engineering-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Unit Processes MCQs",
+        "Link": "https://www.sanfoundry.com/1000-unit-processes-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Separation Processes MCQs",
+        "Link": "https://www.sanfoundry.com/1000-separation-processes-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Mechanical Operations MCQs",
+        "Link": "https://www.sanfoundry.com/1000-mechanical-operations-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Distillation Design MCQs",
+        "Link": "https://www.sanfoundry.com/1000-distillation-design-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Pulp & Paper MCQs",
+        "Link": "https://www.sanfoundry.com/1000-pulp-paper-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Food Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-food-engineering-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Thermodynamics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-thermodynamics-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Thermal Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-thermal-engineering-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Chemical Process Calculation MCQs",
+        "Link": "https://www.sanfoundry.com/1000-chemical-process-calculation-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Chemical Reaction Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-chemical-reaction-engineering-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Organic Chemistry MCQs",
+        "Link": "https://www.sanfoundry.com/1000-organic-chemistry-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Materials Science MCQs",
+        "Link": "https://www.sanfoundry.com/1000-materials-science-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Fluidization Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-fluidization-engineering-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Civil Engineering Drawing MCQs",
+        "Link": "https://www.sanfoundry.com/1000-civil-engineering-drawing-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Fermentation Technology MCQs",
+        "Link": "https://www.sanfoundry.com/1000-fermentation-technology-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Computational Fluid Dynamics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-computational-fluid-dynamics-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Renewable Energy MCQs",
+        "Link": "https://www.sanfoundry.com/1000-renewable-energy-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Petroleum Production Operations MCQs",
+        "Link": "https://www.sanfoundry.com/1000-petroleum-production-operations-questions-answers/"
+    },
+    {
+        "Category": "Basic Engineering Subjects MCQs",
+        "Title": "1000 Basic Electrical Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-basic-electrical-engineering-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Electric Circuits MCQs",
+        "Link": "https://www.sanfoundry.com/1000-electric-circuits-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Electric Drives MCQs",
+        "Link": "https://www.sanfoundry.com/1000-electric-drives-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Digital Signal Processing MCQs",
+        "Link": "https://www.sanfoundry.com/1000-digital-signal-processing-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Digital Communications MCQs",
+        "Link": "https://www.sanfoundry.com/1000-digital-communications-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Linear Integrated Circuits MCQs",
+        "Link": "https://www.sanfoundry.com/1000-linear-integrated-circuits-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Digital Image Processing MCQs",
+        "Link": "https://www.sanfoundry.com/1000-digital-image-processing-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Electrical Machines MCQs",
+        "Link": "https://www.sanfoundry.com/1000-electrical-machines-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Design of Electrical Machines MCQs",
+        "Link": "https://www.sanfoundry.com/1000-design-electrical-machines-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Electromagnetic Theory MCQs",
+        "Link": "https://www.sanfoundry.com/1000-electromagnetic-theory-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Power Systems MCQs",
+        "Link": "https://www.sanfoundry.com/1000-power-systems-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Power Electronics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-power-electronics-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Network Theory MCQs",
+        "Link": "https://www.sanfoundry.com/1000-network-theory-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Signals and Systems MCQs",
+        "Link": "https://www.sanfoundry.com/1000-signals-systems-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 VLSI MCQs",
+        "Link": "https://www.sanfoundry.com/1000-vlsi-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Control Systems MCQs",
+        "Link": "https://www.sanfoundry.com/1000-control-systems-questions-answers/"
+    },
+    {
+        "Category": "Computer Science MCQs",
+        "Title": "1000 Embedded Systems MCQs",
+        "Link": "https://www.sanfoundry.com/1000-embedded-system-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Microwave Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-microwave-engineering-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Digital Circuits MCQs",
+        "Link": "https://www.sanfoundry.com/1000-digital-circuits-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Analog Circuits MCQs",
+        "Link": "https://www.sanfoundry.com/1000-analog-circuits-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Electronic Devices & Circuits MCQs",
+        "Link": "https://www.sanfoundry.com/1000-electronic-devices-circuits-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Neural Networks MCQs",
+        "Link": "https://www.sanfoundry.com/1000-neural-networks-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Optical Communication MCQs",
+        "Link": "https://www.sanfoundry.com/1000-optical-communications-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Electrical Measurements MCQs",
+        "Link": "https://www.sanfoundry.com/1000-electrical-measurements-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 DC Machines MCQs",
+        "Link": "https://www.sanfoundry.com/1000-dc-machines-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Transformers MCQs",
+        "Link": "https://www.sanfoundry.com/1000-transformers-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Analog Communications MCQs",
+        "Link": "https://www.sanfoundry.com/1000-analog-communications-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Biomedical Instrumentation MCQs",
+        "Link": "https://www.sanfoundry.com/1000-biomedical-instrumentation-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Wireless/Mobile MCQs",
+        "Link": "https://www.sanfoundry.com/1000-wireless-mobile-communications-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 VHDL MCQs",
+        "Link": "https://www.sanfoundry.com/1000-vhdl-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 MATLAB MCQs",
+        "Link": "https://www.sanfoundry.com/1000-matlab-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Mechatronics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-mechatronics-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Renewable Energy MCQs",
+        "Link": "https://www.sanfoundry.com/1000-renewable-energy-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Antennas MCQs",
+        "Link": "https://www.sanfoundry.com/1000-antennas-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Cognitive Radio MCQs",
+        "Link": "https://www.sanfoundry.com/1000-cognitive-radio-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Total Quality Management MCQs",
+        "Link": "https://www.sanfoundry.com/1000-total-quality-management-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Arduino MCQs",
+        "Link": "https://www.sanfoundry.com/1000-arduino-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Food Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-food-engineering-questions-answers/"
+    },
+    {
+        "Category": "Agricultural Engineering MCQs",
+        "Title": "1000 Dairy Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-dairy-engineering-questions-answers/"
+    },
+    {
+        "Category": "Agricultural Engineering MCQs",
+        "Title": "1000 Farm Machinery MCQs",
+        "Link": "https://www.sanfoundry.com/1000-farm-machinery-questions-answers/"
+    },
+    {
+        "Category": "Agricultural Engineering MCQs",
+        "Title": "1000 Food Processing Unit Operations MCQs",
+        "Link": "https://www.sanfoundry.com/1000-food-processing-unit-operations-questions-answers/"
+    },
+    {
+        "Category": "Agricultural Engineering MCQs",
+        "Title": "1000 Strength of Materials MCQs",
+        "Link": "https://www.sanfoundry.com/1000-strength-materials-questions-answers/"
+    },
+    {
+        "Category": "Agricultural Engineering MCQs",
+        "Title": "1000 Theory of Machines MCQs",
+        "Link": "https://www.sanfoundry.com/1000-theory-machines-questions-answers/"
+    },
+    {
+        "Category": "Agricultural Engineering MCQs",
+        "Title": "1000 Irrigation Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-irrigation-engineering-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Renewable Energy MCQs",
+        "Link": "https://www.sanfoundry.com/1000-renewable-energy-questions-answers/"
+    },
+    {
+        "Category": "Agricultural Engineering MCQs",
+        "Title": "1000 Refrigeration & Air Conditioning MCQs",
+        "Link": "https://www.sanfoundry.com/1000-refrigeration-air-conditioning-questions-answers/"
+    },
+    {
+        "Category": "Agricultural Engineering MCQs",
+        "Title": "1000 Food Packaging Technology MCQs",
+        "Link": "https://www.sanfoundry.com/1000-food-packaging-technology-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Avionics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-avionics-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Aerodynamics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-aerodynamics-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Aircraft Design MCQs",
+        "Link": "https://www.sanfoundry.com/1000-aircraft-design-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Aircraft Maintenance MCQs",
+        "Link": "https://www.sanfoundry.com/1000-aircraft-maintenance-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Aircraft Performance MCQs",
+        "Link": "https://www.sanfoundry.com/1000-aircraft-performance-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Rocket Propulsion MCQs",
+        "Link": "https://www.sanfoundry.com/1000-rocket-propulsion-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Aerospace Materials & Processes MCQs",
+        "Link": "https://www.sanfoundry.com/1000-aerospace-materials-processes-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Thermodynamics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-thermodynamics-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Fluid Mechanics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-fluid-mechanics-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Hydraulic Machines MCQs",
+        "Link": "https://www.sanfoundry.com/1000-hydraulic-machines-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Neural Networks MCQs",
+        "Link": "https://www.sanfoundry.com/1000-neural-networks-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Machine Design MCQs",
+        "Link": "https://www.sanfoundry.com/1000-machine-design-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Machine Drawing MCQs",
+        "Link": "https://www.sanfoundry.com/1000-machine-drawing-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Machine Dynamics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-machine-dynamics-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Machine Kinematics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-machine-kinematics-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Manufacturing Engineering I MCQs",
+        "Link": "https://www.sanfoundry.com/1000-manufacturing-engineering-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Manufacturing Engineering II MCQs",
+        "Link": "https://www.sanfoundry.com/1000-manufacturing-engineering-ii-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Computational Fluid Dynamics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-computational-fluid-dynamics-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Mechatronics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-mechatronics-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Total Quality Management MCQs",
+        "Link": "https://www.sanfoundry.com/1000-total-quality-management-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Finite Element Method MCQs",
+        "Link": "https://www.sanfoundry.com/1000-finite-element-method-questions-answers/"
+    },
+    {
+        "Category": "Basic Engineering Subjects MCQs",
+        "Title": "1000 Basic Civil Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-basic-civil-engineering-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Geotechnical Engineering I MCQs",
+        "Link": "https://www.sanfoundry.com/1000-geotechnical-engineering-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Geotechnical Engineering II MCQs",
+        "Link": "https://www.sanfoundry.com/1000-geotechnical-engineering-ii-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Soil Mechanics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-geotechnical-engineering-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Foundation Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-geotechnical-engineering-ii-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Engineering Geology MCQs",
+        "Link": "https://www.sanfoundry.com/1000-engineering-geology-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Environmental Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-environmental-engineering-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Railway Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-railway-engineering-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Highway Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-highway-engineering-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Pavement Design MCQs",
+        "Link": "https://www.sanfoundry.com/1000-pavement-design-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Structural Analysis MCQs",
+        "Link": "https://www.sanfoundry.com/1000-structural-analysis-questions-answers/"
+    },
+    {
+        "Category": "Agricultural Engineering MCQs",
+        "Title": "1000 Strength of Materials MCQs",
+        "Link": "https://www.sanfoundry.com/1000-strength-materials-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Construction & Building Materials MCQs",
+        "Link": "https://www.sanfoundry.com/1000-construction-building-materials-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Concrete Technology MCQs",
+        "Link": "https://www.sanfoundry.com/1000-concrete-technology-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Prestressed Concrete Structures MCQs",
+        "Link": "https://www.sanfoundry.com/1000-prestressed-concrete-structures-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Design of Steel Structures MCQs",
+        "Link": "https://www.sanfoundry.com/1000-design-steel-structures-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Hazardous Waste Management MCQs",
+        "Link": "https://www.sanfoundry.com/1000-hazardous-waste-management-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Fluid Mechanics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-fluid-mechanics-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Hydraulic Machines MCQs",
+        "Link": "https://www.sanfoundry.com/1000-hydraulic-machines-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Civil Engineering Drawing MCQs",
+        "Link": "https://www.sanfoundry.com/1000-civil-engineering-drawing-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Waste Water Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-waste-water-engineering-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Surveying MCQs",
+        "Link": "https://www.sanfoundry.com/1000-surveying-questions-answers/"
+    },
+    {
+        "Category": "Agricultural Engineering MCQs",
+        "Title": "1000 Irrigation Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-irrigation-engineering-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Finite Element Method MCQs",
+        "Link": "https://www.sanfoundry.com/1000-finite-element-method-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Traffic Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-traffic-engineering-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Environmental Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-environmental-engineering-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Thermodynamics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-thermodynamics-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Engineering Geology MCQs",
+        "Link": "https://www.sanfoundry.com/1000-engineering-geology-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Soil Mechanics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-geotechnical-engineering-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Foundation Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-geotechnical-engineering-ii-questions-answers/"
+    },
+    {
+        "Category": "Computer Science MCQs",
+        "Title": "1000 Computer Graphics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-computer-graphics-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Casting-Forming-Welding I MCQs",
+        "Link": "https://www.sanfoundry.com/1000-casting-forming-welding-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Casting-Forming-Welding II MCQs",
+        "Link": "https://www.sanfoundry.com/1000-casting-forming-welding-ii-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Machine Tools MCQs",
+        "Link": "https://www.sanfoundry.com/1000-machine-tools-matching-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Machine Design MCQs",
+        "Link": "https://www.sanfoundry.com/1000-machine-design-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Machine Drawing MCQs",
+        "Link": "https://www.sanfoundry.com/1000-machine-drawing-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Advanced Machining MCQs",
+        "Link": "https://www.sanfoundry.com/1000-advanced-machining-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Fluid Mechanics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-fluid-mechanics-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Hydraulic Machines MCQs",
+        "Link": "https://www.sanfoundry.com/1000-hydraulic-machines-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 IC Engine MCQs",
+        "Link": "https://www.sanfoundry.com/1000-ic-engine-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Thermodynamics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-thermodynamics-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Thermal Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-thermal-engineering-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Heat Transfer MCQs",
+        "Link": "https://www.sanfoundry.com/1000-heat-transfer-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Mass Transfer MCQs",
+        "Link": "https://www.sanfoundry.com/1000-mass-transfer-questions-answers//"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Manufacturing Engineering I MCQs",
+        "Link": "https://www.sanfoundry.com/1000-manufacturing-engineering-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Manufacturing Engineering II MCQs",
+        "Link": "https://www.sanfoundry.com/1000-manufacturing-engineering-ii-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Power Plant Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-power-plant-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Machine Dynamics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-machine-dynamics-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Machine Kinematics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-machine-kinematics-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Steam and Gas Turbines MCQs",
+        "Link": "https://www.sanfoundry.com/1000-steam-gas-turbines-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Automobile Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-automobile-engineering-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Materials Science MCQs",
+        "Link": "https://www.sanfoundry.com/1000-materials-science-questions-answers/"
+    },
+    {
+        "Category": "Agricultural Engineering MCQs",
+        "Title": "1000 Strength of Materials MCQs",
+        "Link": "https://www.sanfoundry.com/1000-strength-materials-questions-answers/"
+    },
+    {
+        "Category": "Agricultural Engineering MCQs",
+        "Title": "1000 Theory of Machines MCQs",
+        "Link": "https://www.sanfoundry.com/1000-theory-machines-questions-answers/"
+    },
+    {
+        "Category": "Basic Engineering Subjects MCQs",
+        "Title": "1000 Engineering Drawing MCQs",
+        "Link": "https://www.sanfoundry.com/1000-engineering-drawing-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Energy Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-energy-engineering-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Energy Management MCQs",
+        "Link": "https://www.sanfoundry.com/1000-energy-environment-management-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Statistical Quality Control MCQs",
+        "Link": "https://www.sanfoundry.com/1000-statistical-quality-control-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Engineering Metrology MCQs",
+        "Link": "https://www.sanfoundry.com/1000-engineering-metrology-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Corrosion Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-corrosion-engineering-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Foundry and Forging MCQs",
+        "Link": "https://www.sanfoundry.com/1000-foundry-forging-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Computational Fluid Dynamics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-computational-fluid-dynamics-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Renewable Energy MCQs",
+        "Link": "https://www.sanfoundry.com/1000-renewable-energy-questions-answers/"
+    },
+    {
+        "Category": "Agricultural Engineering MCQs",
+        "Title": "1000 Refrigeration & Air Conditioning MCQs",
+        "Link": "https://www.sanfoundry.com/1000-refrigeration-air-conditioning-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Total Quality Management MCQs",
+        "Link": "https://www.sanfoundry.com/1000-total-quality-management-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Finite Element Method MCQs",
+        "Link": "https://www.sanfoundry.com/1000-finite-element-method-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Automotive Engine Design MCQs",
+        "Link": "https://www.sanfoundry.com/1000-automotive-engine-design-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Phase Transformation MCQs",
+        "Link": "https://www.sanfoundry.com/1000-phase-transformation-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Powder Metallurgy MCQs",
+        "Link": "https://www.sanfoundry.com/1000-powder-metallurgy-questions-answers/"
+    },
+    {
+        "Category": "Metallurgical Engineering MCQs",
+        "Title": "1000 Engineering Material & Metallurgy MCQs",
+        "Link": "https://www.sanfoundry.com/1000-engineering-materials-metallurgy-questions-answers/"
+    },
+    {
+        "Category": "Metallurgical Engineering MCQs",
+        "Title": "1000 Mechanical Metallurgy MCQs",
+        "Link": "https://www.sanfoundry.com/1000-mechanical-metallurgy-questions-answers/"
+    },
+    {
+        "Category": "Metallurgical Engineering MCQs",
+        "Title": "1000 Mechanical Behaviour MCQs",
+        "Link": "https://www.sanfoundry.com/1000-mechanical-behaviour-testing-materials-questions-answers/"
+    },
+    {
+        "Category": "Metallurgical Engineering MCQs",
+        "Title": "1000 Testing of Materials MCQs",
+        "Link": "https://www.sanfoundry.com/1000-mechanical-behaviour-testing-materials-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Corrosion Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-corrosion-engineering-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Machine Design MCQs",
+        "Link": "https://www.sanfoundry.com/1000-machine-design-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Machine Drawing MCQs",
+        "Link": "https://www.sanfoundry.com/1000-machine-drawing-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Manufacturing Engineering I MCQs",
+        "Link": "https://www.sanfoundry.com/1000-manufacturing-engineering-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Manufacturing Engineering II MCQs",
+        "Link": "https://www.sanfoundry.com/1000-manufacturing-engineering-ii-questions-answers/"
+    },
+    {
+        "Category": "Agricultural Engineering MCQs",
+        "Title": "1000 Strength of Materials MCQs",
+        "Link": "https://www.sanfoundry.com/1000-strength-materials-questions-answers/"
+    },
+    {
+        "Category": "Basic Engineering Subjects MCQs",
+        "Title": "1000 Engineering Drawing MCQs",
+        "Link": "https://www.sanfoundry.com/1000-engineering-drawing-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Casting-Forming-Welding I MCQs",
+        "Link": "https://www.sanfoundry.com/1000-casting-forming-welding-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Casting-Forming-Welding II MCQs",
+        "Link": "https://www.sanfoundry.com/1000-casting-forming-welding-ii-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Materials Science MCQs",
+        "Link": "https://www.sanfoundry.com/1000-materials-science-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Foundry and Forging MCQs",
+        "Link": "https://www.sanfoundry.com/1000-foundry-forging-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Aerospace Materials & Processes MCQs",
+        "Link": "https://www.sanfoundry.com/1000-aerospace-materials-processes-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Phase Transformation MCQs",
+        "Link": "https://www.sanfoundry.com/1000-phase-transformation-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Powder Metallurgy MCQs",
+        "Link": "https://www.sanfoundry.com/1000-powder-metallurgy-questions-answers/"
+    },
+    {
+        "Category": "Biotech Engineering MCQs",
+        "Title": "1000 Genetic Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-genetic-engineering-questions-answers/"
+    },
+    {
+        "Category": "Biotech Engineering MCQs",
+        "Title": "1000 Biochemistry MCQs",
+        "Link": "https://www.sanfoundry.com/1000-biochemistry-questions-answers/"
+    },
+    {
+        "Category": "Biotech Engineering MCQs",
+        "Title": "1000 Bioinformatics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-bioinformatics-questions-answers/"
+    },
+    {
+        "Category": "Biotech Engineering MCQs",
+        "Title": "1000 Bioprocess Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-bioprocess-engineering-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Chemical Reaction Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-chemical-reaction-engineering-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Energy Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-energy-engineering-questions-answers/"
+    },
+    {
+        "Category": "Biotech Engineering MCQs",
+        "Title": "1000 Molecular Biology MCQs",
+        "Link": "https://www.sanfoundry.com/1000-molecular-biology-questions-answers/"
+    },
+    {
+        "Category": "Biotech Engineering MCQs",
+        "Title": "1000 Microbiology MCQs",
+        "Link": "https://www.sanfoundry.com/1000-microbiology-questions-answers/"
+    },
+    {
+        "Category": "Biotech Engineering MCQs",
+        "Title": "1000 Cytogenetics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-cytogenetics-questions-answers/"
+    },
+    {
+        "Category": "Biotech Engineering MCQs",
+        "Title": "1000 Clinical Science MCQs",
+        "Link": "https://www.sanfoundry.com/1000-clinical-science-questions-answers/"
+    },
+    {
+        "Category": "Biotech Engineering MCQs",
+        "Title": "1000 Vector Biology MCQs",
+        "Link": "https://www.sanfoundry.com/1000-vector-biology-gene-manipulation-questions-answers/"
+    },
+    {
+        "Category": "Biotech Engineering MCQs",
+        "Title": "1000 Life Sciences MCQs",
+        "Link": "https://www.sanfoundry.com/1000-life-sciences-questions-answers/"
+    },
+    {
+        "Category": "Biotech Engineering MCQs",
+        "Title": "1000 Solid State Chemistry MCQs",
+        "Link": "https://www.sanfoundry.com/1000-solid-state-chemistry-questions-answers/"
+    },
+    {
+        "Category": "Biotech Engineering MCQs",
+        "Title": "1000 Human Anatomy and Physiology MCQs",
+        "Link": "https://www.sanfoundry.com/1000-human-anatomy-physiology-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Fermentation Technology MCQs",
+        "Link": "https://www.sanfoundry.com/1000-fermentation-technology-questions-answers/"
+    },
+    {
+        "Category": "Biotech Engineering MCQs",
+        "Title": "1000 Drug Biotechnology MCQs",
+        "Link": "https://www.sanfoundry.com/1000-drug-pharmaceutical-biotechnology-questions-answers/"
+    },
+    {
+        "Category": "Biotech Engineering MCQs",
+        "Title": "1000 Cell Biology MCQs",
+        "Link": "https://www.sanfoundry.com/1000-cell-biology-questions-answers/"
+    },
+    {
+        "Category": "Biotech Engineering MCQs",
+        "Title": "1000 Enzyme Technology MCQs",
+        "Link": "https://www.sanfoundry.com/1000-enzyme-technology-questions-answers/"
+    },
+    {
+        "Category": "Biotech Engineering MCQs",
+        "Title": "1000 Protein Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-protein-engineering-questions-answers/"
+    },
+    {
+        "Category": "Biotech Engineering MCQs",
+        "Title": "1000 Tissue Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-tissue-engineering-questions-answers/"
+    },
+    {
+        "Category": "Biotech Engineering MCQs",
+        "Title": "1000 Environmental Biotechnology MCQs",
+        "Link": "https://www.sanfoundry.com/1000-environmental-biotechnology-questions-answers/"
+    },
+    {
+        "Category": "Biotech Engineering MCQs",
+        "Title": "1000 Virology MCQs",
+        "Link": "https://www.sanfoundry.com/1000-virology-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Electrical Machines MCQs",
+        "Link": "https://www.sanfoundry.com/1000-electrical-machines-questions-answers/"
+    },
+    {
+        "Category": "Civil Engineering MCQs",
+        "Title": "1000 Environmental Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-environmental-engineering-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Fluid Mechanics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-fluid-mechanics-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Steam and Gas Turbines MCQs",
+        "Link": "https://www.sanfoundry.com/1000-steam-gas-turbines-questions-answers/"
+    },
+    {
+        "Category": "Mechanical Engineering MCQs",
+        "Title": "1000 Power Plant Engineering MCQs",
+        "Link": "https://www.sanfoundry.com/1000-power-plant-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Thermodynamics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-thermodynamics-questions-answers/"
+    },
+    {
+        "Category": "Aerospace & Aeronautical MCQs",
+        "Title": "1000 Hydraulic Machines MCQs",
+        "Link": "https://www.sanfoundry.com/1000-hydraulic-machines-questions-answers/"
+    },
+    {
+        "Category": "Programming & IT MCQs",
+        "Title": "1000 Computer Fundamentals MCQs",
+        "Link": "https://www.sanfoundry.com/1000-computer-fundamentals-questions-answers/"
+    },
+    {
+        "Category": "Chemical Engineering MCQs",
+        "Title": "1000 Renewable Energy MCQs",
+        "Link": "https://www.sanfoundry.com/1000-renewable-energy-questions-answers/"
+    },
+    {
+        "Category": "Agricultural Engineering MCQs",
+        "Title": "1000 Refrigeration & Air Conditioning MCQs",
+        "Link": "https://www.sanfoundry.com/1000-refrigeration-air-conditioning-questions-answers/"
+    },
+    {
+        "Category": "Instrumentation Engineering MCQs",
+        "Title": "1000 Analytical Instrumentation MCQs",
+        "Link": "https://www.sanfoundry.com/1000-analytical-instrumentation-questions-answers/"
+    },
+    {
+        "Category": "Instrumentation Engineering MCQs",
+        "Title": "1000 Instrumentation Transducers MCQs",
+        "Link": "https://www.sanfoundry.com/1000-instrumentation-transducers-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Electrical Measurements MCQs",
+        "Link": "https://www.sanfoundry.com/1000-electrical-measurements-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Analog Communications MCQs",
+        "Link": "https://www.sanfoundry.com/1000-analog-communications-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Biomedical Instrumentation MCQs",
+        "Link": "https://www.sanfoundry.com/1000-biomedical-instrumentation-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Electric Drives MCQs",
+        "Link": "https://www.sanfoundry.com/1000-electric-drives-questions-answers/"
+    },
+    {
+        "Category": "Electronics & Electrical MCQs",
+        "Title": "1000 Mechatronics MCQs",
+        "Link": "https://www.sanfoundry.com/1000-mechatronics-questions-answers/"
+    },
+    {
+        "Title": "Linux Commands Tutorials",
+        "Link": "https://www.sanfoundry.com/1000-linux-command-tutorials/"
+    }
+]

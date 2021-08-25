@@ -1,0 +1,4994 @@
+[
+    {
+        "id": 1,
+        "Question": "The property of being liquefied due to heat is known as ______",
+        "Options": [
+            "a) stress",
+            "b) contraction",
+            "c) normalizing",
+            "d) fusibility",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 2,
+        "Question": "Which of the following property of a material is preferred in the construction of an aircraft?",
+        "Options": [
+            "a) Ductility",
+            "b) Elasticity",
+            "c) Hardness",
+            "d) High density",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 3,
+        "Question": "What is the temperature at which steel fuses?",
+        "Options": [
+            "a) 1100°F",
+            "b) 200K",
+            "c) 2500°F",
+            "d) 3500°F",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 4,
+        "Question": "Why do metals contract and expand?",
+        "Options": [
+            "a) Due to cooling and heating",
+            "b) Due to displacement",
+            "c) Due to repairs",
+            "d) Due to false recognition",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 5,
+        "Question": "A material elongated to 35m due to certain conditions. If it’s initial length is 7m, what is the strain of the material?",
+        "Options": [
+            "a) 21m",
+            "b) 5m",
+            "c) 7m",
+            "d) 35m",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 6,
+        "Question": "The tendency of a material to fracture without changing it’s shape is known as ______",
+        "Options": [
+            "a) brittleness",
+            "b) hardness",
+            "c) elasticity",
+            "d) carburizing",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 7,
+        "Question": "If a material is loaded beyond its elastic limit _________",
+        "Options": [
+            "a) it returns back to it’s original shape",
+            "b) it acquires softness",
+            "c) it is permanently distorted",
+            "d) it turns to liquid",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 8,
+        "Question": "The property of a material involving transmitting of heat or electricity is known as _________",
+        "Options": [
+            "a) expansion",
+            "b) stress",
+            "c) contraction",
+            "d) conduction",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 9,
+        "Question": "The load obtained in a tension test is 500N and the original cross sectional area is 250m2 what is the tensile strength of the material?",
+        "Options": [
+            "a) 5 m",
+            "b) 25 N/m2",
+            "c) 2 N/m2",
+            "d) 20 m",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 10,
+        "Question": "The modulus of elasticity of a material can be described as ________",
+        "Options": [
+            "a) the product of stress and strain",
+            "b) the ratio of stress to strain",
+            "c) the product of yield point and strain",
+            "d) the ratio of change in length to original length",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 11,
+        "Question": "The ability of a material to resist permanent distortion or penetration is called as _______",
+        "Options": [
+            "a) hardness",
+            "b) yield point",
+            "c) malleability",
+            "d) elongation",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 12,
+        "Question": "What is the total permissible elongation for a gage length of 5.08cm?",
+        "Options": [
+            "a) 5080 cm",
+            "b) 0.00508 cm",
+            "c) 0.508 cm",
+            "d) 0.000508 cm",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 13,
+        "Question": "What is the effect of heat treatment on a metal?",
+        "Options": [
+            "a) Improvement in availability",
+            "b) Improved physical properties",
+            "c) Decreased color",
+            "d) Decreased availability",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 14,
+        "Question": "Carburizing is ideally carried out on steels that have less than __________ carbon content.",
+        "Options": [
+            "a) 90%",
+            "b) 50%",
+            "c) 10%",
+            "d) 25%",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 15,
+        "Question": "Annealing a metal ________ its internal strains.",
+        "Options": [
+            "a) doesn’t affect",
+            "b) removes",
+            "c) increases",
+            "d) doubles",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 16,
+        "Question": "Casehardening refers to _________ the material, after which necessary heat treatment is done to it.",
+        "Options": [
+            "a) annealing",
+            "b) critical range",
+            "c) carburizing",
+            "d) hardening",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 17,
+        "Question": "In the process of hardening of steel, the metal has to be heated to a temperature ______ the critical range.",
+        "Options": [
+            "a) below",
+            "b) half",
+            "c) above",
+            "d) around",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 18,
+        "Question": "In the process of the hardening of aluminum alloys, what is the temperature above which it should be heated?",
+        "Options": [
+            "a) 1200°F",
+            "b) 600°F",
+            "c) 2400°F",
+            "d) 900°F",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 19,
+        "Question": "Which heat treatment method is also called as “drawing”?",
+        "Options": [
+            "a) Tempering",
+            "b) Casehardening",
+            "c) Annealing",
+            "d) Normalizing",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 20,
+        "Question": "The critical range of steel is between ______",
+        "Options": [
+            "a) 1300°F and 1600°F",
+            "b) 2400°F and 2600°F",
+            "c) 900°F and 2800°F",
+            "d) 900°F and 2400°F",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 21,
+        "Question": "Materials with ______________ are typically used in aircraft construction.",
+        "Options": [
+            "a) no strain",
+            "b) lower strength/weight ratio",
+            "c) average strength/weight ratio",
+            "d) higher strength/weight ratio",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 22,
+        "Question": "Which of the following is not a property of aluminium that makes it ideal to use as an aircraft material?",
+        "Options": [
+            "a) Resistance to corrosion",
+            "b) Light in weight",
+            "c) High fuel consumption",
+            "d) High strength alloy",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 23,
+        "Question": "Which of the following methods would be helpful if a material that is not resistant to corrosion is used?",
+        "Options": [
+            "a) Painting a protective layer",
+            "b) Heating to 10°F",
+            "c) Increase the quantity of material",
+            "d) Disjoining",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 24,
+        "Question": "Why is low thermal conductivity important for aircraft systems?",
+        "Options": [
+            "a) To increase the strength of the material",
+            "b) To protect from excessive heating",
+            "c) To keep aircraft warm for passengers",
+            "d) For oxygen",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 25,
+        "Question": "What is fatigue strength?",
+        "Options": [
+            "a) Strength/weight ratio",
+            "b) Elasticity",
+            "c) Resistance to cyclical stress",
+            "d) Strain energy",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 26,
+        "Question": "What does a good working property of material mean?",
+        "Options": [
+            "a) To have high strength",
+            "b) To be able to bend or machine the material in the desired shape",
+            "c) To have a corrosive nature",
+            "d) To ability to join the material in the desired shape",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 27,
+        "Question": "Which of the following is a mechanical property of materials?",
+        "Options": [
+            "a) Color",
+            "b) Appearance",
+            "c) Reliability",
+            "d) Elasticity",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 28,
+        "Question": "An aircraft material should be resistant to ______________",
+        "Options": [
+            "a) join",
+            "b) work",
+            "c) shock loads",
+            "d) strength",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 29,
+        "Question": "Why is the reliability of a material an important property?",
+        "Options": [
+            "a) To maintain material cost",
+            "b) To maintain the quality of material",
+            "c) To obtain old stock material",
+            "d) To consider supplementary material",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 30,
+        "Question": "Which of the following is an economic consideration of a material?",
+        "Options": [
+            "a) Structure",
+            "b) Appearance",
+            "c) Availability",
+            "d) Strain",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 31,
+        "Question": "What is a supplementary operation requirement?",
+        "Options": [
+            "a) The availability of extra material if the original material is damaged",
+            "b) A material that requires supplementary operations to be used in manufacturing",
+            "c) The operations that are not necessary to perform",
+            "d) Operations that have to be avoided",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 32,
+        "Question": "Which of the following is a technological factor of materials?",
+        "Options": [
+            "a) Castability",
+            "b) Melting point",
+            "c) Availability",
+            "d) Stress",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 33,
+        "Question": "The dimension of material is considered to be a _____________ property.",
+        "Options": [
+            "a) physical",
+            "b) technological",
+            "c) mechanical",
+            "d) economic",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 34,
+        "Question": "What is the foamability of a material?",
+        "Options": [
+            "a) The act of increasing the amount of material",
+            "b) The ability to make a soldered joint",
+            "c) Anti-foaming agents in a material",
+            "d) The amount of capability to produce foam",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 35,
+        "Question": "Is the standardization of materials advantageous?",
+        "Options": [
+            "a) No, it is harmful to the aircraft",
+            "b) Only for the wheels of the aircraft",
+            "c) Yes, it is advantageous",
+            "d) It has never been done before",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 36,
+        "Question": "Which of the following factors is least considered in the selection of materials for aircraft construction?",
+        "Options": [
+            "a) Color",
+            "b) Melting point",
+            "c) Weldability",
+            "d) Elasticity",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 37,
+        "Question": "What is the machinability of a material?",
+        "Options": [
+            "a) Lack of material",
+            "b) Ease of cutting a material",
+            "c) Shining the material",
+            "d) Shrinking the material",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 38,
+        "Question": "Which cost of the Shop equipment required should be considered?",
+        "Options": [
+            "a) Comparative cost",
+            "b) Initial cost",
+            "c) Maintenance cost",
+            "d) Maintenance cost plus the initial cost",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 39,
+        "Question": "What is the fuselage of an aircraft made of?",
+        "Options": [
+            "a) Pure iron",
+            "b) Acrylic",
+            "c) Aluminium alloy",
+            "d) Magnesium",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 40,
+        "Question": "Which of the following materials is used in making aircraft windows?",
+        "Options": [
+            "a) Thick glass",
+            "b) Plexiglass",
+            "c) Graphite",
+            "d) Plane glass",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 41,
+        "Question": "What is the thickness of the sheets used in manufacturing oil tanks?",
+        "Options": [
+            "a) 1.5 to 26 mm",
+            "b) 0.889 to 1.2446 mm",
+            "c) 5.9 to 10.21 mm",
+            "d) 0.5 to 0.7 mm",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 42,
+        "Question": "Which of the following can be used as wing covering in an aircraft?",
+        "Options": [
+            "a) Manganese alloy",
+            "b) Carbon",
+            "c) Titanium",
+            "d) Aluminium alloy",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 43,
+        "Question": "Controls can be made using _____________",
+        "Options": [
+            "a) wood",
+            "b) copper",
+            "c) steel",
+            "d) flaps",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 44,
+        "Question": "Which of the following can be used to make seats in an aircraft?",
+        "Options": [
+            "a) Magnesium alloy sheets",
+            "b) Graphite",
+            "c) Rubber",
+            "d) Pure magnesium",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 45,
+        "Question": "Metals like chrome-molybdenum steel are heated to a temperature of ____________ to make bushings.",
+        "Options": [
+            "a) 500 or 750 psi",
+            "b) 1000 psi",
+            "c) 650,000 or 7000,000 psi",
+            "d) 125,000 or 150,000 psi",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 46,
+        "Question": "Bolts in an aircraft are made of _____________",
+        "Options": [
+            "a) nickel steel",
+            "b) graphite",
+            "c) aluminium",
+            "d) iron",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 47,
+        "Question": "Which of the following is not used to manufacture a wing-tip bow?",
+        "Options": [
+            "a) Chrome-molybdenum",
+            "b) Aluminium alloy",
+            "c) Douglas fir",
+            "d) Mild steel",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 48,
+        "Question": "What are the wheels of a landing great made of?",
+        "Options": [
+            "a) Typical rubber",
+            "b) Sensitive rubber",
+            "c) Titanium alloy",
+            "d) Thick rubber",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 49,
+        "Question": "Which of the following specification is used in manufacturing fuselage, oil tank and wings of an aircraft?",
+        "Options": [
+            "a) 1111-Z",
+            "b) 2024-T4",
+            "c) 2011-X2",
+            "d) 1214-A",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 50,
+        "Question": "Which of the following components is/are used in making aircraft wings?",
+        "Options": [
+            "a) Titanium alloys",
+            "b) Graphite",
+            "c) Aluminium alloys",
+            "d) Titanium alloys and aluminium alloys",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 51,
+        "Question": "Non-metallic materials are primarily used in manufacturing _____________",
+        "Options": [
+            "a) fuselage",
+            "b) engine",
+            "c) wing tips and stabilizer tips",
+            "d) seats",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 52,
+        "Question": "What is the variation to which the tension testing machine must be sensitive?",
+        "Options": [
+            "a) 1/250 of the registered load",
+            "b) 1/100 of registered load",
+            "c) 1/500 of registered load",
+            "d) 1/200 of the registered load",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 53,
+        "Question": "Which of the following can be obtained through a tension test?",
+        "Options": [
+            "a) Colour",
+            "b) Heat treatment",
+            "c) Ultimate tensile strength",
+            "d) Conductivity",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 54,
+        "Question": "During tension testing, the material must be held in _____________ alignment.",
+        "Options": [
+            "a) normal",
+            "b) axial",
+            "c) parallel",
+            "d) diabolical",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 55,
+        "Question": "The elastic limit of a material is _____________",
+        "Options": [
+            "a) the least amount of stress that can be held without permanent deformation",
+            "b) highest stress a material can experience without permanent deformation",
+            "c) average stress experienced by material in its lifeline.",
+            "d) strain on material",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 56,
+        "Question": "In the tension testing experiment, while determining elastic limit, the increment, while the load is being increased, should not exceed ___________ % of the elastic limit in the ending.",
+        "Options": [
+            "a) 50",
+            "b) 7",
+            "c) 2",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 57,
+        "Question": "The tension testing machine (crosshead) should not cross a speed of ___________ inch per inch of the gage length per minute until the yield point.",
+        "Options": [
+            "a) 1/11",
+            "b) 2",
+            "c) 1/16",
+            "d) 2/5",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 58,
+        "Question": "It is possible to determine the proof stress in a way in which ___________ is determined.",
+        "Options": [
+            "a) elastic limit",
+            "b) yield point",
+            "c) stress",
+            "d) strain",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 59,
+        "Question": "For a 4-inch gage length, crosshead speed of a machine should not exceed ___________ inch up to yield point.",
+        "Options": [
+            "a) 1/16",
+            "b) 1/4",
+            "c) 1/8",
+            "d) 1/6",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 60,
+        "Question": "A materials proof stress is the highest stress possible for it to tolerate without causing a permanent set of more than ___________ inch per inch the length of gage, after the total release of stress.",
+        "Options": [
+            "a) 5.1",
+            "b) 0.002",
+            "c) 0.0001",
+            "d) 0.1",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 61,
+        "Question": "Why must an accurate extensometer be used in reading a permanent set?",
+        "Options": [
+            "a) It is cheap",
+            "b) To obtain accuracy",
+            "c) It is radioactive",
+            "d) It is unnecessary",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 62,
+        "Question": "The proof stress of a material of 3 inches gage length is the highest stress it can withstand without a permanent set of above ___________ inch.",
+        "Options": [
+            "a) 0.0003",
+            "b) 0.21",
+            "c) 0.05",
+            "d) 0.004",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 63,
+        "Question": "A materials proof stress is also referred to as ___________",
+        "Options": [
+            "a) elastic limit",
+            "b) yield limit",
+            "c) proportional limit",
+            "d) set method",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 64,
+        "Question": "Tension testing must be accurate within a percentage of ___________",
+        "Options": [
+            "a) +2%",
+            "b) +1%",
+            "c) +3/2 %",
+            "d) 21%",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 65,
+        "Question": "The yield strength of a material is ___________",
+        "Options": [
+            "a) the proof stress of a material",
+            "b) the strain where the strength of material fails",
+            "c) the elongation",
+            "d) the particular stress where a material shows specified elongation under a load",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 66,
+        "Question": "What does length ‘AC’ in the diagram represent?",
+        "Options": [
+            "a) Yield gage",
+            "b) Yield strength",
+            "c) Set",
+            "d) Yield point",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 67,
+        "Question": "The extension under load method is easier to use in finding yield strength because ___________",
+        "Options": [
+            "a) no necessity to plot a curve",
+            "b) it is not easier",
+            "c) it is the only method available",
+            "d) randomness",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 68,
+        "Question": "The second part of specified extensions in the extensions under load method typically involves adding an elongation of ____ inch per inch of gage length.",
+        "Options": [
+            "a) 0.2",
+            "b) 2.02",
+            "c) 0.02",
+            "d) 0.002",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 69,
+        "Question": "If the expected yield strength of a material is 50,000 pounds per square inch and modulus of elasticity is 10,000, what is the normal elongation of the material?",
+        "Options": [
+            "a) 50,000,000 inch per inch gage length",
+            "b) 5 inch per inch gage length",
+            "c) 50 inch per inch gage length",
+            "d) 5 inch per inch gage length",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 70,
+        "Question": "The modulus of elasticity of steel is ____________ pounds per square inch.",
+        "Options": [
+            "a) 6,500,000",
+            "b) 10,000,000",
+            "c) 30,000,000",
+            "d) 1000,00",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 71,
+        "Question": "What is the yield point of a material?",
+        "Options": [
+            "a) Change in the strain of a material",
+            "b) The ratio of proof stress to the area",
+            "c) The elasticity of a material",
+            "d) Point where there is a substantial increase in elongation without a rise in load",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 72,
+        "Question": "To obtain consistent results in finding properties of materials, the specimen must be/have __________",
+        "Options": [
+            "a) no scratches",
+            "b) straightened",
+            "c) washed with methyl",
+            "d) bent",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 73,
+        "Question": "The yield point can be determined in _____________",
+        "Options": [
+            "a) wood",
+            "b) carbon",
+            "c) pure molybdenum",
+            "d) mild carbon steel",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 74,
+        "Question": "In which method is there usage of a pair of dividers?",
+        "Options": [
+            "a) Set method",
+            "b) Divider method",
+            "c) Drop of beam method",
+            "d) Dividend method",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 75,
+        "Question": "The yield point of a material does not exist for those materials that have a _____________ region in that space of the stress-strain curve.",
+        "Options": [
+            "a) smooth",
+            "b) shift",
+            "c) turbulent",
+            "d) high",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 76,
+        "Question": "In which method of determination of yield point is the load applied uniformly on the beam?",
+        "Options": [
+            "a) Divider method",
+            "b) High beam method",
+            "c) Drop of beam method",
+            "d) Extension under load method",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 77,
+        "Question": "Which of the following is not a hardness testing method?",
+        "Options": [
+            "a) Rockwell hardness",
+            "b) Brinell hardness",
+            "c) Set method hardness",
+            "d) Shore scleroscope hardness",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 78,
+        "Question": "It is vital that surfaces that have to be tested to determine the hardness of the material must be free of _____",
+        "Options": [
+            "a) ridges",
+            "b) evenness",
+            "c) smoothness",
+            "d) thickness",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 79,
+        "Question": "For ____________ materials, there is no correspondence between tensile strength and hardness.",
+        "Options": [
+            "a) soft",
+            "b) hard materials",
+            "c) steel",
+            "d) carbon",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 80,
+        "Question": "The Brinell testing method uses a steel ball of __________ diameter for testing purposes.",
+        "Options": [
+            "a) 26mm",
+            "b) 1mm",
+            "c) 10m",
+            "d) 10mm",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 81,
+        "Question": "In the Brinell testing method, the load should be pressed for a minimum of ____________",
+        "Options": [
+            "a) 1000 seconds",
+            "b) 60 seconds",
+            "c) 10 seconds",
+            "d) 3 seconds",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 82,
+        "Question": "If the load being applied is 2000kg, and the area of impression is 250 Square millimetres, what is the Brinell number of the test material?",
+        "Options": [
+            "a) 80 kg per square millimeter",
+            "b) 25 kg per square millimeter",
+            "c) 20 kg per square millimeter",
+            "d) 8 kg per square millimeter",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 83,
+        "Question": "Which of the following is not a way to prepare the test material for the Brinell hardness test?",
+        "Options": [
+            "a) Grinding",
+            "b) Layering",
+            "c) Filing",
+            "d) Polishing",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 84,
+        "Question": "To perform Brinell test on a soft material like bronze _____________ kg of load is applied on the specimen.",
+        "Options": [
+            "a) 3000",
+            "b) 500",
+            "c) 6600",
+            "d) 1200",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 85,
+        "Question": "Rockwell hardness test uses either a ____________ ball or ___________ cone for measuring hardness.",
+        "Options": [
+            "a) steel, diamond",
+            "b) diamond, steel",
+            "c) carbon, iron",
+            "d) iron, carbon",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 86,
+        "Question": "The Rockwell hardness testing method typically uses certain amounts of load. Which of the following is not one of the loads used?",
+        "Options": [
+            "a) 150kg",
+            "b) 60kg",
+            "c) 5kg",
+            "d) 100kg",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 87,
+        "Question": "To find a true hardness reading for hard steel, the minimum thickness required for material is ____",
+        "Options": [
+            "a) 0.0027mm",
+            "b) 6.858mm",
+            "c) 0.27mm",
+            "d) 234mm",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 88,
+        "Question": "In the beginning of the Rockwell hardness experiment, the reading dial is set to _____",
+        "Options": [
+            "a) 100",
+            "b) 50",
+            "c) 0.1",
+            "d) 0",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 89,
+        "Question": "Which of the following hardness testing method is preferred for aircraft manufacturing purposes?",
+        "Options": [
+            "a) Brinell hardness",
+            "b) Rockwell hardness",
+            "c) Divider method",
+            "d) Shore scleroscope hardness",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 90,
+        "Question": "Which of the following is not a process or property that influences the hardness of a material?",
+        "Options": [
+            "a) Buffing",
+            "b) Storing",
+            "c) Porous areas",
+            "d) Decarburizing",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 91,
+        "Question": "What should be done to avoid deflection caused by depression?",
+        "Options": [
+            "a) Plating",
+            "b) Unique direction",
+            "c) Smooth surface",
+            "d) Required edge distance",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 92,
+        "Question": "The Vickers hardness test consists of a _________ penetrator.",
+        "Options": [
+            "a) diamond",
+            "b) steel ball",
+            "c) carbon",
+            "d) iron",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 93,
+        "Question": "The penetrator in the Vickers hardness test is a pyramid that is squarely based and has an included angle of _______",
+        "Options": [
+            "a) 206°",
+            "b) 15°",
+            "c) 136°",
+            "d) 23°",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 94,
+        "Question": "The loading used for a homogenous specimen in the bucket’s hardness test is _______",
+        "Options": [
+            "a) 30kg",
+            "b) 500kg",
+            "c) 5kg",
+            "d) 13kg",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 95,
+        "Question": "The shore scleroscope hardness test is carried out by ________ a tiny diamond-pointed hammer from a particular altitude and comparing the altitude of rebound to a standard test material.",
+        "Options": [
+            "a) inserting",
+            "b) cutting",
+            "c) smoothly pressing",
+            "d) dropping",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 96,
+        "Question": "Which if the following is suggested in the shore scleroscope test to obtain the exact value?",
+        "Options": [
+            "a) Instrument should be in sunlight",
+            "b) Instrument should be spray painted",
+            "c) Instrument should be fixed rigidly",
+            "d) Instrument should be in sleeping position",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 97,
+        "Question": "In case of shore scleroscope hardness, the number considered is the average of __________ determinations.",
+        "Options": [
+            "a) 5",
+            "b) 26",
+            "c) 1",
+            "d) 333",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 98,
+        "Question": "Brinell hardness numbers of materials are identical to ________ hardness numbers.",
+        "Options": [
+            "a) Set method",
+            "b) Extension under load",
+            "c) Shore scleroscope",
+            "d) Vickers",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 99,
+        "Question": "Bending tests are conducted to ensure that the material has enough _________",
+        "Options": [
+            "a) force",
+            "b) hardness",
+            "c) impact",
+            "d) ductility",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 100,
+        "Question": "Specimens in the bending test are usually ________ inches long.",
+        "Options": [
+            "a) 23",
+            "b) 16",
+            "c) 6",
+            "d) 0.564",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 101,
+        "Question": "If the specimen being tested is heavy in weight, it should have a __________ cross-section.",
+        "Options": [
+            "a) circular",
+            "b) spherical",
+            "c) rectangular",
+            "d) triangular",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 102,
+        "Question": "The usual angle through which bending should be obtained in a bending test is ________",
+        "Options": [
+            "a) 180°",
+            "b) 120°",
+            "c) 75°",
+            "d) 90°",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 103,
+        "Question": "The minimum length of wire that can be used in a reverse bend test is ________",
+        "Options": [
+            "a) 5 inches",
+            "b) 23 inches",
+            "c) 10 inches",
+            "d) 4.5 inches",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 104,
+        "Question": "_________ usually undergoes a reverse bend test.",
+        "Options": [
+            "a) Round steel wire",
+            "b) Glue",
+            "c) Plated iron",
+            "d) Wood",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 105,
+        "Question": "The radius to which the jaws of the vice rounded to for wires of diameter less than 3/16 inches is _________",
+        "Options": [
+            "a) 2/15",
+            "b) 12/7",
+            "c) 3",
+            "d) 3/16",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 106,
+        "Question": "The maximum rate up to which bending is done per minute is ________ in reverse bend test.",
+        "Options": [
+            "a) 35",
+            "b) 5",
+            "c) 50",
+            "d) 26",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 107,
+        "Question": "What is the rate of bending carried out for heavy wires?",
+        "Options": [
+            "a) 65 bending’s",
+            "b) 7 bending’s",
+            "c) 80 bending’s",
+            "d) 50 bending’s",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 108,
+        "Question": "A bend of what angle is considered as a single bend?",
+        "Options": [
+            "a) 45°",
+            "b) 90°",
+            "c) 180°",
+            "d) 270°",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 109,
+        "Question": "Flattening test is applied to __________",
+        "Options": [
+            "a) twisting",
+            "b) round steel wire",
+            "c) tubing",
+            "d) breaking",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 110,
+        "Question": "In the flattening test, the length of the tubing is taken _________ times of the diameter.",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 0.5",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 111,
+        "Question": "The flattening test while being used for bronze tubing must consider the thickness of the tube to be not more than ____ times wall thickness.",
+        "Options": [
+            "a) 3",
+            "b) 2",
+            "c) 4",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 112,
+        "Question": "The specimen used in the typical bend test (sheet) must have a width of _______ inches.",
+        "Options": [
+            "a) 12",
+            "b) 4",
+            "c) 1",
+            "d) 0.56",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 113,
+        "Question": "It is usually preferred for shop bending to take all the present bends ________ grain.",
+        "Options": [
+            "a) across",
+            "b) above",
+            "c) below",
+            "d) parallel",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 114,
+        "Question": "The edges of a specimen of forging stock are rounded to a ________ radius in a bending test.",
+        "Options": [
+            "a) 20th",
+            "b) 16th",
+            "c) 1",
+            "d) 1/16th",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 115,
+        "Question": "The bending in the bending tests is achieved be either__________ or __________",
+        "Options": [
+            "a) lightly rolling and tossing",
+            "b) application of pressure and blow from a hammer",
+            "c) ethanol and methane",
+            "d) diamond indenting and washing",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 116,
+        "Question": "If the bend of a bend test has to be gauged to its complete extent _________ of bend must be computed.",
+        "Options": [
+            "a) inner circumference",
+            "b) the inner minus outer circumference",
+            "c) outer circumference",
+            "d) inner radius",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 117,
+        "Question": "What is an impact test?",
+        "Options": [
+            "a) Fixing a specimen in the machine to be broken by weight or heavy pendulum",
+            "b) Indenting with the help of a diamond hammer",
+            "c) Rolling with steel",
+            "d) Dipping in a mixture of ethanol and carbon and checking indentation of a material",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 118,
+        "Question": "The impact tests can be used to _____________",
+        "Options": [
+            "a) find out the absolute value of a material",
+            "b) to determine the tensile strength of a material",
+            "c) compare two specimens of similar composition and tensile strength",
+            "d) to find the quantity of material",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 119,
+        "Question": "What is the principal use of the impact tests?",
+        "Options": [
+            "a) To determine ductility",
+            "b) To determine if the material has been subjected to heat treatment",
+            "c) To prevent material from corroding",
+            "d) To obtain absolute values",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 120,
+        "Question": "On _________ materials, impact test cannot be conducted.",
+        "Options": [
+            "a) steel",
+            "b) solid",
+            "c) room temperature",
+            "d) extremely ductile",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 121,
+        "Question": "In an Izod test after the pendulum is released from a certain height, it hits the material at the __________ point of it’s path.",
+        "Options": [
+            "a) lowest",
+            "b) opposite",
+            "c) highest",
+            "d) sideways",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 122,
+        "Question": "If in an old test, energy absorbed (obtained on the scale) is 34 J and cross-section area of the notch is 10×8 mm square. What is the impact strength of the material?",
+        "Options": [
+            "a) 34 J per mm square",
+            "b) 4.25 J per mm square",
+            "c) 0.425 J per mm square",
+            "d) 80 J per mm square",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 123,
+        "Question": "The higher the impact value of the material __________ its toughness value.",
+        "Options": [
+            "a) lower",
+            "b) double",
+            "c) half",
+            "d) higher",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 124,
+        "Question": "Which of the following are standard impact tests?",
+        "Options": [
+            "a) Izod test and flattening test",
+            "b) Izod test and Charpy test",
+            "c) Flattening test and reverse bend",
+            "d) Charpy test and reverse bend test",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 125,
+        "Question": "Which of the following impact test method is preferred these days?",
+        "Options": [
+            "a) Impact test",
+            "b) Reverse bend test",
+            "c) Flattening test",
+            "d) Charpy test",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 126,
+        "Question": "In the Charpy test, the tensile specimen being tested is ___________ on both sides.",
+        "Options": [
+            "a) threaded",
+            "b) axed",
+            "c) flattened",
+            "d) heated",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 127,
+        "Question": "The Charpy test, which is a type of impact test measures the __________ absorbed by a specimen.",
+        "Options": [
+            "a) heat",
+            "b) energy",
+            "c) length",
+            "d) breadth",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 128,
+        "Question": "In the Charpy test, the notch faces _________ from the pendulum.",
+        "Options": [
+            "a) towards",
+            "b) 20m",
+            "c) away",
+            "d) around",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 129,
+        "Question": "The final impact value is obtained by dividing the _________ by the cross-sectional area in the Charpy test.",
+        "Options": [
+            "a) heat of the specimen",
+            "b) cross-sectional damage",
+            "c) energy of fracture",
+            "d) cross-sectional area",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 130,
+        "Question": "Which of the following affects a Charpy test?",
+        "Options": [
+            "a) Specimen gauges factor",
+            "b) Test machine frequency",
+            "c) Colour",
+            "d) Yield strength",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 131,
+        "Question": "It is a requirement for a ___________ to undergo the torsion test.",
+        "Options": [
+            "a) sheet",
+            "b) wire",
+            "c) steel plate",
+            "d) wood",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 132,
+        "Question": "“Torsion” is defined as _________",
+        "Options": [
+            "a) compressive force",
+            "b) type of friction",
+            "c) twisting",
+            "d) object at rest",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 133,
+        "Question": "In a torsion test, if the wire that has to be tested has a diameter of more than 0.333 inches, the specimen needs to have a minimum length of ________ inches.",
+        "Options": [
+            "a) 10",
+            "b) 33",
+            "c) 0.0966",
+            "d) 26",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 134,
+        "Question": "The setup of a torsion test involves two clamps having a distance of _________ inches between them.",
+        "Options": [
+            "a) 10",
+            "b) 18",
+            "c) 26",
+            "d) 8",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 135,
+        "Question": "In the torsion test, there are two clamps. The clamps are _________",
+        "Options": [
+            "a) both fixed",
+            "b) one fixed one rotating",
+            "c) both rotating",
+            "d) both joined permanently",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 136,
+        "Question": "What is the maximum speed up to which the clamp can be rotated in a torsion test?",
+        "Options": [
+            "a) 120rpm",
+            "b) 2rpm",
+            "c) -26rpm",
+            "d) 60rpm",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 137,
+        "Question": "If a wire that has a diameter of less than 0.033 inches has to undergo a torsion test, the length of the specimen being used must be _________ inches.",
+        "Options": [
+            "a) 10",
+            "b) 100",
+            "c) 30",
+            "d) 8",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 138,
+        "Question": "Torsional strength is the _________",
+        "Options": [
+            "a) capacity of a material to withstand the twisting load",
+            "b) ability to apply force",
+            "c) gravitational attraction",
+            "d) electrical force",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 139,
+        "Question": "What is fatigue stress?",
+        "Options": [
+            "a) The stress endured by an observer",
+            "b) Stress divided by strain and multiplied by conductivity",
+            "c) The amount of stress, a material can tolerate repeatedly without failure",
+            "d) The stress endured perpendicular to the observer",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 140,
+        "Question": "The amount of test cycles required to find out the fatigue stress of hard steels is ___________",
+        "Options": [
+            "a) 10,000,000",
+            "b) 2600",
+            "c) 26",
+            "d) 2,000,000",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 141,
+        "Question": "Which of the following is a fatigue-testing apparatus?",
+        "Options": [
+            "a) Rotating-beam tests",
+            "b) Load test",
+            "c) Fixed load test",
+            "d) Rotating wing test",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 142,
+        "Question": "The amount of test cycles required to find out the fatigue stress of hard aluminium alloys is ____________",
+        "Options": [
+            "a) 64,000,900,000",
+            "b) 500,000,000",
+            "c) 3000",
+            "d) 27",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 143,
+        "Question": "What is the typical speed of rotation in a normal speed fatigue testing machine?",
+        "Options": [
+            "a) 2000 rpm",
+            "b) 20 rpm",
+            "c) 26,000 rpm",
+            "d) 14,000 rpm",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 144,
+        "Question": "What is the diameter of a typical specimen used in fatigue testing?",
+        "Options": [
+            "a) 2000 inches",
+            "b) 0.0005 inches",
+            "c) 1 inch",
+            "d) 26 inches",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 145,
+        "Question": "The specimen of fatigue testing must not have ___________",
+        "Options": [
+            "a) Uniform cross-section",
+            "b) Metal",
+            "c) Certain colours",
+            "d) Notches and holes",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 146,
+        "Question": "Corrosion of materials results in ___________ of fatigue limit.",
+        "Options": [
+            "a) reduction",
+            "b) increment",
+            "c) double",
+            "d) satisfaction",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 147,
+        "Question": "The fatigue limit of a specimen is ___________ of its fatigue range.",
+        "Options": [
+            "a) triple",
+            "b) double",
+            "c) half",
+            "d) exactly the same",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 148,
+        "Question": "The fatigue limit of steel is around ____ times the ultimate tensile strength.",
+        "Options": [
+            "a) 0.3",
+            "b) 5",
+            "c) 3",
+            "d) 0.5",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 149,
+        "Question": "Which of the following are standard inspection methods of aircraft materials?",
+        "Options": [
+            "a) Radiography and fatigue test",
+            "b) Magnaflux and bending inspection",
+            "c) Radiography and magnaflux inspection",
+            "d) Fatigue and bending inspection",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 150,
+        "Question": "Which of the following is a non-destructive way of inspecting materials?",
+        "Options": [
+            "a) Fatigue",
+            "b) Radiography",
+            "c) Welding",
+            "d) Bending",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 151,
+        "Question": "When radiographs are produced to detect defects, they show up as ___________",
+        "Options": [
+            "a) tubes",
+            "b) dark spots",
+            "c) invisible spots",
+            "d) light spots",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 152,
+        "Question": "What wavelengths are classified as X-rays?",
+        "Options": [
+            "a) 10-6 to 10-25 cm",
+            "b) 10-6 to 10-9 cm",
+            "c) 10-2 to 10-9 cm",
+            "d) 25 to 15cm",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 153,
+        "Question": "X-rays can be used to inspect materials of steel up to a thickness of __________ inches.",
+        "Options": [
+            "a) 3",
+            "b) 15",
+            "c) 0.3",
+            "d) 26",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 154,
+        "Question": "Gammagraphs are obtained by passing __________ through a material.",
+        "Options": [
+            "a) visible rays",
+            "b) uv rays",
+            "c) gamma-rays",
+            "d) x-rays",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 155,
+        "Question": "Gamma-rays are rays that have a wavelength of around ___________",
+        "Options": [
+            "a) 10-11",
+            "b) 26",
+            "c) 10-2",
+            "d) 10-22",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 156,
+        "Question": "Gamma-rays are acquired from ___________",
+        "Options": [
+            "a) Radiograph",
+            "b) X-ray",
+            "c) U.V",
+            "d) Radium",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 157,
+        "Question": "Gammagraphs of steel that is as thick as ___________ inches can be acquired.",
+        "Options": [
+            "a) 4",
+            "b) 31",
+            "c) 8",
+            "d) 15",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 158,
+        "Question": "One of the disadvantages of radiography is that it is ___________",
+        "Options": [
+            "a) destructive",
+            "b) faster",
+            "c) temporary record",
+            "d) time-consuming",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 159,
+        "Question": "___________ is an inspection method for magnetic objects",
+        "Options": [
+            "a) Fatigue",
+            "b) Magnaflux",
+            "c) Gammagraphs",
+            "d) Bending",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 160,
+        "Question": "X-rays being used to produce radiographs are called ____________",
+        "Options": [
+            "a) Radiographs",
+            "b) Magnaflux",
+            "c) Exographs",
+            "d) Gammagraphs",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 161,
+        "Question": "Which of the following can the inspection process ‘magnaflu’ not detect?",
+        "Options": [
+            "a) Laps",
+            "b) Cracks",
+            "c) Seams",
+            "d) Color",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 162,
+        "Question": "In which direction should the magnetic flux be induced on the specimen?",
+        "Options": [
+            "a) Upper",
+            "b) Lower",
+            "c) All directions",
+            "d) North",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 163,
+        "Question": "Which of the following is a way to magnetize a specimen?",
+        "Options": [
+            "a) Angular magnetization",
+            "b) Momentum magnetization",
+            "c) Circular magnetization",
+            "d) Zero magnetization",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 164,
+        "Question": "_____________ can be put on the specimen in the form of magnetic powder.",
+        "Options": [
+            "a) Uranium",
+            "b) Black iron oxide",
+            "c) Charred wood",
+            "d) Chromium",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 165,
+        "Question": "What is the continuous method of magnaflux inspection method?",
+        "Options": [
+            "a) The continuous specimen is used",
+            "b) Partial current mixing",
+            "c) Current is put on throughout the process",
+            "d) Non-existent",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 166,
+        "Question": "Before sending the material that is being inspected to construct an aircraft, it has to be ___________",
+        "Options": [
+            "a) washed",
+            "b) compressed",
+            "c) liquefied",
+            "d) demagnetized",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 167,
+        "Question": "How far must the specimen be withdrawn with respect to the coil in demagnetization?",
+        "Options": [
+            "a) 00.7 inches",
+            "b) 26 inches",
+            "c) 18 inches",
+            "d) 4 inches",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 168,
+        "Question": "One of the methods used to demagnetize a specimen involves keeping the specimen in the coil and slowly decrease the current to ____________",
+        "Options": [
+            "a) double the initial value",
+            "b) 0",
+            "c) 26.5",
+            "d) high",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 169,
+        "Question": "The primary commercial source for aluminium is ____________",
+        "Options": [
+            "a) coal",
+            "b) bauxite",
+            "c) magnetite",
+            "d) pyrite",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 170,
+        "Question": "Aluminium weighs around __________ of steel.",
+        "Options": [
+            "a) 2 times",
+            "b) 1/2",
+            "c) 1/3",
+            "d) 4 times",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 171,
+        "Question": "A ____________ process is carried out to get aluminium from the oxide alumina.",
+        "Options": [
+            "a) electrolytic",
+            "b) dynamite",
+            "c) chromatography",
+            "d) bakelite",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 172,
+        "Question": "Which of the following are shapes used in the manufacturing of an aircraft?",
+        "Options": [
+            "a) X-section",
+            "b) U-section and Z-section",
+            "c) X-section and Z-section",
+            "d) U-section",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 173,
+        "Question": "The aluminium association has a designation system for aluminium alloys which are denoted by __________ digits.",
+        "Options": [
+            "a) 23",
+            "b) 2",
+            "c) 9",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 174,
+        "Question": "The melting point of aluminium is ___________",
+        "Options": [
+            "a) 236°c",
+            "b) 1085°c",
+            "c) 660°c",
+            "d) 1510°c",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 175,
+        "Question": "Which of the following is not a common property for all aluminium alloys?",
+        "Options": [
+            "a) Low strength",
+            "b) Heat treatable",
+            "c) Easy for machining",
+            "d) Readily joined be welding",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 176,
+        "Question": "Aluminium is __________",
+        "Options": [
+            "a) non-magnetic",
+            "b) ductile",
+            "c) magnetic",
+            "d) non-magnetic and ductile",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 177,
+        "Question": "Which of the following is not an aluminium alloy?",
+        "Options": [
+            "a) Al-Si",
+            "b) Al-Zn",
+            "c) Al-Mn",
+            "d) Al-U",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 178,
+        "Question": "Why has the aluminium association established a system of designating aluminium alloys?",
+        "Options": [
+            "a) To create employment",
+            "b) To remove confusion",
+            "c) To encourage research",
+            "d) To ensure availability",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 179,
+        "Question": "The final two digits in the nomenclature of aluminium alloys represent aluminium __________",
+        "Options": [
+            "a) impurity",
+            "b) group",
+            "c) purity",
+            "d) strength",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 180,
+        "Question": "Pitting of the surface is a kind of aluminium alloy __________",
+        "Options": [
+            "a) corrosion",
+            "b) annealing",
+            "c) strength",
+            "d) manufacturing method",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 181,
+        "Question": "Aluminium alloys can be categorized into Cast and ___________ alloys.",
+        "Options": [
+            "a) extrusions",
+            "b) heat treatable",
+            "c) non-heat treatable",
+            "d) wrought",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 182,
+        "Question": "Which of the following is a chemical process used to extract aluminium?",
+        "Options": [
+            "a) Osmosis",
+            "b) Radiography",
+            "c) Heliography",
+            "d) Pyrometallurgy",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 183,
+        "Question": "Recycling of aluminium requires _________ of energy to make new aluminium.",
+        "Options": [
+            "a) 0.5%",
+            "b) 25%",
+            "c) 5%",
+            "d) 50%",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 184,
+        "Question": "Hydrometallurgy is the process of extracting __________ from ___________",
+        "Options": [
+            "a) flight parts, metals",
+            "b) metals, flight parts",
+            "c) metals, ores",
+            "d) ores, metals",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 185,
+        "Question": "Aluminium ores can be obtained in large amounts from which of the following countries?",
+        "Options": [
+            "a) Africa, Greenland",
+            "b) Africa, Australia",
+            "c) Greenland",
+            "d) Australia",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 186,
+        "Question": "The Hall-Heroult process is used for ___________ aluminium.",
+        "Options": [
+            "a) breaking",
+            "b) distributing",
+            "c) smelting",
+            "d) mixing",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 187,
+        "Question": "The Hall-Heroult process is carried out at a temperature of __________ industrially.",
+        "Options": [
+            "a) 940-980°C",
+            "b) 200-300°C",
+            "c) 10,000-50,000°C",
+            "d) 50-70°C",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 188,
+        "Question": "The Hall-Heroult process produces around _______ pure aluminium.",
+        "Options": [
+            "a) 100%",
+            "b) 20%",
+            "c) 98%",
+            "d) 4%",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 189,
+        "Question": "The voltage in the Hall-Heroult process is around __________",
+        "Options": [
+            "a) 2-9 V",
+            "b) 15.5-16.5 V",
+            "c) 26-45 V",
+            "d) 6-8 V",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 190,
+        "Question": "_______ percent of earth’s crust is aluminium.",
+        "Options": [
+            "a) 3%",
+            "b) 25%",
+            "c) 60%",
+            "d) 7%",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 191,
+        "Question": "Aluminium is __________ and __________",
+        "Options": [
+            "a) non-hygienic, toxic",
+            "b) toxic, hygienic",
+            "c) non-toxic, hygienic",
+            "d) non-hygienic, non-toxic",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 192,
+        "Question": "Aluminum has a ____________ strength to weight ratio.",
+        "Options": [
+            "a) moderate",
+            "b) low",
+            "c) high",
+            "d) infinite",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 193,
+        "Question": "The metal aluminium can be ___________ to obtain strength.",
+        "Options": [
+            "a) heat-treated",
+            "b) nullified",
+            "c) softened",
+            "d) non-heat treated",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 194,
+        "Question": "In the aircraft industry, aluminium is ______ used.",
+        "Options": [
+            "a) moderately",
+            "b) widely",
+            "c) not often",
+            "d) hardly",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 195,
+        "Question": "It is ___________ to recycle aluminium.",
+        "Options": [
+            "a) impossible",
+            "b) difficult",
+            "c) easy",
+            "d) rarely possible",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 196,
+        "Question": "Which of the following is an advantageous property of aluminium?",
+        "Options": [
+            "a) High modulus of elasticity",
+            "b) High weight",
+            "c) High fuel consumption",
+            "d) High payload capacity",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 197,
+        "Question": "Aluminium is suitable for the _______",
+        "Options": [
+            "a) aircraft industry",
+            "b) transportation industry",
+            "c) aircraft industry and transportation industry",
+            "d) jewel industry",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 198,
+        "Question": "Aluminium is ______",
+        "Options": [
+            "a) brittle",
+            "b) ductile",
+            "c) magnetic",
+            "d) brownish-red",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 199,
+        "Question": "One of the most widely recycled products are ___________",
+        "Options": [
+            "a) aluminium cosmetics",
+            "b) aluminium cans",
+            "c) aluminium discs",
+            "d) welding aluminium",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 200,
+        "Question": "It is easy to manufacture components/products using aluminium because of ____________ cutting speed.",
+        "Options": [
+            "a) high",
+            "b) even",
+            "c) moderate",
+            "d) smooth",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 201,
+        "Question": "One of the advantages of aluminium compared to steel is ______",
+        "Options": [
+            "a) lower production cost",
+            "b) higher-strength",
+            "c) higher weight",
+            "d) low corrosion",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 202,
+        "Question": "________ of all the food products in the world are packaged using aluminium.",
+        "Options": [
+            "a) 1/5",
+            "b) 1/3",
+            "c) 1/2",
+            "d) 2/3",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 203,
+        "Question": "Titanium is __________ in color.",
+        "Options": [
+            "a) red",
+            "b) white",
+            "c) reddish-brown",
+            "d) silvery-white",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 204,
+        "Question": "Titanium has __________ density.",
+        "Options": [
+            "a) low",
+            "b) high",
+            "c) moderate",
+            "d) zero",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 205,
+        "Question": "The atomic number for titanium is _________",
+        "Options": [
+            "a) 26",
+            "b) 196",
+            "c) 22",
+            "d) 13",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 206,
+        "Question": "The melting point of titanium is _________",
+        "Options": [
+            "a) 3272°F",
+            "b) 1220°F",
+            "c) 2795°F",
+            "d) 3272°C",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 207,
+        "Question": "Titanium consists of about _________ of the earth’s crust.",
+        "Options": [
+            "a) 27.7%",
+            "b) 0.57%",
+            "c) 2.34%",
+            "d) 5%",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 208,
+        "Question": "In which of the following countries are titanium abundantly found in?",
+        "Options": [
+            "a) Ukraine",
+            "b) Greenland",
+            "c) Antarctica",
+            "d) Canada, Ukraine",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 209,
+        "Question": "Titanium will not be found in a __________ state.",
+        "Options": [
+            "a) uncombined",
+            "b) sunny",
+            "c) combined",
+            "d) typical",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 210,
+        "Question": "The primary ores of titanium are _________",
+        "Options": [
+            "a) rutile, sulphur",
+            "b) ilmenite, bauxite",
+            "c) bauxite, rutile",
+            "d) rutile, ilmenite",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 211,
+        "Question": "The atomic weight of titanium is ___________",
+        "Options": [
+            "a) 55.84g",
+            "b) 26.97g",
+            "c) 47.9g",
+            "d) 35.5g",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 212,
+        "Question": "Chloride process involves separation of titanium from its ___________",
+        "Options": [
+            "a) oxidizers",
+            "b) shores",
+            "c) reactants",
+            "d) ores",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 213,
+        "Question": "Which of the following is one of the main production unit of the chloride process?",
+        "Options": [
+            "a) Ore stage",
+            "b) Coke stage",
+            "c) Oxidation",
+            "d) Off gas treatment",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 214,
+        "Question": "Which of the following is an auxiliary production unit of the chloride process?",
+        "Options": [
+            "a) Chlorination",
+            "b) Purification",
+            "c) Dust treatment",
+            "d) Condensation",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 215,
+        "Question": "The linear coefficient of thermal expansion of titanium is ___________ /°F.",
+        "Options": [
+            "a) 6.1×106",
+            "b) 9.5×106",
+            "c) 4.3×106",
+            "d) 12.7×106",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 216,
+        "Question": "Titanium is typically corrosion _________ in normal environments.",
+        "Options": [
+            "a) resistant",
+            "b) positive",
+            "c) prone",
+            "d) familiar",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 217,
+        "Question": "In the process of chlorination, one of the reaction is oxygen combining with carbon to form __________",
+        "Options": [
+            "a) carbon trioxide",
+            "b) chlorine oxide",
+            "c) sulphate",
+            "d) carbon dioxide",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 218,
+        "Question": "The purity of the product produced in the chloride reaction is around ___________",
+        "Options": [
+            "a) 81%",
+            "b) 65%",
+            "c) 99%",
+            "d) 43%",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 219,
+        "Question": "Gas ___________ use an overwhelming amount of titanium produced in the world.",
+        "Options": [
+            "a) chambers",
+            "b) turbines",
+            "c) molecules",
+            "d) manure",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 220,
+        "Question": "Titanium alloys can be forged ___________",
+        "Options": [
+            "a) moderately",
+            "b) with great difficulty",
+            "c) unnecessarily",
+            "d) easily",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 221,
+        "Question": "Titanium has applications in the __________ industries.",
+        "Options": [
+            "a) aerospace",
+            "b) chemical",
+            "c) aerospace and chemical",
+            "d) chemical and stock",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 222,
+        "Question": "Titanium alloys (body centred cubic) ___________ heat treatment for high strength.",
+        "Options": [
+            "a) require",
+            "b) are made by",
+            "c) do not require",
+            "d) preceded",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 223,
+        "Question": "Hydrogen is __________ for titanium sheets.",
+        "Options": [
+            "a) beneficial",
+            "b) required",
+            "c) harmful",
+            "d) provided",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 224,
+        "Question": "___________ increases the transformation temperature of titanium.",
+        "Options": [
+            "a) Nitrogen",
+            "b) Tantalum",
+            "c) Vanadium",
+            "d) Columbium",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 225,
+        "Question": "___________ reduces the transformation temperature of titanium.",
+        "Options": [
+            "a) Carbon",
+            "b) Aluminium",
+            "c) Oxygen",
+            "d) Molybdenum",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 226,
+        "Question": "The specific heat of titanium is ___________",
+        "Options": [
+            "a) 0.23 Cal./gm./°C",
+            "b) 0.12 Cal./gm./°C",
+            "c) 0.129 Cal./gm./°C",
+            "d) 5.6 Cal./gm./°C",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 227,
+        "Question": "Combined titanium alloys are relatively ___________ to produce in quantity.",
+        "Options": [
+            "a) moderate",
+            "b) easy",
+            "c) complicated",
+            "d) high",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 228,
+        "Question": "The density of titanium is __________",
+        "Options": [
+            "a) 7.92 gm. per c.c",
+            "b) 4.5 gm. per c.c",
+            "c) 13.6 gm. per c.c",
+            "d) 2.80 gm. per c.c",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 229,
+        "Question": "Compared to steel, titanium alloys are more __________ to deformation.",
+        "Options": [
+            "a) bent",
+            "b) complying",
+            "c) prone",
+            "d) resistant",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 230,
+        "Question": "Which of the following aircraft parts are manufactured using a high amount of titanium?",
+        "Options": [
+            "a) Aircraft engines, wing structure, landing gear components",
+            "b) Landing gear components, wheels, gas turbines",
+            "c) Hydraulic tubes, slings, wheels",
+            "d) Aircraft engines, landing gear components",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 231,
+        "Question": "The F-22 aircraft is made of approximately around ___ % titanium.",
+        "Options": [
+            "a) 15",
+            "b) 69",
+            "c) 39",
+            "d) 82",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 232,
+        "Question": "Which of the following components can be made using titanium?",
+        "Options": [
+            "a) Wheelchairs",
+            "b) Golf clubs, bicycles",
+            "c) Sunscreen, balloons",
+            "d) Wheelchairs, golf clubs, bicycles",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 233,
+        "Question": "The melting point of steel is ___________",
+        "Options": [
+            "a) 1220°F",
+            "b) 670°F",
+            "c) 3272°F",
+            "d) 2500°F",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 234,
+        "Question": "Steel is a material that is primarily made with __________ and __________",
+        "Options": [
+            "a) titanium, carbon",
+            "b) chromium, iron",
+            "c) iron, carbon",
+            "d) iron, titanium",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 235,
+        "Question": "___________ is a harmful property in the material.",
+        "Options": [
+            "a) Carbon",
+            "b) Silicon",
+            "c) Sulphur",
+            "d) Manganese",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 236,
+        "Question": "It is possible to make a ____________ number of steels.",
+        "Options": [
+            "a) huge",
+            "b) certain",
+            "c) specified",
+            "d) couple of",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 237,
+        "Question": "Iron combines easily with ___________ to make iron carbide.",
+        "Options": [
+            "a) manganese",
+            "b) carbon",
+            "c) steel",
+            "d) chromium",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 238,
+        "Question": "Steels that are resistant to corrosion have high amounts of __________",
+        "Options": [
+            "a) manganese",
+            "b) iron",
+            "c) chromium",
+            "d) carbon",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 239,
+        "Question": "Around ___________ types of steels are used in constructing an aircraft.",
+        "Options": [
+            "a) 5",
+            "b) 13",
+            "c) 59",
+            "d) 20",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 240,
+        "Question": "In steel, manganese is helpful in __________",
+        "Options": [
+            "a) heating",
+            "b) shine",
+            "c) deoxidize",
+            "d) volume",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 241,
+        "Question": "An extra quantity of more than ___ % of manganese will heighten brittleness of the metal.",
+        "Options": [
+            "a) 5",
+            "b) 1",
+            "c) 44",
+            "d) 13",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 242,
+        "Question": "Steels made of nickel typically contain _______ to _____ % of nickel.",
+        "Options": [
+            "a) 23 to 56",
+            "b) 10 to 20",
+            "c) 8 to 19",
+            "d) 3 to 5",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 243,
+        "Question": "The density of stainless steel is __________",
+        "Options": [
+            "a) 4.5 gm. Per c.c",
+            "b) 6.8 gm. Per c.c",
+            "c) 2.8 gm. Per c.c",
+            "d) 7.92 gm. Per c.c",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 244,
+        "Question": "The atomic number of stainless steels is _________",
+        "Options": [
+            "a) 13",
+            "b) 22",
+            "c) 26",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 245,
+        "Question": "The atomic weight of stainless steel is __________",
+        "Options": [
+            "a) 60",
+            "b) 26.97",
+            "c) 55.84",
+            "d) 47.9",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 246,
+        "Question": "___________ steel is required when high hardness is desired and ductility is not crucial.",
+        "Options": [
+            "a) High-carbon steel",
+            "b) Low-carbon steel",
+            "c) Medium-carbon steel",
+            "d) Wrought iron",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 247,
+        "Question": "Manganese has a property known as penetration ____________",
+        "Options": [
+            "a) softness",
+            "b) hardness",
+            "c) medium",
+            "d) ductility",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 248,
+        "Question": "The amount of carbon present in high carbon steel is __________",
+        "Options": [
+            "a) 0.10% to 0.30%",
+            "b) 2.2% to 4.5%",
+            "c) 0.70% to 2.2%",
+            "d) 12% to 13%",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 249,
+        "Question": "Medium carbon steels are preferred when both ___________ strength and __________ is necessary.",
+        "Options": [
+            "a) no, brittle nature",
+            "b) good, brittle nature",
+            "c) no, ductility",
+            "d) good, ductility",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 250,
+        "Question": "__________ element is responsible for “cold shortness”.",
+        "Options": [
+            "a) Manganese",
+            "b) Carbon",
+            "c) Phosphorus",
+            "d) Sulphur",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 251,
+        "Question": "Chromium has a __________ melting point.",
+        "Options": [
+            "a) Low",
+            "b) High",
+            "c) Medium",
+            "d) Average",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 252,
+        "Question": "Molybdenum decreases the ___________ of material.",
+        "Options": [
+            "a) elastic limit",
+            "b) grain size",
+            "c) homogeneity",
+            "d) impact value",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 253,
+        "Question": "Tools that are made of tungsten-chromium contain _____ of tungsten.",
+        "Options": [
+            "a) 2% to 4%",
+            "b) 5% to 10%",
+            "c) 20% to 25%",
+            "d) 14% to 18%",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 254,
+        "Question": "The steel being used in the construction of aircraft must be ___________ to fabricate.",
+        "Options": [
+            "a) moderate",
+            "b) difficult",
+            "c) impossible",
+            "d) easy",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 255,
+        "Question": "The amount of carbon present in low carbon steels is ___________",
+        "Options": [
+            "a) 5% to 7%",
+            "b) 0.70% to 2.2%",
+            "c) 0.10% to 0.30%",
+            "d) 0.6% to 0.8%",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 256,
+        "Question": "The amount of carbon present in wrought iron is ___________",
+        "Options": [
+            "a) 3% to 4%",
+            "b) Trace to 0.08%",
+            "c) 0.30% to 0.70%",
+            "d) 2.2% to 4.5%",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 257,
+        "Question": "Silico-manganese steels have advantageous __________ resistance.",
+        "Options": [
+            "a) chromium",
+            "b) tensile",
+            "c) impact",
+            "d) clutch",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 258,
+        "Question": "A material that requires __________ heat-treatment is preferred over a material that requires a ___ of heat-treatment.",
+        "Options": [
+            "a) less, higher amount",
+            "b) a high, lower amount",
+            "c) a moderate, lower amount",
+            "d) high, no amount",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 259,
+        "Question": "Mild ___________ steel is used for aircraft nuts.",
+        "Options": [
+            "a) phosphorus",
+            "b) nickel",
+            "c) silicon",
+            "d) carbon",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 260,
+        "Question": "The steel S.A.E 1025 has an ultimate tensile strength of __________",
+        "Options": [
+            "a) 12,000 p.s.i",
+            "b) 6,000 p.s.i",
+            "c) 55,000 p.s.i",
+            "d) 22,000 p.s.i",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 261,
+        "Question": "As the amount of carbon in steel increases, its ____________ increases.",
+        "Options": [
+            "a) ductility",
+            "b) impact resistance",
+            "c) hardness",
+            "d) weldability",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 262,
+        "Question": "As the amount of carbon in steel increases, its ___________ decreases.",
+        "Options": [
+            "a) range of heat treatment",
+            "b) toughness",
+            "c) ultimate strength",
+            "d) hardness",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 263,
+        "Question": "___________ is a special kind of steel that is used exclusively for nitrided components.",
+        "Options": [
+            "a) Nitric",
+            "b) Hy-Tuf",
+            "c) Austenitic",
+            "d) Nitriding steel",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 264,
+        "Question": "__________ is the name that refers to steel used in high tensile strength. (220,000-240,000 p.s.i)",
+        "Options": [
+            "a) S.A.E 1103",
+            "b) Carburizing",
+            "c) Hy-Tuf",
+            "d) S.A.E 8375",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 265,
+        "Question": "____________ is known as Hadfield’s manganese steel.",
+        "Options": [
+            "a) 6150 steel",
+            "b) Hydroxide steel",
+            "c) Austenitic manganese steel",
+            "d) Nitride manganese steel",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 266,
+        "Question": "S.A.E 4037 is a ___________ steel that can be used as a substitute for nickel steel in making bolts, pins etc.",
+        "Options": [
+            "a) hydroxide",
+            "b) vanadium",
+            "c) molybdenum",
+            "d) chromium",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 267,
+        "Question": "S.A.E 4130 is a ___________ steel that can be typically used in manufacturing parts made of sheet and tubing.",
+        "Options": [
+            "a) chrome-molybdenum",
+            "b) silicon",
+            "c) vanadium",
+            "d) uranium",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 268,
+        "Question": "Steel has a ____________ strength to weight ratio.",
+        "Options": [
+            "a) extremely low",
+            "b) low",
+            "c) medium",
+            "d) high",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 269,
+        "Question": "Steel is very ___________",
+        "Options": [
+            "a) rarely used",
+            "b) costly",
+            "c) durable",
+            "d) non-moldable",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 270,
+        "Question": "Steel has a __________ fatigue life in comparison to other metals like aluminium.",
+        "Options": [
+            "a) similar",
+            "b) higher",
+            "c) no",
+            "d) lower",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 271,
+        "Question": "The atomic number of magnesium is __________",
+        "Options": [
+            "a) 2",
+            "b) 15",
+            "c) 5",
+            "d) 12",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 272,
+        "Question": "The melting point of magnesium is ___________",
+        "Options": [
+            "a) 1250°",
+            "b) 327°",
+            "c) 650°C",
+            "d) 1668°C",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 273,
+        "Question": "Magnesium alloys are __________ and __________",
+        "Options": [
+            "a) non-magnetic, non-sparkling",
+            "b) magnetic, sparkling",
+            "c) non-magnetic, non-sparkling",
+            "d) magnetic, non-sparkling",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 274,
+        "Question": "Magnesium is frequently alloyed with __________ and _________",
+        "Options": [
+            "a) aluminium, zinc",
+            "b) uranium, aluminium",
+            "c) vanadium, zinc",
+            "d) zinc, uranium",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 275,
+        "Question": "Magnesium is a ___________ metal.",
+        "Options": [
+            "a) bluish-grey",
+            "b) reddish",
+            "c) silvery-white",
+            "d) yellow",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 276,
+        "Question": "Pure magnesium weighs around ___________ of aluminium.",
+        "Options": [
+            "a) 98%",
+            "b) 2%",
+            "c) 39%",
+            "d) 65%",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 277,
+        "Question": "The specific gravity of magnesium is __________",
+        "Options": [
+            "a) 1.8",
+            "b) 7.9",
+            "c) 2.7",
+            "d) 13.8",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 278,
+        "Question": "Which of the following are frequently found impurities in magnesium alloys?",
+        "Options": [
+            "a) Copper, vanadium",
+            "b) Aluminium, nickel",
+            "c) Nickel, iron",
+            "d) Nickel, Indium",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 279,
+        "Question": "Magnesium is convenient to use when ____________ thickness is required.",
+        "Options": [
+            "a) lateral",
+            "b) maximum",
+            "c) high",
+            "d) minimum",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 280,
+        "Question": "Magnesium alloys are obtainable in the form of __________",
+        "Options": [
+            "a) permanent mood",
+            "b) die castings",
+            "c) die castings and permanent mold",
+            "d) mud",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 281,
+        "Question": "The atomic mass of magnesium is ___________",
+        "Options": [
+            "a) 1/43 u",
+            "b) 47.867 u",
+            "c) 24.3 u",
+            "d) 51.9 u",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 282,
+        "Question": "___________ is not a magnesium ore.",
+        "Options": [
+            "a) Bauxite",
+            "b) Seawater",
+            "c) Dolomite",
+            "d) Magnesite",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 283,
+        "Question": "Recycling of magnesium requires only _________ of energy required to make the primary substance.",
+        "Options": [
+            "a) 24%",
+            "b) 10%",
+            "c) 88%",
+            "d) 38%",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 284,
+        "Question": "Magnesium constitutes around __________ of ocean water in weight.",
+        "Options": [
+            "a) 1.2%",
+            "b) 23%",
+            "c) 0.125%",
+            "d) 7.4%",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 285,
+        "Question": "Which one of the following is considered to be an ore of magnesium?",
+        "Options": [
+            "a) Bornite",
+            "b) Trihydrate",
+            "c) Monohydrate",
+            "d) Natural brines",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 286,
+        "Question": "An important principle for cutting tools of magnesium alloys is ___________ the friction.",
+        "Options": [
+            "a) transferring",
+            "b) scaling",
+            "c) limiting",
+            "d) increasing",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 287,
+        "Question": "For the first time in ___________ pure magnesium was obtained.",
+        "Options": [
+            "a) 1599",
+            "b) 2001",
+            "c) 1932",
+            "d) 1808",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 288,
+        "Question": "___________ is a process used to extract magnesium from its ore.",
+        "Options": [
+            "a) Nitride",
+            "b) Farnsworth process",
+            "c) Ferrosilicon process",
+            "d) Mows process",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 289,
+        "Question": "Magnesium obtained in the electrolytic process has a minimum purity of ___________",
+        "Options": [
+            "a) 69%",
+            "b) 22.65%",
+            "c) 99.98%",
+            "d) 100%",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 290,
+        "Question": "Dolomite is ___________",
+        "Options": [
+            "a) magnesium carbonate",
+            "b) magnesium and potassium chloride",
+            "c) magnesium calcium carbonate",
+            "d) magnesium",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 291,
+        "Question": "____________ is also called as Pidgeon.",
+        "Options": [
+            "a) Carbothermic process",
+            "b) Electrolytic process",
+            "c) Ferrosilicon process",
+            "d) Achilles process",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 292,
+        "Question": "Magnesium obtained through the ferrosilicon process can ensue in a minimum purity of ____________",
+        "Options": [
+            "a) 99.99%",
+            "b) 78%",
+            "c) 88.5%",
+            "d) 100%",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 293,
+        "Question": "The resultant outputs of the carbothermic process are magnesium and __________",
+        "Options": [
+            "a) radium",
+            "b) carbon dioxide",
+            "c) vanadium",
+            "d) carbon monoxide",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 294,
+        "Question": "_____________ is also referred to as Hansgirg.",
+        "Options": [
+            "a) Electrolytic process",
+            "b) Carbothermic process",
+            "c) Ferrosilicon process",
+            "d) Farnsworth process",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 295,
+        "Question": "Magnesium alloys can be made into ___________ sophisticated structures compared to aluminium alloys.",
+        "Options": [
+            "a) zero",
+            "b) less",
+            "c) similar",
+            "d) more",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 296,
+        "Question": "Which of the following components of aircraft can be manufactured using magnesium?",
+        "Options": [
+            "a) Engine",
+            "b) Wheels",
+            "c) Engine, landing gear",
+            "d) Landing gear",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 297,
+        "Question": "Magnesium __________ fuel efficiency.",
+        "Options": [
+            "a) maintains",
+            "b) reduces",
+            "c) improves",
+            "d) does not affect",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 298,
+        "Question": "Magnesium can be found in ____________",
+        "Options": [
+            "a) Greece, Antarctica",
+            "b) USA",
+            "c) USA, Greece",
+            "d) Antarctica",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 299,
+        "Question": "The modulus of elasticity of pure magnesium is __________",
+        "Options": [
+            "a) 6,500,000 p.s.i",
+            "b) 4,350,000 p.s.i",
+            "c) 16500 ksi",
+            "d) 330,00,000 p.s.i",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 300,
+        "Question": "The density of pure magnesium is ___________",
+        "Options": [
+            "a) 4.506 gram per cubic centimeter",
+            "b) 2.7 gram per cubic centimeter",
+            "c) 12.35 lb./cu.in.",
+            "d) 0.064 lb./cu.in.",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 301,
+        "Question": "Magnesium alloys have very __________ notch sensitivity in fatigue.",
+        "Options": [
+            "a) medium",
+            "b) good",
+            "c) poor",
+            "d) conflicting",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 302,
+        "Question": "Deficiency of magnesium can result in ____________",
+        "Options": [
+            "a) versatile vision",
+            "b) high blood pressure",
+            "c) moderate blood Pressure",
+            "d) high energy",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 303,
+        "Question": "Copper is a __________ element.",
+        "Options": [
+            "a) magnetic",
+            "b) dull",
+            "c) neuro-magnetic",
+            "d) non-magnetic",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 304,
+        "Question": "The atomic number of copper is ___________",
+        "Options": [
+            "a) 11",
+            "b) 13",
+            "c) 29",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 305,
+        "Question": "The ultimate tensile strength of soft copper is __________",
+        "Options": [
+            "a) 63000 psi",
+            "b) 45000 psi",
+            "c) 29000 psi",
+            "d) 50000 psi",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 306,
+        "Question": "Copper is ____________ and ____________",
+        "Options": [
+            "a) soft, malleable",
+            "b) soft, hard",
+            "c) brittle, malleable",
+            "d) hard, malleable",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 307,
+        "Question": "___________ and ___________ are ores of copper.",
+        "Options": [
+            "a) Dolomite, bornite",
+            "b) Bornite, chalcopyrite",
+            "c) Chalcopyrite, dolomite",
+            "d) Bornite, magnesite",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 308,
+        "Question": "The melting point of copper is __________",
+        "Options": [
+            "a) 1668°C",
+            "b) 660°C",
+            "c) 1085°C",
+            "d) 2228°C",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 309,
+        "Question": "Copper is frequently alloyed with __________",
+        "Options": [
+            "a) zinc",
+            "b) aluminium",
+            "c) helium",
+            "d) vanadium",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 310,
+        "Question": "The density of copper is _________",
+        "Options": [
+            "a) 4.506 gram per cubic centimetre",
+            "b) 2.7 gram per cubic centimetre",
+            "c) 9.9 gram per cubic centimetre",
+            "d) 8.9 gram per cubic centimetre",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 311,
+        "Question": "Copper is a ____________ of electricity.",
+        "Options": [
+            "a) bad conductor",
+            "b) good conductor",
+            "c) typical insulator",
+            "d) medium conductor",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 312,
+        "Question": "Copper is corrosion ___________",
+        "Options": [
+            "a) prone",
+            "b) generator",
+            "c) susceptible",
+            "d) resistant",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 313,
+        "Question": "The boiling point of copper is __________",
+        "Options": [
+            "a) 3287°C",
+            "b) 2470°C",
+            "c) 2562°C",
+            "d) 1687°C",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 314,
+        "Question": "Sulfide ores contain around _____ copper.",
+        "Options": [
+            "a) 9 – 10%",
+            "b) 8 – 12%",
+            "c) 4 – 5%",
+            "d) 0.5 – 2%",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 315,
+        "Question": "The first process in extraction of an element from ore is typically ______",
+        "Options": [
+            "a) roasting",
+            "b) electrolysis",
+            "c) crushing",
+            "d) smelting",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 316,
+        "Question": "Which of the following techniques are used in the extraction of copper?",
+        "Options": [
+            "a) Refining, down process",
+            "b) Smelting, vacuum pump",
+            "c) Roasting, refining",
+            "d) Roasting",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 317,
+        "Question": "___________ is a sulfide ore of copper.",
+        "Options": [
+            "a) Chalcocite",
+            "b) Cuprite",
+            "c) Magnesite",
+            "d) Azurite",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 318,
+        "Question": "Sulfide ores are typically processed through a technique known as __________",
+        "Options": [
+            "a) cathode",
+            "b) pyrometallurgy",
+            "c) hydrometallurgy",
+            "d) zarconsis",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 319,
+        "Question": "Copper ores typically contain less than _________ of copper.",
+        "Options": [
+            "a) 0.15%",
+            "b) 0.2%",
+            "c) 1%",
+            "d) 0.4%",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 320,
+        "Question": "Smelting is done to eradicate unwanted materials like ___________ to the fullest extent possible.",
+        "Options": [
+            "a) copper",
+            "b) copper and gangue minerals",
+            "c) sulfur",
+            "d) sulfur and gangue minerals",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 321,
+        "Question": "The final output after processing of copper ores to be purified produces around ____________ pure copper.",
+        "Options": [
+            "a) 100%",
+            "b) 45%",
+            "c) 99.9%",
+            "d) 86%",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 322,
+        "Question": "Muntz metal consists of ___________ copper and __________ zinc.",
+        "Options": [
+            "a) 75%, 25%",
+            "b) 25%, 75%",
+            "c) 50%, 50%",
+            "d) 60%, 40%",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 323,
+        "Question": "Manganese bronze is remarkably ___________",
+        "Options": [
+            "a) difficult to forge",
+            "b) weak",
+            "c) strong",
+            "d) low in zinc",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 324,
+        "Question": "Brass that consists of around ___________ zinc is highly ductile in nature.",
+        "Options": [
+            "a) 49-50%",
+            "b) 15-18%",
+            "c) 30-35%",
+            "d) 1-2%",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 325,
+        "Question": "The ultimate tensile strength for heat-treated muntz metal is __________",
+        "Options": [
+            "a) 80,000 p.s.i",
+            "b) 20,000 p.s.i",
+            "c) 60,000 p.s.i",
+            "d) 57,000 p.s.i",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 326,
+        "Question": "Manganese bronze is made of around 57% to 60% of __________",
+        "Options": [
+            "a) lead",
+            "b) manganese",
+            "c) copper",
+            "d) zinc",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 327,
+        "Question": "The density of beryllium copper is __________",
+        "Options": [
+            "a) 8.24 gram per cubic centimeters",
+            "b) 26 gram per cubic centimeters",
+            "c) 13.24 gram per cubic centimeters",
+            "d) 4.98 gram per cubic centimeters",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 328,
+        "Question": "Which of the following are properties of beryllium copper?",
+        "Options": [
+            "a) Low-strength, non-magnetic",
+            "b) Low-strength, magnetic",
+            "c) Magnetic, high-strength",
+            "d) High-strength, non-magnetic",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 329,
+        "Question": "A casting type of manganese bronze called manganese-aluminium alloy includes approximately __________ of tin.",
+        "Options": [
+            "a) 50%",
+            "b) 0.2%",
+            "c) 0.5%",
+            "d) 5%",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 330,
+        "Question": "Beryllium copper consists of around ___________ of beryllium.",
+        "Options": [
+            "a) 0.5%",
+            "b) 2 to 2.25%",
+            "c) 10 to 15%",
+            "d) 26 to30%",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 331,
+        "Question": "The ultimate tensile strength of sand cast Hy-Ten-Sl-Bronze is __________",
+        "Options": [
+            "a) 75,000 p.s.i",
+            "b) 115,000 p.s.i",
+            "c) 999,000 p.s.i",
+            "d) 229,000 p.s.i",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 332,
+        "Question": "Which of the following are properties of Hy-Ten-Sl-Bronze?",
+        "Options": [
+            "a) wear-prone, corrosive",
+            "b) wear-resistant, non-corrosive",
+            "c) wear-resistant, corrosive",
+            "d) wear-prone, non-corrosive",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 333,
+        "Question": "A type of casting of manganese bronze called manganese-aluminium alloy consists of approximately __________ of aluminium",
+        "Options": [
+            "a) 60 to 68%",
+            "b) 2 to 4%",
+            "c) 3 to 7.5%",
+            "d) 15%",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 334,
+        "Question": "Which of the following elements is occasionally present in brass is minor amounts?",
+        "Options": [
+            "a) Cooper, lead",
+            "b) Iron, vanadium",
+            "c) Lead",
+            "d) Iron, lead",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 335,
+        "Question": "____________ is also known as Tobin bronze.",
+        "Options": [
+            "a) Red clay",
+            "b) Sand",
+            "c) Uranium",
+            "d) Naval brass",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 336,
+        "Question": "Red brass contains around ____________ % antimony.",
+        "Options": [
+            "a) 0.75",
+            "b) 0.20",
+            "c) 0.25",
+            "d) 0.15",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 337,
+        "Question": "Red brass (casting) has a UTS of ___________",
+        "Options": [
+            "a) 15,00 pound-force per square inch",
+            "b) 29 pound-force per square inch",
+            "c) 30,000 pound-force per square inch",
+            "d) 10000 pound-force per square inch",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 338,
+        "Question": "___________ is used in manufacturing components like fuel line fittings.",
+        "Options": [
+            "a) Copper",
+            "b) Red brass",
+            "c) Red plate",
+            "d) Bronze",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 339,
+        "Question": "Copper alloys containing a large amount of __________ are called bronze.",
+        "Options": [
+            "a) lead",
+            "b) phosphorus",
+            "c) tin",
+            "d) iron",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 340,
+        "Question": "Naval brass is used in manufacturing ____________",
+        "Options": [
+            "a) bolts and studs",
+            "b) tires",
+            "c) bolts",
+            "d) bolts and tires",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 341,
+        "Question": "Gun-metal contains around ___________ % of zinc.",
+        "Options": [
+            "a) 0.9",
+            "b) 4-14",
+            "c) 6-9",
+            "d) 1-3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 342,
+        "Question": "Naval brass contains around ____________ of lead.",
+        "Options": [
+            "a) 0.5%",
+            "b) 0.10%",
+            "c) 0.20%",
+            "d) 10%",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 343,
+        "Question": "Gun-metal (casting) has a yield point of ____________",
+        "Options": [
+            "a) 30,000 pound-force per square inch",
+            "b) 15,000 pound-force per square inch",
+            "c) 6000 pound-force per square inch",
+            "d) 1000 pound-force per square inch",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 344,
+        "Question": "Naval brass has __________ strength compared to commercial brass.",
+        "Options": [
+            "a) lower",
+            "b) better",
+            "c) similar",
+            "d) lenient",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 345,
+        "Question": "Gun-metal should not be utilized in temperatures above __________",
+        "Options": [
+            "a) 260°C",
+            "b) 550°C",
+            "c) 260°F",
+            "d) 150°F",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 346,
+        "Question": "Red brass contains ______________ of zinc.",
+        "Options": [
+            "a) 40-50%",
+            "b) 4-6%",
+            "c) 1-2%",
+            "d) 30-35%",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 347,
+        "Question": "Gun-metal contains around _______________ copper.",
+        "Options": [
+            "a) 9-11%",
+            "b) 0.2%",
+            "c) 86-89%",
+            "d) 5-10%",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 348,
+        "Question": "Phosphor bronze can be utilized in the manufacturing of __________",
+        "Options": [
+            "a) skids",
+            "b) tires",
+            "c) rubber wheels",
+            "d) bolts",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 349,
+        "Question": "Phosphor bronze casting alloy is also known as __________",
+        "Options": [
+            "a) aluminium",
+            "b) barrel",
+            "c) leaded gunmetal",
+            "d) tripper metal",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 350,
+        "Question": "Phosphor bronze contains approximately _________ % of phosphorous.",
+        "Options": [
+            "a) 3.5",
+            "b) 0.9",
+            "c) 0.05-0.5",
+            "d) 26",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 351,
+        "Question": "The UTS of phosphor bronze casting alloy is _________",
+        "Options": [
+            "a) 20,000 pounds per square inch",
+            "b) 40,000 pounds per square inch",
+            "c) 1,000 pounds per square inch",
+            "d) 599 pounds per square inch",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 352,
+        "Question": "Aluminium bronze contains approximately 6.5-11% of ___________",
+        "Options": [
+            "a) titanium",
+            "b) manganese",
+            "c) aluminium",
+            "d) vanadium",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 353,
+        "Question": "Phosphor bronze contains approximately __________ % of copper.",
+        "Options": [
+            "a) 0.2",
+            "b) 0.1",
+            "c) 36",
+            "d) 94",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 354,
+        "Question": "Phosphor bronze casting alloy contains approximately __________ % of zinc.",
+        "Options": [
+            "a) 0-0.3",
+            "b) 0.75",
+            "c) 1.5-4.5",
+            "d) 45",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 355,
+        "Question": "Aluminium bronze is accessible in the frame of __________",
+        "Options": [
+            "a) taps",
+            "b) bars and plates",
+            "c) bars",
+            "d) taps and bars",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 356,
+        "Question": "A anneal of ____________ temperature is enough to deter the phenomenon of season cracking.",
+        "Options": [
+            "a) high",
+            "b) low",
+            "c) medium",
+            "d) unusual",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 357,
+        "Question": "Aluminium bronze casting alloys have a UTS of __________",
+        "Options": [
+            "a) 85,000 pounds per square inch",
+            "b) 10,000 pounds per square inch",
+            "c) 23,000 pounds per square inch",
+            "d) 1,000 pounds per square inch",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 358,
+        "Question": "Aluminium bronze consists of around ___________ of iron.",
+        "Options": [
+            "a) 4%",
+            "b) 7%",
+            "c) 0.6%",
+            "d) 60%",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 359,
+        "Question": "___________ of copper is present in Aluminium bronze casting alloy.",
+        "Options": [
+            "a) 10.5-12%",
+            "b) 78%",
+            "c) 2-5%",
+            "d) 26%",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 360,
+        "Question": "Materials like brasses and bronzes experiencing cracking after being used for a long duration is called __________",
+        "Options": [
+            "a) factual cracking",
+            "b) residual cracking",
+            "c) season cracking",
+            "d) crack cracking",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 361,
+        "Question": "Inconel is an alloy that contains nickel and ___________",
+        "Options": [
+            "a) iron",
+            "b) steel",
+            "c) zinc",
+            "d) chromium",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 362,
+        "Question": "The atomic number of nickel is __________",
+        "Options": [
+            "a) 5",
+            "b) 40",
+            "c) 28",
+            "d) 13",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 363,
+        "Question": "Which one of the following is not a nickel ore?",
+        "Options": [
+            "a) Pentlandite",
+            "b) Chalcopyrite",
+            "c) Rutile",
+            "d) Pyrrhotite",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 364,
+        "Question": "Monel is an alloy that consists of nickel and __________",
+        "Options": [
+            "a) brass",
+            "b) copper",
+            "c) bronze",
+            "d) titanium",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 365,
+        "Question": "The young’s modulus of nickel is __________",
+        "Options": [
+            "a) 69 GPa",
+            "b) 120 GPa",
+            "c) 200 GPa",
+            "d) 159 GPa",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 366,
+        "Question": "Nickel is a __________ material.",
+        "Options": [
+            "a) soft",
+            "b) non-ductile",
+            "c) non-metallic",
+            "d) ductile",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 367,
+        "Question": "___________ is often used in the manufacturing of aircraft engine exhaust collectors.",
+        "Options": [
+            "a) K Monel",
+            "b) Monel",
+            "c) Inconel",
+            "d) T Monel",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 368,
+        "Question": "K Monel is an alloy that includes nickel __________",
+        "Options": [
+            "a) copper",
+            "b) aluminium",
+            "c) iron",
+            "d) copper-aluminium",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 369,
+        "Question": "The melting point of nickel is __________",
+        "Options": [
+            "a) 660°C",
+            "b) 1445°C",
+            "c) 1668°C",
+            "d) 1300°C",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 370,
+        "Question": "The approximate percentage of chromium present in Inconel is __________",
+        "Options": [
+            "a) 42%",
+            "b) 6.5%",
+            "c) 0.25%",
+            "d) 13%",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 371,
+        "Question": "Machining of the nickel alloy Monel can be done __________",
+        "Options": [
+            "a) with hardships",
+            "b) trapped",
+            "c) without hardship",
+            "d) impossibly",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 372,
+        "Question": "The melting point of K Monel is around ___________",
+        "Options": [
+            "a) 2400-2460°C",
+            "b) 1245°F",
+            "c) 2400-2460°F",
+            "d) 1064-1890°F",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 373,
+        "Question": "The density of Inconel is ___________",
+        "Options": [
+            "a) 22 gram per cubic centimeter",
+            "b) 8.51 gram per cubic centimeter",
+            "c) 123 gram per cubic centimeter",
+            "d) 45 gram per cubic centimeter",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 374,
+        "Question": "The approximate amount of aluminium present in K Monel is ___________",
+        "Options": [
+            "a) 26%",
+            "b) 0.15%",
+            "c) 2.75%",
+            "d) 99%",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 375,
+        "Question": "Monel is utilized in ___________",
+        "Options": [
+            "a) non-chemical applications",
+            "b) schools",
+            "c) aerospace purposes",
+            "d) industries",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 376,
+        "Question": "Inconel is a heat _____________ material.",
+        "Options": [
+            "a) conducting",
+            "b) accepting",
+            "c) resisting",
+            "d) exhausting",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 377,
+        "Question": "It is possible to harden K Monel through ___________",
+        "Options": [
+            "a) clod treatment",
+            "b) gold treatment",
+            "c) proof treatment",
+            "d) heat treatment",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 378,
+        "Question": "The density of rolled Monel is __________",
+        "Options": [
+            "a) 19.1 gram per cubic centimeter",
+            "b) 8.9 gram per cubic centimeter",
+            "c) 32 gram per cubic centimeter",
+            "d) 8.8 gram per cubic centimeter",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 379,
+        "Question": "K Monel is typically manufactured by adding a little __________ in Monel.",
+        "Options": [
+            "a) aluminium",
+            "b) titanium",
+            "c) copper",
+            "d) silicon",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 380,
+        "Question": "K Monel is a ___________ material.",
+        "Options": [
+            "a) ferrous",
+            "b) non-ferrous",
+            "c) proxy-ferrous",
+            "d) anti-ferrous",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 381,
+        "Question": "Monel consists of approximately _________ of copper.",
+        "Options": [
+            "a) 30%",
+            "b) 1.4%",
+            "c) 0.1%",
+            "d) 16%",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 382,
+        "Question": "Welding on Inconel is done __________",
+        "Options": [
+            "a) with difficulty",
+            "b) easily",
+            "c) hardly",
+            "d) wretchedly",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 383,
+        "Question": "The amount of nickel present in Inconel is __________",
+        "Options": [
+            "a) 0.2%",
+            "b) 0.25%",
+            "c) 46%",
+            "d) 79.5%",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 384,
+        "Question": "At normal temperatures, the material K Monel is __________",
+        "Options": [
+            "a) magnetic",
+            "b) active",
+            "c) non-magnetic",
+            "d) corrosion prone",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 385,
+        "Question": "The melting point of Monel is around __________",
+        "Options": [
+            "a) 1220°F",
+            "b) 2355-2566°C",
+            "c) 2370-2460°F",
+            "d) 4500°F",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 386,
+        "Question": "The melting point of Inconel is ___________",
+        "Options": [
+            "a) 1090°F",
+            "b) 2540°F",
+            "c) 2900°F",
+            "d) 2540°C",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 387,
+        "Question": "The approximate amount of nickel present in Monel is __________",
+        "Options": [
+            "a) 1%",
+            "b) 0.15%",
+            "c) 67%",
+            "d) 33%",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 388,
+        "Question": "The approximate amount of copper present in K Monel is __________",
+        "Options": [
+            "a) 0.85%",
+            "b) 0.9%",
+            "c) 46%",
+            "d) 29%",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 389,
+        "Question": "Inconel ____________ high strength and high temperatures.",
+        "Options": [
+            "a) generates",
+            "b) radiates",
+            "c) preserves",
+            "d) hooks",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 390,
+        "Question": "The density of K Monel is __________",
+        "Options": [
+            "a) 90.34 grams per cubic centimetre",
+            "b) 44 grams per cubic centimetre",
+            "c) 18.2 grams per cubic centimetre",
+            "d) 8.47 grams per cubic centimetre",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 391,
+        "Question": "Monel can be welded ___________",
+        "Options": [
+            "a) rarely",
+            "b) easily",
+            "c) with difficulty",
+            "d) timelessly",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 392,
+        "Question": "___________ alleviates internal stress.",
+        "Options": [
+            "a) Annealing",
+            "b) Conducting",
+            "c) Bombarding",
+            "d) Inundating",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 393,
+        "Question": "___________ is not a method of welding of Monel.",
+        "Options": [
+            "a) Oxyacetylene",
+            "b) Cold-stiffening",
+            "c) Carbon-arc welding",
+            "d) Metallic-arc welding",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 394,
+        "Question": "Heating of alloys that have high nickel content should be done in __________ atmospheres.",
+        "Options": [
+            "a) sulphur free",
+            "b) low temperatures",
+            "c) sulphur rich",
+            "d) sulphur infused",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 395,
+        "Question": "Inconel is softened by heating up to ___________",
+        "Options": [
+            "a) 1800°C",
+            "b) 1800°F",
+            "c) 180°C",
+            "d) 180°F",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 396,
+        "Question": "Inconel is accessible commercially in which of the following shapes?",
+        "Options": [
+            "a) Tube",
+            "b) Wires",
+            "c) Z-shapes",
+            "d) Tubes and wires",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 397,
+        "Question": "Monel is used in making ___________",
+        "Options": [
+            "a) oil coolers",
+            "b) rivets",
+            "c) oil coolers and rivets",
+            "d) rubber tires",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 398,
+        "Question": "___________ metal is used near compasses.",
+        "Options": [
+            "a) Monel",
+            "b) Inconel",
+            "c) K Monel",
+            "d) Iron",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 399,
+        "Question": "Inconel weighs ___________ corrosion-resistant steel.",
+        "Options": [
+            "a) less than",
+            "b) more than",
+            "c) equal to",
+            "d) double of",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 400,
+        "Question": "___________ is a relatively non-complicated way of joining (Monel) where strength is not necessary.",
+        "Options": [
+            "a) Welding",
+            "b) Carbon-arc",
+            "c) Soft soldering",
+            "d) Oxyacetylene",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 401,
+        "Question": "____________ alloy/alloys are corrosion resistant in atmosphere and saltwater.",
+        "Options": [
+            "a) Inconel",
+            "b) Monel",
+            "c) Steel",
+            "d) Inconel and K Monel",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 402,
+        "Question": "Soft soldering of Monel should not be done when the material is subjected to ___________",
+        "Options": [
+            "a) low stress",
+            "b) ideal properties",
+            "c) vibration",
+            "d) vibration and ideal properties",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 403,
+        "Question": "Inconel springs can be used at temperatures between ___________",
+        "Options": [
+            "a) 600-700°C",
+            "b) 100-200°F",
+            "c) 50-150°F",
+            "d) 600-700°F",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 404,
+        "Question": "____________ can be used as a lubricant when Monel is subjected to boring, drilling, etc.",
+        "Options": [
+            "a) Carbon oil",
+            "b) Sulphurized oil",
+            "c) Vegetable oil",
+            "d) Deep oil",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 405,
+        "Question": "K Monel sheet can be welded satisfactorily by ___________",
+        "Options": [
+            "a) oxyacetylene",
+            "b) cold-rolling",
+            "c) anomaxicity",
+            "d) cold-rolling and Anomaxicity",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 406,
+        "Question": "____________ is formed on the surface of Inconel if heated above 700°F in an oxidizing atmosphere.",
+        "Options": [
+            "a) Carbon",
+            "b) Chromium oxide",
+            "c) Hydrogen peroxide",
+            "d) Nitric oxide",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 407,
+        "Question": "K Monel is accessible as ___________",
+        "Options": [
+            "a) Forgings",
+            "b) Z-shape",
+            "c) U-shape",
+            "d) T-shape",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 408,
+        "Question": "Inconel welds are cleaned after fabrication by submerging in a _________ cold nitric acid solution.",
+        "Options": [
+            "a) 20%",
+            "b) 50%",
+            "c) 99%",
+            "d) 12%",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 409,
+        "Question": "The atomic number of zinc is ___________",
+        "Options": [
+            "a) 25",
+            "b) 13",
+            "c) 104",
+            "d) 30",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 410,
+        "Question": "The density of Zinc is ____________ at room temperature.",
+        "Options": [
+            "a) 2.7 gram per cubic centimetre",
+            "b) 6.52 gram per cubic centimetre",
+            "c) 7.14 gram per cubic centimetre",
+            "d) 0.44 gram per cubic centimetre",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 411,
+        "Question": "Zinc in the form of ores can be found in which of the following places?",
+        "Options": [
+            "a) Antarctica",
+            "b) Canada",
+            "c) Canada and Russia",
+            "d) Russia and Antarctica",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 412,
+        "Question": "Zinc is alloyed with which of the following elements frequently?",
+        "Options": [
+            "a) Vanadium",
+            "b) Copper",
+            "c) Helium",
+            "d) Rutherfordium",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 413,
+        "Question": "Which of the following are ores of zinc?",
+        "Options": [
+            "a) Cobaltite",
+            "b) Erythrite",
+            "c) Marmatite",
+            "d) Litharge",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 414,
+        "Question": "The melting point of zinc is __________",
+        "Options": [
+            "a) 1495°C",
+            "b) 1445°C",
+            "c) 787.1°C",
+            "d) 787.1°F",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 415,
+        "Question": "Zinc is ___________ in colour.",
+        "Options": [
+            "a) black",
+            "b) yellow",
+            "c) bluish-silver",
+            "d) red",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 416,
+        "Question": "Pure zinc in metallic form was discovered by a __________ chemist.",
+        "Options": [
+            "a) Persian",
+            "b) Indian",
+            "c) American",
+            "d) German",
+            ""
+        ],
+        "Answer": "Answer: d"
+    }
+]

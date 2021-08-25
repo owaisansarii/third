@@ -1,0 +1,2174 @@
+[
+    {
+        "id": 1,
+        "Question": "Which of the following is Natural number?",
+        "Options": [
+            "a) 3.5",
+            "b) 7",
+            "c) 0",
+            "d) -2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 2,
+        "Question": "Integer numbers set is denoted by which letter?",
+        "Options": [
+            "a) N",
+            "b) W",
+            "c) Q",
+            "d) Z",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 3,
+        "Question": "Find the incorrect option (Assume conventional notations).",
+        "Options": [
+            "a) Q = p/q where p and q are integers and q=0",
+            "b) N = {1, 2, 3…}",
+            "c) W = {0, 1, 2, 3…}",
+            "d) Z = {…-2, -1, 0, 1, 2…}",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 4,
+        "Question": "There are _________ rational numbers between 2 and 3.",
+        "Options": [
+            "a) zero",
+            "b) two",
+            "c) infinite",
+            "d) data is insufficient",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 5,
+        "Question": "Which of the following is not rational number?",
+        "Options": [
+            "a) 8/9",
+            "b) 5/7",
+            "c) -3/2",
+            "d) √2",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 6,
+        "Question": "How many whole numbers are there between -3 and 3 (Including -3 and 3)?",
+        "Options": [
+            "a) Four",
+            "b) Zero",
+            "c) Seven",
+            "d) Three",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 7,
+        "Question": "Rational numbers are denoted by ______",
+        "Options": [
+            "a) N",
+            "b) Z",
+            "c) Q",
+            "d) W",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 8,
+        "Question": "Irrational numbers are denoted by _______",
+        "Options": [
+            "a) N",
+            "b) Z",
+            "c) Q",
+            "d) S",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 9,
+        "Question": "\\(\\frac{1 + \\sqrt{3}}{2}\\) is ____________",
+        "Options": [
+            "a) rational number",
+            "b) irrational number",
+            "c) natural number",
+            "d) integer",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 10,
+        "Question": "Real numbers are denoted by which letter?",
+        "Options": [
+            "a) R",
+            "b) W",
+            "c) Q",
+            "d) N",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 11,
+        "Question": "How many real numbers are there between 3 and 8 (Including 3 and 8)?",
+        "Options": [
+            "a) Six",
+            "b) Four",
+            "c) Infinite",
+            "d) Five",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 12,
+        "Question": "Which of the following is not irrational number?",
+        "Options": [
+            "a) \\(\\frac{\\sqrt{9}}{2}\\) ",
+            "b) π",
+            "c) \\(\\frac{\\sqrt{3}}{2}\\) ",
+            "d) \\(\\frac{\\sqrt{11}}{2}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 13,
+        "Question": "Which of the following is the correct way to write \\(5.4\\bar{12}\\)?",
+        "Options": [
+            "a) 5.412412412…",
+            "b) 5.4121212…",
+            "c) -5.412",
+            "d) 5.4 – 12",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 14,
+        "Question": "0.3454545…..=_____________",
+        "Options": [
+            "a) 345/1000",
+            "b) 350/995",
+            "c) 355/900",
+            "d) 342/990",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 15,
+        "Question": "0.3333… is a/an ______________",
+        "Options": [
+            "a) natural number",
+            "b) whole number",
+            "c) rational number",
+            "d) irrational number",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 16,
+        "Question": "0.238765563246… is a/an __________",
+        "Options": [
+            "a) rational number",
+            "b) irrational number",
+            "c) natural number",
+            "d) whole number",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 17,
+        "Question": "Which of the following number is an irrational number between 1/3 and 2/3?",
+        "Options": [
+            "a) 0.3333….",
+            "b) 0.343403400…",
+            "c) 0.55555….",
+            "d) 0.67670671….",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 18,
+        "Question": "√5 is a/an ___________",
+        "Options": [
+            "a) natural number",
+            "b) whole number",
+            "c) rational number",
+            "d) irrational number",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 19,
+        "Question": "Summation or Subtraction of two non-zero rational numbers is a/an __________",
+        "Options": [
+            "a) natural number",
+            "b) whole number",
+            "c) rational Number",
+            "d) irrational number",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 20,
+        "Question": "If we multiply or divide two rational numbers, we get a/an __________",
+        "Options": [
+            "a) natural number",
+            "b) whole number",
+            "c) rational Number",
+            "d) irrational number",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 21,
+        "Question": "If we add or subtract an irrational number and a rational number (non-zero), then we get a/an __________ number.",
+        "Options": [
+            "a) natural",
+            "b) rational",
+            "c) irrational",
+            "d) rational or irrational",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 22,
+        "Question": "If we add or subtract two irrational numbers, we get __________ number.",
+        "Options": [
+            "a) natural",
+            "b) rational",
+            "c) irrational",
+            "d) rational or irrational",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 23,
+        "Question": "3 + \\(\\sqrt{2}\\) is a/an __________ number.",
+        "Options": [
+            "a) natural",
+            "b) irrational",
+            "c) rational",
+            "d) whole",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 24,
+        "Question": "π – π is __________ number.",
+        "Options": [
+            "a) natural",
+            "b) irrational",
+            "c) rational",
+            "d) negative",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 25,
+        "Question": "By simplifying \\((\\sqrt{7}+\\sqrt{5}) * (\\sqrt{7}-\\sqrt{5})\\), we get __________",
+        "Options": [
+            "a) 24",
+            "b) 2",
+            "c) 12",
+            "d) 74",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 26,
+        "Question": "By rationalising the denominator of \\(\\frac{1}{\\sqrt{3}}\\), we get __________",
+        "Options": [
+            "a) \\(\\frac{\\sqrt{3}}{3}\\) ",
+            "b) \\(\\sqrt{3}\\) ",
+            "c) \\(\\frac{3}{\\sqrt{3}}\\) ",
+            "d) \\(3\\sqrt{3}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 27,
+        "Question": "By simplifying \\((\\sqrt{3}+\\sqrt{2}) * (\\sqrt{3}+\\sqrt{2})\\), we get __________",
+        "Options": [
+            "a) 5 + 4√6",
+            "b) 5 + 2√6",
+            "c) 1",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 28,
+        "Question": "By rationalising the denominator of \\(\\frac{1}{(6-\\sqrt{3})}\\), we get __________",
+        "Options": [
+            "a) \\(\\frac{6-\\sqrt{3}}{3}\\) ",
+            "b) \\(\\frac{6-\\sqrt{3}}{33}\\) ",
+            "c) \\(\\frac{6+\\sqrt{3}}{3}\\) ",
+            "d) \\(\\frac{6+\\sqrt{3}}{33}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 29,
+        "Question": "By rationalising the denominator of \\(\\frac{1}{5+\\sqrt{7}}\\), we get __________",
+        "Options": [
+            "a) \\(\\frac{5-\\sqrt{7}}{5+\\sqrt{7}}\\) ",
+            "b) \\(\\frac{5-\\sqrt{7}}{18}\\) ",
+            "c) \\(\\frac{5+\\sqrt{7}}{18}\\) ",
+            "d) \\(\\frac{5+\\sqrt{7}}{5-\\sqrt{7}}\\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 30,
+        "Question": "Summation or Subtraction of rational number and irrational number is always a/an __________ number.",
+        "Options": [
+            "a) natural",
+            "b) whole number",
+            "c) rational number",
+            "d) irrational number",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 31,
+        "Question": "By simplifying (8)2/3, we get __________",
+        "Options": [
+            "a) 4",
+            "b) 16",
+            "c) (8)2/(8)3",
+            "d) 32",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 32,
+        "Question": "By simplifying (3)3/2, we get __________",
+        "Options": [
+            "a) (3)3/(3)2",
+            "b) (3)2/(3)3",
+            "c) \\(\\sqrt{27}\\) ",
+            "d) \\(\\sqrt[3]{9}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 33,
+        "Question": "By simplifying (5)3/8, we get __________",
+        "Options": [
+            "a) (5)3/(58)",
+            "b) (125)1/8",
+            "c) (5)8/(5)3",
+            "d) 524",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 34,
+        "Question": "By simplifying (3)1/3 * (3)2/3, we get __________",
+        "Options": [
+            "a) (3)2/9",
+            "b) (3)-1/9",
+            "c) 9",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 35,
+        "Question": "By simplifying (7)2/5 * (7)3/4, we get __________",
+        "Options": [
+            "a) (7)6/20",
+            "b) 7",
+            "c) (7)23/20",
+            "d) (7)-7/20",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 36,
+        "Question": "By simplifying (9)1/4 * (9)7/4, we get __________",
+        "Options": [
+            "a) 81",
+            "b) 9",
+            "c) 3",
+            "d) 27",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 37,
+        "Question": "By simplifying (5)3/4/(5)1/4, we get __________",
+        "Options": [
+            "a) (5)1/4",
+            "b) (5)3/16",
+            "c) \\(\\sqrt[3]{5}\\) ",
+            "d) \\(\\sqrt[2]{5}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 38,
+        "Question": "By simplifying (4)9/(4)3, we get __________",
+        "Options": [
+            "a) 427",
+            "b) 46",
+            "c) 412",
+            "d) 43",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 39,
+        "Question": "By simplifying (13)1/2/(13)7/2, we get __________",
+        "Options": [
+            "a) 137/4",
+            "b) 13-3",
+            "c) \\(\\frac{1}{\\sqrt[2]{13}}\\) ",
+            "d) \\(\\frac{1}{\\sqrt[3]{13}}\\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 40,
+        "Question": "By simplifying (4)1/3*(16)1/3, we get __________",
+        "Options": [
+            "a) 4",
+            "b) 8",
+            "c) 643",
+            "d) 16",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 41,
+        "Question": "By simplifying 23*53, we get __________",
+        "Options": [
+            "a) 106",
+            "b) 100",
+            "c) 1000",
+            "d) 109",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 42,
+        "Question": "By simplifying (2)1/2/(18)-1/2, we get __________",
+        "Options": [
+            "a) 36",
+            "b) 362",
+            "c) 9",
+            "d) 6",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 43,
+        "Question": "What is the coefficient of x3 in a polynomial 6x4 + 3x2 + 8x + 5?",
+        "Options": [
+            "a) 6",
+            "b) 3",
+            "c) 8",
+            "d) 0",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 44,
+        "Question": "What is the degree of a polynomial of 4x7+9x5+5x2+11?",
+        "Options": [
+            "a) 7",
+            "b) 4",
+            "c) 5",
+            "d) 2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 45,
+        "Question": "What is the degree of a polynomial 7?",
+        "Options": [
+            "a) 7",
+            "b) 1",
+            "c) 0",
+            "d) 2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 46,
+        "Question": "What is the degree of 0?",
+        "Options": [
+            "a) Not defined",
+            "b) 1",
+            "c) 2",
+            "d) 0",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 47,
+        "Question": "A quadratic polynomial can have at most __________ terms.",
+        "Options": [
+            "a) 1",
+            "b) 4",
+            "c) 2",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 48,
+        "Question": "(x-y)2 = __________",
+        "Options": [
+            "a) x2 + 2xy+y2",
+            "b) x2 – 2xy+y2",
+            "c) x2 – y2",
+            "d) x2 + y2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 49,
+        "Question": "How many terms are there in a polynomial 5x2+2x-2?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 50,
+        "Question": "Which of the following is the example of Trinomial?",
+        "Options": [
+            "a) 9x3+ 5x2+7x+2",
+            "b) 9",
+            "c) 7x-2",
+            "d) 5x2+2x-2",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 51,
+        "Question": "If p(x) = 4x2+7x-8, then the value of p(2) is __________",
+        "Options": [
+            "a) 20",
+            "b) 18",
+            "c) 22",
+            "d) 14",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 52,
+        "Question": "What is the zero of p(x) = x2+6x+9?",
+        "Options": [
+            "a) -3",
+            "b) -6",
+            "c) -9",
+            "d) -2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 53,
+        "Question": "\\(\\frac{(5x^3 + 2x^2 + x)}{x}\\) = __________",
+        "Options": [
+            "a) 5x3 + 2x2 + 1",
+            "b) 5x4 + 2x3 + x",
+            "c) 5x2 + 2x2 + x",
+            "d) 5x2 + 2x + 1",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 54,
+        "Question": "What is the remainder if we divide 6x3 + x2 – 2x + 4 by x-2 ?",
+        "Options": [
+            "a) 48",
+            "b) 52",
+            "c) -26",
+            "d) -24",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 55,
+        "Question": "Find the value of k, if x-3 is a factor of 5x3-2x2+x+k.",
+        "Options": [
+            "a) 50",
+            "b) 60",
+            "c) -60",
+            "d) -120",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 56,
+        "Question": "What do we get after factorising x2+6x-27?",
+        "Options": [
+            "a) (x+9)(x-3)",
+            "b) (x-9)(x+3)",
+            "c) (x-9)(x-3)",
+            "d) (x+9)(x+3)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 57,
+        "Question": "What do we get after factoring 49x2-28xy+.4y2?",
+        "Options": [
+            "a) (7x+2y)2",
+            "b) (49x-4y)2",
+            "c) (7x-2y)2",
+            "d) (7x-28y)2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 58,
+        "Question": "26*34 = __________ (calculate without direct calculation).",
+        "Options": [
+            "a) 900",
+            "b) 884",
+            "c) 916",
+            "d) 844",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 59,
+        "Question": "27*29 = __________ (calculate without direct calculation).",
+        "Options": [
+            "a) 783",
+            "b) 753",
+            "c) 763",
+            "d) 793",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 60,
+        "Question": "953 = __________ (calculate without direct calculation).",
+        "Options": [
+            "a) 856395",
+            "b) 857625",
+            "c) 857375",
+            "d) 852395",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 61,
+        "Question": "What do we get after expanding (p+3q-2z)2?",
+        "Options": [
+            "a) p2 + 9q2 + 4z2 + 6pq – 12qz + 4zp",
+            "b) p2 + 9q2 + 4z2 + 12pq + 12qz + 4zp",
+            "c) p2 + 9q2 + 4z2 – 12pq – 12qz – 4zp",
+            "d) p2 + 9q2 + 4z2 + 6pq – 12qz – 4zp",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 62,
+        "Question": "What do we get after factorising x3+ 8y3+ z3 – 4xyz?",
+        "Options": [
+            "a) (x + 2y + z) (x2 + 4y2 + z2 – 2xy – 2yz – zx)",
+            "b) (x + 2y + z) (x2 + 4y2 + z2 – 2xy – 2yz – zx)",
+            "c) (x + 2y + z) (x2 + 4y2 + z2 – 2xy – 2yz – zx)",
+            "d) (x + 2y + z) (x2 + 4y2+  z2 – 2xy – 2yz – zx)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 63,
+        "Question": "Point where XX’ and YY’ intersect, is called __________",
+        "Options": [
+            "a) abscissa",
+            "b) ordinate",
+            "c) origin",
+            "d) coordinate",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 64,
+        "Question": "How many parts does the axes divide the plane into?",
+        "Options": [
+            "a) One",
+            "b) Two",
+            "c) Three",
+            "d) Four",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 65,
+        "Question": "Which of the following are positive directions?",
+        "Options": [
+            "a) OX’ and OY’",
+            "b) OX and OY’",
+            "c) OX’ and OY",
+            "d) OX and OY",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 66,
+        "Question": "If a point is in 2nd quadrant, then it is in __________ form.",
+        "Options": [
+            "a) (+, +)",
+            "b) (+, -)",
+            "c) (-, +)",
+            "d) (-, -)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 67,
+        "Question": "Why is coordinate geometry used?",
+        "Options": [
+            "a) To find square root of a number",
+            "b) To locate a point in a plane precisely",
+            "c) To create different shapes",
+            "d) To multiply numbers",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 68,
+        "Question": "Which of the following is the correct way to represent the point p(2, -3) in the cartesian system?",
+        "Options": [
+            "a) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-plotting-point-plane-coordinates-q1a.png\" alt=\"\" width=\"251\" height=\"262\" class=\"alignnone size-full wp-image-271793\" />",
+            "b) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-plotting-point-plane-coordinates-q1b.png\" alt=\"\" width=\"273\" height=\"258\" class=\"alignnone size-full wp-image-271794\" />",
+            "c) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-plotting-point-plane-coordinates-q1c.png\" alt=\"\" width=\"259\" height=\"268\" class=\"alignnone size-full wp-image-271791\" />",
+            "d) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-plotting-point-plane-coordinates-q1d.png\" alt=\"\" width=\"234\" height=\"246\" class=\"alignnone size-full wp-image-271792\" />",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 69,
+        "Question": "Point p(0, 4) lies along __________ axis.",
+        "Options": [
+            "a) OX",
+            "b) OX’",
+            "c) OY",
+            "d) OY’",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 70,
+        "Question": "Point p(-3, 5) lies in __________ quadrant.",
+        "Options": [
+            "a) 1st",
+            "b) 2nd",
+            "c) 3rd",
+            "d) 4th",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 71,
+        "Question": "Linear equations are of __________ form.",
+        "Options": [
+            "a) ax2+bx+c = 0",
+            "b) ax+by+c = 0",
+            "c) x2+y2 = a2",
+            "d) x2-y2 = a2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 72,
+        "Question": "How many solutions does a linear equation have?",
+        "Options": [
+            "a) One",
+            "b) Two",
+            "c) Three",
+            "d) Four",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 73,
+        "Question": "Which of the following is the correct way to represent the equation 3x=9 in ax+by+c = 0 form?",
+        "Options": [
+            "a) 3x = -0y + 9",
+            "b) 3x + 0y = 9",
+            "c) 3x + 0y – 9 = 0",
+            "d) 3x + 0y = 9",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 74,
+        "Question": "Find the solution for the linear equation 2.5x=5?",
+        "Options": [
+            "a) x=-2",
+            "b) x=5",
+            "c) x=3",
+            "d) x=2",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 75,
+        "Question": "Which of the following is the solution for 2x+4y=12?",
+        "Options": [
+            "a) x=2, y=2",
+            "b) x=1, y=0",
+            "c) x=3, y=1",
+            "d) x=-1, y=4",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 76,
+        "Question": "What are the number of solutions of linear equation 2x+4y=12?",
+        "Options": [
+            "a) One",
+            "b) Two",
+            "c) Three",
+            "d) Infinite",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 77,
+        "Question": "What are the number of solutions of set of linear equations x+2y=6 and 3x+6y=16?",
+        "Options": [
+            "a) One",
+            "b) Two",
+            "c) Zero",
+            "d) Infinite",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 78,
+        "Question": "Which of the following line satisfies the equation x=2?",
+        "Options": [
+            "a) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-equations-lines-parallel-x-axis-y-axis-q1a.png\" alt=\"\" width=\"233\" height=\"235\" class=\"alignnone size-full wp-image-271813\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-equations-lines-parallel-x-axis-y-axis-q1a.png 233w, https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-equations-lines-parallel-x-axis-y-axis-q1a-150x150.png 150w\" sizes=\"(max-width: 233px) 100vw, 233px\" />",
+            "b) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-equations-lines-parallel-x-axis-y-axis-q1b.png\" alt=\"\" width=\"233\" height=\"239\" class=\"alignnone size-full wp-image-271812\" />",
+            "c) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-equations-lines-parallel-x-axis-y-axis-q1c.png\" alt=\"\" width=\"243\" height=\"247\" class=\"alignnone size-full wp-image-271811\" />",
+            "d) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-equations-lines-parallel-x-axis-y-axis-q1d.png\" alt=\"\" width=\"244\" height=\"252\" class=\"alignnone size-full wp-image-271810\" />",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 79,
+        "Question": "Line of the equation y=a (a is constant) is __________",
+        "Options": [
+            "a) Parallel to X – axis",
+            "b) Parallel to Y – axis",
+            "c) Makes an angle of 45 degree with X – axis",
+            "d) Makes an angle of 45 degree with Y – axis",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 80,
+        "Question": "Number of solutions of the equation x-4=0 are?",
+        "Options": [
+            "a) Infinite",
+            "b) Three",
+            "c) Two",
+            "d) One",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 81,
+        "Question": "Number of solutions of the equation x+0y-4=0 are?",
+        "Options": [
+            "a) One",
+            "b) Three",
+            "c) Infinite",
+            "d) Two",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 82,
+        "Question": "What does geometry mean?",
+        "Options": [
+            "a) Measurement of land",
+            "b) Measurement of physical objects",
+            "c) Measurement of velocity",
+            "d) Measurement of Pressure",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 83,
+        "Question": "How many dimensions does a point have?",
+        "Options": [
+            "a) One",
+            "b) Two",
+            "c) Three",
+            "d) Zero",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 84,
+        "Question": "How many dimensions does a line have?",
+        "Options": [
+            "a) Zero",
+            "b) One",
+            "c) Two",
+            "d) Three",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 85,
+        "Question": "How much lines can pass from one point?",
+        "Options": [
+            "a) One",
+            "b) Two",
+            "c) Infinite",
+            "d) Zero",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 86,
+        "Question": "How much lines can pass from two distinct points?",
+        "Options": [
+            "a) Zero",
+            "b) Only one",
+            "c) Only two",
+            "d) Infinite",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 87,
+        "Question": "If P, Q and R are three points on a line and Q lies between P and R, then __________",
+        "Options": [
+            "a) PR + QR = PR",
+            "b) PQ + PR = PR",
+            "c) PQ + PR = QR",
+            "d) PQ + QR = PR",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 88,
+        "Question": "“For every line x and for every point o not lying on x, there exists a unique line y passing through o and parallel to x.” This statement is __________",
+        "Options": [
+            "a) Pythagoras’ theorem",
+            "b) Heron’s theorem",
+            "c) Thales’ theorem",
+            "d) Playfair’s axiom",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 89,
+        "Question": "A line with two endpoints is called __________",
+        "Options": [
+            "a) line",
+            "b) ray",
+            "c) line-segment",
+            "d) triangle",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 90,
+        "Question": "How many endpoints does a ray have?",
+        "Options": [
+            "a) One",
+            "b) Two",
+            "c) Three",
+            "d) Four",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 91,
+        "Question": "If x is an acute angle, then what is true for x?",
+        "Options": [
+            "a) x = 90°",
+            "b) 0° < x < 90°",
+            "c) 90° < x < 180°",
+            "d) 180° < x < 360°",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 92,
+        "Question": "If x is an obtuse angle, then what is true for x?",
+        "Options": [
+            "a) x = 90°",
+            "b) 180° < x < 360°",
+            "c) 0° < x < 90°",
+            "d) 90° < x < 180°",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 93,
+        "Question": "If x is a right angle, what is true for x?",
+        "Options": [
+            "a) x = 90°",
+            "b) 180° < x < 360°",
+            "c) 0° < x < 90°",
+            "d) 90° < x < 180°",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 94,
+        "Question": "What is the angle formed by a line?",
+        "Options": [
+            "a) 90°",
+            "b) 180°",
+            "c) 270°",
+            "d) 360°",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 95,
+        "Question": "If 180° < x < 360°, then x is a __________ angle.",
+        "Options": [
+            "a) acute",
+            "b) obtuse",
+            "c) reflex",
+            "d) right",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 96,
+        "Question": "The sum of complimentary angles is __________",
+        "Options": [
+            "a) > 90°",
+            "b) < 90°",
+            "c) = 90°",
+            "d) = 180°",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 97,
+        "Question": "The sum of two supplementary angles is __________",
+        "Options": [
+            "a) > 90°",
+            "b) < 90°",
+            "c) = 90°",
+            "d) = 180°",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 98,
+        "Question": "The sum of the angles of a triangle is equal to __________",
+        "Options": [
+            "a) 270°",
+            "b) 90°",
+            "c) 180°",
+            "d) 360°",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 99,
+        "Question": "A triangle has __________ vertices.",
+        "Options": [
+            "a) one",
+            "b) two",
+            "c) three",
+            "d) four",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 100,
+        "Question": "Which one is true if triangle ABC is congruent to triangle PQR?",
+        "Options": [
+            "a) AB = PQ",
+            "b) AB = QR",
+            "c) BC = QR",
+            "d) ∠A = ∠Q",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 101,
+        "Question": "If three out of four points are collinear, we get __________",
+        "Options": [
+            "a) line",
+            "b) square",
+            "c) triangle",
+            "d) rectangle",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 102,
+        "Question": "Quadrilateral has __________ sides.",
+        "Options": [
+            "a) one",
+            "b) two",
+            "c) three",
+            "d) four",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 103,
+        "Question": "The sum of four angles of quadrilateral is equal to __________",
+        "Options": [
+            "a) 90°",
+            "b) 360°",
+            "c) 180°",
+            "d) 270°",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 104,
+        "Question": "If one pair of opposite sides are parallel in a quadrilateral, it is called __________",
+        "Options": [
+            "a) trapezium",
+            "b) rhombus",
+            "c) square",
+            "d) parallelogram",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 105,
+        "Question": "Which of the following shapes represent a rhombus?",
+        "Options": [
+            "a) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-types-quadrilaterals-q2a.png\" alt=\"maths-questions-answers-types-quadrilaterals-q2a\" width=\"178\" height=\"194\" class=\"alignnone size-full wp-image-268550\" />",
+            "b) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-types-quadrilaterals-q2b.png\" alt=\"maths-questions-answers-types-quadrilaterals-q2b\" width=\"243\" height=\"197\" class=\"alignnone size-full wp-image-268549\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-types-quadrilaterals-q2b.png 243w, https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-types-quadrilaterals-q2b-100x80.png 100w\" sizes=\"(max-width: 243px) 100vw, 243px\" />",
+            "c) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-types-quadrilaterals-q2c.png\" alt=\"maths-questions-answers-types-quadrilaterals-q2c\" width=\"176\" height=\"175\" class=\"alignnone size-full wp-image-268548\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-types-quadrilaterals-q2c.png 176w, https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-types-quadrilaterals-q2c-150x150.png 150w\" sizes=\"(max-width: 176px) 100vw, 176px\" />",
+            "d) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-types-quadrilaterals-q2d.png\" alt=\"maths-questions-answers-types-quadrilaterals-q2d\" width=\"255\" height=\"296\" class=\"alignnone size-full wp-image-268547\" />",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 106,
+        "Question": "At which angle do diagonals of a rhombus bisects each other?",
+        "Options": [
+            "a) 180°",
+            "b) 360°",
+            "c) 270°",
+            "d) 90°",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 107,
+        "Question": "What is the quadrilateral formed by the angle bisectors of a parallelogram?",
+        "Options": [
+            "a) Square",
+            "b) Rectangle",
+            "c) Circle",
+            "d) Rhombus",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 108,
+        "Question": "From the given diagram, what can be said about ∆ADB and ∆BCD?",
+        "Options": [
+            "a) They are congruent to each other",
+            "b) They are not congruent to each other",
+            "c) ∠ABD = ∠ADB",
+            "d) ∠BDC = ∠DBC",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 109,
+        "Question": "From the diagram, if BD and AC are diagonals of a parallelogram ABCD then what is true for them?",
+        "Options": [
+            "a) BO = AO",
+            "b) BO = OC",
+            "c) BO = OD",
+            "d) AO = OD",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 110,
+        "Question": "If the ratio of four angles of a quadrilateral is ∠A : ∠B : ∠C : ∠D = 1 : 2 : 3 : 4, what is the value of ∠C?",
+        "Options": [
+            "a) 90°",
+            "b) 108°",
+            "c) 180°",
+            "d) 72°",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 111,
+        "Question": "Which of the following option represents two figures which are on the same base and same parallels?",
+        "Options": [
+            "a) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-figures-same-base-between-same-parallels-q2a.png\" alt=\"\" width=\"287\" height=\"233\" class=\"alignnone size-full wp-image-271962\" />",
+            "b) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-figures-same-base-between-same-parallels-q2b.png\" alt=\"\" width=\"257\" height=\"206\" class=\"alignnone size-full wp-image-271961\" />",
+            "c) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-figures-same-base-between-same-parallels-q2c.png\" alt=\"\" width=\"286\" height=\"233\" class=\"alignnone size-full wp-image-271960\" />",
+            "d) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/04/maths-questions-answers-figures-same-base-between-same-parallels-q2d.png\" alt=\"\" width=\"190\" height=\"238\" class=\"alignnone size-full wp-image-271959\" />",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 112,
+        "Question": "The collection of all the points in a plane, which are at a fixed distance from a fixed point in the plane, is called __________",
+        "Options": [
+            "a) square",
+            "b) triangle",
+            "c) rectangle",
+            "d) circle",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 113,
+        "Question": "A circle divides the plane into __________ parts.",
+        "Options": [
+            "a) two",
+            "b) three",
+            "c) four",
+            "d) five",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 114,
+        "Question": "The region between an arc and the two radii, joining the centre to the end points of the arc is called __________",
+        "Options": [
+            "a) arc",
+            "b) chord",
+            "c) sector",
+            "d) area of circle",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 115,
+        "Question": "When does both segments and both sectors become equal?",
+        "Options": [
+            "a) When two arcs are equal",
+            "b) When radius = 2 * chord",
+            "c) When two arcs are unequal",
+            "d) When chord = radius",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 116,
+        "Question": "How many circles can pass through three points which are not collinear?",
+        "Options": [
+            "a) One",
+            "b) Two",
+            "c) Three",
+            "d) Four",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 117,
+        "Question": "Which of the following formula is used for finding the area of triangle?",
+        "Options": [
+            "a) base * height",
+            "b) \\(\\frac{1}{2}\\) * base * height",
+            "c) 2 * base * height",
+            "d) base2 * height",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 118,
+        "Question": "In heron’s formula  \\(\\sqrt{s*(s-a)*(s-b)*(s-c)}\\), what is the value of s if a, b and c are sides of the triangle?",
+        "Options": [
+            "a) \\(\\frac{a+b+c}{4}\\) ",
+            "b) a+b+c",
+            "c) \\(\\frac{a+b+c}{2}\\) ",
+            "d) 2a+2b+2c",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 119,
+        "Question": "What is the area of the triangle having sides equal to 10 cm, 16 cm and 24 cm?",
+        "Options": [
+            "a) \\(25\\sqrt{15} cm^2\\) ",
+            "b) \\(35\\sqrt{17} cm^2\\) ",
+            "c) \\(15\\sqrt{13} cm^2\\) ",
+            "d) \\(15\\sqrt{15} cm^2\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 120,
+        "Question": "The sides of a triangle are in the proportion of 2 : 3 : 5 and its perimeter is 200 cm. The area of this triangle is __________ cm2.",
+        "Options": [
+            "a) 375 \\(\\sqrt{23}\\) ",
+            "b) 375 \\(\\sqrt{21}\\) ",
+            "c) 345 \\(\\sqrt{23}\\) ",
+            "d) 345 \\(\\sqrt{21}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 121,
+        "Question": "A triangular board having sides 45m, 30m and 35m is used for advertising. One company uses this board for its advertisement for 4 months. How much rent will the company has to pay if the rent is Rs 3500 per m2?",
+        "Options": [
+            "a) Rs 611800",
+            "b) Rs 1835400",
+            "c) Rs 611900",
+            "d) Rs 1835500",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 122,
+        "Question": "An umbrella is made by stitching 8 triangular pieces of cloth of two different colours, each piece measures 60cm, 60cm and 20cm. How much cloth of each colour is required for the umbrella?",
+        "Options": [
+            "a) \\(50\\sqrt{35} cm^2\\) ",
+            "b) \\(25\\sqrt{65} cm^2\\) ",
+            "c) \\(50\\sqrt{45} cm^2\\) ",
+            "d) \\(25\\sqrt{55} cm^2\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 123,
+        "Question": "A triangle and a parallelogram has same base and same area as shown in the diagram below. Dimensions of triangle are 28cm, 26cm and 30cm with 28cm being the base. What is the height of the parallelogram?",
+        "Options": [
+            "a) 15cm",
+            "b) 10cm",
+            "c) 12cm",
+            "d) 18cm",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 124,
+        "Question": "Total surface area of a cuboid having dimensions l*b*h is __________",
+        "Options": [
+            "a) l*b*h",
+            "b) 2(lb + bh + lh)",
+            "c) lb + bh + lh",
+            "d) 6l2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 125,
+        "Question": "Total surface area of a cube having sides l is given by __________",
+        "Options": [
+            "a) l*b*h",
+            "b) 2(lb + bh + lh)",
+            "c) lb + bh + lh",
+            "d) 6l2",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 126,
+        "Question": "A cube of side equal to 20 cm is open from the top. Its total surface area is __________ cm2.",
+        "Options": [
+            "a) 2000",
+            "b) 2400",
+            "c) 2500",
+            "d) 8000",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 127,
+        "Question": "A box of dimensions 25cm * 30cm * 45cm is to be painted. A container which contains colour has a capacity to paint 1075cm2. How much containers are required to paint the box completely?",
+        "Options": [
+            "a) 6",
+            "b) 5",
+            "c) 4",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 128,
+        "Question": "A water tank of dimensions 2m * 3m * 1.5m is to be painted leaving its base. Find the total cost of painting the tank if rate of painting = ₹20/m2.",
+        "Options": [
+            "a) ₹540",
+            "b) ₹500",
+            "c) ₹420",
+            "d) ₹400",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 129,
+        "Question": "A man has built a cubical water tank in his house. All sides of it are equal to 1.8m. All sides except the base are to be covered by tiles having equal sides of 30cm. How much money will he spend on tiles if cost of tiles is ₹400/dozen?",
+        "Options": [
+            "a) ₹7000",
+            "b) ₹7200",
+            "c) ₹6000",
+            "d) ₹6500",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 130,
+        "Question": "Curved surface area of a cylinder having base radius “r” and height “h” is equal to __________",
+        "Options": [
+            "a) 2πrh + 2πr2",
+            "b) 2πr2",
+            "c) 2πrh",
+            "d) 4πr2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 131,
+        "Question": "A cylinder has a curved surface area of 2640 cm2 and radius of 14 cm, what is the height of cylinder? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 16cm",
+            "b) 20cm",
+            "c) 28cm",
+            "d) 30cm",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 132,
+        "Question": "A roller has diameter of 0.7m and length of 1m. It is used to roll over the cricket pitch. The surface area of the cricket pitch is equal to 60m2. How much revolution will roller make to move once over the pitch? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 25",
+            "b) 28",
+            "c) 30",
+            "d) 26",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 133,
+        "Question": "A cylindrical water container of radius 56 cm and height of 180 cm is to be made from metal. What is the area of metal required? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 28.9m2",
+            "b) 25.5m2",
+            "c) 30m2",
+            "d) 26.7m2",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 134,
+        "Question": "A water well has a height of 8m and diameter of 3.5m. What is the cost of plastering its curved surface and base at the rate of ₹50/m2? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) ₹15000",
+            "b) ₹14500",
+            "c) ₹14000",
+            "d) ₹14700",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 135,
+        "Question": "The total surface area of a cone of base radius “r” and slanted height “l” is equal to __________",
+        "Options": [
+            "a) πrl + 2πr2",
+            "b) 2πrl + 2πr2",
+            "c) πrl + πr2",
+            "d) 2πr2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 136,
+        "Question": "What is the total surface area of a cone of radius 7cm and height 24cm? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 710 cm2",
+            "b) 704 cm2",
+            "c) 700 cm2",
+            "d) 725 cm2",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 137,
+        "Question": "The curved surface area of a cone is 1980 cm2 and its radius is 21cm, what is the slanted height of a cone? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 25cm",
+            "b) 28cm",
+            "c) 35cm",
+            "d) 30cm",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 138,
+        "Question": "A tent of conical shape of base radius 28m and slanted height 20m is to be made from a certain material. What is the total cost of clothing material if the rate of material is ₹80/m2? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) ₹140800",
+            "b) ₹150000",
+            "c) ₹130500",
+            "d) ₹140000",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 139,
+        "Question": "A vessel of conical shape of radius 14cm and slanted height 20cm is to be coloured. What is the cost of painting at a rate of ₹2/cm2? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) ₹1540",
+            "b) ₹1660",
+            "c) ₹1760",
+            "d) ₹1500",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 140,
+        "Question": "Surface area of a sphere of radius “r” is given by __________",
+        "Options": [
+            "a) 2πr2",
+            "b) 4πr2",
+            "c) 3πr2",
+            "d) πr2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 141,
+        "Question": "Curved surface area of hemisphere of radius “r” is equal to __________",
+        "Options": [
+            "a) 2πr2",
+            "b) 4πr2",
+            "c) 3πr2",
+            "d) πr2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 142,
+        "Question": "Total surface are of a hemisphere of radius “r” is equal to __________",
+        "Options": [
+            "a) 2πr2",
+            "b) 4πr2",
+            "c) 3πr2",
+            "d) πr2",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 143,
+        "Question": "Total surface area of a hemisphere is 4158cm2, the diameter of the hemisphere is equal to __________ cm. (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 40",
+            "b) 20",
+            "c) 21",
+            "d) 42",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 144,
+        "Question": "If surface area of a sphere of radius “R” is equal to curved surface area of a hemisphere of radius “r”, what is the ratio of R/r?",
+        "Options": [
+            "a) 1/2",
+            "b) 1/√2",
+            "c) 2",
+            "d) √2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 145,
+        "Question": "A hemispheric dome of radius 3.5m is to be painted at a rate of ₹600/m2. What is the cost of painting it? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) ₹46200",
+            "b) ₹45000",
+            "c) ₹47260",
+            "d) ₹48375",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 146,
+        "Question": "A balloon’s radius increases 3 times when the air is pumped in it. If the surface area of the balloon after pumping the air is A2 and its surface area before pumping the air is A1, then what is the value of \\(\\frac{A_1}{A_2}\\) ?",
+        "Options": [
+            "a) \\(\\frac{9}{1}\\) ",
+            "b) \\(\\frac{1}{3}\\) ",
+            "c) \\(\\frac{3}{1}\\) ",
+            "d) \\(\\frac{1}{9}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 147,
+        "Question": "Volume of a cuboid of length l, breadth b and height h is given by __________",
+        "Options": [
+            "a) l * b * h",
+            "b) l3",
+            "c) l2",
+            "d) π * l * b * h",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 148,
+        "Question": "Volume of a cube of sides equal to l is given by __________",
+        "Options": [
+            "a) l * b * h",
+            "b) l3",
+            "c) l2",
+            "d) π * l * b * h",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 149,
+        "Question": "Volume of a cuboid is 1176cm3, its length and breadth are 12cm and 7cm respectively. What is the height of the cuboid?",
+        "Options": [
+            "a) 24cm",
+            "b) 11cm",
+            "c) 14cm",
+            "d) 20cm",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 150,
+        "Question": "A wall of dimensions 3m * 12cm * 7m is to be made by using bricks of dimesions 25cm * 12cm * 10cm. How much bricks are required to construct the wall?",
+        "Options": [
+            "a) 825",
+            "b) 820",
+            "c) 850",
+            "d) 840",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 151,
+        "Question": "What is the cost of digging a pit of cuboidal shape dimensions of which are 5m * 6m * 3m at the rate of ₹35/m3?",
+        "Options": [
+            "a) ₹3000",
+            "b) ₹3150",
+            "c) ₹3375",
+            "d) ₹3225",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 152,
+        "Question": "A village has population of 1500 people and requirement of water per head is 200 litres. Water container providing water has dimensions 15m * 25m * 12m. For how many days would the water in the container last? (1000 litres = 1m3)",
+        "Options": [
+            "a) 10 days",
+            "b) 18 days",
+            "c) 12 days",
+            "d) 15 days",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 153,
+        "Question": "A water is flowing through the tap at the rate of 50 cm3/s. What is the time requires to fill the container of dimensions 20cm * 10cm * 10cm?",
+        "Options": [
+            "a) 40 seconds",
+            "b) 30 seconds",
+            "c) 45 seconds",
+            "d) 50 seconds",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 154,
+        "Question": "Volume of a cylinder having radius r and height h is given by __________",
+        "Options": [
+            "a) r * h2",
+            "b) h * r2",
+            "c) πr2h",
+            "d) \\(\\frac{1}{3}\\)πr2h",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 155,
+        "Question": "A cylinder has radius of 7cm and its volume is 1540cm3, what is the height of the cylinder? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 10cm",
+            "b) 14cm",
+            "c) 11cm",
+            "d) 15cm",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 156,
+        "Question": "A cylinder has volume of 176cm3 and height equal to 14cm, what is the diameter of the cylinder? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 6cm",
+            "b) 8cm",
+            "c) 2cm",
+            "d) 4cm",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 157,
+        "Question": "A glass of cylindrical shape has radius of 3.5cm and height equal to 8cm. A water jug has a volume equal to 1540cm3. How many times the water has to be poured from glass to fill the jug completely? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 6",
+            "b) 5",
+            "c) 4.5",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 158,
+        "Question": "Cylindrical pillars are to be made for a flat whose radius is 15cm and height is 3.5m. What is the total amount of concrete (in cm3) required to make 15 identical pillars? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 3513600",
+            "b) 3712500",
+            "c) 4125300",
+            "d) 3917800",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 159,
+        "Question": "A cylinder has a base area equal to 21cm2 and height equal to 11cm. What is the volume of the cylinder? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 230cm3",
+            "b) 220cm3",
+            "c) 225cm3",
+            "d) 231cm3",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 160,
+        "Question": "A steel pipe has outer radius equal to 3cm and inner radius equal to 2cm. Its length is equal to 5m. What is the mass of the pipe if one cm3 of steel is 8.05 gram? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 63.25 kg",
+            "b) 65 kg",
+            "c) 67 kg",
+            "d) 61 kg",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 161,
+        "Question": "Volume of a right circular cone of radius r and height h is given by __________",
+        "Options": [
+            "a) \\(\\frac{4}{3} πr^3\\) ",
+            "b) πr2h",
+            "c) \\(\\frac{1}{3}\\) πr2h",
+            "d) \\(\\frac{2}{3}\\) πr3",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 162,
+        "Question": "What is the volume of a cone having radius of 21cm and height of 5cm?",
+        "Options": [
+            "a) 2310cm3",
+            "b) 2500cm3",
+            "c) 6930cm3",
+            "d) 7500cm3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 163,
+        "Question": "A cone has slanted height of 5cm and height of 4cm, its volume (in cm3) is __________",
+        "Options": [
+            "a) 38.71",
+            "b) 36.50",
+            "c) 37.00",
+            "d) 37.71",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 164,
+        "Question": "Ratio of volume of a cone to the volume of a cylinder for same base radius and same height is __________",
+        "Options": [
+            "a) 3",
+            "b) \\(\\frac{1}{3}\\) ",
+            "c) 2",
+            "d) \\(\\frac{1}{2}\\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 165,
+        "Question": "A triangle having sides equal to 7cm, 24cm and 25cm forms a cone when revolved about 24cm side. What is the volume of a cone formed?",
+        "Options": [
+            "a) 1225cm3",
+            "b) 1232cm3",
+            "c) 4000cm3",
+            "d) 3696cm3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 166,
+        "Question": "Volume of a sphere of radius r is equal to __________",
+        "Options": [
+            "a) \\(\\frac{4}{3} πr^3\\) ",
+            "b) πr2h",
+            "c) \\(\\frac{1}{3}\\) πr2h",
+            "d) \\(\\frac{2}{3} πr^3\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 167,
+        "Question": "Volume of a hemisphere of radius r is equal to __________",
+        "Options": [
+            "a) \\(\\frac{4}{3} πr^3\\) ",
+            "b) πr2h",
+            "c) \\(\\frac{1}{3}\\) πr2h",
+            "d) \\(\\frac{2}{3} πr^3\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 168,
+        "Question": "What is the radius of a sphere having volume of 4851cm3? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 9 cm",
+            "b) 11 cm",
+            "c) 10.5 cm",
+            "d) 11.3 cm",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 169,
+        "Question": "Curved surface area of a hemisphere is equal to 2772 cm2, what is its volume? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 19464 cm3",
+            "b) 19404 cm3",
+            "c) 19427 cm3",
+            "d) 19425 cm3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 170,
+        "Question": "A hollow sphere of outer radius of 4 cm and thickness of 3 cm is to be made from metal. What is the total amount of metal required (in cm3) to make the sphere? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) 281",
+            "b) 264",
+            "c) 225",
+            "d) 227",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 171,
+        "Question": "Cost of whitewashing a sphere is 1232₹ at the rate of 2₹/cm2. What is the volume of a sphere? (Take π = \\(\\frac{22}{7}\\))",
+        "Options": [
+            "a) \\(\\frac{4324}{3}\\) ",
+            "b) \\(\\frac{4317}{5}\\) ",
+            "c) \\(\\frac{4312}{3}\\) ",
+            "d) \\(\\frac{4312}{7}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 172,
+        "Question": "Which of the following graph is “bar graph”?",
+        "Options": [
+            "a) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1a.png\" alt=\"maths-questions-answers-geographical-representation-data-q1a\" width=\"290\" height=\"278\" class=\"alignnone size-full wp-image-268646\" />",
+            "b) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1b.png\" alt=\"maths-questions-answers-geographical-representation-data-q1b\" width=\"301\" height=\"284\" class=\"alignnone size-full wp-image-268645\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1b.png 301w, https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1b-300x283.png 300w\" sizes=\"(max-width: 301px) 100vw, 301px\" />",
+            "c) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1c.png\" alt=\"maths-questions-answers-geographical-representation-data-q1c\" width=\"272\" height=\"265\" class=\"alignnone size-full wp-image-268644\" />",
+            "d) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1d.png\" alt=\"maths-questions-answers-geographical-representation-data-q1d\" width=\"249\" height=\"274\" class=\"alignnone size-full wp-image-268643\" />",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 173,
+        "Question": "Which of the following graph is the example of “histogram”?",
+        "Options": [
+            "a) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1a.png\" alt=\"maths-questions-answers-geographical-representation-data-q1a\" width=\"290\" height=\"278\" class=\"alignnone size-full wp-image-268646\" />",
+            "b) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1b.png\" alt=\"maths-questions-answers-geographical-representation-data-q1b\" width=\"301\" height=\"284\" class=\"alignnone size-full wp-image-268645\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1b.png 301w, https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1b-300x283.png 300w\" sizes=\"(max-width: 301px) 100vw, 301px\" />",
+            "c) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1c.png\" alt=\"maths-questions-answers-geographical-representation-data-q1c\" width=\"272\" height=\"265\" class=\"alignnone size-full wp-image-268644\" />",
+            "d) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1d.png\" alt=\"maths-questions-answers-geographical-representation-data-q1d\" width=\"249\" height=\"274\" class=\"alignnone size-full wp-image-268643\" />",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 174,
+        "Question": "Which of the following graph is the example of “frequency polygon”?",
+        "Options": [
+            "a) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1a.png\" alt=\"maths-questions-answers-geographical-representation-data-q1a\" width=\"290\" height=\"278\" class=\"alignnone size-full wp-image-268646\" />",
+            "b) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1b.png\" alt=\"maths-questions-answers-geographical-representation-data-q1b\" width=\"301\" height=\"284\" class=\"alignnone size-full wp-image-268645\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1b.png 301w, https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q1b-300x283.png 300w\" sizes=\"(max-width: 301px) 100vw, 301px\" />",
+            "c) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q3c.png\" alt=\"maths-questions-answers-geographical-representation-data-q3c\" width=\"369\" height=\"360\" class=\"alignnone size-full wp-image-268642\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q3c.png 369w, https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q3c-300x293.png 300w\" sizes=\"(max-width: 369px) 100vw, 369px\" />",
+            "d) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2020/02/maths-questions-answers-geographical-representation-data-q3d.png\" alt=\"maths-questions-answers-geographical-representation-data-q3d\" width=\"247\" height=\"273\" class=\"alignnone size-full wp-image-268641\" />",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 175,
+        "Question": "What is the probability of event of obtaining minimum one head?",
+        "Options": [
+            "a) 0.5",
+            "b) 0.8",
+            "c) 0.55",
+            "d) 0.16",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 176,
+        "Question": "What is the probability of getting ‘4’ as outcome?",
+        "Options": [
+            "a) 0.16",
+            "b) 0.158",
+            "c) 0.156",
+            "d) 0.131",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 177,
+        "Question": "What is the probability that the student has scored more than 80?",
+        "Options": [
+            "a) 0.6",
+            "b) 0.8",
+            "c) 0.4",
+            "d) 0.5",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 178,
+        "Question": "What is the probability that the family has at least one boy?",
+        "Options": [
+            "a) 0.415",
+            "b) 0.270",
+            "c) 0.73",
+            "d) 0.315",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 179,
+        "Question": "What is the probability of being 18-35 years of age and having more than 1 accidents?",
+        "Options": [
+            "a) 0.06",
+            "b) 0.6",
+            "c) 0.08",
+            "d) 0.1",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 180,
+        "Question": "What is the probability of being elder than 35 years of age and having at least one accident?",
+        "Options": [
+            "a) 0.41",
+            "b) 0.25",
+            "c) 0.354",
+            "d) 0.333",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 181,
+        "Question": "What is the probability of being 35-50 years of age and having more no accidents?",
+        "Options": [
+            "a) 0.29",
+            "b) 0.35",
+            "c) 0.09",
+            "d) 0.08",
+            ""
+        ],
+        "Answer": "Answer: a"
+    }
+]

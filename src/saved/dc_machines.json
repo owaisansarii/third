@@ -1,0 +1,6026 @@
+[
+    {
+        "id": 1,
+        "Question": "Where is field winding mounted in a DC machine?",
+        "Options": [
+            "a) Stator",
+            "b) Rotor",
+            "c) Absent",
+            "d) Anywhere on stator or rotor",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 2,
+        "Question": "What are the materials used for brushes in dc machines?",
+        "Options": [
+            "a) Iron",
+            "b) Carbon",
+            "c) Aluminum",
+            "d) Steel",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 3,
+        "Question": "The angle (electrical) made by brushes with axes of adjoining filed poles is ______________",
+        "Options": [
+            "a) 450",
+            "b) 1800",
+            "c) 900",
+            "d) 300",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 4,
+        "Question": "In a DC machine, rectification process is carried out in order to get unidirectional output (DC). This rectification process is carried out by ______________",
+        "Options": [
+            "a) Half wave rectifier",
+            "b) Full wave rectifier",
+            "c) Mechanical rectification",
+            "d) Centre tapped rectifier",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 5,
+        "Question": "6.Which of the following part is used in construction of DC machine but not in AC machine?",
+        "Options": [
+            "a) Armature Winding",
+            "b) Field winding",
+            "c) Commutator",
+            "d) Shaft",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 6,
+        "Question": "In a DC machine fractional pitch winding is used to _______________",
+        "Options": [
+            "a) To improve cooling",
+            "b) To reduce sparking",
+            "c) To reduce copper losses",
+            "d) To increase generated EMF",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 7,
+        "Question": " In normal dc machines operating at full-load conditions, the most powerful electromagnet is _________",
+        "Options": [
+            "a) Field winding",
+            "b) Interpole Winding",
+            "c) Interpole and compensating winding together",
+            "d) Armature winding",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 8,
+        "Question": "If a DC motor is connected to AC supply what will happen then?",
+        "Options": [
+            "a) Not run",
+            "b) Burn",
+            "c) Run at normal speed",
+            "d) Run at extremely low speed",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 9,
+        "Question": "The armature of DC motor is laminated to ____________",
+        "Options": [
+            "a) To reduce mass",
+            "b) To reduce hysteresis loss",
+            "c) To reduce eddy current loss",
+            "d) To reduce inductance",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 10,
+        "Question": "Why are the DC motors preferred for traction applications?",
+        "Options": [
+            "a) Torque and speed are inversely proportional to armature current",
+            "b) Torque is proportional to armature current",
+            "c) Torque is proportional to square root of armature current",
+            "d) The speed is inversely proportional to the torque and the torque is proportional to square of armature current",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 11,
+        "Question": "Which of the following load application normally needs starting torque more than the rated torque?",
+        "Options": [
+            "a) Blowers",
+            "b) Conveyors",
+            "c) Air compressors",
+            "d) Centrifugal pumps",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 12,
+        "Question": "Which of the following motors can be used to drive the rotary compressor?",
+        "Options": [
+            "a) DC shunt motor",
+            "b) DC series motor",
+            "c) Universal motor",
+            "d) Synchronous motor",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 13,
+        "Question": "Which DC motor is used with flywheel for intermittent light and heavy loads?",
+        "Options": [
+            "a) Series motor",
+            "b) Shunt motor",
+            "c) Cumulatively compounded motor",
+            "d) Differentially compounded motor",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 14,
+        "Question": "Separately excited DC generators are still used in _________________",
+        "Options": [
+            "a) Thermal power plants",
+            "b) Ward Leonard speed control system",
+            "c) Hydro power plant",
+            "d) In all fields",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 15,
+        "Question": "Maximum torque in a DC machine is limited by ______________",
+        "Options": [
+            "a) Commutation",
+            "b) Heating",
+            "c) Losses other than heating",
+            "d) Stability",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 16,
+        "Question": "Which of the following motor can replace DC series motor?",
+        "Options": [
+            "a) DC shunt motor",
+            "b) Cumulative compound motor",
+            "c) Wound-rotor induction motor",
+            "d) Synchronous motor",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 17,
+        "Question": "Which motor has almost replaced DC shunt motor from its applications?",
+        "Options": [
+            "a) Wound-rotor induction motor",
+            "b) Differential compound motor",
+            "c) Air motor",
+            "d) Squirrel caged induction motor",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 18,
+        "Question": "DC shunt motor is still used instead of synchronous motor in _____________",
+        "Options": [
+            "a) High speed applications",
+            "b) Low speed applications",
+            "c) Medium and high-speed applications",
+            "d) Everywhere",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 19,
+        "Question": "Which type motors are preferred for lathes?",
+        "Options": [
+            "a) DC shunt motors",
+            "b) Squirrel Cage induction motor",
+            "c) Synchronous motor",
+            "d) DC Shunt Motors or Squirrel cage induction motor",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 20,
+        "Question": "When an electric train is moving down a hill, the DC motor will operate as ____________",
+        "Options": [
+            "a) DC series motor",
+            "b) DC series generator",
+            "c) DC shunt motor",
+            "d) DC shunt generator",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 21,
+        "Question": "Nowadays, DC motor is widely used only in ____________",
+        "Options": [
+            "a) Pumping sets",
+            "b) Air compressors",
+            "c) Electric traction",
+            "d) Machine shops",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 22,
+        "Question": "Which motor is preferred in highly explosive atmosphere?",
+        "Options": [
+            "a) Air motor",
+            "b) Shunt motor",
+            "c) Series motor",
+            "d) Battery operated motor",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 23,
+        "Question": "For which of the following operations a DC motor is preferred over an AC motor?",
+        "Options": [
+            "a) Low speed operation",
+            "b) High speed operation",
+            "c) Variable speed operation",
+            "d) Fixed speed operation",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 24,
+        "Question": "1.The armature in DC machines is always placed on rotor because _______",
+        "Options": [
+            "a) Otherwise commutation will not be possible",
+            "b) Otherwise there will not be any induced emf",
+            "c) Otherwise current will not flow",
+            "d) Can be placed anywhere",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 25,
+        "Question": "In a DC machine, rectification provided with commutator is ___________",
+        "Options": [
+            "a) Half wave rectification",
+            "b) Full wave rectification",
+            "c) Semi controlled rectification",
+            "d) Uncontrolled rectification",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 26,
+        "Question": "Which of the following method is used to connect commutator segments to armature conductors?",
+        "Options": [
+            "a) Brazing",
+            "b) Normal wires",
+            "c) Insulation pads",
+            "d) Copper lugs",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 27,
+        "Question": "In D.C. generators, rapid brush ware causes due to _________",
+        "Options": [
+            "a) Severe sparking",
+            "b) Rough commutator surface",
+            "c) Imperfect contact",
+            "d) Severe sparking, rough commutator surface or imperfect contact",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 28,
+        "Question": "What are the number of the brushes in the lap winding?",
+        "Options": [
+            "a) Double the number of poles",
+            "b) Same as the number of poles",
+            "c) Half the number of poles",
+            "d) Two",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 29,
+        "Question": "When Copper brushes are used in DC machine?",
+        "Options": [
+            "a) Where low voltage and high currents are involved",
+            "b) Where high voltage and small currents are involved",
+            "c) Cannot be determined",
+            "d) Where low voltage and low currents are involved",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 30,
+        "Question": "In DC generators, current is fed up to the external circuit from armature through _______",
+        "Options": [
+            "a) Commutator",
+            "b) Direct wire",
+            "c) Slip rings",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 31,
+        "Question": "What are the number of the brushes in the wave winding?",
+        "Options": [
+            "a) Same or more than the number of poles",
+            "b) Same or less than the number of poles",
+            "c) Exactly half the number of poles",
+            "d) Depends on other parameters",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 32,
+        "Question": "Which conductors are in point of contact with brushes?",
+        "Options": [
+            "a) Lie under south pole",
+            "b) Lie under north pole",
+            "c) Lie in inter polar region",
+            "d) Are farthest from the poles",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 33,
+        "Question": "In case of DC machine winding, number of commutator segments is equal to ______",
+        "Options": [
+            "a) Number of armature coils",
+            "b) Number of armature coil sides",
+            "c) Number of armature conductors",
+            "d) Number of armature turns",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 34,
+        "Question": "How total number of brushes in a commutator are determined in a given DC machine?",
+        "Options": [
+            "a) Speed of armature",
+            "b) Type of winding",
+            "c) Voltage",
+            "d) Amount of current to be collected",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 35,
+        "Question": "In a DC generator the ripples in the direct emf generated can be reduced by________",
+        "Options": [
+            "a) Using conductor of annealed copper",
+            "b) Using commutator with large number of segments",
+            "c) Using carbon brushes of superior quality",
+            "d) Using equalizer rings",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 36,
+        "Question": "The drop in the voltage for which of the following types of brush can be expected to be least?",
+        "Options": [
+            "a) Graphite brushes",
+            "b) Carbon brushes",
+            "c) Metal graphite brushes",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 37,
+        "Question": "What is the requirement of the good commutation?",
+        "Options": [
+            "a) Brushes should be of proper grade, size and material",
+            "b) Brushes should smoothly run in the holders",
+            "c) Smooth, concentric commutator properly undercut",
+            "d) Brushes should be of proper grade, size, material, run smoothly in the holders and concentric commutator properly undercut",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 38,
+        "Question": "How to avoid grooves in the commutation of DC machine with the help of brush?",
+        "Options": [
+            "a) Brushes of opposite polarity should track each other",
+            "b) Brushes of same polarity should track each other",
+            "c) Brush position has no effect on the commutator grooving",
+            "d) Brushes should not track each other",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 39,
+        "Question": "Reason behind the rapid wear of brushes is __________",
+        "Options": [
+            "a) Abrasion from dust",
+            "b) Excessive spring pressure",
+            "c) Rough commutator bars",
+            "d) Abrasion from dust, excessive spring pressure and rough commutator bars",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 40,
+        "Question": "For both lap and wave windings, what is the number of commutator bars equal to?",
+        "Options": [
+            "a) Slots",
+            "b) Armature conductors",
+            "c) Winding elements",
+            "d) Poles",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 41,
+        "Question": "Spacing between the brushes for a 4-pole machine in terms of commutator segments for 12 conductor segments is _____",
+        "Options": [
+            "a) 48",
+            "b) 3",
+            "c) 2",
+            "d) 6",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 42,
+        "Question": "Spacing between the brushes for a 4-pole machine in terms of commutator segments is equal to 6. What will be the number of armature slots?",
+        "Options": [
+            "a) 48",
+            "b) 3",
+            "c) 24",
+            "d) 6",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 43,
+        "Question": "What is the range of the brush friction coefficients for medium category?",
+        "Options": [
+            "a) 0.40 and above",
+            "b) 0.22 to 0.40",
+            "c) 0.11 to 0.22",
+            "d) 0.08 to 0.11",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 44,
+        "Question": "Specific resistance for a brush is given by _________",
+        "Options": [
+            "a) R = (E * W * T) / (I * L)",
+            "b) R = (E * W * I) / (T * L)",
+            "c) R = (E * W * I) * (T * L)",
+            "d) Doesn’t depend on E, W, T, I, L.",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 45,
+        "Question": "How many poles to be used in DC machine if brushes are placed 4 commutator segments apart for 16 commutator segments?",
+        "Options": [
+            "a) 8",
+            "b) 12",
+            "c) 2",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 46,
+        "Question": "DC generators are disconnected/connected from/to the busbars only under the floating condition because ____________",
+        "Options": [
+            "a) To avoid sudden loading of the prime mover",
+            "b) To avoid burning of all switch contacts",
+            "c) To avoid mechanical jerk to the shaft",
+            "d) To avoid sudden loading of the prime mover, burning of all switch contacts and avoid mechanical jerking to the shaft",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 47,
+        "Question": "In PMDC motors we use magnetic material with ___________",
+        "Options": [
+            "a) Low residual flux",
+            "b) Low coercivity",
+            "c) High residual flux",
+            "d) All magnetic materials",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 48,
+        "Question": "In PMDC magnetic material is placed instead of _____________",
+        "Options": [
+            "a) Armature",
+            "b) Rotor",
+            "c) Stator",
+            "d) Can be placed anywhere",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 49,
+        "Question": "PMDC motors are _________________",
+        "Options": [
+            "a) Smaller than corresponding rated field wound motor",
+            "b) Larger than corresponding rated field wound motor",
+            "c) Almost same size that of corresponding rated field wound motor",
+            "d) Can be smaller or greater than corresponding rated field wound motor",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 50,
+        "Question": "PMDC motor offers ___________",
+        "Options": [
+            "a) Cumulative compound type characteristic",
+            "b) Differential compound type characteristic",
+            "c) Series characteristic",
+            "d) Shunt characteristic",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 51,
+        "Question": "Which speed control method is employed in PMDC?",
+        "Options": [
+            "a) Field control method",
+            "b) Armature control method",
+            "c) Armature Field control method",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 52,
+        "Question": "What is the air gap flux density for PMDC motor?",
+        "Options": [
+            "a) Bg= µ0(tm/lg) Hm",
+            "b) Bg= – µ0Hm",
+            "c) Bg= – µ0(tm/lg) Hm",
+            "d) Bg= – µ0(lg/tm) Hm",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 53,
+        "Question": "Which of the following is most favoured choice for PMDC motor?",
+        "Options": [
+            "a) Neodymium-iron-boron",
+            "b) Iron-nickel",
+            "c) Nickel-neodymium",
+            "d) Cannot be given",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 54,
+        "Question": "Speed-torque characteristic of PMDC motors is _______________",
+        "Options": [
+            "a) Starting from zero increasing continuously",
+            "b) Starting from some positive value and remaining constant",
+            "c) Starting from some positive value and decreasing exponentially",
+            "d) Starting from some positive value and decreasing on straight line",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 55,
+        "Question": "PMDC produces high torque on ______________",
+        "Options": [
+            "a) At low speeds",
+            "b) Only at maximum speed",
+            "c) Torque is constant",
+            "d) Cannot say",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 56,
+        "Question": "If higher terminal voltage is applied to PMDC what will happen?",
+        "Options": [
+            "a) Speed at 0 torque will be reduced",
+            "b) Torque at 0 speed will be reduced",
+            "c) Torque at 0 speed will be increased",
+            "d) Torque will remain constant",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 57,
+        "Question": "Armature winding is mounted on a __________",
+        "Options": [
+            "a) Stator",
+            "b) Rotor",
+            "c) Can be mounted anywhere on stator or rotor",
+            "d) Not required",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 58,
+        "Question": "In a DC machine, how coil-side emf varies towards the outer side of poles?",
+        "Options": [
+            "a) Decreases",
+            "b) Remains same",
+            "c) Increases",
+            "d) First increases the decreases",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 59,
+        "Question": "What is the difference of DC voltages in the adjoining Brushes?",
+        "Options": [
+            "a) Depends on the Shaft speed",
+            "b) Zero",
+            "c) Non-zero",
+            "d) Depends on the various other parameters",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 60,
+        "Question": "What is the effect of armature coils at points where brushes are located?",
+        "Options": [
+            "a) Induces positive emf",
+            "b) Induces negative emf",
+            "c) Induces zero emf",
+            "d) Depends on the speed of rotor",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 61,
+        "Question": "As the armature rotates, the number of coils in series tapped by the brush pairs_________",
+        "Options": [
+            "a) Remains same",
+            "b) Increases",
+            "c) Decreases",
+            "d) Depends on rotor speed and direction of torque",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 62,
+        "Question": "Coil span for 4-pole, 12-slot armature winding is_______",
+        "Options": [
+            "a) 24",
+            "b) 48",
+            "c) 8",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 63,
+        "Question": "What is the nature of the coils when YCS value is non-integral?",
+        "Options": [
+            "a) Long-pitched",
+            "b) Medium-pitched",
+            "c) Short-pitched",
+            "d) Can’t be determined by YCS value",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 64,
+        "Question": "For a 2-pole DC machine with coil span equal to 6, what are the number of commutator segments?",
+        "Options": [
+            "a) 3",
+            "b) 12",
+            "c) 4",
+            "d) 8",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 65,
+        "Question": "When coil sides are pole pitch apart, the DC armature winding is called as ___________",
+        "Options": [
+            "a) Multiplex",
+            "b) Fractional-pitch",
+            "c) Full-pitch",
+            "d) Pole-pitch",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 66,
+        "Question": "Resultant pitch in the lap winding is__________",
+        "Options": [
+            "a) Depends on Yb value",
+            "b) Depends on Yf value",
+            "c) Depends on Yb and Yf value",
+            "d) Always equal to 2",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 67,
+        "Question": "What is the condition of retrogressive winding?",
+        "Options": [
+            "a) Yb > Yf",
+            "b) Yb < Yf",
+            "c) Yb = Yf",
+            "d) No condition in bterms of Yb and Yf",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 68,
+        "Question": "What is the value of Yb for a lap winding with a 4-pole, 12-slot armature with two coil sides/slot. Assume single-turns coils.",
+        "Options": [
+            "a) 3",
+            "b) 5",
+            "c) 7",
+            "d) 9",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 69,
+        "Question": "What is the value of Yf for a lap winding with a 4-pole, 12-slot armature with two coil sides/slot? (Assume single-turns coils – progressive winding)",
+        "Options": [
+            "a) 3",
+            "b) 5",
+            "c) 7",
+            "d) 9",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 70,
+        "Question": "What is the symmetry requirement of lap winding?",
+        "Options": [
+            "a) 2C/P= 0",
+            "b) 2C/P= integer",
+            "c) 2C/P= non-integer",
+            "d) Can’t express mathematically",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 71,
+        "Question": "What is the relation between number of parallel paths(A) and number of poles(P)?",
+        "Options": [
+            "a) A = P",
+            "b) A < P",
+            "c) A > P",
+            "d) No relation exists",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 72,
+        "Question": "Current flowing through the armature conductors Ic is related to total current Ia by_______",
+        "Options": [
+            "a) Ic = A Ia",
+            "b) Ic = Ia/A",
+            "c) Ic = A2 Ia",
+            "d) Ic = A/Ia",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 73,
+        "Question": "Value of commutator pitch in lap winding is_____",
+        "Options": [
+            "a) +2",
+            "b) +1 or -1",
+            "c) -2",
+            "d) Different for different parameters",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 74,
+        "Question": "What will be the value of “Yf + Yb” for a wave winding?",
+        "Options": [
+            "a) Equal to Yc",
+            "b) Half of the Yc value",
+            "c) Double of the Yc value",
+            "d) Four times Yc value",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 75,
+        "Question": "For a progressive wave winding Yc = ______",
+        "Options": [
+            "a) 2C/P",
+            "b) 2(C+1)/P",
+            "c) 2(C-1)/P",
+            "d) 2C/(P+1)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 76,
+        "Question": "Number of parallel paths in wave winding are ______",
+        "Options": [
+            "a) Equal to P",
+            "b) Equal to P/2",
+            "c) 2",
+            "d) Depends on other parameters",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 77,
+        "Question": "What is the spacing between the brushes for a wave winding when a machine is 6-pole DC armature with 16 slots having 2-coil sides per slot and single-turn coils.",
+        "Options": [
+            "a) 4 segments",
+            "b) 8 segments",
+            "c) 16 segments",
+            "d) 12 segments",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 78,
+        "Question": "What is the relation between conductor current and armature current in wave winding?",
+        "Options": [
+            "a) Ic = Ia",
+            "b) Ic = 2Ia",
+            "c) Ic = 4Ia",
+            "d) Ic = Ia/2",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 79,
+        "Question": "For a conductor current equal to 4mA, Current carried by a particular brush in a 2-pole machine will be _____",
+        "Options": [
+            "a) 16mA",
+            "b) 8mA",
+            "c) 2mA",
+            "d) 10mA",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 80,
+        "Question": "For a wave winding when a machine is 6-pole DC armature with 16 slots having 2-coil sides per slot and single-turn coil, Yf value is ____",
+        "Options": [
+            "a) 5",
+            "b) 3",
+            "c) 2",
+            "d) 7",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 81,
+        "Question": "Wave winding machines are used in ______ currents applications.",
+        "Options": [
+            "a) High",
+            "b) Moderate",
+            "c) Low",
+            "d) Can be used anywhere",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 82,
+        "Question": "For a wave wounded machine number of brushes for small, large machines respectively is ________   _________",
+        "Options": [
+            "a) 2, 2",
+            "b) 4, 2",
+            "c) 2, P",
+            "d) Both values depend on the given conditions",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 83,
+        "Question": "In which mode machine is operating, given that conductor current is in the same direction of conductor emf?",
+        "Options": [
+            "a) Motoring",
+            "b) Generating",
+            "c) Can’t be determined using directions",
+            "d) In both modes for different cycles",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 84,
+        "Question": "Nature of the flux density wave in the air gap is__________ (for armature current equal to 0)",
+        "Options": [
+            "a) Flat topped with quarter wave symmetry",
+            "b) Point topped with quarter wave symmetry",
+            "c) Flat topped with half wave symmetry",
+            "d) Point topped with half wave symmetry",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 85,
+        "Question": "Emf produced by DC machine, for zero armature current (E1) and non-zero armature current (E2) can be related as__________",
+        "Options": [
+            "a) E1 = E2",
+            "b) E1 > E2",
+            "c) E1 < E2",
+            "d) Can’t be determined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 86,
+        "Question": "Average coil emf for 20 coil turns (E1) and 40 coil turns (E2), will have ratio E1/E2=____ (assuming all other parameters same for both machines).",
+        "Options": [
+            "a) 1/2",
+            "b) 2/1",
+            "c) 1/4",
+            "d) 4/1",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 87,
+        "Question": "What is the average coil emf generated in a 4-pole DC machine having flux/pole equal to 0.1 wb rotating at 1500 rpm? (No. of coil sides = 100)",
+        "Options": [
+            "a) 19 kV",
+            "b) 1.9 kV",
+            "c) 190 V",
+            "d) 19 V",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 88,
+        "Question": "Emf and torque produced in a DC machine are proportional to ________ and _________ respectively.",
+        "Options": [
+            "a) Armature speed and armature emf",
+            "b) Armature emf and armature speed",
+            "c) Armature current and armature emf",
+            "d) Armature speed and armature current",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 89,
+        "Question": "What is the value of Np in an average coil emf equation, for 10 armature conductors with 2 parallel paths?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 2.5",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 90,
+        "Question": "9.What is the torque equation in terms of B, Ic, l, Zr (r= mean air gap radius)?",
+        "Options": [
+            "a) Bav*Ic*l*Zr",
+            "b) Bav*Ic*l/Zr",
+            "c) Bav*Ic*Zr/l",
+            "d) Can’t be expressed",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 91,
+        "Question": "What is the value of pole pitch (in SI unit) for mean air gap radius= 0.5mm and P=4?",
+        "Options": [
+            "a) 0.785* 10-6",
+            "b) 0.785* 10-3",
+            "c) 0.785* 10-2",
+            "d) 0.785* 10-4",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 92,
+        "Question": "A 4-pole Dc wound machine is lap wound with 400 conductors. The pole shore is 20 cm long and average flux density over one-pole pitch is 0.4 T, the armature diameter being 30 cm. What is the value of flux/pole?",
+        "Options": [
+            "a) 0.188 Wb",
+            "b) 18.88 Wb",
+            "c) 0.0188 Wb",
+            "d) 1.888 Wb",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 93,
+        "Question": "A 4-pole Dc wound machine is lap wound with 400 conductors. The pole shore is 20 cm long and average flux density over one-pole pitch is 0.4 T, the armature diameter being 30 cm. What is the value of induced emf?",
+        "Options": [
+            "a) 188 V",
+            "b) 276 V",
+            "c) 94 V",
+            "d) 188 mV",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 94,
+        "Question": "Coil torque for 20 kA armature current (T1) and 40 mA armature current (T2), will have ratio T1/T2=____ (assuming all other parameters same for both machines).",
+        "Options": [
+            "a) 1/2",
+            "b) 2/1",
+            "c) 1/4",
+            "d) 4/1",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 95,
+        "Question": "If the no load speed of DC motor is 1300 rpm and full load speed is 1100 rpm, then its voltage regulation is ____________",
+        "Options": [
+            "a) 12.56%",
+            "b) 18.18 %",
+            "c) 17.39%",
+            "d) 18.39%",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 96,
+        "Question": " If the average coil emf of a DC motor is doubled and flux is halved (keeping other parameters constant) then its shaft speed will become ___________",
+        "Options": [
+            "a) Twice of the original speed",
+            "b) Square of the original speed",
+            "c) Four times of the original speed",
+            "d) Half of the original speed",
+            ""
+        ],
+        "Answer": "Answer:  c"
+    },
+    {
+        "id": 97,
+        "Question": "A 4-pole wave wound DC motor drawing an armature current of 20 A has provided with 360 armature conductors. If the flux per pole is 0.015 Wb then the torque developed by the armature of motor is _______",
+        "Options": [
+            "a) 10.23 N-m",
+            "b) 34.37 N-m",
+            "c) 17.17 N-m",
+            "d) 19.08 N-m",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 98,
+        "Question": "In a DC machine, what is the torque induced beyond the pole shoes?",
+        "Options": [
+            "a) 0",
+            "b) 2/π *∅*i",
+            "c) π *∅*i/2",
+            "d) Can’t be calculated",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 99,
+        "Question": "For a constant emf, if field current is reduced then the speed of the DC motor will_____",
+        "Options": [
+            "a) Remains same",
+            "b) Increases",
+            "c) Decreases",
+            "d) Can’t say",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 100,
+        "Question": "For an ideal DC machine, which phenomenon will reduce the terminal voltage?",
+        "Options": [
+            "a) Armature reaction",
+            "b) Commutation",
+            "c) Armature ohmic losses",
+            "d) All will contribute in reducing the terminal voltage",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 101,
+        "Question": "Product of torque and mechanical angular velocity ω is_____",
+        "Options": [
+            "a) Ea/ω",
+            "b) Ea*Ia",
+            "c) ω/Ea",
+            "d) Can’t tell",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 102,
+        "Question": "Condition for linear magnetization is______",
+        "Options": [
+            "a) φ α If",
+            "b) φ α Ia",
+            "c) φ α 1/If",
+            "d) φ α 1/Ia",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 103,
+        "Question": "4.When Ea>Vt machine is said to be operating in which of the following mode?",
+        "Options": [
+            "a) Depends on the Shaft speed",
+            "b) Generating",
+            "c) Motoring",
+            "d) Inducing",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 104,
+        "Question": "When Ea<Vt machine is said to be operating in which of the following mode?",
+        "Options": [
+            "a) Depends on the Shaft speed",
+            "b) Generating",
+            "c) Motoring",
+            "d) Inducing",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 105,
+        "Question": "Simple equation of DC machine operating in generating mode, with non-zero Ra value is________",
+        "Options": [
+            "a) Vt = Ea – Ia/Ra",
+            "b) Vt = Ea + Ia*Ra",
+            "c) Vt = – Ea + Ia*Ra",
+            "d) Vt = Ea – Ia*Ra",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 106,
+        "Question": "Simple equation of DC machine operating in motoring mode, with non-zero Ra value is________",
+        "Options": [
+            "a) Vt = Ea – Ia/Ra",
+            "b) Vt = Ea + Ia*Ra",
+            "c) Vt = – Ea + Ia*Ra",
+            "d) Vt = Ea – Ia*Ra",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 107,
+        "Question": "When torque of the electromagnetic origin is in the opposite direction of rotation of armature, machine is said to be operating in which of the following mode?",
+        "Options": [
+            "a) Depends on other parameters",
+            "b) Generating",
+            "c) Motoring",
+            "d) Inducing",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 108,
+        "Question": "When torque of the electromagnetic origin is in the direction of rotation of armature, machine is said to be operating in which of the following mode?",
+        "Options": [
+            "a) Depends on other parameters",
+            "b) Generating",
+            "c) Motoring",
+            "d) Inducing",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 109,
+        "Question": "What is the armature current for a DC motor if terminal voltage is 255V and open circuit voltage is equal to 250V, where armature resistance is 0.05Ω?",
+        "Options": [
+            "a) 10A",
+            "b) 100A",
+            "c) 1KA",
+            "d) 1A",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 110,
+        "Question": "For a DC generator feeding 100kW power into 230V mains, having armature resistance and field resistance equal to 0.08Ω and 115Ω resp. The value of armature current is_____",
+        "Options": [
+            "a) 436.8 A",
+            "b) 434.8 a",
+            "c) 432.8 A",
+            "d) Data insufficient",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 111,
+        "Question": "What is the armature current for a DC generator if terminal voltage is observed to be 245V and open circuit voltage is equal to 250V, where armature resistance is 0.05Ω?",
+        "Options": [
+            "a) 10A",
+            "b) 100A",
+            "c) 1KA",
+            "d) 1A",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 112,
+        "Question": "For a DC motor taking 10kW power from 230V mains, having armature resistance and field resistance equal to 0.08Ω and 115Ω resp. The value of armature current is_____",
+        "Options": [
+            "a) 45.68 A",
+            "b) 43.48 a",
+            "c) 41.48 A",
+            "d) Data insufficient",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 113,
+        "Question": "In a DC machine, the form of armature mmf waveform is __________",
+        "Options": [
+            "a) Triangular",
+            "b) Sinusoidal",
+            "c) Saw tooth",
+            "d) Rectangular",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 114,
+        "Question": "In a DC machine, the direct axis is __________",
+        "Options": [
+            "a) Axes of main poles",
+            "b) Axes perpendicular to axes of main poles",
+            "c) Not determined from the poles position",
+            "d) Can be drawn anywhere",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 115,
+        "Question": "In a DC machine, the form of flux density distribution (main field only) waveform is __________",
+        "Options": [
+            "a) Triangular",
+            "b) Sinusoidal",
+            "c) Saw tooth",
+            "d) Trapezoidal",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 116,
+        "Question": "Due to the effect of armature reaction in DC machine, the flux per pole and generated voltage ______ and ________ respectively.",
+        "Options": [
+            "a) Increases, decreases",
+            "b) Decreases, decreases",
+            "c) Decreases, increases",
+            "d) Increases, increases",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 117,
+        "Question": "Armature reaction of an unsaturated DC machine is (in terms of magnetization) ________",
+        "Options": [
+            "a) Cross-magnetizing",
+            "b) Demagnetizing",
+            "c) Magnetizing",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 118,
+        "Question": "What is the effect of demagnetizing component of armature reaction?",
+        "Options": [
+            "a) Reduces generator emf",
+            "b) Increases armature speed",
+            "c) Reduces interpole flux density",
+            "d) Results in sparking trouble",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 119,
+        "Question": "What is the reason behind short circuit in armature?",
+        "Options": [
+            "a) Insulation failure between two commutator bars",
+            "b) Insulation failure between two turns of a coil",
+            "c) Two or more turns of the same coil getting grounded",
+            "d) Insulation failure between two commutator bars, two turns of a coil or the same coil getting grounded",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 120,
+        "Question": "What will happen at poles due to armature reaction in DC generator?",
+        "Options": [
+            "a) Demagnetisation of leading pole tip and magnetisation of trailing pole tip",
+            "b) Demagnetisation of trailing pole tip and magnetisation of leading pole tip",
+            "c) Demagnetising at the centre of all poles",
+            "d) Magnetising at the centre of all poles",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 121,
+        "Question": "In DC generator, how armature reaction is produced?",
+        "Options": [
+            "a) Its field current",
+            "b) Armature conductors",
+            "c) Field pole winding",
+            "d) Load current in armature",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 122,
+        "Question": "In a DC generator, the effect of armature reaction on the main pole flux is to _________",
+        "Options": [
+            "a) Reduce it",
+            "b) Distort it",
+            "c) Reverse it",
+            "d) Reduce and distort it",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 123,
+        "Question": "Armature reaction at 900 to the main field is called as ____________",
+        "Options": [
+            "a) Demagnetizing mmf",
+            "b) Cross-magnetizing mmf",
+            "c) Anti-magnetizing mmf",
+            "d) Magnetizing mmf",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 124,
+        "Question": "Increase in flux density at one end of the pole is less than the decrease at the other end. This is called as ____________",
+        "Options": [
+            "a) Demagnetizing mmf",
+            "b) Cross-magnetizing mmf",
+            "c) Anti-magnetizing mmf",
+            "d) Magnetizing mmf",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 125,
+        "Question": "Peak flux density in terms of total flux density is given by _________",
+        "Options": [
+            "a) ATa (peak) = ATa (total) /P",
+            "b) ATa (peak) = ATa (total) *P",
+            "c) ATa (peak) = ATa (total) /P*P",
+            "d) ATa (peak) = ATa (total) *P2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 126,
+        "Question": "Flux density in the interpolar region drops down because of ______",
+        "Options": [
+            "a) ATa (peak)",
+            "b) Large air gap",
+            "c) Absence of magnetic poles",
+            "d) Depends on other parameters",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 127,
+        "Question": "Resultant ampere-turn distribution of a DC machine is given by _________",
+        "Options": [
+            "a) ATresultant(∅) = ATf (∅) – ATa(∅)",
+            "b) ATresultant(∅) = – ATf (∅) + ATa(∅)",
+            "c) ATresultant(∅) = -ATf (∅) – ATa(∅)",
+            "d) ATresultant(∅) = ATf (∅) + ATa(∅)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 128,
+        "Question": "Which axis undergo shifting as a result of armature reaction?",
+        "Options": [
+            "a) GNA",
+            "b) MNA",
+            "c) Both GNA and MNA",
+            "d) Remains fixed",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 129,
+        "Question": "Armature reaction in a machine is demagnetizing due to _________",
+        "Options": [
+            "a) Machine is designed with iron which is slightly saturated",
+            "b) Machine is designed with iron which is unsaturated",
+            "c) Depends on the application where machine is being is used",
+            "d) Can’t tell",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 130,
+        "Question": "Which of the following are effects of armature reaction?",
+        "Options": [
+            "a) Increase in iron losses",
+            "b) Commutation problems",
+            "c) Possibility of commutator sparking",
+            "d) Increase in iron losses, commutation problems and commutator sparking",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 131,
+        "Question": " A 250 kW, 400 V, 6-pole dc generator has 720 lap wound conductors. Armature current is ____",
+        "Options": [
+            "a) 625A",
+            "b) 6.25A",
+            "c) 62.5A",
+            "d) 0.625A",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 132,
+        "Question": "What is the total ampere conductors/pole (in SI) if 600 lap wound conductors carry 120A current through conductors (P=4)?",
+        "Options": [
+            "a) 18000",
+            "b) 9000",
+            "c) 4500",
+            "d) 13500",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 133,
+        "Question": "What is the total ampere turns/pole (in AT/pole) if 600 lap wound conductors carry 120A current through conductors (P=4)?",
+        "Options": [
+            "a) 18000",
+            "b) 9000",
+            "c) 4500",
+            "d) 13500",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 134,
+        "Question": "If total ampere turns per pole is equal to 6000 A-turns, peak ampere turns for a 4-pole machine is _____",
+        "Options": [
+            "a) 24000",
+            "b) 3000",
+            "c) 1500",
+            "d) 4500",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 135,
+        "Question": "What is the total ampere turns per pole for 720 lap wounded conductors with carrying armature current equal to 625A in a 6-pole machine?",
+        "Options": [
+            "a) 6252 AT/pole",
+            "b) 625.2 AT/pole",
+            "c) 62.52 AT/pole",
+            "d) 8252 AT/pole",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 136,
+        "Question": "For 6252 AT/Poles, if brush shift is of 2.50 mech. Degrees, what will be the demagnetizing ampere-turns per pole for a 6-pole DC machine?",
+        "Options": [
+            "a) 521",
+            "b) 5731",
+            "c) 5231",
+            "d) 571",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 137,
+        "Question": "For 6252 AT/Poles, if brush shift is of 2.50 mech. Degrees, what will be the cross-magnetizing ampere-turns per pole for a 6-pole DC machine?",
+        "Options": [
+            "a) 521",
+            "b) 5731",
+            "c) 5231",
+            "d) 571",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 138,
+        "Question": "The armature reaction in a DC machine causes distortion in the main field flux. Effect of armature reaction can be reduced by_________",
+        "Options": [
+            "a) Increasing the length of air gap",
+            "b) Decreasing the length of air gap",
+            "c) Increasing the number of poles",
+            "d) Decreasing the number of poles",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 139,
+        "Question": "In order to neutralize armature mmf perfectly under the pole shoe, the ampere-conductors of compensating winding must be (pole arc/pole pitch=1) _______",
+        "Options": [
+            "a) Not equal to the total armature ampere conductors under the pole shoe",
+            "b) Equal to the total armature ampere conductors under the pole shoe",
+            "c) Half of the total armature ampere conductors under the pole shoe",
+            "d) Twice of the total armature ampere conductors under the pole shoe",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 140,
+        "Question": "What is the ampere turns per pole for compensating winding in DC machines?",
+        "Options": [
+            "a) (pole arc / pole pitch) * armature ampere turns per pole",
+            "b) (pole pitch / pole arc) * armature ampere turns per pole",
+            "c) (pole arc / pole pitch) * total ampere conductors per pole",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 141,
+        "Question": "Where are no equalizer rings connected?",
+        "Options": [
+            "a) Only wave winding",
+            "b) Only lap winding",
+            "c) Both wave winding and lap winding",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 142,
+        "Question": "Inequality in brush arm currents caused due to different emf induced in different parallel paths may give rise to copper losses. These effects can be avoided by using _________",
+        "Options": [
+            "a) Compensating windings",
+            "b) Interpoles",
+            "c) Equalizer rings",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 143,
+        "Question": " Which of the following method will completely neutralize the armature reaction in a DC machine?",
+        "Options": [
+            "a) Only compensating winding",
+            "b) Only interpoles",
+            "c) Compensating winding and interpoles",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 144,
+        "Question": "What is the exact location of compensating winding?",
+        "Options": [
+            "a) Across armature",
+            "b) In series with armature",
+            "c) Across armature or in series",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 145,
+        "Question": "Exact purpose of compensating winding in a DC generator is _________",
+        "Options": [
+            "a) Mainly to reduce the eddy currents by providing local short-circuits",
+            "b) To provide path for the circulation of cooling air",
+            "c) To neutralise the cross-magnetising effect of the armature reaction",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 146,
+        "Question": "Function of interpole flux is_________",
+        "Options": [
+            "a) Neutralise the commutating self-induced emf",
+            "b) Neutralise the armature reaction flux",
+            "c) Neutralise both the armature reaction flux as well as commutating emf induced in the coil",
+            "d) Perform none of the above functions",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 147,
+        "Question": "Why dummy coils are connected in DC machine?",
+        "Options": [
+            "a) To reduce eddy current losses",
+            "b) To enhance flux density",
+            "c) To amplify voltage",
+            "d) To provide mechanical balance for the rotor",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 148,
+        "Question": "The most likely cause(s) of sparking at the brushes in a DC machine is /are ____________",
+        "Options": [
+            "a) Open coil in the armature",
+            "b) Defective interpoles",
+            "c) Incorrect brush spring pressure",
+            "d) Open coil in armature, defective interpoles and incorrect brush spring pressure",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 149,
+        "Question": "Each of the following statements regarding interpoles is true except______________________",
+        "Options": [
+            "a) They are small yoke-fixed poles spaced in between the main poles",
+            "b) They are connected in parallel with the armature so that they carry part of the armature current",
+            "c) Their polarity, in the case of generators is the same as that of the main pole ahead",
+            "d) They automatically neutralize not only reactance voltage but cross-magnetisation as well",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 150,
+        "Question": "Axis undergo shifting as a result of armature reaction, can be balanced by ______",
+        "Options": [
+            "a) Increase in armature current",
+            "b) Decrease in armature current",
+            "c) Introducing interpoles",
+            "d) Removing interpoles",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 151,
+        "Question": "Compensating winding will provide incomplete neutralization ____________",
+        "Options": [
+            "a) Under pole region",
+            "b) In interpolar region",
+            "c) Everywhere",
+            "d) Complete neutralization",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 152,
+        "Question": "Cross-magnetizing effect of armature reaction can be reduced by __________",
+        "Options": [
+            "a) Removing saturation in teeth and pole-shoe",
+            "b) Making smooth pole shoes",
+            "c) Introducing saturation in teeth and pole-shoe",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 153,
+        "Question": "Cross-magnetizing effect of armature reaction can be reduced by __________",
+        "Options": [
+            "a) Removing saturation in teeth and pole-shoe",
+            "b) Making smooth pole shoes",
+            "c) Chamfering the pole shoes",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 154,
+        "Question": "To counter the effect of shift in MNA due to armature reaction, which of the following component can be shifted?",
+        "Options": [
+            "a) Poles",
+            "b) Commutator",
+            "c) Brushes",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 155,
+        "Question": "Calculate the number of conductors on each pole piece required in a compensating winding for a 6-pole lap-wound dc armature containing 286 conductors. The compensating winding carries full armature current. Assume ratio of pole arc/ pole pitch = 0.7.",
+        "Options": [
+            "a) 6",
+            "b) 8",
+            "c) 9",
+            "d) 7",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 156,
+        "Question": "A compensating winding with ampere-turns greater than peak ampere turns is required in order to neutralize the effect of armature reaction because _____________",
+        "Options": [
+            "a) Pole arc = Pole pitch",
+            "b) Pole arc > Pole pitch",
+            "c) Pole arc < Pole pitch",
+            "d) Can’t be determined using pole arc, pole pitch",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 157,
+        "Question": "If pole arc is less than pole pitch, a compensating winding will have ampere-turns _________ (compare to peak ampere turns).",
+        "Options": [
+            "a) Less",
+            "b) Equal",
+            "c) More",
+            "d) Can’t be specified",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 158,
+        "Question": "What is the pole arc/pitch ratio, if 360 AT compensating winding is used where 1960AT is peak value?",
+        "Options": [
+            "a) 0.7",
+            "b) 0.8",
+            "c) 0.9",
+            "d) 0.6",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 159,
+        "Question": "Only drawback of compensating winding is _______",
+        "Options": [
+            "a) Cost",
+            "b) Unavailability of material",
+            "c) Construction",
+            "d) Not a single drawback",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 160,
+        "Question": "Commutation is delayed due to __________",
+        "Options": [
+            "a) Leakage reactance",
+            "b) Effect of armature reaction",
+            "c) Leakage reactance and armature reaction",
+            "d) Because of other factors",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 161,
+        "Question": "Why brushes shifting method is not employed in practical commutation?",
+        "Options": [
+            "a) Expensive",
+            "b) Construction problems",
+            "c) Causes demagnetization",
+            "d) Used practically",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 162,
+        "Question": "Which are the methods for getting an ideal commutation?",
+        "Options": [
+            "a) Resistance commutation",
+            "b) Voltage commutation",
+            "c) Current commutation",
+            "d) Resistance and voltage commutation",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 163,
+        "Question": "In resistance commutation method we add resistance between __________________",
+        "Options": [
+            "a) Brushes and external circuit",
+            "b) Commutator and armature winding",
+            "c) At field winding",
+            "d) Commutator and brush",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 164,
+        "Question": "What is the effect on time constant of transient current, as a result of resistance commutation?",
+        "Options": [
+            "a) Remains same",
+            "b) Decreases",
+            "c) Increases",
+            "d) Increases then decreases",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 165,
+        "Question": "Which voltage is neutralized in voltage commutation process?",
+        "Options": [
+            "a) Armature",
+            "b) Reactance",
+            "c) Field",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 166,
+        "Question": "Interpoles are excited with ____________",
+        "Options": [
+            "a) Armature current",
+            "b) Field current",
+            "c) Separate supply",
+            "d) Mains current",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 167,
+        "Question": "Interpoles are excited by keeping them in ____________ with armature.",
+        "Options": [
+            "a) Series",
+            "b) Parallel",
+            "c) Anywhere",
+            "d) Not kept with armature",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 168,
+        "Question": "Polarity of interpoles is one pole ahead in the direction of armature rotation in _____________",
+        "Options": [
+            "a) Motor",
+            "b) Generator",
+            "c) Always ahead",
+            "d) Always behind",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 169,
+        "Question": "What is the size of interpolar air gap compare to main pole air gap?",
+        "Options": [
+            "a) Small",
+            "b) Same",
+            "c) More",
+            "d) Can be of any size",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 170,
+        "Question": "Formula for cancellation of reactance voltage on an average basis using interpoles ________",
+        "Options": [
+            "a) 2[Bi(av)liva] Nc = Lc (dic/dt) = Lc (2lc/tc)",
+            "b) [Bi(av)liva] Nc = Lc (dic/dt) = Lc (2lc/tc)",
+            "c) 2[Bi(av)liva] Nc = Lc (dic/dt) = Lc (lc/tc)",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 171,
+        "Question": "For a given 4-pole machine, carrying armature current 56.82 A, with 846 conductors. The mean flux density in the air gap under the interpoles is 0.5 Wb/m2 on full load and radial gap length is 0.3 cm. Ampere-turns required for an interpole is ____________",
+        "Options": [
+            "a) 3198",
+            "b) 2099",
+            "c) 4198",
+            "d) 6297",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 172,
+        "Question": "A 440 V, 4-pole, 25 kW, dc generator has a wave-connected armature winding with 846 conductors. The mean flux density in the air-gap under the interpoles is 0.5 Wb/m2 on full load and the radial gap length is 0.3 cm. Number of turns required on each interpole is _________",
+        "Options": [
+            "a) 74",
+            "b) 84",
+            "c) 64",
+            "d) 54",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 173,
+        "Question": "To achieve spark less commutation brushes of a DC generator are placed ________",
+        "Options": [
+            "a) just ahead of magnetic neutral axis",
+            "b) in magnetic neutral axis",
+            "c) just behind the magnetic neutral axis",
+            "d) can be placed anywhere",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 174,
+        "Question": "If in the DC machine, the reversal of current in the coil is faster than ideal or linear commutation then the commutation is said to be __________ commutation.",
+        "Options": [
+            "a) Retarded",
+            "b) Curvilinear",
+            "c) Accelerated",
+            "d) Under",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 175,
+        "Question": "For a DC machine, in a commutator ________",
+        "Options": [
+            "a) Copper is harder than mica",
+            "b) Mica and copper are equally hard",
+            "c) Mica is harder than copper",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 176,
+        "Question": "The insulating material used between the commutator segments is normally _______",
+        "Options": [
+            "a) Graphite",
+            "b) Paper",
+            "c) Air gap",
+            "d) Mica",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 177,
+        "Question": "Why interpoles are tapered in a DC machine?",
+        "Options": [
+            "a) Simpler design",
+            "b) Reduction in the weight",
+            "c) Increase in acceleration of commutation",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 178,
+        "Question": "The main function of interpoles in a loaded DC machine is to minimize _______between the brushes and the commutator.",
+        "Options": [
+            "a) Friction",
+            "b) Sparking",
+            "c) Current",
+            "d) Wear and tear",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 179,
+        "Question": "Which of the following is different component?",
+        "Options": [
+            "a) Commutating poles",
+            "b) Compoles",
+            "c) Interpoles",
+            "d) Compensating winding",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 180,
+        "Question": "How many coils under an adjoining pole pairs is/are connected between adjacent commutator segments in lap winding?",
+        "Options": [
+            "a) 1/2",
+            "b) 2",
+            "c) 1",
+            "d) 1/4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 181,
+        "Question": "In wave winding, P/2 coils are connected under the influence of “x” pole-pairs which connect adjacent segments. X is ____",
+        "Options": [
+            "a) P",
+            "b) P/2",
+            "c) 2P",
+            "d) P/4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 182,
+        "Question": "How many coil sets undergo commutation simultaneously in a wave winding?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 4",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 183,
+        "Question": "Which coil is shorted in commutation process?",
+        "Options": [
+            "a) Coil under north pole",
+            "b) Coil under south pole",
+            "c) Coil lying in an interpolar region",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 184,
+        "Question": "Ideal commutation can be shown graphically by _____________",
+        "Options": [
+            "a) Straight line passing through origin",
+            "b) Straight line not passing through origin but with +ve slope",
+            "c) Straight line not passing through origin but with -ve slope",
+            "d) Curve increasing towards +ve t axis",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 185,
+        "Question": "Which winding has large number of turns?",
+        "Options": [
+            "a) Shunt field",
+            "b) Series field",
+            "c) Both have same number of turns",
+            "d) Depends on requirement",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 186,
+        "Question": "Which winding contains wire with higher thickness?",
+        "Options": [
+            "a) Shunt field",
+            "b) Series field",
+            "c) Both have same number of turns",
+            "d) Depends on requirement",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 187,
+        "Question": "Which winding have higher resistance?",
+        "Options": [
+            "a) Shunt field",
+            "b) Series field",
+            "c) Both have same number of turns",
+            "d) Depends on requirement",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 188,
+        "Question": "Which is more practical method used in control of series field?",
+        "Options": [
+            "a) Diverter",
+            "b) Tappings",
+            "c) Switch relay",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 189,
+        "Question": "In compound excitation, which winding/s is/are excited?",
+        "Options": [
+            "a) Shunt",
+            "b) Series",
+            "c) Both",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 190,
+        "Question": "In which type of excitation air gap flux increases with armature current?",
+        "Options": [
+            "a) Differential compound",
+            "b) Cumulative compound",
+            "c) Differential and Cumulative",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 191,
+        "Question": "In differential compound excited machine, what is the variation in air gap flux per pole with respect to armature current?",
+        "Options": [
+            "a) Increases",
+            "b) Decreases",
+            "c) Remains constant",
+            "d) Always varies",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 192,
+        "Question": "Which winding in compound excitation is responsible for change in air gap flux per pole?",
+        "Options": [
+            "a) Series",
+            "b) Parallel",
+            "c) Interconnected",
+            "d) No coil is responsible",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 193,
+        "Question": "How short shunt and long shunt compound winding is selected?",
+        "Options": [
+            "a) Mechanical considerations",
+            "b) Switch reversal",
+            "c) Performance",
+            "d) Mechanical considerations and switch reversal",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 194,
+        "Question": "For a long-shunt compound motoring, which of the following equation is correct?",
+        "Options": [
+            "a) Vt= Ea+ Ia(Ra+ Rse)",
+            "b) Vt= Ea– Ia(Ra+ Rse)",
+            "c) Vt= Ea+ Ia(Ra– Rse)",
+            "d) Vt= -Ea+ Ia(Ra+ Rse)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 195,
+        "Question": "Vt= Ea– Ia(Ra+ Rse) is the equation for _______________",
+        "Options": [
+            "a) Short shunt compound motoring mode",
+            "b) Short shunt compound generating mode",
+            "c) long shunt compound motoring mode",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 196,
+        "Question": "How shunt field is controlled?",
+        "Options": [
+            "a) Diverter resistor in parallel",
+            "b) Tapped field winding",
+            "c) Series regulating resistance",
+            "d) Other methods",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 197,
+        "Question": "The generator is called flat compounded if _____________",
+        "Options": [
+            "a) The series field ampere turns are such as to produce the same voltage at rated load as at no load",
+            "b) The series field turns are such as that the no load voltage is smaller than the rated load voltage",
+            "c) The rated voltage is less than the no load voltage",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 198,
+        "Question": "Which of the following is not the operating characteristics of Dc generator?",
+        "Options": [
+            "a) No-load characteristics",
+            "b) Load characteristics",
+            "c) External characteristics",
+            "d) Internal characteristics",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 199,
+        "Question": "Characteristics drawn at Ia = 0 is also called as ____________",
+        "Options": [
+            "a) Magnetization characteristics",
+            "b) Non-magnetization characteristics",
+            "c) Anti-magnetization characteristics",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 200,
+        "Question": "Open circuit characteristics (OCC) is generally drawn across __________",
+        "Options": [
+            "a) Ea vs If, Ia=constant (not equal to rated)",
+            "b) Ea vs If, Ia=0",
+            "c) Ea vs If, Ia=constant",
+            "d) Ea vs If, Ia=constant (rated)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 201,
+        "Question": "Characteristics of a DC generator drawn across Vt vs If at rated armature current and constant speed, is called as ____________",
+        "Options": [
+            "a) Load characteristics",
+            "b) No-load characteristics",
+            "c) External characteristics",
+            "d) Armature characteristics",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 202,
+        "Question": "While conducting OCC, in order to avoid hysteresis loop, in which direction If should be increased?",
+        "Options": [
+            "a) -ve direction",
+            "b) +ve direction",
+            "c) In any direction",
+            "d) In both direction there exists hysteresis loop",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 203,
+        "Question": "Air gap line is drawn at iron _________",
+        "Options": [
+            "a) Saturated",
+            "b) Unsaturated",
+            "c) Moderately saturated",
+            "d) Variable saturation",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 204,
+        "Question": "If suppose OCC is conducted at speed n1, where n1< nrated, OCC will lie ____________",
+        "Options": [
+            "a) Above OCC at nrated",
+            "b) On OCC at nrated",
+            "c) Below OCC at nrated",
+            "d) Can’t comment by only speed information",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 205,
+        "Question": "Ea can be determined using __________",
+        "Options": [
+            "a) No-load characteristics",
+            "b) Load characteristics",
+            "c) Cannot be determined",
+            "d) Above OCC",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 206,
+        "Question": "If load characteristics are drawn on OCC itself, we get curve ________",
+        "Options": [
+            "a) Above OCC",
+            "b) On OCC",
+            "c) Below OCC",
+            "d) Intersecting OCC",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 207,
+        "Question": "Load characteristics drawn at Ra =0 and Ra not equal to 0, will lie _____",
+        "Options": [
+            "a) Above",
+            "b) On",
+            "c) Below",
+            "d) Intersecting",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 208,
+        "Question": "OCC is drawn at two different speeds both less than rated speed. OCC drawn at speed N1 lies below OCC drawn at speed N2. Which of the following relation is correct?",
+        "Options": [
+            "a) N2 = N1",
+            "b) N2 < N1",
+            "c) N2 >> N1",
+            "d) Can’t comment",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 209,
+        "Question": "Why No-load or load characteristics are also called as magnetization characteristics?",
+        "Options": [
+            "a) Ea α If",
+            "b) Ea α φ",
+            "c) If α φ",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 210,
+        "Question": "Armature characteristic is _____________",
+        "Options": [
+            "a) No-load characteristic",
+            "b) Load characteristic",
+            "c) OCC Current",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 211,
+        "Question": "External characteristics is drawn with constant term/s ____________",
+        "Options": [
+            "a) Field current",
+            "b) Speed",
+            "c) Both Field current and Speed",
+            "d) Load",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 212,
+        "Question": "3.Armature characteristic is drawn across ________",
+        "Options": [
+            "a) Ia vs If",
+            "b) Ia vs Vt",
+            "c) If vs Vt",
+            "d) Ea vs Ia",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 213,
+        "Question": "what is the first step in drawing the armature characteristic?",
+        "Options": [
+            "a) If is made 0",
+            "b) Field current is adjusted to give Voc equal to rated value",
+            "c) Switch connecting armature circuit with external circuit is made open",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 214,
+        "Question": "In armature characteristic, nature of If at lower values of armature current is ______",
+        "Options": [
+            "a) Very large",
+            "b) Almost constant",
+            "c) Decreasing rapidly",
+            "d) Increasing then decreasing",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 215,
+        "Question": "At some point If On OCC, the value of voltage obtained which is more than rated voltage is _______",
+        "Options": [
+            "a) Ia *Ra + If *Rf",
+            "b) Ia *Ra",
+            "c) Vd + Ia *Ra",
+            "d) Can’t tell",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 216,
+        "Question": "Which of the following is the correct formula for cumulative compound generator?",
+        "Options": [
+            "a) Nse= Nf (ΔIa/If)",
+            "b) Nse= Nf (ΔIf/Ia)",
+            "c) Nse= 2Nf (ΔIa/If)",
+            "d) Nse= Nf (ΔIa/If)/2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 217,
+        "Question": "External Characteristic is a plot of _____________",
+        "Options": [
+            "a) Generated emf and load current",
+            "b) Terminal voltage and load current",
+            "c) Generated voltage and field current",
+            "d) Armature current and field current",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 218,
+        "Question": "External characteristics for all separately DC generators (except series generator) can be summarized as ____________",
+        "Options": [
+            "a) Parabola opening in +x direction",
+            "b) Parabola opening in -x direction",
+            "c) Parabola opening in +y direction",
+            "d) Parabola opening in -y direction",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 219,
+        "Question": "What is Self-excitation in DC shunt generator?",
+        "Options": [
+            "a) Field winding is connected in series of armature",
+            "b) Field winding is connected in parallel of armature",
+            "c) Field winding is not connected to the armature",
+            "d) Field Winding is not excited",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 220,
+        "Question": "For a self-excited DC shunt generator Ia = _____________",
+        "Options": [
+            "a) IL – If",
+            "b) IL + IL",
+            "c) – IL – IL",
+            "d) – IL + IL",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 221,
+        "Question": "For self-excited DC generator, field circuit curve in the OCC will be __________",
+        "Options": [
+            "a) Straight line not passing through the origin with +ve slope",
+            "b) Straight line passing through the origin",
+            "c) Straight line not passing through the origin with -ve slope",
+            "d) Increasing curve",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 222,
+        "Question": "Intersection of Rf line and magnetization curve will give _____________",
+        "Options": [
+            "a) No load terminal voltage",
+            "b) Field current at no load",
+            "c) Both a and b",
+            "d) Not specific data",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 223,
+        "Question": "What will happen if field resistance is decreased?",
+        "Options": [
+            "a) No load voltage will decrease",
+            "b) No load voltage will increase",
+            "c) No change in no load voltage",
+            "d) Field current will decrease",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 224,
+        "Question": "No-load voltage can’t be defined where _____________",
+        "Options": [
+            "a) Field resistance line lies below the magnetization linear line",
+            "b) Field resistance line intersects the magnetization linear line",
+            "c) Field resistance line coincides the magnetization linear line",
+            "d) Defined everywhere",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 225,
+        "Question": "Machine does not excite to an appreciable value when ___________",
+        "Options": [
+            "a) Field resistance is less than critical resistance",
+            "b) Field resistance is more than critical resistance",
+            "c) In both cases a and b",
+            "d) Depends on other parameters",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 226,
+        "Question": "No-load voltage observed at two different field resistance values, is V1 < V2. What will be the relation in field resistance values?",
+        "Options": [
+            "a) Rf1 < Rf2",
+            "b) Rf1 = Rf1",
+            "c) Rf1 > Rf1",
+            "d) Can’t determine from no-load voltage",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 227,
+        "Question": "No-load voltage observed at two different field resistance values, is V1 < V2. What will be the relation in speed if field resistance is kept same for both cases?",
+        "Options": [
+            "a) N1 < N2",
+            "b) N1 = N1",
+            "c) N1 > N1",
+            "d) Can’t determine from no-load voltage",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 228,
+        "Question": "DC generator will not self-excite in __________",
+        "Options": [
+            "a) Positive feedback",
+            "b) Negative feedback",
+            "c) Zero Feedback",
+            "d) Doesn’t depend on feedback",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 229,
+        "Question": "Which of the following is not a reason, behind failing of self-exciting machine?",
+        "Options": [
+            "a) Residual magnetism is absent",
+            "b) Negative feedback",
+            "c) Field resistance value is more than critical resistance value",
+            "d) Armature resistance is non-zero",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 230,
+        "Question": "Which of the following will be useful to generate positive feedback?",
+        "Options": [
+            "a) Increasing the field resistance",
+            "b) Increasing the armature resistance",
+            "c) Decreasing the armature resistance",
+            "d) Changing the shaft direction",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 231,
+        "Question": "Characteristics of separately excited DC generator are drawn by keeping _____",
+        "Options": [
+            "a) Field current and speed both constant",
+            "b) Field current and speed both variable",
+            "c) Field current constant and speed variable",
+            "d) Field current variable and speed constant",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 232,
+        "Question": "What is the reason behind dropping down of Ea with load?",
+        "Options": [
+            "a) Field resistance",
+            "b) Load resistance",
+            "c) Internal factors",
+            "d) Armature reaction",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 233,
+        "Question": "External characteristic differ from an internal characteristic in separately excited DC generator by _________",
+        "Options": [
+            "a) Ia *Ra",
+            "b) If *Ra",
+            "c) IL *RL",
+            "d) If *Rf",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 234,
+        "Question": "The variation in terminal voltage of DC shunt generator with respect to variation in separately excited DC generator is ___________",
+        "Options": [
+            "a) Much rapid",
+            "b) Much slower",
+            "c) Remains constant",
+            "d) Can’t say",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 235,
+        "Question": "Which of the following characteristic lies above of all others?",
+        "Options": [
+            "a) Differential compound",
+            "b) Under compound",
+            "c) Level compound",
+            "d) Over compound",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 236,
+        "Question": "Why differential compound generator is not used in practice?",
+        "Options": [
+            "a) High cost",
+            "b) High maintenance",
+            "c) High drop down in voltage",
+            "d) Difficult construction",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 237,
+        "Question": "7.How compounding level in a compound machine is adjusted?",
+        "Options": [
+            "a) By adding variable resistance in series with series field resistance",
+            "b) By adding variable resistance in parallel with series field resistance",
+            "c) By adding fixed resistance in parallel with series field resistance",
+            "d) By adding fixed resistance in series with series field resistance",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 238,
+        "Question": "Which of the following have different external characteristic than other?",
+        "Options": [
+            "a) Self excited DC shunt generator",
+            "b) Separately excited generator",
+            "c) Compound DC generator",
+            "d) Series DC generator",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 239,
+        "Question": "External characteristic differ from internal characteristic in DC series motor by ______",
+        "Options": [
+            "a) Ia *(Ra + RSE)",
+            "b) Ia *Ra",
+            "c) Ia *RSE",
+            "d) If *RSE",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 240,
+        "Question": "For series DC generator, internal/external characteristic start from ____________",
+        "Options": [
+            "a) Positive non-zero voltage",
+            "b) Zero voltage",
+            "c) Negative non-zero voltage",
+            "d) Can start from anywhere",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 241,
+        "Question": "For a DC series generator what is the condition for self-excitation?",
+        "Options": [
+            "a) (Ra+Rse) > RC",
+            "b) (RSE+Rse+RL) < RC",
+            "c) (RSE+Rse+RL) > RC",
+            "d) (Rse+RL) > RC",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 242,
+        "Question": "For a given DC series generator with critical resistance equal to 100 Ω, armature resistance is equal to 50 Ω, and series field resistance is equal to 20 Ω, is connected across load of 50 Ω. What will be the load voltage?",
+        "Options": [
+            "a) 20 kV",
+            "b) 0 V",
+            "c) 2 kV",
+            "d) Data insufficient",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 243,
+        "Question": "No load point of DC generator is __________",
+        "Options": [
+            "a) Intersection of OCC and Rf line",
+            "b) Point on the Y axis at rated field current",
+            "c) Point on the X axis at rated terminal voltage",
+            "d) Can’t find through graphical interpretation",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 244,
+        "Question": "Rf line intersects with OCC in ________",
+        "Options": [
+            "a) 1st quadrant",
+            "b) 2nd quadrant",
+            "c) 3rd quadrant",
+            "d) 4th quadrant",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 245,
+        "Question": "How armature resistance effect is shown graphically?",
+        "Options": [
+            "a) By adding IaRa product horizontally with Rf line",
+            "b) By subtracting IaRa product vertically with Rf line",
+            "c) By adding  IaRa product vertically with Rf line",
+            "d) By subtracting  IaRa product horizontally with Rf line",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 246,
+        "Question": "For determining IaRa maximum _____________",
+        "Options": [
+            "a) Distance between Rf line and v+ IaRa line is taken",
+            "b) Distance between OCC and v+ IaRa line is taken",
+            "c) Maximum Distance between OCC and v+ IaRa line is taken",
+            "d) Can’t calculated graphically",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 247,
+        "Question": "How demagnetization effect of armature reaction is shown graphically?",
+        "Options": [
+            "a) By shifting origin towards +ve y axis",
+            "b) By shifting origin towards +ve x axis",
+            "c) By shifting origin towards -ve y axis",
+            "d) By shifting origin towards -ve x axis",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 248,
+        "Question": "External characteristics of DC shunt motor lies in ______________",
+        "Options": [
+            "a) 1st quadrant",
+            "b) 2nd quadrant",
+            "c) 1st and 2nd quadrant",
+            "d) 4th quadrant",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 249,
+        "Question": "From magnetization characteristic at If = 7.1 A, Ea = 225 V at 1000 rpm. What will be the terminal voltage at speed 950 rpm?",
+        "Options": [
+            "a) 225 V",
+            "b) 235 V",
+            "c) 214 V",
+            "d) 220 V",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 250,
+        "Question": "For a given compound DC machine, Net field current obtained from characteristic is equal to 7.5 A, where shunt field current is equal to 5 A, armature current is 505 A, demagnetizing current equal to 0.95 A and shunt field winding of 1000 turns at rated speed of 1000 rpm. What will be the series field turns?",
+        "Options": [
+            "a) 7",
+            "b) 8",
+            "c) 5",
+            "d) 9",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 251,
+        "Question": "For connecting two generators in parallel, they should have __________________",
+        "Options": [
+            "a) Same current rating",
+            "b) Same ohmic rating",
+            "c) Same voltage rating",
+            "d) All ratings must be same",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 252,
+        "Question": "While connecting two DC generators in parallel, which of the following is not a desirable condition?",
+        "Options": [
+            "a) Same voltage rating",
+            "b) Same percentage voltage regulation",
+            "c) Same percentage speed regulation of the prime movers",
+            "d) Same current rating",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 253,
+        "Question": "We connect two generators in parallel _____________",
+        "Options": [
+            "a) For large DC load",
+            "b) For small DC load",
+            "c) For any DC load",
+            "d) For any AC or DC load",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 254,
+        "Question": "Load sharing of two generators connected in parallel is determined by __________",
+        "Options": [
+            "a) Internal characteristics",
+            "b) External characteristics",
+            "c) Both internal and external characteristics",
+            "d) It doesn’t depend on load sharing",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 255,
+        "Question": "For a parallel operation of 2 DC shunt generators, we get net external characteristics ___________",
+        "Options": [
+            "a) Starting from the same no-load point and between generator 1 and generator 2",
+            "b) Starting from the same no-load point and below generator 1 and generator 2",
+            "c) Starting from the same no-load point and above generator 1 and generator 2",
+            "d) Can’t be determined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 256,
+        "Question": "When two compound generators are connected in parallel, when load current in generator 1 is increased __________",
+        "Options": [
+            "a) Both generator will share same load",
+            "b) Generator 1 will start running as motor",
+            "c) Generator 2 will be overloaded",
+            "d) Generator 2 will start running as motor",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 257,
+        "Question": "While running two compound motors in parallel, we connect equalizer ring between ___________",
+        "Options": [
+            "a) Two armatures",
+            "b) Two fields",
+            "c) Two load points",
+            "d) Anywhere",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 258,
+        "Question": "When two DC series motors are connected in parallel, the resultant speed is __________",
+        "Options": [
+            "a) More than the normal speed",
+            "b) Loss than the normal speed",
+            "c) Normal speed",
+            "d) Zero",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 259,
+        "Question": "For machine tools, which DC motor can be used?",
+        "Options": [
+            "a) DC Series motor",
+            "b) DC Shunt motor",
+            "c) DC cumulative compound motor",
+            "d) DC differential compound motor",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 260,
+        "Question": "In a DC shunt motor, speed is related to armature current as _____________",
+        "Options": [
+            "a) Directly proportional to the armature current",
+            "b) Proportional to the square of the current",
+            "c) Independent of armature current",
+            "d) Inversely proportional to the armature current",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 261,
+        "Question": "In a DC shunt motor for zero armature current we get speed ______",
+        "Options": [
+            "a) Non-zero and minimum",
+            "b) Zero",
+            "c) Non-zero and maximum",
+            "d) Doesn’t depend on armature current",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 262,
+        "Question": "What will be the effect of opening of field of a DC shunt motor while motor is running?",
+        "Options": [
+            "a) The speed of motor will be reduced",
+            "b) The armature current will reduce",
+            "c) The motor will attain dangerously high speed",
+            "d) The motor will continue to constant speed",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 263,
+        "Question": "What will be the effect of reducing load on DC shunt motor?",
+        "Options": [
+            "a) Speed will increase abruptly",
+            "b) Speed will increase in proportion to reduction in load",
+            "c) Speed will remain almost constant",
+            "d) Speed will reduce",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 264,
+        "Question": "How speed of the DC shunt motor can be increased?",
+        "Options": [
+            "a) Decreasing the field current",
+            "b) Increasing the field current",
+            "c) Decreasing the load current",
+            "d) Increasing the armature current",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 265,
+        "Question": "Practical reason behind speed of DC shunt motor is proportional to back emf only is ____________",
+        "Options": [
+            "a) Back emf is equal to armature drop",
+            "b) Flux is proportional to field current",
+            "c) Flux is proportional to armature current",
+            "d) Flux is practically constant in DC shunt motors",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 266,
+        "Question": "In a DC shunt motor, what will be the armature current at maximum load?",
+        "Options": [
+            "a) Almost negligible",
+            "b) Rated full-load current",
+            "c) Less than full-load current",
+            "d) More than full-load current",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 267,
+        "Question": "In which of the following motor, ratio of starting torque to full-load torque will be least?",
+        "Options": [
+            "a) DC series motors",
+            "b) DC shunt motors",
+            "c) DC compound motors",
+            "d) Synchronous motors",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 268,
+        "Question": "As the load is increased the speed of DC shunt motor will ___________",
+        "Options": [
+            "a) Reduce slightly",
+            "b) Increase slightly",
+            "c) Increase proportionately",
+            "d) Reduce rapidly",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 269,
+        "Question": "The armature torque of the DC shunt motor is proportional to",
+        "Options": [
+            "a) Field flux only",
+            "b) Armature current only",
+            "c) Field flux and armature current",
+            "d) Field current",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 270,
+        "Question": "If a DC shunt motor is working at full load and if shunt field circuit suddenly opens _____________________",
+        "Options": [
+            "a) Will make armature to take heavy current, possibly burning it",
+            "b) Will result in excessive speed, possibly destroying armature due to excessive centrifugal stresses",
+            "c) Nothing will happen to motor",
+            "d) Motor will come to stop",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 271,
+        "Question": "Speed of DC shunt motor is directly proportional to___________",
+        "Options": [
+            "a) Flux",
+            "b) Back emf",
+            "c) Terminal voltage",
+            "d) Armature resistance drop",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 272,
+        "Question": "Speed torque characteristic of DC shunt motor is _______________",
+        "Options": [
+            "a) Starting from origin",
+            "b) Starting from speed axis and increasing",
+            "c) Starting from speed axis and decreasing",
+            "d) Starting from speed axis and constant",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 273,
+        "Question": "Correct equation of speed-torque characteristic of DC shunt motor is____________",
+        "Options": [
+            "a) [Vt / kΦ] – [Ra / kl Φ2] T",
+            "b) [Vt / kΦ2] – [Ra / kl Φ2] T",
+            "c) [Vt / kΦ] – [Ra / kl Φ] T",
+            "d) [Vt / kΦ2] – [Ra / kl Φ2] T",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 274,
+        "Question": "For some percentage increase in the torque, which DC motor will have the least percentage increase of input current?",
+        "Options": [
+            "a) Series motor",
+            "b) Shunt motor",
+            "c) Cumulative compound motor",
+            "d) Separately exited motor",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 275,
+        "Question": "DC Shunt Motor has a disadvantage __________",
+        "Options": [
+            "a) Constant speed",
+            "b) Less expensive",
+            "c) Not suitable for rapidly changing loads",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 276,
+        "Question": "DC series motors are used _______________",
+        "Options": [
+            "a) Where load is constant",
+            "b) Where load changes frequently",
+            "c) Where constant operating speed is needed",
+            "d) High starting speed",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 277,
+        "Question": "Where compensating winding is provided in case of conductively compensated DC series motor?",
+        "Options": [
+            "a) As separately wound unit",
+            "b) In series with armature winding",
+            "c) In parallel with armature winding",
+            "d) In parallel with field winding",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 278,
+        "Question": "No-load speed of which of the following DC motor will be highest?",
+        "Options": [
+            "a) Shunt motor",
+            "b) Series motor",
+            "c) Cumulative compound motor",
+            "d) Differentiate compound motor",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 279,
+        "Question": "The direction of rotation of a DC series motor shaft can be changed by _____________",
+        "Options": [
+            "a) Interchanging supply terminals",
+            "b) Interchanging field terminals",
+            "c) Not possible",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 280,
+        "Question": "Which of the following DC motor can be used at conveyors?",
+        "Options": [
+            "a) Series motor",
+            "b) Shunt motor",
+            "c) Differentially compound motor",
+            "d) Cumulative compound motor",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 281,
+        "Question": "6.Which statement is correct about DC series motor?",
+        "Options": [
+            "a) Has its field winding consisting of thick wire and more turns",
+            "b) Has a poor torque",
+            "c) Can be started easily without load",
+            "d) Has its field winding consisting of thick wire and less turns",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 282,
+        "Question": "In which of the following applications DC series motor is invariably tried?",
+        "Options": [
+            "a) Starter for a car",
+            "b) Drive for a water pump",
+            "c) Fan motor",
+            "d) Home appliances",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 283,
+        "Question": "The speed of a DC series motor is ___________",
+        "Options": [
+            "a) Proportional to field current",
+            "b) Proportional to the square of the armature current",
+            "c) Proportional to the armature current",
+            "d) Inversely proportional to the armature current",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 284,
+        "Question": "In a DC series motor, if the armature current is halved, the torque of the motor will be equal to",
+        "Options": [
+            "a) 100% of the previous value",
+            "b) 50% of the previous value",
+            "c) 25% of the previous value",
+            "d) 10% of the previous value",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 285,
+        "Question": "Which DC motor is generally preferred for cranes and hoists?",
+        "Options": [
+            "a) Series motor",
+            "b) Shunt motor",
+            "c) Cumulatively compounded motor",
+            "d) Differentially compounded motor",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 286,
+        "Question": "Which of the following motor has the poorest speed regulation?",
+        "Options": [
+            "a) Shunt motor",
+            "b) Series motor",
+            "c) Differential compound motor",
+            "d) Cumulative compound motor",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 287,
+        "Question": "Buses, trains, trolleys, hoists, cranes make use of DC series motor because __________",
+        "Options": [
+            "a) It provides low starting torque",
+            "b) Cost efficient",
+            "c) It provides high starting torque",
+            "d) It requires minimum power compare to other motors",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 288,
+        "Question": "DC motor is to drive a load which is having certain minimum value for most of the time and some peak value for short duration. We will select the _______",
+        "Options": [
+            "a) Series motor",
+            "b) Shunt motor",
+            "c) Compound motor",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 289,
+        "Question": "Which DC motor has got maximum self-relieving property?",
+        "Options": [
+            "a) Series motor",
+            "b) Shunt motor",
+            "c) Cumulatively compounded motor",
+            "d) Differentially compounded motor",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 290,
+        "Question": "Which motor should not be started on no-load?",
+        "Options": [
+            "a) DC Series motor",
+            "b) DC Shunt motor",
+            "c) Synchronous motor",
+            "d) Induction motor",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 291,
+        "Question": "Which of the following is the correct equation for DC series motor ________",
+        "Options": [
+            "a) [ Vt / kφ]- [ Rse +Ra / kφ] Ia",
+            "b) [ Vt / kφ]- [ Ra/ kφ2] Ia",
+            "c) [ Vt / kφ2]- [Rse +Ra/ kφ2] Ia",
+            "d) [ Vt / kφ2] + [ Ra/ kφ2] Ia",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 292,
+        "Question": "Actual speed obtained at any value of armature current comparing to speed obtained by assuming linear magnetic assumption in DC series motor is _______",
+        "Options": [
+            "a) Same",
+            "b) Higher",
+            "c) Lower",
+            "d) Cannot say",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 293,
+        "Question": "Torque of e DC series motor is __________",
+        "Options": [
+            "a) Directly proportional to armature current",
+            "b) Inversely proportional to armature current",
+            "c) Directly proportional to square of armature current",
+            "d) Inversely proportional to square of armature current",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 294,
+        "Question": "What will happen to a torque, if a DC series motor is accidentally connected to single phase ac supply voltage?",
+        "Options": [
+            "a) Pulsating and unidirectional",
+            "b) Steady and unidirectional",
+            "c) Oscillating",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 295,
+        "Question": "Differentially compound DC motors are used in applications requiring _______",
+        "Options": [
+            "a) High starting torque",
+            "b) Low starting torque",
+            "c) Variable speed",
+            "d) Frequent on-off cycles",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 296,
+        "Question": "Which DC motor is more preferred for elevators?",
+        "Options": [
+            "a) Shunt motor",
+            "b) Series motor",
+            "c) Differential compound motor",
+            "d) Cumulative compound motor",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 297,
+        "Question": "Which DC motor is used in shears and punches?",
+        "Options": [
+            "a) Shunt motor",
+            "b) Series motor",
+            "c) Cumulative compound motor",
+            "d) Differential compound motor",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 298,
+        "Question": "Which DC motor has got maximum self-loading property?",
+        "Options": [
+            "a) Series motor",
+            "b) Shunt motor",
+            "c) Cumulative compound motor",
+            "d) Differential compound motor",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 299,
+        "Question": "For the same H.P. rating and full load speed, which of the following motor has poor starting torque?",
+        "Options": [
+            "a) Series motor",
+            "b) Shunt motor",
+            "c) Cumulative compound motor",
+            "d) Differential compound motor",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 300,
+        "Question": "Flywheel is used with DC compound motor to reduce the peak demand by the motor, compound motor has to be _____________",
+        "Options": [
+            "a) Level compounded",
+            "b) Under compounded",
+            "c) Cumulatively compounded",
+            "d) Differentially compounded",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 301,
+        "Question": "What will happen if shunt field suddenly opens, in a differential compound DC motor?",
+        "Options": [
+            "a) Motor will first stop and then run in opposite direction as series motor",
+            "b) Motor will not work and come to stop",
+            "c) Motor will work as series motor and run at infinitely high speed",
+            "d) Motor will work as series motor and run at slow speed",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 302,
+        "Question": "What will happen if the series field of a differential compound motor is short circuited?",
+        "Options": [
+            "a) Net flux will decrease",
+            "b) Speed will increase",
+            "c) Speed will remain constant",
+            "d) Speed will decrease",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 303,
+        "Question": "What will happen if the series field of a cumulative compound motor is short circuited?",
+        "Options": [
+            "a) Net flux will increase",
+            "b) Speed will increase",
+            "c) Speed will remain constant",
+            "d) Speed will decrease",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 304,
+        "Question": "DC motor is to a drive a load which is almost zero for certain part of the load cycle and peak value for short duration. We will select __________",
+        "Options": [
+            "a) Series motor",
+            "b) Shunt motor",
+            "c) Compound motor",
+            "d) Any DC motors",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 305,
+        "Question": "Net field current in a compound motor is given by ______________",
+        "Options": [
+            "a) If (net)= If + (Nse/Nf) Ia",
+            "b) If (net)= If – (Nse/Nf) Ia",
+            "c) If (net)= If + (Nf/Nse) Ia",
+            "d) If (net)= If – (Nf/Nse) Ia",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 306,
+        "Question": "With increase in armature current, speed of the cumulative compound motor _________",
+        "Options": [
+            "a) Reduces slowly compare to shunt motor",
+            "b) Reduces sharply compare to shunt motor",
+            "c) Remains constant",
+            "d) Increases in proportionality with armature current",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 307,
+        "Question": "Speed current characteristic of cumulative DC compound motor at larger values of armature current is similar to that of _____________",
+        "Options": [
+            "a) DC shunt motor",
+            "b) Induction motor",
+            "c) DC differential compound motor",
+            "d) DC series motor",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 308,
+        "Question": "Where speed-current characteristic of DC shunt motor lies with respect to DC cumulative compound motor (assume current greater than full load current)?",
+        "Options": [
+            "a) Can be represented by same curve",
+            "b) Above",
+            "c) Below",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 309,
+        "Question": "Where speed-current characteristic of DC shunt motor lies with respect to DC cumulative compound motor (assume current smaller than full load current)?",
+        "Options": [
+            "a) Can be represented by same curve",
+            "b) Above",
+            "c) Below",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 310,
+        "Question": "Only motor listed below whose speed increases with increase in armature current is ___________",
+        "Options": [
+            "a) DC series motor",
+            "b) DC cumulative compound motor",
+            "c) DC shunt motor",
+            "d) DC differential compound motor",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 311,
+        "Question": "Torque of the cumulative compound DC motor is _____________",
+        "Options": [
+            "a) Addition of Ia and Ia2 term",
+            "b) Subtraction of Ia from Ia2 term",
+            "c) Subtraction of Ia2 from Ia term",
+            "d) Addition of -Ia and -Ia2 term",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 312,
+        "Question": "Torque-current characteristic of DC cumulative compound motor _____________",
+        "Options": [
+            "a) Lies above shunt motor characteristic",
+            "b) Lies below shunt motor characteristic",
+            "c) Lies above of series and shunt motor characteristic both",
+            "d) Lies between of series and shunt motor characteristic both",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 313,
+        "Question": "For strong series field, speed-torque characteristic of cumulative compound motor lies __________",
+        "Options": [
+            "a) Above series motor characteristic if current is less than full load current",
+            "b) Above shunt motor characteristic if current is less than full load current",
+            "c) Below series motor characteristic if current is more than full load current",
+            "d) Below series motor characteristic if current is less than full load current",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 314,
+        "Question": "Which of the following DC motor has negative speed regulation?",
+        "Options": [
+            "a) Shunt motors",
+            "b) Series motors",
+            "c) Differential compound motors",
+            "d) Series and differential compound motors",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 315,
+        "Question": "What will happen if DC shunt motor is connected across AC supply?",
+        "Options": [
+            "a) Will run at normal speed",
+            "b) Will not run",
+            "c) Will Run at lower speed",
+            "d) Burn due to heat produced in the field winding",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 316,
+        "Question": "What will happen if the back emf of a DC motor vanishes suddenly?",
+        "Options": [
+            "a) The motor will stop",
+            "b) The motor will continue to run",
+            "c) The armature may burn",
+            "d) The motor will run noisy",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 317,
+        "Question": "What will happen, with the increase in speed of a DC motor?",
+        "Options": [
+            "a) Back emf increase but line current falls.",
+            "b) Back emf falls and line current increase.",
+            "c) Both back emf as well as line current increase.",
+            "d) Both back emf as well as line current fall.",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 318,
+        "Question": "Which part will surely tell that given motor is DC motor and not an AC type?",
+        "Options": [
+            "a) Winding",
+            "b) Shaft",
+            "c) Commutator",
+            "d) Stator",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 319,
+        "Question": "In DC motor, which of the following part can sustain the maximum temperature rise?",
+        "Options": [
+            "a) Field winding",
+            "b) Commutator",
+            "c) Slip rings",
+            "d) Armature winding",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 320,
+        "Question": "Direction of rotation of motor is determined by ____________",
+        "Options": [
+            "a) Faraday’s law",
+            "b) Lenz’s law",
+            "c) Coulomb’s law",
+            "d) Fleming’s left-hand rule",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 321,
+        "Question": "The current drawn by the armature of DC motor is directly proportional to ________________",
+        "Options": [
+            "a) Torque",
+            "b) Speed",
+            "c) The voltage across the terminals",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 322,
+        "Question": "Which power is mentioned on a name plate of a motor?",
+        "Options": [
+            "a) Gross power",
+            "b) Power drawn in kVA",
+            "c) Power drawn in kW",
+            "d) Output power available at the shaft",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 323,
+        "Question": "An electric motor is having constant output power. So, motor will have a torque speed characteristic _______________________",
+        "Options": [
+            "a) Circle about the origin.",
+            "b) Straight line parallel to the speed axis.",
+            "c) Straight line through the origin.",
+            "d) Rectangular hyperbola",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 324,
+        "Question": "Which of the following quantity will decrease if supply voltage is increased?",
+        "Options": [
+            "a) Starting torque",
+            "b) Operating speed",
+            "c) Full-load current",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 325,
+        "Question": "In which of the following case we will get maximum power?",
+        "Options": [
+            "a) Ea = 2 x supply voltage",
+            "b) Ea = supply voltage",
+            "c) Supply voltage = 2 x Ea",
+            "d) supply voltage = 4 x Ea",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 326,
+        "Question": "The armature shaft of a DC motor must be able to withstand ______________",
+        "Options": [
+            "a) Bending moment due to weight of the armature.",
+            "b) Any unbalanced magnetic pull on the armature core.",
+            "c) Twisting stains due to transmission of torque.",
+            "d) Bending moment, unbalanced magnetic pull and twisting stains",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 327,
+        "Question": "In DC machines the residual magnetism is present. The order of residual magnetism is ___________",
+        "Options": [
+            "a) 2 to 3 per cent",
+            "b) 10 to 15 per cent",
+            "c) 20 to 25 per cent",
+            "d) 50 to 75 per cent",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 328,
+        "Question": "Which of the following motor is used where high starting torque and wide speed range control is required?",
+        "Options": [
+            "a) All motors",
+            "b) Induction motor",
+            "c) Synchronous motor",
+            "d) DC motor",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 329,
+        "Question": "The armature voltage control of DC motor will provide ___________",
+        "Options": [
+            "a) Constant power drive",
+            "b) Constant voltage drive",
+            "c) Constant current drive",
+            "d) Constant torque drive",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 330,
+        "Question": "As there is no back emf at the instant of starting a DC motor, in order to prevent a heavy armature current from flowing though the armature circuit ___________",
+        "Options": [
+            "a) Series resistance is connected with armature",
+            "b) Parallel resistance is connected to the armature",
+            "c) armature is temporarily open circuited",
+            "d) a high value resistor is connected across the field winding",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 331,
+        "Question": "What will happen to torque if back emf and speed of the DC motor is doubled?",
+        "Options": [
+            "a) Remain unchanged",
+            "b) Reduce to one-fourth value",
+            "c) Increase four folds",
+            "d) Be doubled",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 332,
+        "Question": "At the instant of starting, when a DC motor is put on supply, it will behave like ______________",
+        "Options": [
+            "a) Highly resistive circuit",
+            "b) Low resistance circuit",
+            "c) Capacitive circuit",
+            "d) Inductive circuit",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 333,
+        "Question": "All others are advantages of DC motor over AC motor except _______________",
+        "Options": [
+            "a) Low cost",
+            "b) Wide speed range",
+            "c) Stability",
+            "d) High starting torque",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 334,
+        "Question": "If a DC motor designed for 45°C ambient temperature is to be used for 55°C ambient temperature, then the motor ___________",
+        "Options": [
+            "a) Of lower HP should be selected",
+            "b) Of higher HP should be selected",
+            "c) Can be used for 50°C ambient temperature also",
+            "d) Is to be de-rated by a factor recommended by manufacturer and select the next higher H.P. motor",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 335,
+        "Question": "Torque developed by a DC motor depends upon _____________",
+        "Options": [
+            "a) magnetic field",
+            "b) active length of the conductor",
+            "c) current flow through the conductors",
+            "d) Current, active length, no. of conductors, magnetic field all",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 336,
+        "Question": "For very sensitive and wide speed control, which of the following method is preferred?",
+        "Options": [
+            "a) Armature control",
+            "b) Ward-Leonard control",
+            "c) Multiple voltage control",
+            "d) Field control",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 337,
+        "Question": "Field weakening control method is used for the speed _________",
+        "Options": [
+            "a) Above rated speed",
+            "b) Below rated speed",
+            "c) Can be used anywhere",
+            "d) Can’t tell",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 338,
+        "Question": "Armature resistance control method is used for the speed _____________",
+        "Options": [
+            "a) Above rated speed",
+            "b) Below rated speed",
+            "c) Can be used anywhere",
+            "d) Can’t tell",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 339,
+        "Question": "Which function is performed by counter emf of a DC motor?",
+        "Options": [
+            "a) Exceeds supply voltage",
+            "b) Aids applied voltage",
+            "c) Helps in energy conversion",
+            "d) Regulates its armature voltage",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 340,
+        "Question": "The output power of any electrical (AC or DC) motor is taken from the ______________",
+        "Options": [
+            "a) Field",
+            "b) Coupling mounted on the shaft",
+            "c) Armature",
+            "d) Motor frame",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 341,
+        "Question": "Why field winding of a DC series motor is provided with thick wire?",
+        "Options": [
+            "a) As it carries large load current",
+            "b) To provide large flux",
+            "c) In order to reduce eddy current to provide large flux",
+            "d) To reduce the of insulting materials",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 342,
+        "Question": "Why starters are required in a DC motor?",
+        "Options": [
+            "a) Back emf of these motors is zero initially",
+            "b) These motors are not self-starting",
+            "c) These motors have high starting torque",
+            "d) To restrict armature current as there is no back emf at starting",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 343,
+        "Question": "For which motors DOL starter can be used?",
+        "Options": [
+            "a) Up to 5 H.P",
+            "b) Up to 10 H.P",
+            "c) Up to 15 H.P",
+            "d) Up to 20 H.P",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 344,
+        "Question": "A three-point starter is used for _________",
+        "Options": [
+            "a) Shunt motors",
+            "b) Shunt as well as compound motors",
+            "c) Shunt, compound and series motors",
+            "d) Not for DC motors",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 345,
+        "Question": "The starting resistance of a DC shunt motor is generally ______",
+        "Options": [
+            "a) low",
+            "b) Around 0.5 kΩ",
+            "c) Around 5 kΩ",
+            "d) Infinitely large",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 346,
+        "Question": "In a manual shunt motor starter relay positions are ________________________",
+        "Options": [
+            "a) Over load relay is connected in series and no volt relay in parallel with the load",
+            "b) Over load relay is connected in parallel and no volt relay in series with the load",
+            "c) Over load relay and no volt relay are both connected in series with the load",
+            "d) Over load relay and no volt relay are both connected in parallel with the load",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 347,
+        "Question": "What will happen if DC motor is used without starter?",
+        "Options": [
+            "a) Heavy sparking at brushes",
+            "b) It’ll start smoothly",
+            "c) Will not start at all",
+            "d) Depends on load",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 348,
+        "Question": "In shunt and compound motor starting the shunt field should be made on with full starting resistance in ____________",
+        "Options": [
+            "a) Series with field",
+            "b) Parallel with field",
+            "c) Series with armature",
+            "d) Parallel with armature",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 349,
+        "Question": "A starter is required for a 220-V shunt motor. The maximum allowable current is 55 A and the minimum current is about 35 A. The armature resistance of the motor is 0.4 Ω. What will be the number of sections of starter resistance required?",
+        "Options": [
+            "a) 5",
+            "b) 4",
+            "c) 6",
+            "d) 8",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 350,
+        "Question": "γ is given as 1.585. Resistance at maximum allowable current is given equal to 4 Ω, what is the 5th step resistance?",
+        "Options": [
+            "a) 0.235",
+            "b) 0.370",
+            "c) 1.476",
+            "d) 2",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 351,
+        "Question": "Four-point starter is used when ______________",
+        "Options": [
+            "a) Motor field current is varied in narrow range",
+            "b) Motor speed is varied in small range",
+            "c) Motor field current is varied over wide range",
+            "d) Can be used anywhere",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 352,
+        "Question": "In three-point starter, as a starting handle is rotated __________",
+        "Options": [
+            "a) The resistance is added into armature circuit",
+            "b) The resistance is removed from field circuit",
+            "c) The resistance is added into field circuit",
+            "d) Resistance is neither added nor removed",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 353,
+        "Question": "How much torque is ensured by resistance adding arrangement in 3-point starter?",
+        "Options": [
+            "a) Low and non-zero",
+            "b) Infinite",
+            "c) High finite",
+            "d) Zero",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 354,
+        "Question": "The resistance of NVC is _______",
+        "Options": [
+            "a) Small",
+            "b) Large",
+            "c) Infinite",
+            "d) Zero",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 355,
+        "Question": "NVC will release the handle electromagnetically when ________",
+        "Options": [
+            "a) In the case of failure of field current",
+            "b) If the resistance is very high",
+            "c) At the end of each rotation",
+            "d) At the start of each rotation",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 356,
+        "Question": "Over-load coil performs the function when __________",
+        "Options": [
+            "a) In the case of failure of field current",
+            "b) If the resistance is very high",
+            "c) If armature current increases beyond certain value",
+            "d) At the start of each rotation",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 357,
+        "Question": "In 4-point starters the resistance is added in series with NVC because __________________",
+        "Options": [
+            "a) To increase field current",
+            "b) To increase armature current",
+            "c) To limit the NVC current",
+            "d) To limit armature current",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 358,
+        "Question": "What will be the γ value for starter taking 4 steps, where ratio of resistance at maximum allowable current to armature resistance is equal to 1.8?",
+        "Options": [
+            "a) 1.2164",
+            "b) 1.8",
+            "c) 2.2468",
+            "d) 0.8220",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 359,
+        "Question": "Maximum allowable current for a 240-V DC shunt motor is equal to 65 A. Minimum allowable current for same is equal to 40 A. What will be the value of γ?",
+        "Options": [
+            "a) 0.6153",
+            "b) 1.265",
+            "c) 1.625",
+            "d) 2.652",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 360,
+        "Question": "For a certain machine having γ = 1.8, we are using starter with 5 steps. What will be the resistance at step 3 if step 2 resistance is equal to 2 Ω?",
+        "Options": [
+            "a) 2.111",
+            "b) 1.111",
+            "c) 3.6",
+            "d) 10.8",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 361,
+        "Question": "Which of the following is the correct formula for calculating step resistance?",
+        "Options": [
+            "a) γ = rn/rn-1",
+            "b) γ = rn/rn+1",
+            "c) γ = rn*rn-1",
+            "d) γ = rn*rn+1",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 362,
+        "Question": "Which of the following starter can sufficiently start the DC series motor?",
+        "Options": [
+            "a) 3-point starter",
+            "b) 4-point starter",
+            "c) 2-point starter",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 363,
+        "Question": "The speed of a DC shunt motor can be increased by ______",
+        "Options": [
+            "a) Increasing the resistance in armature circuit",
+            "b) Increasing the resistance in field circuit",
+            "c) Reducing the resistance in the field circuit",
+            "d) Reducing the resistance in the armature circuit",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 364,
+        "Question": "What will happen if excitation of DC shunt motor is changed?",
+        "Options": [
+            "a) Torque will remain constant",
+            "b) Torque and power both will change",
+            "c) Torque will change but power will remain constant",
+            "d) Torque, power and speed, all will change",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 365,
+        "Question": "If the speed of a DC shunt motor is increased, the back emf of the motor will ___________",
+        "Options": [
+            "a) Increase",
+            "b) Decrease",
+            "c) Remain same",
+            "d) Become zero",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 366,
+        "Question": "The speed of a DC shunt motor can be made more than full load speed by __________",
+        "Options": [
+            "a) Reducing the field current",
+            "b) Decreasing the armature current",
+            "c) Increasing the armature current",
+            "d) Increasing the excitation current",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 367,
+        "Question": "Which speeds can be obtained from field control of DC shunt motor?",
+        "Options": [
+            "a) Lower than rated speeds",
+            "b) Greater than rated speeds",
+            "c) Lower and greater than rated speeds",
+            "d) Neither lower nor greater than rated speeds",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 368,
+        "Question": "No load speed of the DC shunt motor is 1322 rpm while full load speed is 1182 rpm. What will be the speed regulation?",
+        "Options": [
+            "a) 12.82 %",
+            "b) 11.8 %",
+            "c) 16.6 %",
+            "d) 14.2 %",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 369,
+        "Question": "Speed regulation of a DC shunt motor is equal to 10%, at no load speed of 1400 rpm. What is the full load speed?",
+        "Options": [
+            "a) 1233 rpm",
+            "b) 1273 rpm",
+            "c) 1173 rpm",
+            "d) 1123 rpm",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 370,
+        "Question": "Where will speed-torque characteristics will lie when armature reaction is considered?",
+        "Options": [
+            "a) Below the speed-torque characteristics when armature reaction is not considered",
+            "b) Above the speed-torque characteristics when armature reaction is not considered",
+            "c) On the speed-torque characteristics when armature reaction is not considered",
+            "d) Can be anywhere with the speed-torque characteristics when armature reaction is not considered",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 371,
+        "Question": "Working range of the speed-torque characteristic, with increasing speed will ___________",
+        "Options": [
+            "a) Reduce",
+            "b) Increase",
+            "c) Remain same",
+            "d) Cannot comment",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 372,
+        "Question": "For speed x rpm, we get field current If1 and for speed y rpm, we get the field current If2. If y is greater than x then, ________________",
+        "Options": [
+            "a) If1 f2",
+            "b) If1 >If2",
+            "c) If1 =If2",
+            "d) Cannot comment on If1, If2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 373,
+        "Question": "400-V dc shunt motor takes a current of 5.6 A on no-load and 68.3 A on full-load. Armature reaction weakens the field by 3%. What is the ratio of full-load speed to no-load speed? Given: Ra = 0.18 Ω, brush voltage drop= 2 V, Rf = 200 Ω.",
+        "Options": [
+            "a) 1.2",
+            "b) 0.8",
+            "c) 1.4",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 374,
+        "Question": "In which of the following method, effect of armature reaction is more?",
+        "Options": [
+            "a) Field weakening method",
+            "b) Armature resistance control",
+            "c) Same in both methods",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 375,
+        "Question": "Which of the following DC motor has the poorest speed control?",
+        "Options": [
+            "a) Differentially compounded motor",
+            "b) Cumulatively compounded motor",
+            "c) Shunt motor",
+            "d) Series motor",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 376,
+        "Question": "In variable speed motor ____________",
+        "Options": [
+            "a) Stronger commutating field is needed at low speed than at high speed",
+            "b) Weaker commutating field is needed at low speed than at high speed",
+            "c) Same commutating field is needed at low speed and at high speed",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 377,
+        "Question": "The speed of a motor falls from 1200 rpm at no-load to 1050 rpm at rated load. The speed regulation of the motor is ____________",
+        "Options": [
+            "a) 12.36%",
+            "b) 14.28%",
+            "c) 16.77%",
+            "d) 18.84%",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 378,
+        "Question": "Which of the following is not the method of speed control in DC series motor?",
+        "Options": [
+            "a) Diverter",
+            "b) Tapped-field control",
+            "c)  Variable resistance in series with armature",
+            "d) Series- parallel control",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 379,
+        "Question": "For large motors what is the ratio of compensating winding is required for increasing the speed of the motor?",
+        "Options": [
+            "a) 2:1",
+            "b) 4:1",
+            "c) 6:1",
+            "d) 8:1",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 380,
+        "Question": "In diverter resistor field control method of DC series motor, variable resistor is added ________",
+        "Options": [
+            "a) In parallel with field",
+            "b) In series with field",
+            "c) In parallel with armature",
+            "d) In parallel with load",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 381,
+        "Question": "Why it is advisable to use inductively wound diverter resistor?",
+        "Options": [
+            "a) To make speed control on more range",
+            "b) For long-life of machine",
+            "c) Cost efficient",
+            "d) To avoid oscillations in speed",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 382,
+        "Question": "For higher diverter resistance, speed-torque characteristic will lie ____________",
+        "Options": [
+            "a) Above speed-torque characteristic of lower resistance",
+            "b) Below speed-torque characteristic of lower resistance",
+            "c) On the speed-torque characteristic of lower resistance",
+            "d) Cannot say",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 383,
+        "Question": "In tapped field control method ____________",
+        "Options": [
+            "a) A variable resistor is connected in parallel",
+            "b) A variable resistor is connected in series",
+            "c) Field winding is made with more out pins",
+            "d) Another field winding is added with the previous one",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 384,
+        "Question": "Which of the following method will not give many speed values for a DC series motor?",
+        "Options": [
+            "a) Diverter",
+            "b) Series-parallel",
+            "c) Field tapped",
+            "d) All field control methods will give many speed values",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 385,
+        "Question": "In series-parallel speed control method ______________",
+        "Options": [
+            "a) Speed given by parallel connection is more",
+            "b) Speed given by series connection is more",
+            "c) Both speeds can be equal",
+            "d) Will depend on other parameters",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 386,
+        "Question": "Where diverters are used?",
+        "Options": [
+            "a) In shunt motors",
+            "b) In series motors",
+            "c) In both motors",
+            "d) All other motors except shunt and series motors",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 387,
+        "Question": "What will happen to the speed of a series motor if the temperature of armature resistance is increased?",
+        "Options": [
+            "a) Not change",
+            "b) Decreases",
+            "c) Increases",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 388,
+        "Question": "For which speed control method we get minimum efficiency?",
+        "Options": [
+            "a) Voltage control method",
+            "b) Field control method",
+            "c) Armature control method",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 389,
+        "Question": "The speed of a DC motor can be varied by changing ______________",
+        "Options": [
+            "a) Field current",
+            "b) Applied voltage",
+            "c) Resistance in series with armature",
+            "d) Field current, applied voltage or resistance in series with armature any method will work",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 390,
+        "Question": "For constant torque drive which of the following speed control method is preferred?",
+        "Options": [
+            "a) Field control",
+            "b) Armature voltage control",
+            "c) Shunt armature control",
+            "d) Voltage control",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 391,
+        "Question": "When the armature of a DC motor rotates, emf induced is in machine is called as ___________",
+        "Options": [
+            "a) Self-induced emf",
+            "b) Mutually induced emf",
+            "c) Back emf",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 392,
+        "Question": "Which of the following method is used for DC motor with 12+ HP requiring frequent start, stop, speed reversal?",
+        "Options": [
+            "a) Drum type controller is used",
+            "b) Three-point starter is used",
+            "c) Four-point starter is used",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 393,
+        "Question": "In rheostatic series control method of armature we add ____________",
+        "Options": [
+            "a) Variable resistor in parallel with armature",
+            "b) Variable resistor in series with armature",
+            "c) Fixed resistor in parallel with armature",
+            "d) Fixed resistor in series with armature",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 394,
+        "Question": "By series armature resistance method, we can get _________________________",
+        "Options": [
+            "a) Speed above rated speed",
+            "b) Speed equal to rated speed",
+            "c) Speed below rated speed",
+            "d) All speeds are possible",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 395,
+        "Question": "Consider the armature control method, where 10 Ω resistance is connected in series with armature in first case. For second case resistance value is changed 100 Ω. Then ____________",
+        "Options": [
+            "a) Speed-torque characteristic of both will start from same point",
+            "b) For first case speed-torque characteristic will start below to the case 2",
+            "c) For first case speed-torque characteristic will start above to the case 2",
+            "d) Can’t say because other parameters are unavailable",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 396,
+        "Question": "Speed regulation of armature series control method is __________",
+        "Options": [
+            "a) Very good",
+            "b) Zero",
+            "c) Poor",
+            "d) Cannot comment",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 397,
+        "Question": "In shunted rheostatic armature control method ______________",
+        "Options": [
+            "a) Variable resistor is added in parallel with armature",
+            "b) Variable resistor is added in series with armature",
+            "c) Variable resistor is added in parallel with armature and another variable resistor is added in series",
+            "d) Variable resistor is not added in whole circuit",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 398,
+        "Question": "Which of the following is correct statement?",
+        "Options": [
+            "a) Speed regulation of rheostatic armature control method is better than that of shunted armature control",
+            "b) Speed regulation of rheostatic armature control method is worse than that of shunted armature control",
+            "c) Speed regulation of rheostatic armature control method is almost equal to that of shunted armature control",
+            "d) Speed regulation of rheostatic armature control method and of shunted armature control are equally worst.",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 399,
+        "Question": "By series parallel method of armature control how many different speeds are possible?",
+        "Options": [
+            "a) 4",
+            "b) 8",
+            "c) 2",
+            "d) Infinite",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 400,
+        "Question": "Which method is best for series traction motors?",
+        "Options": [
+            "a) Rheostatic armature control",
+            "b) Shunted armature control",
+            "c) Series parallel control method",
+            "d) Any method can be employed",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 401,
+        "Question": "Ward Leonard method is ___________",
+        "Options": [
+            "a) Armature control method",
+            "b) Field control method",
+            "c) Combination of armature control method and field control method",
+            "d) Totally different from armature and field control method",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 402,
+        "Question": "Which of the following component is not used in Ward Leonard method?",
+        "Options": [
+            "a) AC motor",
+            "b) DC generator",
+            "c) DC motor",
+            "d) AC generator",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 403,
+        "Question": "In Ward Leonard speed control method for lowering the speed of the motor ______________",
+        "Options": [
+            "a) Reduce armature voltage",
+            "b) Increase armature voltage",
+            "c) Increase field current",
+            "d) Decrease field current",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 404,
+        "Question": "Reducing the armature voltage will give us _______________",
+        "Options": [
+            "a) Variable torque speed control",
+            "b) Constant torque speed control",
+            "c) Variable and constant both can be achieved",
+            "d) Cannot comment on torque",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 405,
+        "Question": "In Ward Leonard speed control method for increasing the speed of the motor ______________",
+        "Options": [
+            "a) Reduce armature voltage",
+            "b) Increase armature voltage",
+            "c) Increase field current",
+            "d) Decrease field current",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 406,
+        "Question": "Reducing the field current will give us _______________",
+        "Options": [
+            "a) Constant torque and variable power speed control",
+            "b) Constant torque speed control",
+            "c) Variable power speed control",
+            "d) Constant power speed control",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 407,
+        "Question": "Speed-power characteristic for Ward Leonard speed control method _________________",
+        "Options": [
+            "a) Will start from origin",
+            "b) Will start from some positive value on power axis",
+            "c) Will start from some positive value on speed axis",
+            "d) Depends on other parameters",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 408,
+        "Question": "Efficiency of Ward Leonard method is ____________",
+        "Options": [
+            "a) Higher than rheostatic control method but lower than shunted field control method",
+            "b) Lower than rheostatic control method",
+            "c) Higher than rheostatic control method and shunted field control method",
+            "d) Depends on load",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 409,
+        "Question": "Starting gear used in Ward Leonard method___________",
+        "Options": [
+            "a) Is of small size",
+            "b) Is of large size",
+            "c) Size depends on application",
+            "d) Is absent",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 410,
+        "Question": "To get the speed of DC motor below the normal speed without wastage of electrical energy we use __________________",
+        "Options": [
+            "a) Ward Leonard control",
+            "b) Rheostatic control",
+            "c) Any of the Ward Leonard or rheostatic method can be used",
+            "d) Not possible",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 411,
+        "Question": "Speed control by Ward Leonard method, can give uniform speed variation _______________",
+        "Options": [
+            "a) In both directions",
+            "b) In one direction",
+            "c) Below normal speed only",
+            "d) Above normal speed only.",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 412,
+        "Question": "Ward Leonard control is basically a _____________",
+        "Options": [
+            "a) Voltage control method",
+            "b) Field diverter method",
+            "c) Field control method",
+            "d) Armature resistance control method",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 413,
+        "Question": "In Ward Leonard control of DC motor, the lower limit of speed is imposed by ____________",
+        "Options": [
+            "a) Residual magnetism of the generator",
+            "b) Core losses of motor",
+            "c) Mechanical losses of motor and generator together",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 414,
+        "Question": "The disadvantage of the Ward Leonard control method is ___________",
+        "Options": [
+            "a) High initial cost",
+            "b) High maintenance cost",
+            "c) Low efficiency at high loads",
+            "d) High cost, high maintenance and low efficiency",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 415,
+        "Question": "Which of the following is the best braking method?",
+        "Options": [
+            "a) Friction",
+            "b) Electromechanical action",
+            "c) Eddy-currents",
+            "d) Electric braking",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 416,
+        "Question": "Which of the following is not the method of electrical braking?",
+        "Options": [
+            "a) Plugging or counter-current",
+            "b) Dynamic or rheostatic",
+            "c) Regenerative",
+            "d) Eddy current",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 417,
+        "Question": "Which of the following is the plugging method of braking?",
+        "Options": [
+            "a) Reversal of field connections",
+            "b) Reversal of armature connections",
+            "c) Addition of equal and opposite field",
+            "d) Removal of field circuit from current machine circuit",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 418,
+        "Question": "Which of the following is correct formula for braking torque in plugging?",
+        "Options": [
+            "a) n (ka2/Rb)",
+            "b) n2 (ka2/Rb)",
+            "c) n-1 (ka2/Rb)",
+            "d) (ka2/Rb)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 419,
+        "Question": "Electrical braking of any variety becomes less effective as ________________",
+        "Options": [
+            "a) Speed increases",
+            "b) Speed decreases",
+            "c) Independent of speed",
+            "d) Depends on supply voltage",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 420,
+        "Question": "Plugging is applied in a motor, if we don’t make the switch OFF what will happen?",
+        "Options": [
+            "a) Motor will come to rest as a result of plugging",
+            "b) Motor will come to rest and will start rotating in another direction",
+            "c) Motor will burn",
+            "d) Nothing will happen",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 421,
+        "Question": "Plugging is used in ____________",
+        "Options": [
+            "a) Small motors only",
+            "b) Small and medium powered",
+            "c) Only in large heavy machines",
+            "d) Everywhere",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 422,
+        "Question": "Which of the following is dynamic braking?",
+        "Options": [
+            "a) Reversal of field connections",
+            "b) Reversal of armature connections",
+            "c) Addition of equal and opposite field",
+            "d) Removal of armature circuit from current machine circuit",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 423,
+        "Question": "Braking time in the dynamic braking is the function of _____________",
+        "Options": [
+            "a) System inertia",
+            "b) Load torque",
+            "c) Motor rating",
+            "d) All- system inertia, load torque and motor rating",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 424,
+        "Question": "In dynamic braking, when braking is applied system acts as ___________",
+        "Options": [
+            "a) Freely running machine",
+            "b) Motor with slow speed",
+            "c) Generator",
+            "d) Motor with same speed in opposite direction",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 425,
+        "Question": "In which of the following electrical braking method, energy is supplied back to the supply?",
+        "Options": [
+            "a) Plugging",
+            "b) Dynamic braking",
+            "c) Regenerative braking",
+            "d) In all electrical braking",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 426,
+        "Question": "Regenerative braking is used when duty cycle ____________",
+        "Options": [
+            "a) Requires braking of machine",
+            "b) Requires accelerating of machine",
+            "c) Requires constancy of machine",
+            "d) Cannot comment on duty cycle",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 427,
+        "Question": "Regeneration is not easily possible for ____________",
+        "Options": [
+            "a) DC shunt motor",
+            "b) Separately excited motor",
+            "c) Compounding motor with weak series compounding",
+            "d) DC series motor",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 428,
+        "Question": "Which of the following method is not used for regeneration?",
+        "Options": [
+            "a) Increasing field current",
+            "b) Increasing armature speed",
+            "c) Increasing supply voltage",
+            "d) Reducing supply voltage",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 429,
+        "Question": "If the terminals of armature of DC motor are interchanged, this action will offer following kind of electrical braking ______________",
+        "Options": [
+            "a) Regenerative",
+            "b) Plugging",
+            "c) Dynamic braking",
+            "d) Depends on other parameters",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 430,
+        "Question": "The plugging braking gives the _____________",
+        "Options": [
+            "a) Zero torque braking",
+            "b) Smallest torque braking",
+            "c) Highest torque braking",
+            "d) Variable torque braking",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 431,
+        "Question": "Regenerative method of braking is based on ___________",
+        "Options": [
+            "a) Back emf is less than the applied voltage",
+            "b) Back emf is equal to the applied voltage",
+            "c) Back emf of rotor is more than the applied voltage",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 432,
+        "Question": "During regenerative braking of DC motors ____________",
+        "Options": [
+            "a) Motor will run as a generator",
+            "b) Motor will reverse in direction",
+            "c) Motor will run at reduced speed",
+            "d) Motor will run as free rotating shaft",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 433,
+        "Question": "Where dynamic braking is used?",
+        "Options": [
+            "a) Shunt motors",
+            "b) Series motors",
+            "c) Compound motors",
+            "d) All DC motors",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 434,
+        "Question": "Which method of braking is generally used in elevators?",
+        "Options": [
+            "a) Plugging",
+            "b) Regenerative braking",
+            "c) Rheostatic braking",
+            "d) Mechanical braking",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 435,
+        "Question": "For which of the following motor dynamic braking is very effective?",
+        "Options": [
+            "a) Shunt motors",
+            "b) Separately excited motors",
+            "c) Series motors",
+            "d) Differential compound motors",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 436,
+        "Question": "When is the dynamic braking is employed?",
+        "Options": [
+            "a) Non-reversing drive",
+            "b) Reversing drive",
+            "c) Both Reversing and Non-reversing",
+            "d) Cannot tell",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 437,
+        "Question": "The efficiency of the DC motor at maximum power will be ___________________",
+        "Options": [
+            "a) 100%",
+            "b) Around 90%",
+            "c) Anywhere between 75% and 90%",
+            "d) Less than 50%",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 438,
+        "Question": "The hysteresis loss in a DC machine least depends on _____________",
+        "Options": [
+            "a) Frequency of magnetic reversals",
+            "b) Maximum value of flux density",
+            "c) Volume and grade of iron",
+            "d) Rate of flow of ventilating air",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 439,
+        "Question": "Which of the following is not the effect of iron loss?",
+        "Options": [
+            "a) Loss of efficiency",
+            "b) Excessive heating of core",
+            "c) Increase in terminal voltage",
+            "d) Rise in temperature of ventilating air",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 440,
+        "Question": "Which of the following loss is likely to have highest proportion at rated load of the DC generator?",
+        "Options": [
+            "a) Hysteresis loss",
+            "b) Field copper loss",
+            "c) Armature copper loss",
+            "d) Eddy current loss",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 441,
+        "Question": "Which of the following loss in a DC generator varies significantly with the load current?",
+        "Options": [
+            "a) Field copper loss",
+            "b) Windage loss",
+            "c) Armature copper loss",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 442,
+        "Question": "Which of the following methods is likely to result in reduction of hysteresis loss in a DC generator?",
+        "Options": [
+            "a) Providing laminations in armature core",
+            "b) Providing laminations in stator",
+            "c) Using non-magnetic material for frame",
+            "d) Using material of low hysteresis co-efficient for armature core material",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 443,
+        "Question": "Which of the following loss/losses in a DC generator is dissipated in the form of heat?",
+        "Options": [
+            "a) Mechanical loss",
+            "b) Core loss",
+            "c) Copper loss",
+            "d) Mechanical, Copper and Core",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 444,
+        "Question": "Which of the following losses are significantly reduced by laminating the core of a DC generator?",
+        "Options": [
+            "a) Hysteresis losses",
+            "b) Eddy current losses",
+            "c) Copper losses",
+            "d) Windage losses",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 445,
+        "Question": "The total losses in a well-designed DC generator of 10 kW will be nearly equal to ________",
+        "Options": [
+            "a) 100 W",
+            "b) 500 W",
+            "c) 1000 W",
+            "d) 1500 W",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 446,
+        "Question": "The condition for maximum efficiency for a DC generator is __________",
+        "Options": [
+            "a) Eddy current losses = stray losses",
+            "b) Hysteresis losses = eddy current losses",
+            "c) Copper losses = 0",
+            "d) Variable losses = constant losses",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 447,
+        "Question": "DC generators are normally designed for maximum efficiency at or near ____________",
+        "Options": [
+            "a) Full-load",
+            "b) Minimum load",
+            "c) Rated voltage",
+            "d) At all loads",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 448,
+        "Question": "In a DC generator, the iron losses mainly take place in ____________",
+        "Options": [
+            "a) Yoke",
+            "b) Commutator",
+            "c) Armature conductors",
+            "d) Armature rotor",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 449,
+        "Question": "If DC generators are located near load centres, which losses can be minimised?",
+        "Options": [
+            "a) Iron losses",
+            "b) Eddy current losses",
+            "c) Line losses",
+            "d) Corona losses",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 450,
+        "Question": "Nature of efficiency curve of DC machine is _________________",
+        "Options": [
+            "a) First decreases then increases",
+            "b) First constant then decreases",
+            "c) First constant then increases",
+            "d) First increases then decreases",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 451,
+        "Question": "Why retardation test is carried on DC machine?",
+        "Options": [
+            "a) To find stray losses",
+            "b) To find eddy current losses",
+            "c) To find field copper losses",
+            "d) To find windage losses",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 452,
+        "Question": "In the DC motor the iron losses occur in __________",
+        "Options": [
+            "a) Field",
+            "b) Rotor",
+            "c) Brushes",
+            "d) Commutator",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 453,
+        "Question": "Which of the following losses is not under constant losses?",
+        "Options": [
+            "a) Friction and windage losses",
+            "b) No load core losses",
+            "c) Shunt field losses",
+            "d) Hysteresis losses",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 454,
+        "Question": "Variable losses are proportional to ________",
+        "Options": [
+            "a) Armature current",
+            "b) Square of armature current",
+            "c) Inverse of armature current",
+            "d) Inverse of square of armature current",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 455,
+        "Question": "Which of the following test will be suitable for testing two similar DC series motors of large capacity?",
+        "Options": [
+            "a) Swinburne’s test",
+            "b) Hopkinson’s test",
+            "c) Field test",
+            "d) Brake test",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 456,
+        "Question": "Which losses can be identified from Swinburne’s test?",
+        "Options": [
+            "a) No-load core loss",
+            "b) Windage and friction loss",
+            "c) No-load and windage and friction loss",
+            "d) Stray load loss",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 457,
+        "Question": "While carrying out Swinburne’s test at rated armature voltage motor will run at ____________",
+        "Options": [
+            "a) Speed equal to rated speed",
+            "b) Speed greater than rated speed",
+            "c) Speed less than rated speed",
+            "d) Can run anywhere",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 458,
+        "Question": "In order to run motor on rated speed while carrying out Swinburne’s test we add ______________",
+        "Options": [
+            "a) Resistance in parallel with armature",
+            "b) Resistance in series with armature",
+            "c) Inductor in series with armature",
+            "d) Capacitor in parallel with armature",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 459,
+        "Question": "What is the purpose of performing retardation test after Swinburne’s test?",
+        "Options": [
+            "a) To find stray load loss",
+            "b) To find variable losses",
+            "c) To separate out windage and friction losses",
+            "d) To find shunt field losses",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 460,
+        "Question": "Efficiency calculated by Swinburne’s test is _____________",
+        "Options": [
+            "a) Exactly equal",
+            "b) Over-estimated",
+            "c) Under-estimated",
+            "d) Depends on the manual errors",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 461,
+        "Question": "Which of the following is not a disadvantage of a Swinburne’s test?",
+        "Options": [
+            "a) The stray-load losses can’t be determined by this test",
+            "b) Steady temperature rise can’t be determined",
+            "c) Does not give results about satisfactory commutation",
+            "d) Machine gets damaged",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 462,
+        "Question": "While carrying out retardation test, if t is equal to time constant then _____________",
+        "Options": [
+            "a) Speed increases to 36.8% of its initial value",
+            "b) Speed reduces to 36.8% of its initial value",
+            "c) Speed reduces to 26.8% of its initial value",
+            "d) Speed reduces to 46.8% of its initial value",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 463,
+        "Question": "In retardation test _____________",
+        "Options": [
+            "a) Motor switch is made ON and various speed readings are taken",
+            "b) At rated speed various speed readings are taken out at different times",
+            "c) Motor switch is made OFF at rated speed and various speed readings are taken",
+            "d) Some readings are taken while speed is building up and some readings while speed is lowering down",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 464,
+        "Question": "Retardation curve is ______________",
+        "Options": [
+            "a) Starting from origin",
+            "b) Starts from some positive value and increasing",
+            "c) Starts from some positive curve and stays constant",
+            "d) Starts from some positive value and decreases",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 465,
+        "Question": "Hopkinson’s test of D.C. machines is conducted at _______________",
+        "Options": [
+            "a) No-load",
+            "b) Part load",
+            "c) Full-load",
+            "d) Overload",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 466,
+        "Question": "Hopkinson’s test requires ____________",
+        "Options": [
+            "a) One DC machine on which test is carried out",
+            "b) Two different DC machines",
+            "c) Two identical DC machines",
+            "d) Can be worked with one or two machines",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 467,
+        "Question": "In Hopkinson’s test, two machines are connected in ______________",
+        "Options": [
+            "a) Series",
+            "b) Parallel",
+            "c) Can be connected in parallel or series",
+            "d) Two machines are not required",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 468,
+        "Question": "What will happen if field current of generator in Hopkinson’s test is increased?",
+        "Options": [
+            "a) Current through motor armature will increase",
+            "b) Current through motor armature will decrease",
+            "c) Current through motor armature will remain constant",
+            "d) Motor armature current cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 469,
+        "Question": "What will happen if field current of motor in Hopkinson’s test is decreased?",
+        "Options": [
+            "a) Current through motor armature will increase",
+            "b) Current through motor armature will decrease",
+            "c) Current through motor armature will remain constant",
+            "d) Motor armature current can’t be determined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 470,
+        "Question": "For carrying out load test on Hopkinson’s test setup _________________",
+        "Options": [
+            "a) Actual load is needed",
+            "b) By changing field currents in two machines load can be changed",
+            "c) Can’t carry out",
+            "d) By changing the armature current test is carried out",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 471,
+        "Question": "Hopkinson’s test gives _______________",
+        "Options": [
+            "a) Combined iron losses of two machines which can be separated",
+            "b) Combined iron losses of two machines which can’t be separated",
+            "c) Doesn’t include iron losses",
+            "d) Depends on actual setup",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 472,
+        "Question": "Hopkinson’s test is suitable for ______________",
+        "Options": [
+            "a) Small machines only",
+            "b) Small and medium machines",
+            "c) All machines",
+            "d) Only large machines",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 473,
+        "Question": "Why field test is conducted even if Hopkinson’s test is present?",
+        "Options": [
+            "a) Instability of an operation",
+            "b) Possibility of run-away speed",
+            "c) Both instability and possibility of run-away speed",
+            "d) Field test is not conducted",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 474,
+        "Question": "In field’s test generator field and motor field are connected in ______________",
+        "Options": [
+            "a) Series",
+            "b) Parallel",
+            "c) Alternatively, series and parallel",
+            "d) Not connected",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 475,
+        "Question": "In BLDC motor field winding is kept on _______________",
+        "Options": [
+            "a) Stator",
+            "b) Rotor",
+            "c) Can be placed anywhere",
+            "d) Absent",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 476,
+        "Question": "Which of the following is not an advantage of BLDC motor over conventional DC motor.",
+        "Options": [
+            "a) Less maintenance",
+            "b) Long life",
+            "c) No risk of explosion or possibility of RF radiation",
+            "d) Low cost",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 477,
+        "Question": "In BLDC motor driver module, we do not require ______________",
+        "Options": [
+            "a) SCRs",
+            "b) Power transistors",
+            "c) FETs",
+            "d) Transistors",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 478,
+        "Question": "In medical fields which DC motor is widely used?",
+        "Options": [
+            "a) PMDC",
+            "b) BLDC",
+            "c) Brushed DC motor",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 479,
+        "Question": "Construction of BLDC is exactly similar to the ______________",
+        "Options": [
+            "a) Conventional DC motor",
+            "b) Induction motor",
+            "c) Permanent magnet synchronous motor",
+            "d) Totally different construction",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 480,
+        "Question": "Typical brushless motor doesn’t have ______________",
+        "Options": [
+            "a) Commutator",
+            "b) Permanent magnet",
+            "c) Electronic controller",
+            "d) Fixed armature",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 481,
+        "Question": "BLDC can be used instead ____________",
+        "Options": [
+            "a) Synchronous motor",
+            "b) Normal brushed DC motor",
+            "c) Induction motor",
+            "d) Air motor",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 482,
+        "Question": "Half wave converters are used for controlling DC motor of ________________",
+        "Options": [
+            "a) Below 400 W",
+            "b) 400 W – 4000W",
+            "c) More than 4000W",
+            "d) Anywhere",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 483,
+        "Question": "How many thyristors does we need in half wave converter?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) Many",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 484,
+        "Question": "How many thyristors does we need in semi-converter?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) Many",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 485,
+        "Question": "When armature current becomes discontinuous?",
+        "Options": [
+            "a) Small firing angles",
+            "b) Large firing angles",
+            "c) Infinite firing angle",
+            "d) Does not depend on firing angle",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 486,
+        "Question": "Which of the following is the effect of non-uniform armature current?",
+        "Options": [
+            "a) Ratio of peak to average and rms to average armature current decreases",
+            "b) Ratio of peak to average and rms to average armature current increases",
+            "c) Ratio of peak to average increases and rms to average armature current decreases",
+            "d) Ratio of peak to average decreases and rms to average armature current increases",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 487,
+        "Question": "How many quadrants does full-converter work?",
+        "Options": [
+            "a) One",
+            "b) Half",
+            "c) Two",
+            "d) Can be any",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 488,
+        "Question": "How many thyristors are required for full converter?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 489,
+        "Question": "Full-converter can be used in DC motor for regenerative braking in ______________",
+        "Options": [
+            "a) Constant operation",
+            "b) Variable operation",
+            "c) Inversion operation",
+            "d) Opposite operation",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 490,
+        "Question": "Dual converter operates in _________________",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 491,
+        "Question": "Which converter/s can be used for DC series motor control?",
+        "Options": [
+            "a) Semi-converters",
+            "b) Half-wave converter",
+            "c) Full-converter",
+            "d) Semi converters and full converter",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 492,
+        "Question": "Three phase converters are employed for _______________",
+        "Options": [
+            "a) Large kW motors",
+            "b) Small kW motors",
+            "c) In all motors",
+            "d) Never used",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 493,
+        "Question": "Which of the following method is adopted for controlling a DC motor?",
+        "Options": [
+            "a) Resistance control",
+            "b) Motor-generator set",
+            "c) Inverter Rectifier",
+            "d) DC chopper",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 494,
+        "Question": "Which of the following method is employed when regenerative braking is necessary?",
+        "Options": [
+            "a) DC chopper",
+            "b) Variable resistor",
+            "c) Inverter rectifier",
+            "d) Motor-generator",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 495,
+        "Question": "Which of the following statement is not true regarding to DC chopper?",
+        "Options": [
+            "a) Cheap",
+            "b) Fast response",
+            "c) Regeneration",
+            "d) AC to DC control",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 496,
+        "Question": "Which of the following correctly suits with chopper?",
+        "Options": [
+            "a) Thyristor in series with load",
+            "b) Thyristor in parallel with load",
+            "c) Thyristor switch in series with load",
+            "d) Thyristor switch in parallel with load",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 497,
+        "Question": "The average value of chopper output waveform is given by _____________",
+        "Options": [
+            "a) αV",
+            "b) V/α",
+            "c) α2V",
+            "d) V/α2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 498,
+        "Question": "How output voltage of chopper can be varied?",
+        "Options": [
+            "a) By using constant frequency system",
+            "b) By using variable frequency system",
+            "c) By using constant and variable frequency systems",
+            "d) By using constant or variable frequency systems",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 499,
+        "Question": "What is the formula for step up chopper?",
+        "Options": [
+            "a) V(1-α)",
+            "b) V/(1-α)",
+            "c) αV",
+            "d) v/α",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 500,
+        "Question": "Which of the following is not the method of auxiliary commutation?",
+        "Options": [
+            "a) Voltage commutation",
+            "b) Resistance commutation",
+            "c) Current commutation",
+            "d) Load commutation",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 501,
+        "Question": "In voltage commutation, in chopper circuit we use _____________",
+        "Options": [
+            "a) 2 auxiliary thyristors",
+            "b) 2 diodes",
+            "c) 1 auxiliary thyristor",
+            "d) Many diodes",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 502,
+        "Question": "In current commutation, in chopper circuit we use _____________",
+        "Options": [
+            "a) 2 auxiliary thyristors",
+            "b) 2 diodes",
+            "c) 1 auxiliary thyristor",
+            "d) 2 auxiliary thyristors and 2 diodes",
+            ""
+        ],
+        "Answer": "Answer: d"
+    }
+]

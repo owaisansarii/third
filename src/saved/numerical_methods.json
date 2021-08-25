@@ -1,0 +1,1910 @@
+[
+    {
+        "id": 1,
+        "Question": "Using Bisection method find the root of cos(x) – x * ex = 0 with a = 0 and b = 1.",
+        "Options": [
+            "a) 0.617",
+            "b) 0.527",
+            "c) 0.517",
+            "d) 0.717",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 2,
+        "Question": "Find the root of x4-x-10 = 0 approximately upto 5 iterations using Bisection Method. Let a = 1.5 and b = 2.",
+        "Options": [
+            "a) 1.68",
+            "b) 1.86",
+            "c) 1.88",
+            "d) 1.66",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 3,
+        "Question": "A function is given by x – e-x = 0. Find the root between a = 0 and b = 1 by using Bisection method.",
+        "Options": [
+            "a) 0.655",
+            "b) 0.665",
+            "c) 0.565",
+            "d) 0.656",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 4,
+        "Question": "A function f(x) is given as  e-x * (x2+5x+2) + 1 = 0. Let a = 0 and b = -1. Find the root between a and b using Bisection Method.",
+        "Options": [
+            "a) -0.557",
+            "b) -0.575",
+            "c) -0.775",
+            "d) -0.0577",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 5,
+        "Question": "Use Bisection Method to find out the root of x – sinx – 0.5 = 0 between 1 and 2.",
+        "Options": [
+            "a) 1.497",
+            "b) 1.947",
+            "c) 1.479",
+            "d) 1.974",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 6,
+        "Question": "Find the approximated value of x till 4 iterations for e-x = 3 log(x) using Bisection Method.",
+        "Options": [
+            "a) 1.197",
+            "b) 1.187",
+            "c) 1.167",
+            "d) 1.176",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 7,
+        "Question": "Find a root of   f (x) = 3x + sin(x) – ex = 0. Use 6 iterations to find the approximate value of x.",
+        "Options": [
+            "a) 0.3605",
+            "b) 0.3650",
+            "c) 0.3615",
+            "d) 0.3655",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 8,
+        "Question": "A function is defined as  f(x) = x2 – 3. Between the interval [1,2] find the root of the function by Bisection Method.",
+        "Options": [
+            "a) 1.7334",
+            "b) 1.7364",
+            "c) 1.7354",
+            "d) 1.7344",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 9,
+        "Question": "The Bisection method is also known as ___________________",
+        "Options": [
+            "a) Binary Chopping",
+            "b) Quaternary Chopping",
+            "c) Tri region Chopping",
+            "d) Hex region Chopping",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 10,
+        "Question": "Using Bisection method find the root of 3x2 = 5x+2 in the interval [0,3].",
+        "Options": [
+            "a) 0.617",
+            "b) 0.527",
+            "c) 0.517",
+            "d) 0.717",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 11,
+        "Question": "Find the root of xe-x -0.3 = 0 using Bisection Method in the interval [1,5].",
+        "Options": [
+            "a) 1.68",
+            "b) 1.86",
+            "c) 1.88",
+            "d) 1.66",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 12,
+        "Question": "If it is provided that f(3) = 4 is one of the initial points. What can be the choice of second point for solving by Bisection Method?",
+        "Options": [
+            "a) -5 such that f(-5) = -26",
+            "b) 0 such that f(0) = 5",
+            "c) -3 such that f(-3) = -2",
+            "d) 13 such that f(13) = 2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 13,
+        "Question": "What is the percentage decrease in an interval containing root after iteration is applied by Bisection Method?",
+        "Options": [
+            "a) 20%",
+            "b) 30%",
+            "c) 40%",
+            "d) 50%",
+            ""
+        ],
+        "Answer": "Answer:  b"
+    },
+    {
+        "id": 14,
+        "Question": "Find the approximated value of x till 6 iterations for x3-4x+9=0 using Bisection Method. Take a = -3 and b = -2.",
+        "Options": [
+            "a) -2.703125",
+            "b) -1.903125",
+            "c) -3.903125",
+            "d) -0.703125",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 15,
+        "Question": "The algorithm provided to find the roots of the function using Bisection Method is given by ____________",
+        "Options": [
+            "a) Bolzano’s theorem",
+            "b) Mean Value theorem",
+            "c) Bisection theorem",
+            "d) Secant theorem",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 16,
+        "Question": "A function is defined as f(x) = x3 – x – 11 = 0. Between the interval [2,3] find the root of the function by Bisection Method upto 8 iteration?",
+        "Options": [
+            "a) 1.7334",
+            "b) 1.7364",
+            "c) 1.7354",
+            "d) 1.7344",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 17,
+        "Question": "The Bisection method has which of the following convergences?",
+        "Options": [
+            "a) Linear",
+            "b) Quadratic",
+            "c) Cubic",
+            "d) Quaternary",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 18,
+        "Question": "Find the positive root of the equation 3x-cosx-1 using Regula Falsi method and correct upto 4 decimal places.",
+        "Options": [
+            "a) 0.6701",
+            "b) 0.5071",
+            "c) 0.6071",
+            "d) 0.5701",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 19,
+        "Question": "Find the positive root of the equation x3 + 2x2 + 10x – 20 using Regula Falsi method and correct upto 4 decimal places.",
+        "Options": [
+            "a) 1.3688",
+            "b) 1.3866",
+            "c) 1.4688",
+            "d) 1.6488",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 20,
+        "Question": "Find the positive root of the equation 3x+sinx-ex using Regula Falsi method and correct upto 4 decimal places.",
+        "Options": [
+            "a) 0.4604",
+            "b) 0.4306",
+            "c) 0.3604",
+            "d) 0.4304",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 21,
+        "Question": "Find the positive root of the equation x-cosx using Regula Falsi method and correct to 4 decimal places.",
+        "Options": [
+            "a) 0.73908",
+            "b) 0.63908",
+            "c) 0.74980",
+            "d) 0.64908",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 22,
+        "Question": "Find the positive root of the equation xex-3 using Regula Falsi method and correct to 4 decimal places.",
+        "Options": [
+            "a) 1.0498",
+            "b) 1.4089",
+            "c) 2.0489",
+            "d) 2.4089",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 23,
+        "Question": "Find the positive root of the equation 4x = ex using Regula Falsi method and correct to 4 decimal places.",
+        "Options": [
+            "a) 0.5374",
+            "b) 0.3574",
+            "c) 0.3647",
+            "d) 0.4673",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 24,
+        "Question": "Find the positive root of the equation xlogx = 1.2 using Regula Falsi method and correct to 4 decimal places.",
+        "Options": [
+            "a) 2.7406",
+            "b) 2.4760",
+            "c) 2.5760",
+            "d) 2.4706",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 25,
+        "Question": "Find the positive root of the equation e-x = sinx using Regula Falsi method and correct upto 4 decimal places.",
+        "Options": [
+            "a) 0.5855",
+            "b) 0.6685",
+            "c) 0.5885",
+            "d) 0.6885",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 26,
+        "Question": "Find the positive root of the equation x3 + 2x2 + 50x + 7 = 0 using Regula Falsi method and correct to 4 decimal places.",
+        "Options": [
+            "a) 0.14073652",
+            "b) 0.24073652",
+            "c) 0.42076352",
+            "d) doesn’t have any positive root",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 27,
+        "Question": "Find the positive root of the equation x3 – 4x – 9 = 0 using Regula Falsi method and correct to 4 decimal places.",
+        "Options": [
+            "a) 2.6570",
+            "b) 2.7605",
+            "c) 2.7506",
+            "d) 2.7065",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 28,
+        "Question": "Find the positive root of the equation x3 – 4x + 9 = 0 using Regula Falsi method and correct to 4 decimal places.",
+        "Options": [
+            "a) 3.706698931",
+            "b) 2.706698931",
+            "c) 3.076698931",
+            "d) no positive roots",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 29,
+        "Question": "Find the positive root of the equation ex = 3x using Regula Falsi method and correct to 4 places.",
+        "Options": [
+            "a) 0.6190",
+            "b) 0.7091",
+            "c) 0.7901",
+            "d) 0.6910",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 30,
+        "Question": "What is the region of convergence of Secant Method?",
+        "Options": [
+            "a) 1.5",
+            "b) 1.26",
+            "c) 1.62",
+            "d) 1.66",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 31,
+        "Question": "Secant Method is also called as?",
+        "Options": [
+            "a) 2-point method",
+            "b) 3-point method",
+            "c) 4-point method",
+            "d) 5-point method",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 32,
+        "Question": "The iterative formula for a secant method is given as _________",
+        "Options": [
+            "a) x(n+1)=\\(\\frac{x(n-1)f[x(n)]-x(n)f[x(n-1)]}{[f[x(n)]-f[x(n-1)]]}\\) ",
+            "b) x(n+1)=\\(\\frac{x(n)f[x(n)]-x(n)f[x(n-1)]}{[f[x(n)]-f[x(n-1)]]} \\) ",
+            "c) x(n+1)=\\(\\frac{x(n-1)f[x(n)]-x(n-1)f[x(n-1)]}{[f[x(n)]-f[x(n-1)]]} \\) ",
+            "d) x(n+1)=\\(\\frac{x(n)f[x(n)]-x(n-1)f[x(n-1)]}{[f[x(n)]-f[x(n-1)]]} \\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 33,
+        "Question": "A quadratic equation x2-4x+4=0 is defined with an initial guess of 3 and 2.5. Find the approximated value of root using Secant Method.",
+        "Options": [
+            "a) 1.33",
+            "b) 2.33",
+            "c) 3.33",
+            "d) 4.33",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 34,
+        "Question": "A quadratic equation x2-4x+4=0 is defined with an initial guess of 2 and 2.5. Find the approximated value of root using Secant Method.",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 35,
+        "Question": "A quadratic equation x2-4x+4=0 is defined with an initial guess of 10 and 20. Find the approximated value of x2 using Secant Method.",
+        "Options": [
+            "a) 7.538",
+            "b) 7.853",
+            "c) 7.358",
+            "d) 7.835",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 36,
+        "Question": "A quadratic equation x4-x-8=0 is defined with an initial guess of 1 and 2. Find the approximated value of x2 using Secant Method.",
+        "Options": [
+            "a) 7.538",
+            "b) 7.853",
+            "c) 7.358",
+            "d) 1.571",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 37,
+        "Question": "Rate of convergence of the Newton-Raphson method is generally __________",
+        "Options": [
+            "a) Linear",
+            "b) Quadratic",
+            "c) Super-linear",
+            "d) Cubic",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 38,
+        "Question": "The equation f(x) is given as x3 – x2 + 4x – 4 = 0. Considering the initial approximation at x=2 then the value of next approximation correct upto 2 decimal places is given as __________",
+        "Options": [
+            "a) 0.67",
+            "b) 1.33",
+            "c) 1.00",
+            "d) 1.50",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 39,
+        "Question": "The Newton-Raphson method of finding roots of nonlinear equations falls under the category of which of the following methods?",
+        "Options": [
+            "a) bracketing",
+            "b) open",
+            "c) random",
+            "d) graphical",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 40,
+        "Question": "The Iterative formula for Newton Raphson method is given by __________",
+        "Options": [
+            "a) x1 = x0-f(x0)/f’(x0)",
+            "b) x0 = x1-f(x0)/f‘(x0)",
+            "c) x0 = x1+f(x0)/f’(x0)",
+            "d) x1 = x0+f(x0)/f‘(x0)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 41,
+        "Question": "If f(x) = x2 – 153 = 0 then the iterative formula for Newton Raphson Method is given by __________",
+        "Options": [
+            "a) x(n+1) = 0.5 [x(n)+\\(\\frac{153}{x(n)}\\)] ",
+            "b) x(n+1) = 0.5 [x(n)-\\(\\frac{153}{x(n)}\\)] ",
+            "c) x(n+1) = [x(n)+\\(\\frac{153}{x(n)}\\)] ",
+            "d) x(n+1) = [x(n)-\\(\\frac{153}{x(n)}\\)] ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 42,
+        "Question": "In Newton Raphson method if the curve f f(x) is constant then __________",
+        "Options": [
+            "a) f’’(x)=0",
+            "b) f(x)=0",
+            "c) f’(x)=0",
+            "d) f’(x)=c",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 43,
+        "Question": "For what values of 0 the initial guess will be equal to the next iterative values?",
+        "Options": [
+            "a) 70 degrees",
+            "b) 90 degrees",
+            "c) 100 degrees",
+            "d) 55 degrees",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 44,
+        "Question": "The equation f(x) is given as x2-4=0. Considering the initial approximation at x=6 then the value of next approximation correct upto 2 decimal places is given as __________",
+        "Options": [
+            "a) 3.33",
+            "b) 1.33",
+            "c) 2.33",
+            "d) 4.33",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 45,
+        "Question": "At which point the iterations in the Newton Raphson method are stopped?",
+        "Options": [
+            "a) When the consecutive iterative values of x are not equal",
+            "b) When the consecutive iterative values of x differ by 2 decimal places",
+            "c) When the consecutive iterative values of x differ by 3 decimal places",
+            "d) When the consecutive iterative values of x are equal",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 46,
+        "Question": "The Newton Raphson method fails if __________",
+        "Options": [
+            "a) f’(x0)=0",
+            "b) f’’(x0)=0",
+            "c) f(x0)=0",
+            "d) f’’’(x0)=0",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 47,
+        "Question": "The value of y’/x’ in terms of the angle 0 is given by _____________",
+        "Options": [
+            "a) tanθ",
+            "b) secθ",
+            "c) cotθ",
+            "d) cosecθ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 48,
+        "Question": "The Newton Raphson method is also called as ____________",
+        "Options": [
+            "a) Tangent method",
+            "b) Secant method",
+            "c) Chord method",
+            "d) Diameter method",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 49,
+        "Question": "The equation f(x) is given as x2-4=0. Considering the initial approximation at x=6 then the value of x1 is given as ____________",
+        "Options": [
+            "a) 10/3",
+            "b) 4/3",
+            "c) 7/3",
+            "d) 13/3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 50,
+        "Question": "For decreasing the number of iterations in Newton Raphson method:",
+        "Options": [
+            "a) The value of f’(x) must be increased",
+            "b) The value of f’’(x) must be decreased",
+            "c) The value of f’(x) must be decreased",
+            "d) The value of f’’(x) must be increased",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 51,
+        "Question": "In Newton Raphson method f’(x) for a given point is given by the formula ____________",
+        "Options": [
+            "a) y/x’",
+            "b) y’/x",
+            "c) y/x",
+            "d) y’/x’",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 52,
+        "Question": "If f(x) = x2-117 = 0 then the iterative formula for Newton Raphson Method is given by ____________",
+        "Options": [
+            "a) x(n+1)=0.25 [x(n)+\\(\\frac{166}{x(n)}\\)] ",
+            "b) x(n+1)=0.5 [x(n)+\\(\\frac{166}{x(n)}\\)] ",
+            "c) x(n+1)=0.5 [x(n)-\\(\\frac{166}{x(n)}\\)] ",
+            "d) x(n+1)=0.25 [x(n)-\\(\\frac{166}{x(n)}\\)] ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 53,
+        "Question": "The points where the Newton Raphson method fails are called?",
+        "Options": [
+            "a) floating",
+            "b) continuous",
+            "c) non-stationary",
+            "d) stationary",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 54,
+        "Question": "The convergence of which of the following method depends on initial assumed value?",
+        "Options": [
+            "a) False position",
+            "b) Gauss Seidel method",
+            "c) Newton Raphson method",
+            "d) Euler method",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 55,
+        "Question": "The equation f(x) is given as x3+4x+1=0. Considering the initial approximation at x=1 then the value of x1 is given as _______________",
+        "Options": [
+            "a) 1.67",
+            "b) 1.87",
+            "c) 1.86",
+            "d) 1.85",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 56,
+        "Question": "For a determinant containing 4 elements a1 b1 a2 b2,  what will the elements of the leading diagonal?",
+        "Options": [
+            "a) a1 b1",
+            "b) a1 b2",
+            "c) a2 b1",
+            "d) a2 b2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 57,
+        "Question": "For a determinant \\(\\begin{vmatrix}a&b&c\\\\d&e&f\\\\g&h&i\\end{vmatrix}\\), the cofactor of h will be equal to which of the following?",
+        "Options": [
+            "a) (-1)3+2 \\(\\begin{vmatrix}a&c\\\\d&f\\end{vmatrix}\\) ",
+            "b) (-1)3+2 \\(\\begin{vmatrix}d&f\\\\g&i\\end{vmatrix}\\) ",
+            "c) (-1)3+2 \\(\\begin{vmatrix}a&c\\\\g&i\\end{vmatrix}\\) ",
+            "d) (-1)3+2 \\(\\begin{vmatrix}b&c\\\\e&f\\end{vmatrix}\\) ",
+            ""
+        ],
+        "Answer": "Answer:  a"
+    },
+    {
+        "id": 58,
+        "Question": "What is the value of the determinant \\(\\begin{pmatrix}2&5&1\\\\7&4&5\\\\1&2&3\\end{pmatrix}\\)?",
+        "Options": [
+            "a) -56",
+            "b) -96",
+            "c) -66",
+            "d) -85",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 59,
+        "Question": "If each element of a line consists of m terms, the determinant can be expressed as the sum of ______ determinants.",
+        "Options": [
+            "a) m-1",
+            "b) m",
+            "c) m+1",
+            "d) m2",
+            ""
+        ],
+        "Answer": "Answer:  b"
+    },
+    {
+        "id": 60,
+        "Question": "A matrix B and _____ will have the same determinant.",
+        "Options": [
+            "a) Its transpose",
+            "b) Its inverse",
+            "c) Its echelon matrix",
+            "d) Its adjoint",
+            ""
+        ],
+        "Answer": "Answer:  b"
+    },
+    {
+        "id": 61,
+        "Question": "Which of the following are true?",
+        "Options": [
+            "a) If we multiply a row in a matrix A by a real number r, |A| changes in r.|A|",
+            "b) If we multiply a column and a row in A, both by a real number r, |A| changes in r.|A|",
+            "c) If we swap two columns in A, |A| does not change sign",
+            "d) If we divide a matrix with a scalar, division occurs only in a single row or column",
+            ""
+        ],
+        "Answer": "Answer:  b"
+    },
+    {
+        "id": 62,
+        "Question": "If A and B are two square matrices, then |A.B| is same as which of the following?",
+        "Options": [
+            "a) |A|.|B|",
+            "b) |B|.|A|",
+            "c) |B-A|",
+            "d) |A-B|",
+            ""
+        ],
+        "Answer": "Answer:  a"
+    },
+    {
+        "id": 63,
+        "Question": " For a matrix A having |A| = 0, which of the following are true?",
+        "Options": [
+            "a) A-1 exists",
+            "b) A-1 does not exists",
+            "c) A is non-singular",
+            "d) A-1 exists with |A-1|= 0",
+            ""
+        ],
+        "Answer": "Answer:  a"
+    },
+    {
+        "id": 64,
+        "Question": "Which of the following option is correct when addition of two matrices A and B is possible?",
+        "Options": [
+            "a) both are rectangular",
+            "b) both have same order",
+            "c) no of columns of A is equal to columns of B",
+            "d) no of rows of A is equal to no of columns of B",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 65,
+        "Question": "If A is a symmetric matrix, then At will be equal to which of the following?",
+        "Options": [
+            "a) A",
+            "b) |A|",
+            "c) 0",
+            "d) diagonal matrix",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 66,
+        "Question": "Which of the following option is correct when multiplication of two matrices A and B is possible?",
+        "Options": [
+            "a) both are rectangular",
+            "b) both have same order",
+            "c) number of rows of A is equal to rows of B",
+            "d) number of rows of A is equal to number of columns of B",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 67,
+        "Question": "4.The matrix \\(\\begin{bmatrix}5&0\\\\0&5\\end{bmatrix}\\)   is?",
+        "Options": [
+            "a) Even matrix",
+            "b) Odd matrix",
+            "c) Scalar matrix",
+            "d) Identity matrix",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 68,
+        "Question": "What do we call the number of non-zero rows in an echelon matrix?",
+        "Options": [
+            "a) reduced echelon matrix",
+            "b) order of a matrix",
+            "c) determinant of a matrix",
+            "d) rank of a matrix",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 69,
+        "Question": "If AB exists, then (AB)-1 will be equal to which of the following?",
+        "Options": [
+            "a) A-1 B-1",
+            "b) B-1 A-1",
+            "c) AB",
+            "d) BA",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 70,
+        "Question": "Which of the following is true if two matrices A and B are equal?",
+        "Options": [
+            "a) both are rectangular",
+            "b) both have same order",
+            "c) number of columns of A is equal to columns of B",
+            "d) both have same order and equal corresponding elements",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 71,
+        "Question": "What do we call the matrices obtained by changing rows and columns?",
+        "Options": [
+            "a) rectangular matrix",
+            "b) transpose",
+            "c) symmetric",
+            "d) scalar",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 72,
+        "Question": "What is the order of the matrix with m rows and n columns?",
+        "Options": [
+            "a) m + n",
+            "b) n x n",
+            "c) m x m",
+            "d) m x n",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 73,
+        "Question": "What is the order of the matrix [2 4 3]?",
+        "Options": [
+            "a) 1 X 3",
+            "b) 3 X 1",
+            "c) 1 X 1",
+            "d) 3 X 3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 74,
+        "Question": "Which of the following is true if A is a singular matrix?",
+        "Options": [
+            "a) It contains all elements equal to 1",
+            "b) It contains single element",
+            "c) Its determinant is zero",
+            "d) It contains all elements equal to 0",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 75,
+        "Question": "What is x, if P = \\(\\begin{bmatrix}1&4\\\\2&x\\end{bmatrix}\\)  is a singular matrix?",
+        "Options": [
+            "a) 5",
+            "b) 6",
+            "c) 7",
+            "d) 8",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 76,
+        "Question": "The problems which deal with the analysis of electronic circuits consisting of invariant elements depend on __________",
+        "Options": [
+            "a) The solution of simultaneous algebraic equations",
+            "b) Solution of transcendental equations",
+            "c) Interpolation problems",
+            "d) Finite difference method",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 77,
+        "Question": "Which of the methods is direct method for solving simultaneous algebraic equations?",
+        "Options": [
+            "a) Jacobi’s method",
+            "b) Relaxation method",
+            "c) Cramer’s rule",
+            "d) Gauss seidel method",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 78,
+        "Question": "How many types of methods are there to solve simultaneous algebraic equations?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 4",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 79,
+        "Question": "Which of the following method generally converges the solution?",
+        "Options": [
+            "a) Hit and trial method",
+            "b) Approximation method",
+            "c) Iterative method",
+            "d) Direct method",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 80,
+        "Question": "What are the advantages of direct methods for solving the simultaneous algebraic equations?",
+        "Options": [
+            "a) Rounding of errors get propagated",
+            "b) Quite time consuming",
+            "c) Requires more recording of data",
+            "d) Yield a solution after a finite number of steps for any non-singular set of equations",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 81,
+        "Question": "How many types of instabilities occur while solving a linear system of equations?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 4",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 82,
+        "Question": "What is induced instability?",
+        "Options": [
+            "a) Instability due to reduction in problem",
+            "b) Instability due to number of computations",
+            "c) Instability due to errors in programming",
+            "d) Instability due to incorrect choice of method for solving equations",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 83,
+        "Question": "What is inherent instability?",
+        "Options": [
+            "a) Instability due to convergence of solution",
+            "b) Instability due to ill conditioned set of equations",
+            "c) Instability due to propagation of rounding of errors",
+            "d) Instability due to incorrect choice of method of solution",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 84,
+        "Question": "When the linear system is called ill conditioned?",
+        "Options": [
+            "a) If small changes in the coefficients of equations result in large changes in the values of the unknowns",
+            "b) If reduction is done in the problem",
+            "c) If the programming of linear system is expensive",
+            "d) If small changes in the coefficients of equations result in small changes in the values of the unknowns",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 85,
+        "Question": "If approximate solution of the set of equations, 2x+2y-z = 6, x+y+2z = 8 and -x+3y+2z = 4, is given by x = 2.8 y = 1 and z = 1.8. Then, what is the exact solution?",
+        "Options": [
+            "a) x = 3 , y = 1 , z =2",
+            "b) x = 1 , y = 2 , z =2",
+            "c) x = 2 , y = 3 , z = 1",
+            "d) x = 1 , y = 3 , z = 2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 86,
+        "Question": "How can we avoid instability?",
+        "Options": [
+            "a) Reformulation of problem suitably",
+            "b) Making small changes in the coefficients of equations",
+            "c) Choosing the method involving higher computations",
+            "d) Rounding off the errors",
+            ""
+        ],
+        "Answer": "Answer:  a"
+    },
+    {
+        "id": 87,
+        "Question": "The process of constructing a sequence of vectors and obtaining the solution of a system using specified accuracy is called _________",
+        "Options": [
+            "a) Elimination",
+            "b) Reduction",
+            "c) Iteration",
+            "d) Raphson method",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 88,
+        "Question": "Numerical techniques more commonly involve _______",
+        "Options": [
+            "a) Iterative method",
+            "b) Direct method",
+            "c) Elimination method",
+            "d) Reduction method",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 89,
+        "Question": "What is the primary drawback of using direct methods of solution?",
+        "Options": [
+            "a) They yield solution after a certain amount of fixed computation",
+            "b) They have large calculations involved",
+            "c) They make use of back substitution",
+            "d) They do not achieve the desirable accuracy",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 90,
+        "Question": "In an iterative method, the amount of computation depends on the _________",
+        "Options": [
+            "a) Number of variables",
+            "b) Degree of accuracy",
+            "c) Rounding of errors",
+            "d) Ease of using the operators",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 91,
+        "Question": "Iteration is also called as ________",
+        "Options": [
+            "a) Accurate process",
+            "b) Self-correcting process",
+            "c) Approximate process",
+            "d) Rounding off process",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 92,
+        "Question": "Which of the following is an iterative method?",
+        "Options": [
+            "a) Gauss Jordan",
+            "b) Gauss Elimination",
+            "c) Gauss seidal",
+            "d) Factorization",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 93,
+        "Question": "Why iterative methods are called as self correcting?",
+        "Options": [
+            "a) Iterations involve repetition",
+            "b) Checks occurring during the process ensure that the errors are reduced",
+            "c) Any error made at any stage of computation gets automatically corrected in the subsequent steps",
+            "d) After each step, validity of the method is checked.",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 94,
+        "Question": "Which of the following is not an iterative method?",
+        "Options": [
+            "a) Jacobi’s method",
+            "b) Gauss Seidal method",
+            "c) Relaxation method",
+            "d) Gauss Jordan method",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 95,
+        "Question": "Number of iteration depends on the _________",
+        "Options": [
+            "a) Initial value taken to start the iteration",
+            "b) Type of linear equations",
+            "c) Number of unknowns",
+            "d) Approximations to be done",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 96,
+        "Question": "Matrix inverse in for systems of equation is used to determine which of the following?",
+        "Options": [
+            "a) identified set of equation",
+            "b) variable set of equation",
+            "c) solution set of equations",
+            "d) constant set of equations",
+            ""
+        ],
+        "Answer": "Answer:  a"
+    },
+    {
+        "id": 97,
+        "Question": "Matrix which does not have an inverse by solving it, is classified as which of the following?",
+        "Options": [
+            "a) unidentified matrix",
+            "b) linear matrix",
+            "c) non-singular matrix",
+            "d) singular matrix",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 98,
+        "Question": "Multiplicative inverse matrix generalized form to solve is which of the following?",
+        "Options": [
+            "a) AA-1 = A-1A = I",
+            "b) AA-2 = A-3A = I",
+            "c) 3AA4 = A-1A = I",
+            "d) AA-1 = 2A-5A = Q",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 99,
+        "Question": "Which of the following relation describes the solution of system of equation in form of AX = B?",
+        "Options": [
+            "a) A-1AX = A-1B",
+            "b) B-1AX = A-1B",
+            "c) AB-1AX = AB-1X",
+            "d) X-1AB = A-1BX",
+            ""
+        ],
+        "Answer": "Answer:  a"
+    },
+    {
+        "id": 100,
+        "Question": "Equations are linearly dependent, in a system of linear equations, if and only if?",
+        "Options": [
+            "a) A-2 must exists",
+            "b) A-1 does not exist",
+            "c) A-3 does not exist",
+            "d) A-4 must exist",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 101,
+        "Question": "What is the drawback of finding inverse by adjoint method?",
+        "Options": [
+            "a) It needs a lot of calculations",
+            "b) It gives incorrect answers",
+            "c) It assumes certain values",
+            "d) It is solved by approximating certain values",
+            ""
+        ],
+        "Answer": "Answer:  b"
+    },
+    {
+        "id": 102,
+        "Question": "The aim of elimination steps in Gauss elimination method is to reduce the coefficient matrix to ____________",
+        "Options": [
+            "a) diagonal",
+            "b) identity",
+            "c) lower triangular",
+            "d) upper triangular",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 103,
+        "Question": "Division by zero during in Gaussian elimination of the set of equations [A] * [X]=[C] signifies the coefficient matrix [A] is ____________",
+        "Options": [
+            "a) Invertible",
+            "b) Non Singular",
+            "c) Not determinable to be singular or non singular",
+            "d) Singular",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 104,
+        "Question": "In which of the following both sides of equation are multiplied by non-zero constant?",
+        "Options": [
+            "a) Gauss Elimination Method",
+            "b) Gaussian Inconsistent procedure",
+            "c) Gaussian consistent procedure",
+            "d) Gaussian substitute procedure",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 105,
+        "Question": "In Gaussian elimination method, original equations are transformed by using _____________",
+        "Options": [
+            "a) Column operations",
+            "b) Row Operations",
+            "c) Mathematical Operations",
+            "d) Subset Operation",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 106,
+        "Question": "The Elimination process in Gauss Elimination method is also known as _____________",
+        "Options": [
+            "a) Forward Elimination",
+            "b) Backward Elimination",
+            "c) Sideways Elimination",
+            "d) Crossways Elimination",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 107,
+        "Question": "The reduced form of the Matrix in Gauss Elimination method is also called ____________",
+        "Options": [
+            "a) Column Echelon Form",
+            "b) Row-Column Echelon Form",
+            "c) Column-Row Echelon Form",
+            "d) Row Echelon Form",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 108,
+        "Question": "Which of the following step is not involved in Gauss Elimination Method?",
+        "Options": [
+            "a) Elimination of unknowns",
+            "b) Reduction to an upper triangular system",
+            "c) Finding unknowns by back substitution",
+            "d) Evaluation of cofactors",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 109,
+        "Question": "Gauss Elimination Method is well adopted for which of the application?",
+        "Options": [
+            "a) Computer operations",
+            "b) Network circuit problems",
+            "c) MATLAB operations",
+            "d) Telecommunication operations",
+            ""
+        ],
+        "Answer": "Answer:  a"
+    },
+    {
+        "id": 110,
+        "Question": "What are the coefficients of the equation obtained during the elimination called?",
+        "Options": [
+            "a) Joints",
+            "b) Pivots",
+            "c) Calculated coefficients",
+            "d) Operative coefficients",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 111,
+        "Question": "How the transformation of coefficient matrix A to upper triangular matrix is done?",
+        "Options": [
+            "a) Elementary row transformations",
+            "b) Elementary column transformations",
+            "c) Successive multiplication",
+            "d) Successive division",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 112,
+        "Question": "How many types of pivoting are there?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 4",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 113,
+        "Question": "The modified procedure of complete pivoting is called as ____________",
+        "Options": [
+            "a) Partial",
+            "b) Additional",
+            "c) Reduced",
+            "d) Modified",
+            ""
+        ],
+        "Answer": "Answer:  a"
+    },
+    {
+        "id": 114,
+        "Question": "In Gauss Jordan method which of the following transformations are allowed?",
+        "Options": [
+            "a) Diagonal transformation",
+            "b) Column transformation",
+            "c) Row transformation",
+            "d) Square transformation",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 115,
+        "Question": "The augmented matrix in Gauss Jordan method is reduced to ______________",
+        "Options": [
+            "a) Row Echelon form",
+            "b) Column Echelon form",
+            "c) Matrix Echelon form",
+            "d) Augmented form",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 116,
+        "Question": "Which of these methods is named after the mathematician Carl Friedrich Gauss?",
+        "Options": [
+            "a) Secant method",
+            "b) Newton Raphson method",
+            "c) Runge Kutta method",
+            "d) Gauss Jordan method",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 117,
+        "Question": "Which of the following transformations are allowed in Gauss Jordan method?",
+        "Options": [
+            "a) Swapping a row",
+            "b) Swapping a column",
+            "c) Swapping two rows",
+            "d) Swapping two columns",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 118,
+        "Question": "The Gauss Jordan method reduces a original matrix into a _____________",
+        "Options": [
+            "a) Identity matrix",
+            "b) Null matrix",
+            "c) Skew Hermitian matrix",
+            "d) Non-symmetric matrix",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 119,
+        "Question": "Which of the following methods is used for obtaining the inverse of matrix?",
+        "Options": [
+            "a) Gauss Seidel method",
+            "b) Newton Raphson method",
+            "c) Gauss Jordan method",
+            "d) Secant Method",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 120,
+        "Question": "The modification of Gauss elimination method is called as ___________",
+        "Options": [
+            "a) Gauss Seidal",
+            "b) Gauss Jordan",
+            "c) Jacobi’s Method",
+            "d) Relaxation Method",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 121,
+        "Question": "Which of the following is not a step involved in Gauss Jordan Method?",
+        "Options": [
+            "a) Elimination of unknowns",
+            "b) Reduction of systems to diagonal matrix form",
+            "c) Performing elimination on equations above as well as below",
+            "d) Evaluation of cofactors",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 122,
+        "Question": "The advantage of using Gauss Jordan method is which of the following?",
+        "Options": [
+            "a) More operations involved",
+            "b) Elimination is easier",
+            "c) Additional Calculations",
+            "d) No labour of back substitution",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 123,
+        "Question": "Which is more efficient method?",
+        "Options": [
+            "a) Gauss Elimination",
+            "b) Gauss Jordan",
+            "c) Cramer’s Rule",
+            "d) Back substitution",
+            ""
+        ],
+        "Answer": "Answer:  a"
+    },
+    {
+        "id": 124,
+        "Question": "Why Gauss Elimination is preferred over other methods?",
+        "Options": [
+            "a) Less number of operations are involved",
+            "b) Back substitution needed",
+            "c) Elimination of unknowns",
+            "d) Forms diagonal matrix form",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 125,
+        "Question": "In solving simultaneous equations by Gauss Jordan method, the coefficient matrix is reduced to ______ matrix.",
+        "Options": [
+            "a) Identity",
+            "b) Diagonal",
+            "c) Upper triangular",
+            "d) Lower triangular",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 126,
+        "Question": "While using Gauss Jordan’s method, after all the elementary row operations if there are zeroes left on the main diagonal, then which of the following is correct?",
+        "Options": [
+            "a) System may have unique solution",
+            "b) System has no solution",
+            "c) System may have multiple numbers of finite solutions",
+            "d) System may have infinitely many solutions",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 127,
+        "Question": "The LU method of factorization was introduced by the mathematician____________",
+        "Options": [
+            "a) Alan Tango",
+            "b) David Hilbert",
+            "c) G. W. Leibniz",
+            "d) Alex Grothendieck",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 128,
+        "Question": "Which of the following step is not involved in the factorization process?",
+        "Options": [
+            "a) converting the given system to matrix form",
+            "b) the matrix is decomposed into the product of lower and upper triangular matrix",
+            "c) finding the unknowns using matrix multiplication",
+            "d) elimination of unknowns using back substitution",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 129,
+        "Question": "Errors may occur in performing numerical computation on the computer due to which of the following reasons?",
+        "Options": [
+            "a) Rounding errors",
+            "b) Power fluctuation",
+            "c) Operator fatigue",
+            "d) Back substitution",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 130,
+        "Question": "What is the other name for factorization method?",
+        "Options": [
+            "a) Doolittle’s Method",
+            "b) Lin Bairstow Method",
+            "c) Muller’s Method",
+            "d) Decomposition Method",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 131,
+        "Question": "What is the principle of factorization?",
+        "Options": [
+            "a) There exists no inverse for a singular matrix",
+            "b) Determinant of an identity matrix is one",
+            "c) Every square matrix can be expressed as a product of a lower triangular matrix and upper triangular matrix",
+            "d) Every matrix can be expressed as a sum of a skew symmetric and a symmetric matrix",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 132,
+        "Question": "What is the condition applied in factorization method?",
+        "Options": [
+            "a) Matrix should not be singular",
+            "b) Back substitution should be done",
+            "c) There must exist a diagonal matrix form of the given matrix",
+            "d) All principal minors of the matrix should be non-singular",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 133,
+        "Question": "During computation of elements of L and U, what order should be followed?",
+        "Options": [
+            "a) First row of U -> Second row of L -> Second column of U -> Second row of U -> Third row of U",
+            "b) First row of U -> First column of L -> Second row of U -> Second column of L -> Third row of U",
+            "c) First column of U -> First row of L -> Second column of U -> Second row of L -> Third row of U",
+            "d) First row of L -> First column of U -> Second row of L -> Second column of U -> Third column of L",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 134,
+        "Question": "What is the other application of Factorization method?",
+        "Options": [
+            "a) Finding inverse of a matrix",
+            "b) Solving partial differential equations",
+            "c) Solving ordinary differential equations",
+            "d) Finding Eigen values",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 135,
+        "Question": "Factorization method is superior than which of the following methods?",
+        "Options": [
+            "a) Gauss Elimination",
+            "b) Gauss Seidal",
+            "c) Jacobi’s Method",
+            "d) Iterative Method",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 136,
+        "Question": "Why factorization method is preferred over other methods?",
+        "Options": [
+            "a) Less calculations",
+            "b) No need of back substitution",
+            "c) No solving of cofactors",
+            "d) No elimination of unknowns",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 137,
+        "Question": "While solving a system of linear equations, which of the following will be the order of the decomposed matrices; L and U?",
+        "Options": [
+            "a) Order of L = 3X1, Order of U = 1X3",
+            "b) Order of L = 3X2, Order of U = 2X3",
+            "c) Order of L = 3X3, Order of U = 3X3",
+            "d) Order of L = 3X4, Order of U = 4X3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 138,
+        "Question": "Gauss Seidal method is also termed as a method of _______",
+        "Options": [
+            "a) Successive displacement",
+            "b) Eliminations",
+            "c) False positions",
+            "d) Iterations",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 139,
+        "Question": "Gauss seidal method is similar to which of the following methods?",
+        "Options": [
+            "a) Iteration method",
+            "b) Newton Raphson method",
+            "c) Jacobi’s method",
+            "d) Regula-Falsi method",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 140,
+        "Question": "What is the main difference between Jacobi’s and Gauss-seidal?",
+        "Options": [
+            "a) Computations in Jacobi’s can be done in parallel but not in Gauss-seidal",
+            "b) Convergence in Jacobi’s method is faster",
+            "c) Gauss seidal cannot solve the system of linear equations in three variables whereas Jacobi cannot",
+            "d) Deviation from the correct answer is more in gauss seidal",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 141,
+        "Question": "While solving by Gauss Seidal method, which of the following is the first Iterative solution system; x – 2y = 1 and x + 4y = 4?",
+        "Options": [
+            "a) (1, 0.75)",
+            "b) (0.25,1)",
+            "c) (0,0)",
+            "d) (1,0.65)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 142,
+        "Question": "The Gauss-Seidel method is applicable to strictly diagonally dominant or symmetric________ definite matrices.",
+        "Options": [
+            "a) Positive",
+            "b) Negative",
+            "c) Zero",
+            "d) Equal",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 143,
+        "Question": "Which of the following method is employed for solving the system of linear equations?",
+        "Options": [
+            "a) Runge Kutta",
+            "b) Newton Raphson",
+            "c) Gauss Seidal",
+            "d) Simpson’s Rule",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 144,
+        "Question": "What is the limitation of Gauss-seidal method?",
+        "Options": [
+            "a) It cannot be used for the matrices with non-zero diagonal elements",
+            "b) It is more complex than Jacobi’s method",
+            "c) It doesn’t guarantees convergence for each and every matrix",
+            "d) It is an iterative technique",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 145,
+        "Question": "Cramer’s Rule fails for ___________",
+        "Options": [
+            "a) Determinant > 0",
+            "b) Determinant < 0",
+            "c) Determinant = 0",
+            "d) Determinant = non-real",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 146,
+        "Question": "Cramer’s Rule is not suitable for which type of problems?",
+        "Options": [
+            "a) Small systems with 4 unknowns",
+            "b) Systems with 2 unknowns",
+            "c) Large systems",
+            "d) Systems with 3 unknowns",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 147,
+        "Question": "The Jacobi’s method is a method of solving a matrix equation on a matrix that has no zeroes along ________",
+        "Options": [
+            "a) Leading diagonal",
+            "b) Last column",
+            "c) Last row",
+            "d) Non-leading diagonal",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 148,
+        "Question": "Which of the following is an assumption of Jacobi’s method?",
+        "Options": [
+            "a) The coefficient matrix has no zeros on its main diagonal",
+            "b) The rate of convergence is quite slow compared with other methods",
+            "c) Iteration involved in Jacobi’s method converges",
+            "d) The coefficient matrix has zeroes on its main diagonal",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 149,
+        "Question": "How many assumptions are there in Jacobi’s method?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 4",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 150,
+        "Question": "Which of the following is another name for Jacobi’s method?",
+        "Options": [
+            "a) Displacement method",
+            "b) Simultaneous displacement method",
+            "c) Simultaneous method",
+            "d) Diagonal method",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 151,
+        "Question": " correct to two decimal places.",
+        "Options": [
+            "a) x = 1.00, y = 2.95, z = 3.85",
+            "b) x = 1.96, y = 2.63, z = 3.99",
+            "c) x = 1.58, y = 2.70, z = 3.00",
+            "d) x = 1.23, y = 2.34, z = 3.45",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 152,
+        "Question": "Newton- Gregory Forward interpolation formula can be used _____________",
+        "Options": [
+            "a) only for equally spaced intervals",
+            "b) only for unequally spaced intervals",
+            "c) for both equally and unequally spaced intervals",
+            "d) for unequally intervals",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 153,
+        "Question": "Find n if x0 = 0.75825, x = 0.759 and h = 0.00005.",
+        "Options": [
+            "a) 1.5",
+            "b) 15",
+            "c) 2.5",
+            "d) 25",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 154,
+        "Question": "Find x if x0 = 0.6, n = 2.6 and h = 0.2.",
+        "Options": [
+            "a) 12",
+            "b) 1.2",
+            "c) 1.12",
+            "d) 1.22",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 155,
+        "Question": "The normal equations for a straight line y = ax + b are:",
+        "Options": [
+            "a) Σy = aΣx + nb and  Σxy = aΣx2 + bΣx",
+            "b) Σxy = aΣx + nb and  Σy = aΣx2 + bΣx",
+            "c) Σy = aΣx + nb and  Σxy = aΣx2 + bΣxy",
+            "d) Σy = aΣx + nb and  Σx2y = aΣx2 + bΣx",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 156,
+        "Question": "If the equation y = aebx can be written in linear form Y=A + BX, what are Y, X, A, B?",
+        "Options": [
+            "a) Y = logy, A = loga, B=b and X=x",
+            "b) Y = y, A = a, B=b and X=x",
+            "c) Y = y, A = a, B=logb and X=logx",
+            "d) Y = logy, A = a, B=logb and X=x",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 157,
+        "Question": "If the equation y=abx can be written in linear form Y=A+BX, what are Y, X, A, B?",
+        "Options": [
+            "a) Y=logy, X=x, A=loga and B=logb",
+            "b) Y=y, A=a, B=b and X=x",
+            "c) Y=y, A=a, B=logb and X=logx",
+            "d) Y=logy, A=a, B=logb and X=x",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 158,
+        "Question": "If the equation y=axb can be written in the linear form Y=A+BX, what are Y, X, A, B?",
+        "Options": [
+            "a) Y=logy, A=loga, B=b and X=logx",
+            "b) Y=y, A=a, B=b and X=x",
+            "c) Y=y, A=a, B=logb and X=logx",
+            "d) Y=logy, A=a, B=logb and X=x",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 159,
+        "Question": "The parameter E which we use for least square method is called as ____________",
+        "Options": [
+            "a) Sum of residues",
+            "b) Residues",
+            "c) Error",
+            "d) Sum of errors",
+            ""
+        ],
+        "Answer": "Answer: a"
+    }
+]

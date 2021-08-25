@@ -1,0 +1,4550 @@
+[
+    {
+        "id": 1,
+        "Question": "Is Python case sensitive when dealing with identifiers?",
+        "Options": [
+            "a) yes",
+            "b) no",
+            "c) machine dependent",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 2,
+        "Question": "What is the maximum possible length of an identifier?",
+        "Options": [
+            "a) 31 characters",
+            "b) 63 characters",
+            "c) 79 characters",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 3,
+        "Question": "Which of the following is invalid?",
+        "Options": [
+            "a) _a = 1",
+            "b) __a = 1",
+            "c) __str__ = 1",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 4,
+        "Question": "Which of the following is an invalid variable?",
+        "Options": [
+            "a) my_string_1",
+            "b) 1st_string",
+            "c) foo",
+            "d) _",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 5,
+        "Question": "Why are local variable names beginning with an underscore discouraged?",
+        "Options": [
+            "a) they are used to indicate a private variables of a class",
+            "b) they confuse the interpreter",
+            "c) they are used to indicate global variables",
+            "d) they slow down execution",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 6,
+        "Question": "Which of the following is not a keyword?",
+        "Options": [
+            "a) eval",
+            "b) assert",
+            "c) nonlocal",
+            "d) pass",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 7,
+        "Question": "All keywords in Python are in _________",
+        "Options": [
+            "a) lower case",
+            "b) UPPER CASE",
+            "c) Capitalized",
+            "d) None of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 8,
+        "Question": "Which of the following is true for variable names in Python?",
+        "Options": [
+            "a) unlimited length",
+            "b) all private members must have leading and trailing underscores",
+            "c) underscore and ampersand are the only two special characters allowed",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 9,
+        "Question": "Which of the following is an invalid statement?",
+        "Options": [
+            "a) abc = 1,000,000",
+            "b) a b c = 1000 2000 3000",
+            "c) a,b,c = 1000, 2000, 3000",
+            "d) a_b_c = 1,000,000",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 10,
+        "Question": "Which of the following cannot be a variable?",
+        "Options": [
+            "a) __init__",
+            "b) in",
+            "c) it",
+            "d) on",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 11,
+        "Question": "Which is the correct operator for power(xy)?",
+        "Options": [
+            "a) X^y",
+            "b) X**y",
+            "c) X^^y",
+            "d) None of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 12,
+        "Question": "Which one of these is floor division?",
+        "Options": [
+            "a) /",
+            "b) //",
+            "c) %",
+            "d) None of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 13,
+        "Question": "What is the answer to this expression, 22 % 3 is?",
+        "Options": [
+            "a) 7",
+            "b) 1",
+            "c) 0",
+            "d) 5",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 14,
+        "Question": "Operators with the same precedence are evaluated in which manner?",
+        "Options": [
+            "a) Left to Right",
+            "b) Right to Left",
+            "c) Can’t say",
+            "d) None of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 15,
+        "Question": "What is the output of this expression, 3*1**3?",
+        "Options": [
+            "a) 27",
+            "b) 9",
+            "c) 3",
+            "d) 1",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 16,
+        "Question": "Which one of the following has the same precedence level?",
+        "Options": [
+            "a) Addition and Subtraction",
+            "b) Multiplication, Division and Addition",
+            "c) Multiplication, Division, Addition and Subtraction",
+            "d) Addition and Multiplication",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 17,
+        "Question": "Which one of the following has the highest precedence in the expression?",
+        "Options": [
+            "a) Exponential",
+            "b) Addition",
+            "c) Multiplication",
+            "d) Parentheses",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 18,
+        "Question": "Which of these in not a core data type?",
+        "Options": [
+            "a) Lists",
+            "b) Dictionary",
+            "c) Tuples",
+            "d) Class",
+            ""
+        ],
+        "Answer": " Answer: d"
+    },
+    {
+        "id": 19,
+        "Question": "Given a function that does not return any value, What value is thrown by default when executed in shell.",
+        "Options": [
+            "a) int",
+            "b) bool",
+            "c) void",
+            "d) None",
+            ""
+        ],
+        "Answer": " Answer: d"
+    },
+    {
+        "id": 20,
+        "Question": "Which of the following will run without errors?",
+        "Options": [
+            "a) round(45.8)",
+            "b) round(6352.898,2,5)",
+            "c) round()",
+            "d) round(7463.123,2,1)",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 21,
+        "Question": "What is the return type of function id?",
+        "Options": [
+            "a) int",
+            "b) float",
+            "c) bool",
+            "d) dict",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 22,
+        "Question": "objective is to make sure x has a integer value, select all that apply (python 3.xx)",
+        "Options": [
+            "a) x = 13 // 2",
+            "b) x = int(13 / 2)",
+            "c) x = 13 % 2",
+            "d) All of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 23,
+        "Question": "In order to store values in terms of key and value we use what core data type.",
+        "Options": [
+            "a) list",
+            "b) tuple",
+            "c) class",
+            "d) dictionary",
+            ""
+        ],
+        "Answer": " Answer: d"
+    },
+    {
+        "id": 24,
+        "Question": "Which of the following results in a SyntaxError?",
+        "Options": [
+            "a) ‘”Once upon a time…”, she said.’",
+            "b) “He said, ‘Yes!'”",
+            "c) ‘3\\’",
+            "d) ”’That’s okay”’",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 25,
+        "Question": "What is the return value of trunc()?",
+        "Options": [
+            "a) int",
+            "b) bool",
+            "c) float",
+            "d) None",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 26,
+        "Question": "What is the output of print 0.1 + 0.2 == 0.3?",
+        "Options": [
+            "a) True",
+            "b) False",
+            "c) Machine dependent",
+            "d) Error",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 27,
+        "Question": "Which of the following is not a complex number?",
+        "Options": [
+            "a) k = 2 + 3j",
+            "b) k = complex(2, 3)",
+            "c) k = 2 + 3l",
+            "d) k = 2 + 3J",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 28,
+        "Question": "What is the type of inf?",
+        "Options": [
+            "a) Boolean",
+            "b) Integer",
+            "c) Float",
+            "d) Complex",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 29,
+        "Question": "What does ~4 evaluate to?",
+        "Options": [
+            "a) -5",
+            "b) -4",
+            "c) -3",
+            "d) +3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 30,
+        "Question": "What does ~~~~~~5 evaluate to?",
+        "Options": [
+            "a) +5",
+            "b) -11",
+            "c) +11",
+            "d) -5",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 31,
+        "Question": "Which of the following is incorrect?",
+        "Options": [
+            "a) x = 0b101",
+            "b) x = 0x4f5",
+            "c) x = 19023",
+            "d) x = 03964",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 32,
+        "Question": "What is the result of cmp(3, 1)?",
+        "Options": [
+            "a) 1",
+            "b) 0",
+            "c) True",
+            "d) False",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 33,
+        "Question": "Which of the following is incorrect?",
+        "Options": [
+            "a) float(‘inf’)",
+            "b) float(‘nan’)",
+            "c) float(’56’+’78’)",
+            "d) float(’12+34′)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 34,
+        "Question": "What is the result of round(0.5) – round(-0.5)?",
+        "Options": [
+            "a) 1.0",
+            "b) 2.0",
+            "c) 0.0",
+            "d) Value depends on Python version",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 35,
+        "Question": "What does 3 ^ 4 evaluate to?",
+        "Options": [
+            "a) 81",
+            "b) 12",
+            "c) 0.75",
+            "d) 7",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 36,
+        "Question": "Which of the following operators has its associativity from right to left?",
+        "Options": [
+            "a) +",
+            "b) //",
+            "c) %",
+            "d) **",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 37,
+        "Question": "Which of the following is the truncation division operator?",
+        "Options": [
+            "a) /",
+            "b) %",
+            "c) //",
+            "d) |",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 38,
+        "Question": "Which of the following expressions involves coercion when evaluated in Python?",
+        "Options": [
+            "a) 4.7 – 1.5",
+            "b) 7.9 * 6.3",
+            "c) 1.7 % 2",
+            "d) 3.4 + 4.6",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 39,
+        "Question": "Which of the following expressions is an example of type conversion?",
+        "Options": [
+            "a) 4.0 + float(3)",
+            "b) 5.3 + 6.3",
+            "c) 5.0 + 3",
+            "d) 3 + 7",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 40,
+        "Question": "Which of the following expressions results in an error?",
+        "Options": [
+            "a) float(‘10’)",
+            "b) int(‘10’)",
+            "c) float(’10.8’)",
+            "d) int(’10.8’)",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 41,
+        "Question": " To find the decimal value of 1111, that is 15, we can use the function:",
+        "Options": [
+            "a) int(1111,10)",
+            "b) int(‘1111’,10)",
+            "c) int(1111,2)",
+            "d) int(‘1111’,2)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 42,
+        "Question": "Which of the following expressions results in an error?",
+        "Options": [
+            "a) int(1011)",
+            "b) int(‘1011’,23)",
+            "c) int(1011,2)",
+            "d) int(‘1011’)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 43,
+        "Question": " Which of the following represents the bitwise XOR operator?",
+        "Options": [
+            "a) &",
+            "b) ^",
+            "c) |",
+            "d) !",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 44,
+        "Question": "The one’s complement of 110010101 is:",
+        "Options": [
+            "a) 001101010",
+            "b) 110010101",
+            "c) 001101011",
+            "d) 110010100",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 45,
+        "Question": "Bitwise _________ gives 1 if either of the bits is 1 and 0 when both of the bits are 1.",
+        "Options": [
+            "a) OR",
+            "b) AND",
+            "c) XOR",
+            "d) NOT",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 46,
+        "Question": "Any odd number on being AND-ed with ________ always gives 1. Hint: Any even number on being AND-ed with this value always gives 0.",
+        "Options": [
+            "a) 10",
+            "b) 2",
+            "c) 1",
+            "d) 0",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 47,
+        "Question": "Which of the following expressions can be used to multiply a given number ‘a’ by 4?",
+        "Options": [
+            "a) a<<2",
+            "b) a<<4",
+            "c) a>>2",
+            "d) a>>4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 48,
+        "Question": "What is the two’s complement of -44?",
+        "Options": [
+            "a) 1011011",
+            "b) 11010100",
+            "c) 11101011",
+            "d) 10110011",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 49,
+        "Question": "Which of the following Boolean expressions is not logically equivalent to the other three?",
+        "Options": [
+            "a) not(-6<0 or-6>10)",
+            "b) -6>=0 and -6<=10",
+            "c) not(-6<10 or-6==10)",
+            "d) not(-6>10 or-6==10)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 50,
+        "Question": "Which of the following formatting options can be used in order to add ‘n’ blank spaces after a given string ‘S’?",
+        "Options": [
+            "a) print(“-ns”%S)",
+            "b) print(“-ns”%S)",
+            "c) print(“%ns”%S)",
+            "d) print(“%-ns”%S)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 51,
+        "Question": "The output of which of the codes shown below will be: “There are 4 blue birds.”?",
+        "Options": [
+            "a) ‘There are %g %d birds.’ %4 %blue",
+            "b) ‘There are %d %s birds.’ %(4, blue)",
+            "c) ‘There are %s %d birds.’ %[4, blue] ",
+            "d) ‘There are %d %s birds.’ 4, blue",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 52,
+        "Question": "The formatting method {1:<10} represents the ___________ positional argument, _________ justified in a 10 character wide field.",
+        "Options": [
+            "a) first, right",
+            "b) second, left",
+            "c) first, left",
+            "d) second, right",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 53,
+        "Question": "The ______ symbol along with the name of the decorator function can be placed above the definition of the function to be decorated works as an alternate way for decorating a function.",
+        "Options": [
+            "a) #",
+            "b) $",
+            "c) @",
+            "d) &",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 54,
+        "Question": "The output of executing string.ascii_letters can also be achieved by:",
+        "Options": [
+            "a) string.ascii_lowercase_string.digits",
+            "b) string.ascii_lowercase+string.ascii_uppercase",
+            "c) string.letters",
+            "d) string.lowercase_string.uppercase",
+            ""
+        ],
+        "Answer": " Answer: d"
+    },
+    {
+        "id": 55,
+        "Question": "What arithmetic operators cannot be used with strings?",
+        "Options": [
+            "a) +",
+            "b) *",
+            "c) –",
+            "d) All of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 56,
+        "Question": "Given a string example=”hello” what is the output of example.count(‘l’)?",
+        "Options": [
+            "a) 2",
+            "b) 1",
+            "c) None",
+            "d) 0",
+            ""
+        ],
+        "Answer": " Answer: d"
+    },
+    {
+        "id": 57,
+        "Question": "To concatenate two strings to a third what statements are applicable?",
+        "Options": [
+            "a) s3 = s1 . s2",
+            "b) s3 = s1.add(s2)",
+            "c) s3 = s1.__add__(s2)",
+            "d) s3 = s1 * s2",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 58,
+        "Question": "Which of the following statement prints hello\\example\\test.txt?",
+        "Options": [
+            "a) print(“hello\\example\\test.txt”)",
+            "b) print(“hello\\\\example\\\\test.txt”)",
+            "c) print(“hello\\”example\\”test.txt”)",
+            "d) print(“hello”\\example”\\test.txt”)",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 59,
+        "Question": "Suppose s is “\\t\\tWorld\\n”, what is s.strip()?",
+        "Options": [
+            "a) \\t\\tWorld\\n",
+            "b) \\t\\tWorld\\n",
+            "c) \\t\\tWORLD\\n",
+            "d) World",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 60,
+        "Question": "The format function, when applied on a string returns ___________",
+        "Options": [
+            "a) Error",
+            "b) int",
+            "c) bool",
+            "d) str",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 61,
+        "Question": "What will be the output of the “hello” +1+2+3?",
+        "Options": [
+            "a) hello123",
+            "b) hello",
+            "c) Error",
+            "d) hello6",
+            ""
+        ],
+        "Answer": " Answer: d"
+    },
+    {
+        "id": 62,
+        "Question": "What will be displayed by print(ord(‘b’) – ord(‘a’))?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) -1",
+            "d) 2",
+            ""
+        ],
+        "Answer": " Answer: d"
+    },
+    {
+        "id": 63,
+        "Question": "Say s=”hello” what will be the return value of type(s)?",
+        "Options": [
+            "a) int",
+            "b) bool",
+            "c) str",
+            "d) String",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 64,
+        "Question": "What is “Hello”.replace(“l”, “e”)?",
+        "Options": [
+            "a) Heeeo",
+            "b) Heelo",
+            "c) Heleo",
+            "d) None",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 65,
+        "Question": "To retrieve the character at index 3 from string s=”Hello” what command do we execute (multiple answers allowed)?",
+        "Options": [
+            "a) s[] ",
+            "b) s.getitem(3)",
+            "c) s.__getitem__(3)",
+            "d) s.getItem(3)",
+            ""
+        ],
+        "Answer": " Answer:  c"
+    },
+    {
+        "id": 66,
+        "Question": "To return the length of string s what command do we execute?",
+        "Options": [
+            "a) s.__len__()",
+            "b) len(s)",
+            "c) size(s)",
+            "d) s.size()",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 67,
+        "Question": "If a class defines the __str__(self) method, for an object obj for the class, you can use which command to invoke the __str__ method.",
+        "Options": [
+            "a) obj.__str__()",
+            "b) str(obj)",
+            "c) print obj",
+            "d) all of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: d"
+    },
+    {
+        "id": 68,
+        "Question": "To check whether string s1 contains another string s2, use ________",
+        "Options": [
+            "a) s1.__contains__(s2)",
+            "b) s2 in s1",
+            "c) s1.contains(s2)",
+            "d) si.in(s2)",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 69,
+        "Question": "Suppose i is 5 and j is 4, i + j is same as ________",
+        "Options": [
+            "a) i.__add(j)",
+            "b) i.__add__(j)",
+            "c) i.__Add(j)",
+            "d) i.__ADD(j)",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 70,
+        "Question": "What function do you use to read a string?",
+        "Options": [
+            "a) input(“Enter a string”)",
+            "b) eval(input(“Enter a string”))",
+            "c) enter(“Enter a string”)",
+            "d) eval(enter(“Enter a string”))",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 71,
+        "Question": "Suppose x is 345.3546, what is format(x, “10.3f”) (_ indicates space).",
+        "Options": [
+            "a) __345.355",
+            "b) ___345.355",
+            "c) ____345.355",
+            "d) _____345.354",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 72,
+        "Question": "What is the default value of encoding in encode()?",
+        "Options": [
+            "a) ascii",
+            "b) qwerty",
+            "c) utf-8",
+            "d) utf-16",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 73,
+        "Question": "Which of the following commands will create a list?",
+        "Options": [
+            "a) list1 = list()",
+            "b) list1 = [] ",
+            "c) list1 = list([1, 2, 3])",
+            "d) all of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: d"
+    },
+    {
+        "id": 74,
+        "Question": "What is the output when we execute list(“hello”)?",
+        "Options": [
+            "a) [‘h’, ‘e’, ‘l’, ‘l’, ‘o’] ",
+            "b) [‘hello’] ",
+            "c) [‘llo’] ",
+            "d) [‘olleh’] ",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 75,
+        "Question": "Suppose listExample is [‘h’,’e’,’l’,’l’,’o’], what is len(listExample)?",
+        "Options": [
+            "a) 5",
+            "b) 4",
+            "c) None",
+            "d) Error",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 76,
+        "Question": "Suppose list1 is [2445,133,12454,123], what is max(list1)?",
+        "Options": [
+            "a) 2445",
+            "b) 133",
+            "c) 12454",
+            "d) 123",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 77,
+        "Question": "Suppose list1 is [3, 5, 25, 1, 3], what is min(list1)?",
+        "Options": [
+            "a) 3",
+            "b) 5",
+            "c) 25",
+            "d) 1",
+            ""
+        ],
+        "Answer": " Answer: d"
+    },
+    {
+        "id": 78,
+        "Question": "Suppose list1 is [1, 5, 9], what is sum(list1)?",
+        "Options": [
+            "a) 1",
+            "b) 9",
+            "c) 15",
+            "d) Error",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 79,
+        "Question": "To shuffle the list(say list1) what function do we use?",
+        "Options": [
+            "a) list1.shuffle()",
+            "b) shuffle(list1)",
+            "c) random.shuffle(list1)",
+            "d) random.shuffleList(list1)",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 80,
+        "Question": "Suppose list1 is [4, 2, 2, 4, 5, 2, 1, 0], Which of the following is correct syntax for slicing operation?",
+        "Options": [
+            "a) print(list1[0])",
+            "b) print(list1[:2])",
+            "c) print(list1[:-2])",
+            "d) all of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: d"
+    },
+    {
+        "id": 81,
+        "Question": "Suppose list1 is [2, 33, 222, 14, 25], What is list1[-1]?",
+        "Options": [
+            "a) Error",
+            "b) None",
+            "c) 25",
+            "d) 2",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 82,
+        "Question": "Suppose list1 is [2, 33, 222, 14, 25], What is list1[:-1]?",
+        "Options": [
+            "a) [2, 33, 222, 14] ",
+            "b) Error",
+            "c) 25",
+            "d) [25, 14, 222, 33, 2] ",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 83,
+        "Question": "Suppose list1 is [1, 3, 2], What is list1 * 2?",
+        "Options": [
+            "a) [2, 6, 4] ",
+            "b) [1, 3, 2, 1, 3] ",
+            "c) [1, 3, 2, 1, 3, 2] ",
+            "d) [1, 3, 2, 3, 2, 1] ",
+            ""
+        ],
+        "Answer": " Answer: d"
+    },
+    {
+        "id": 84,
+        "Question": "Suppose list1 = [0.5 * x for x in range(0, 4)], list1 is:",
+        "Options": [
+            "a) [0, 1, 2, 3] ",
+            "b) [0, 1, 2, 3, 4] ",
+            "c) [0.0, 0.5, 1.0, 1.5] ",
+            "d) [0.0, 0.5, 1.0, 1.5, 2.0] ",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 85,
+        "Question": "To add a new element to a list we use which command?",
+        "Options": [
+            "a) list1.add(5)",
+            "b) list1.append(5)",
+            "c) list1.addLast(5)",
+            "d) list1.addEnd(5)",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 86,
+        "Question": "To insert 5 to the third position in list1, we use which command?",
+        "Options": [
+            "a) list1.insert(3, 5)",
+            "b) list1.insert(2, 5)",
+            "c) list1.add(3, 5)",
+            "d) list1.append(3, 5)",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 87,
+        "Question": "To remove string “hello” from list1, we use which command?",
+        "Options": [
+            "a) list1.remove(“hello”)",
+            "b) list1.remove(hello)",
+            "c) list1.removeAll(“hello”)",
+            "d) list1.removeOne(“hello”)",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 88,
+        "Question": "Suppose list1 is [3, 4, 5, 20, 5], what is list1.index(5)?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 4",
+            "d) 2",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 89,
+        "Question": "Suppose list1 is [3, 4, 5, 20, 5, 25, 1, 3], what is list1.count(5)?",
+        "Options": [
+            "a) 0",
+            "b) 4",
+            "c) 1",
+            "d) 2",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 90,
+        "Question": "Suppose list1 is [3, 4, 5, 20, 5, 25, 1, 3], what is list1 after list1.reverse()?",
+        "Options": [
+            "a) [3, 4, 5, 20, 5, 25, 1, 3] ",
+            "b) [1, 3, 3, 4, 5, 5, 20, 25] ",
+            "c) [25, 20, 5, 5, 4, 3, 3, 1] ",
+            "d) [3, 1, 25, 5, 20, 5, 4, 3] ",
+            ""
+        ],
+        "Answer": " Answer: d"
+    },
+    {
+        "id": 91,
+        "Question": "Suppose listExample is [3, 4, 5, 20, 5, 25, 1, 3], what is list1 after listExample.extend([34, 5])?",
+        "Options": [
+            "a) [3, 4, 5, 20, 5, 25, 1, 3, 34, 5] ",
+            "b) [1, 3, 3, 4, 5, 5, 20, 25, 34, 5] ",
+            "c) [25, 20, 5, 5, 4, 3, 3, 1, 34, 5] ",
+            "d) [1, 3, 4, 5, 20, 5, 25, 3, 34, 5] ",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 92,
+        "Question": "Suppose listExample is [3, 4, 5, 20, 5, 25, 1, 3], what is list1 after listExample.pop(1)?",
+        "Options": [
+            "a) [3, 4, 5, 20, 5, 25, 1, 3] ",
+            "b) [1, 3, 3, 4, 5, 5, 20, 25] ",
+            "c) [3, 5, 20, 5, 25, 1, 3] ",
+            "d) [1, 3, 4, 5, 20, 5, 25] ",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 93,
+        "Question": "Suppose listExample is [3, 4, 5, 20, 5, 25, 1, 3], what is list1 after listExample.pop()?",
+        "Options": [
+            "a) [3, 4, 5, 20, 5, 25, 1] ",
+            "b) [1, 3, 3, 4, 5, 5, 20, 25] ",
+            "c) [3, 5, 20, 5, 25, 1, 3] ",
+            "d) [1, 3, 4, 5, 20, 5, 25] ",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 94,
+        "Question": "To which of the following the “in” operator can be used to check if an item is in it?",
+        "Options": [
+            "a) Lists",
+            "b) Dictionary",
+            "c) Set",
+            "d) All of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 95,
+        "Question": "Which of the following is the same as list(map(lambda x: x**-1, [1, 2, 3]))?",
+        "Options": [
+            "a) [x**-1 for x in [(1, 2, 3)]] ",
+            "b) [1/x for x in [(1, 2, 3)]] ",
+            "c) [1/x for x in (1, 2, 3)] ",
+            "d) error",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 96,
+        "Question": "Write the list comprehension to pick out only negative integers from a given list ‘l’.",
+        "Options": [
+            "a) [x<0 in l] ",
+            "b) [x for x<0 in l] ",
+            "c) [x in l for x<0] ",
+            "d) [x for x in l if x<0] ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 97,
+        "Question": "Write a list comprehension for number and its cube for l=[1, 2, 3, 4, 5, 6, 7, 8, 9].",
+        "Options": [
+            "a) [x**3 for x in l]",
+            "b) [x^3 for x in l]",
+            "c) [x**3 in l]",
+            "d) [x^3 in l]",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 98,
+        "Question": "Write a list comprehension for producing a list of numbers between 1 and 1000 that are divisible by 3.",
+        "Options": [
+            "a) [x in range(1, 1000) if x%3==0]",
+            "b) [x for x in range(1000) if x%3==0]",
+            "c) [x%3 for x in range(1, 1000)]",
+            "d) [x%3=0 for x in range(1, 1000)]",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 99,
+        "Question": "What is the list comprehension equivalent for: list(map(lambda x:x**-1, [1, 2, 3]))?",
+        "Options": [
+            "a) [1|x for x in [1, 2, 3]]",
+            "b) [-1**x for x in [1, 2, 3]]",
+            "c) [x**-1 for x in [1, 2, 3]]",
+            "d) [x^-1 for x in range(4)]",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 100,
+        "Question": "Write a list comprehension to produce the list: [1, 2, 4, 8, 16……212].",
+        "Options": [
+            "a) [(2**x) for x in range(0, 13)]",
+            "b) [(x**2) for x in range(1, 13)]",
+            "c) [(2**x) for x in range(1, 13)]",
+            "d) [(x**2) for x in range(0, 13)]",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 101,
+        "Question": "Which of the following is a Python tuple?",
+        "Options": [
+            "a) [1, 2, 3] ",
+            "b) (1, 2, 3)",
+            "c) {1, 2, 3}",
+            "d) {}",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 102,
+        "Question": "Suppose t = (1, 2, 4, 3), which of the following is incorrect?",
+        "Options": [
+            "a) print(t[3])",
+            "b) t[3] = 45",
+            "c) print(max(t))",
+            "d) print(len(t))",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 103,
+        "Question": "1.\tWhat is the data type of (1)?",
+        "Options": [
+            "a)\tTuple",
+            "b)\tInteger",
+            "c)\tList",
+            "d)\tBoth tuple and integer",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 104,
+        "Question": "2.\tIf a=(1,2,3,4), a[1:-1] is _________",
+        "Options": [
+            "a)\tError, tuple slicing doesn’t exist",
+            "b)\t[2,3] ",
+            "c)\t(2,3,4)",
+            "d)\t(2,3)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 105,
+        "Question": "8.\tWhat type of data is: a=[(1,1),(2,4),(3,9)]?",
+        "Options": [
+            "a)\tArray of tuples",
+            "b)\tList of tuples",
+            "c)\tTuples of lists",
+            "d)\tInvalid type",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 106,
+        "Question": "1.\tWhich of these about a set is not true?",
+        "Options": [
+            "a)\tMutable data type",
+            "b)\tAllows duplicate values",
+            "c)\tData type with unordered values",
+            "d)\tImmutable data type",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 107,
+        "Question": "2.\tWhich of the following is not the correct syntax for creating a set?",
+        "Options": [
+            "a)\tset([[1,2],[3,4]])",
+            "b)\tset([1,2,2,3,4])",
+            "c)\tset((1,2,3,4))",
+            "d)\t{1,2,3,4}",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 108,
+        "Question": "5.\tWhich of the following statements is used to create an empty set?",
+        "Options": [
+            "a)\t{ }",
+            "b)\tset()",
+            "c)\t[ ] ",
+            "d)\t( )",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 109,
+        "Question": " If a={5,6,7,8}, which of the following statements is false?",
+        "Options": [
+            "a)\tprint(len(a))",
+            "b)\tprint(min(a))",
+            "c)\ta.remove(5)",
+            "d)\ta[2]=45",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 110,
+        "Question": " If a={5,6,7}, what happens when a.add(5) is executed?",
+        "Options": [
+            "a)\ta={5,5,6,7}",
+            "b)\ta={5,6,7}",
+            "c)\tError as there is no add function for set data type",
+            "d)\tError as 5 already exists in the set",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 111,
+        "Question": "1.\tWhich of these about a frozenset is not true?",
+        "Options": [
+            "a)\tMutable data type",
+            "b)\tAllows duplicate values",
+            "c)\tData type with unordered values",
+            "d)\tImmutable data type",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 112,
+        "Question": "Which of the following lines of code will result in an error?",
+        "Options": [
+            "a) s={abs}",
+            "b) s={4, ‘abc’, (1,2)}",
+            "c) s={2, 2.2, 3, ‘xyz’}",
+            "d) s={san}",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 113,
+        "Question": "Which of the following functions cannot be used on heterogeneous sets?",
+        "Options": [
+            "a) pop",
+            "b) remove",
+            "c) update",
+            "d) sum",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 114,
+        "Question": "Which of the following functions will return the symmetric difference between two sets, x and y?",
+        "Options": [
+            "a) x | y",
+            "b) x ^ y",
+            "c) x & y",
+            "d) x – y",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 115,
+        "Question": "The ____________ function removes the first element of a set and the last element of a list.",
+        "Options": [
+            "a) remove",
+            "b) pop",
+            "c) discard",
+            "d) dispose",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 116,
+        "Question": "The difference between the functions discard and remove is that:",
+        "Options": [
+            "a) Discard removes the last element of the set whereas remove removes the first element of the set",
+            "b) Discard throws an error if the specified element is not present in the set whereas remove does not throw an error in case of absence of the specified element",
+            "c) Remove removes the last element of the set whereas discard removes the first element of the set",
+            "d) Remove throws an error if the specified element is not present in the set whereas discard does not throw an error in case of absence of the specified element",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 117,
+        "Question": "If we have two sets, s1 and s2, and we want to check if all the elements of s1 are present in s2 or not, we can use the function:",
+        "Options": [
+            "a) s2.issubset(s1)",
+            "b) s2.issuperset(s1)",
+            "c) s1.issuperset(s2)",
+            "d) s1.isset(s2)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 118,
+        "Question": "Which of the following statements create a dictionary?",
+        "Options": [
+            "a) d = {}",
+            "b) d = {“john”:40, “peter”:45}",
+            "c) d = {40:”john”, 45:”peter”}",
+            "d) All of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: d"
+    },
+    {
+        "id": 119,
+        "Question": "Suppose d = {“john”:40, “peter”:45}, to delete the entry for “john” what command do we use?",
+        "Options": [
+            "a) d.delete(“john”:40)",
+            "b) d.delete(“john”)",
+            "c) del d[“john”] ",
+            "d) del d(“john”:40)",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 120,
+        "Question": "Suppose d = {“john”:40, “peter”:45}. To obtain the number of entries in dictionary which command do we use?",
+        "Options": [
+            "a) d.size()",
+            "b) len(d)",
+            "c) size(d)",
+            "d) d.len()",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 121,
+        "Question": "Suppose d = {“john”:40, “peter”:45}, what happens when we try to retrieve a value using the expression d[“susan”]?",
+        "Options": [
+            "a) Since “susan” is not a value in the set, Python raises a KeyError exception",
+            "b) It is executed fine and no exception is raised, and it returns None",
+            "c) Since “susan” is not a key in the set, Python raises a KeyError exception",
+            "d) Since “susan” is not a key in the set, Python raises a syntax error",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 122,
+        "Question": "1.\tWhich of these about a dictionary is false?",
+        "Options": [
+            "a)\tThe values of a dictionary can be accessed using keys",
+            "b)\tThe keys of a dictionary can be accessed using values",
+            "c)\tDictionaries aren’t ordered",
+            "d)\tDictionaries are mutable",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 123,
+        "Question": "2.\tWhich of the following is not a declaration of the dictionary?",
+        "Options": [
+            "a)\t{1: ‘A’, 2: ‘B’}",
+            "b)\tdict([[1,”A”],[2,”B”]])",
+            "c)\t{1,”A”,2”B”}",
+            "d)\t{ }",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 124,
+        "Question": "11.\tWhich of the following isn’t true about dictionary keys?",
+        "Options": [
+            "a)\tMore than one key isn’t allowed",
+            "b)\tKeys must be immutable",
+            "c)\tKeys must be integers",
+            "d)\tWhen duplicate keys encountered, the last assignment wins",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 125,
+        "Question": "1.\tWhich of the statements about dictionary values if false?",
+        "Options": [
+            "a)\tMore than one key can have the same value",
+            "b)\tThe values of the dictionary can be accessed as dict[key] ",
+            "c)\tValues of a dictionary must be unique",
+            "d)\tValues of a dictionary can be a mixture of letters and numbers",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 126,
+        "Question": "3.\tIf a is a dictionary with some key-value pairs, what does a.popitem() do?",
+        "Options": [
+            "a)\tRemoves an arbitrary element",
+            "b)\tRemoves all the key-value pairs",
+            "c)\tRemoves the key-value pair for the key given as an argument",
+            "d)\tInvalid method for dictionary",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 127,
+        "Question": "8.\tIf b is a dictionary, what does any(b) do?",
+        "Options": [
+            "a)\tReturns True if any key of the dictionary is true",
+            "b)\tReturns False if dictionary is empty",
+            "c)\tReturns True if all keys of the dictionary are true",
+            "d)\tMethod any() doesn’t exist for dictionary",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 128,
+        "Question": "Which of the following functions is a built-in function in python?",
+        "Options": [
+            "a) seed()",
+            "b) sqrt()",
+            "c) factorial()",
+            "d) print()",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 129,
+        "Question": "The function pow(x,y,z) is evaluated as:",
+        "Options": [
+            "a) (x**y)**z",
+            "b) (x**y) / z",
+            "c) (x**y) % z",
+            "d) (x**y)*z",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 130,
+        "Question": "What is the output of the function complex()?",
+        "Options": [
+            "a) 0j",
+            "b) 0+0j",
+            "c) 0",
+            "d) Error",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 131,
+        "Question": "The function divmod(a,b), where both ‘a’ and ‘b’ are integers is evaluated as:",
+        "Options": [
+            "a) (a%b, a//b)",
+            "b) (a//b, a%b)",
+            "c) (a//b, a*b)",
+            "d) (a/b, a%b)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 132,
+        "Question": "Which of the following functions does not necessarily accept only iterables as arguments?",
+        "Options": [
+            "a) enumerate()",
+            "b) all()",
+            "c) chr()",
+            "d) max()",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 133,
+        "Question": "Which of the following functions accepts only integers as arguments?",
+        "Options": [
+            "a) ord()",
+            "b) min()",
+            "c) chr()",
+            "d) any()",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 134,
+        "Question": "Suppose there is a list such that: l=[2,3,4]. If we want to print this list in reverse order, which of the following methods should be used?",
+        "Options": [
+            "a) reverse(l)",
+            "b) list(reverse[(l)])",
+            "c) reversed(l)",
+            "d) list(reversed(l))",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 135,
+        "Question": " (Note that the number of blank spaces before the number is 5)",
+        "Options": [
+            "a)   -12345.0 (5 blank spaces before the number)",
+            "b) -12345.0",
+            "c) Error",
+            "d) -12345.000000000…. (infinite decimal places)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 136,
+        "Question": "Which of the following functions will not result in an error when no arguments are passed to it?",
+        "Options": [
+            "a) min()",
+            "b) divmod()",
+            "c) all()",
+            "d) float()",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 137,
+        "Question": " Which of the following functions does not throw an error?",
+        "Options": [
+            "a) ord()",
+            "b) ord(‘ ‘)",
+            "c) ord(”)",
+            "d) ord(“”)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 138,
+        "Question": "Which of the following is the use of function in python?",
+        "Options": [
+            "a) Functions are reusable pieces of programs",
+            "b) Functions don’t provide better modularity for your application",
+            "c) you can’t also create your own functions",
+            "d) All of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 139,
+        "Question": "Which keyword is used for function?",
+        "Options": [
+            "a) Fun",
+            "b) Define",
+            "c) Def",
+            "d) Function",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 140,
+        "Question": "Which of the following is a feature of DocString?",
+        "Options": [
+            "a) Provide a convenient way of associating documentation with Python modules, functions, classes, and methods",
+            "b) All functions should have a docstring",
+            "c) Docstrings can be accessed by the __doc__ attribute on objects",
+            "d) All of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 141,
+        "Question": "Which are the advantages of functions in python?",
+        "Options": [
+            "a) Reducing duplication of code",
+            "b) Decomposing complex problems into simpler pieces",
+            "c) Improving clarity of the code",
+            "d) All of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: d"
+    },
+    {
+        "id": 142,
+        "Question": "What are the two main types of functions?",
+        "Options": [
+            "a) Custom function",
+            "b) Built-in function & User defined function",
+            "c) User function",
+            "d) System function",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 143,
+        "Question": "Where is function defined?",
+        "Options": [
+            "a) Module",
+            "b) Class",
+            "c) Another function",
+            "d) All of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: d"
+    },
+    {
+        "id": 144,
+        "Question": "What is called when a function is defined inside a class?",
+        "Options": [
+            "a) Module",
+            "b) Class",
+            "c) Another function",
+            "d) Method",
+            ""
+        ],
+        "Answer": " Answer: d"
+    },
+    {
+        "id": 145,
+        "Question": "Which of the following is the use of id() function in python?",
+        "Options": [
+            "a) Id  returns the identity of the object",
+            "b) Every object doesn’t have a unique id",
+            "c) All of the mentioned",
+            "d) None of the mentioned",
+            ""
+        ],
+        "Answer": " Answer:  a"
+    },
+    {
+        "id": 146,
+        "Question": "Which of the following refers to mathematical function?",
+        "Options": [
+            "a) sqrt",
+            "b) rhombus",
+            "c) add",
+            "d) rhombus",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 147,
+        "Question": "Python supports the creation of anonymous functions at runtime, using a construct called __________",
+        "Options": [
+            "a) lambda",
+            "b) pi",
+            "c) anonymous",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 148,
+        "Question": "1.\tWhat is a variable defined outside a function referred to as?",
+        "Options": [
+            "a)\tA static variable",
+            "b)\tA global variable",
+            "c)\tA local variable",
+            "d)\tAn automatic variable",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 149,
+        "Question": "2.\tWhat is a variable defined inside a function referred to as?",
+        "Options": [
+            "a)\tA global variable",
+            "b)\tA volatile variable",
+            "c)\tA local variable",
+            "d)\tAn automatic variable",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 150,
+        "Question": " If a function doesn’t have a return statement, which of the following does the function return?",
+        "Options": [
+            "a)\tint",
+            "b)\tnull",
+            "c)\tNone",
+            "d)\tAn exception is thrown without the return statement",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 151,
+        "Question": "What is the type of each element in sys.argv?",
+        "Options": [
+            "a) set",
+            "b) list",
+            "c) tuple",
+            "d) string",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 152,
+        "Question": "What is the length of sys.argv?",
+        "Options": [
+            "a) number of arguments",
+            "b) number of arguments + 1",
+            "c) number of arguments – 1",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 153,
+        "Question": "How are keyword arguments specified in the function heading?",
+        "Options": [
+            "a) one-star followed by a valid identifier",
+            "b) one underscore followed by a valid identifier",
+            "c) two stars followed by a valid identifier",
+            "d) two underscores followed by a valid identifier",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 154,
+        "Question": "How many keyword arguments can be passed to a function in a single function call?",
+        "Options": [
+            "a) zero",
+            "b) one",
+            "c) zero or more",
+            "d) one or more",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 155,
+        "Question": "How are variable length arguments specified in the function heading?",
+        "Options": [
+            "a) one star followed by a valid identifier",
+            "b) one underscore followed by a valid identifier",
+            "c) two stars followed by a valid identifier",
+            "d) two underscores followed by a valid identifier",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 156,
+        "Question": "Which module in the python standard library parses options received from the command line?",
+        "Options": [
+            "a) getopt",
+            "b) os",
+            "c) getarg",
+            "d) main",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 157,
+        "Question": "What is the type of sys.argv?",
+        "Options": [
+            "a) set",
+            "b) list",
+            "c) tuple",
+            "d) string",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 158,
+        "Question": "What is the value stored in sys.argv[0]?",
+        "Options": [
+            "a) null",
+            "b) you cannot access it",
+            "c) the program’s name",
+            "d) the first argument",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 159,
+        "Question": "How are default arguments specified in the function heading?",
+        "Options": [
+            "a) identifier followed by an equal to sign and the default value",
+            "b) identifier followed by the default value within backticks (“)",
+            "c) identifier followed by the default value within square brackets ([])",
+            "d) identifier",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 160,
+        "Question": "How are required arguments specified in the function heading?",
+        "Options": [
+            "a) identifier followed by an equal to sign and the default value",
+            "b) identifier followed by the default value within backticks (“)",
+            "c) identifier followed by the default value within square brackets ([])",
+            "d) identifier",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 161,
+        "Question": "Where are the arguments received from the command line stored?",
+        "Options": [
+            "a) sys.argv",
+            "b) os.argv",
+            "c) argv",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 162,
+        "Question": "Which of the following data structures is returned by the functions globals() and locals()?",
+        "Options": [
+            "a) list",
+            "b) set",
+            "c) dictionary",
+            "d) tuple",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 163,
+        "Question": "What happens if a local variable exists with the same name as the global variable you want to access?",
+        "Options": [
+            "a) Error",
+            "b) The local variable is shadowed",
+            "c) Undefined behavior",
+            "d) The global variable is shadowed",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 164,
+        "Question": "1.\tWhich is the most appropriate definition for recursion?",
+        "Options": [
+            "a)\tA function that calls itself",
+            "b)\tA function execution instance that calls another execution instance of the same function",
+            "c)\tA class method that calls another class method",
+            "d)\tAn in-built method that is automatically called",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 165,
+        "Question": "3.\tWhich of these is false about recursion?",
+        "Options": [
+            "a)\tRecursive function can be replaced by a non-recursive function",
+            "b)\tRecursive functions usually take more memory space than non-recursive function",
+            "c)\tRecursive functions run faster than non-recursive function",
+            "d)\tRecursion makes programs easier to understand",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 166,
+        "Question": "7.\tWhat is tail recursion?",
+        "Options": [
+            "a)\tA recursive function that has two base cases",
+            "b)\tA function where the recursive functions leads to an infinite loop",
+            "c)\tA recursive function where the function doesn’t return anything and just prints the values",
+            "d)\tA function where the recursive call is the last thing executed by the function",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 167,
+        "Question": " Which of the following statements is false about recursion?",
+        "Options": [
+            "a)\tEvery recursive function must have a base case",
+            "b)\tInfinite recursion can occur if the base case isn’t properly mentioned",
+            "c)\tA recursive function makes the code easier to understand",
+            "d)\tEvery recursive function must have a return value",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 168,
+        "Question": " What happens if the base condition isn’t defined in recursive programs?",
+        "Options": [
+            "a)\tProgram gets into an infinite loop",
+            "b)\tProgram runs once",
+            "c)\tProgram runs n number of times where n is the argument given to the function",
+            "d)\tAn exception is thrown",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 169,
+        "Question": " Which of these is not true about recursion?",
+        "Options": [
+            "a)\tMaking the code look clean",
+            "b)\tA complex task can be broken into sub-problems",
+            "c)\tRecursive calls take up less memory",
+            "d)\tSequence generation is easier than a nested iteration",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 170,
+        "Question": " Which of these is not true about recursion?",
+        "Options": [
+            "a)\tIt’s easier to code some real-world problems using recursion than non-recursive equivalent",
+            "b)\tRecursive functions are easy to debug",
+            "c)\tRecursive calls take up a lot of memory",
+            "d)\tPrograms using recursion take longer time than their non-recursive equivalent",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 171,
+        "Question": "In _______________ copy, the base address of the objects are copied. In _______________ copy, the base address of the objects are not copied.",
+        "Options": [
+            "a) deep. shallow",
+            "b) memberwise, shallow",
+            "c) shallow, deep",
+            "d) deep, memberwise",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 172,
+        "Question": "In ____________________ copy, the modification done on one list affects the other list. In ____________________ copy, the modification done on one list does not affect the other list.",
+        "Options": [
+            "a) shallow, deep",
+            "b) memberwise, shallow",
+            "c) deep, shallow",
+            "d) deep, memberwise",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 173,
+        "Question": " What is the base case in the Merge Sort algorithm when it is solved recursively?",
+        "Options": [
+            "a)\tn=0",
+            "b)\tn=1",
+            "c)\tA list of length one",
+            "d)\tAn empty list",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 174,
+        "Question": " Is Python code compiled or interpreted?",
+        "Options": [
+            "a)\tPython code is only compiled",
+            "b)\tPython code is both compiled and interpreted",
+            "c)\tPython code is only interpreted",
+            "d)\tPython code is neither compiled nor interpreted",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 175,
+        "Question": "Which of these is the definition for packages in Python?",
+        "Options": [
+            "a)\tA folder of python modules",
+            "b)\tA set of programs making use of Python modules",
+            "c)\tA set of main modules",
+            "d)\tA number of files containing Python definitions and statements",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 176,
+        "Question": "Which of these is false about a package?",
+        "Options": [
+            "a)\tA package can have subfolders and modules",
+            "b)\tEach import package need not introduce a namespace",
+            "c)\timport folder.subfolder.mod1 imports packages",
+            "d)\tfrom folder.subfolder.mod1 import objects imports packages",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 177,
+        "Question": "1.\tWhich of these definitions correctly describes a module?",
+        "Options": [
+            "a)\tDenoted by triple quotes for providing the specification of certain program elements",
+            "b)\tDesign and implementation of specific functionality to be incorporated into a program",
+            "c)\tDefines the specification of how it is to be used",
+            "d)\tAny program that reuses code",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 178,
+        "Question": "2.\tWhich of the following is not an advantage of using modules?",
+        "Options": [
+            "a)\tProvides a means of reuse of program code",
+            "b)\tProvides a means of dividing up tasks",
+            "c)\tProvides a means of reducing the size of the program",
+            "d)\tProvides a means of testing individual parts of the program",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 179,
+        "Question": "3.\tProgram code making use of a given module is called a ______ of the module.",
+        "Options": [
+            "a)\tClient",
+            "b)\tDocstring",
+            "c)\tInterface",
+            "d)\tModularity",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 180,
+        "Question": "4.\t______ is a string literal denoted by triple quotes for providing the specifications of certain program elements.",
+        "Options": [
+            "a)\tInterface",
+            "b)\tModularity",
+            "c)\tClient",
+            "d)\tDocstring",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 181,
+        "Question": "5.\tWhich of the following is true about top-down design process?",
+        "Options": [
+            "a)\tThe details of a program design are addressed before the overall design",
+            "b)\tOnly the details of the program are addressed",
+            "c)\tThe overall design of the program is addressed before the details",
+            "d)\tOnly the design of the program is addressed",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 182,
+        "Question": " Which of the following isn’t true about main modules?",
+        "Options": [
+            "a)\tWhen a python file is directly executed, it is considered main module of a program",
+            "b)\tMain modules may import any number of modules",
+            "c)\tSpecial name given to main modules is: __main__",
+            "d)\tOther main modules can import main modules",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 183,
+        "Question": "Which of the following is not a valid namespace?",
+        "Options": [
+            "a)\tGlobal namespace",
+            "b)\tPublic namespace",
+            "c)\tBuilt-in namespace",
+            "d)\tLocal namespace",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 184,
+        "Question": " Which of the following is false about “import modulename” form of import?",
+        "Options": [
+            "a)\tThe namespace of imported module becomes part of importing module",
+            "b)\tThis form of import prevents name clash",
+            "c)\tThe namespace of imported module becomes available to importing module",
+            "d)\tThe identifiers in module are accessed as: modulename.identifier",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 185,
+        "Question": " Which of the following is false about “from-import” form of import?",
+        "Options": [
+            "a)\tThe syntax is: from modulename import identifier",
+            "b)\tThis form of import prevents name clash",
+            "c)\tThe namespace of imported module becomes part of importing module",
+            "d)\tThe identifiers in module are accessed directly as: identifier",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 186,
+        "Question": " Which of the statements about modules is false?",
+        "Options": [
+            "a)\tIn the “from-import” form of import, identifiers beginning with two underscores are private and aren’t imported",
+            "b)\tdir() built-in function monitors the items in the namespace of the main module",
+            "c)\tIn the “from-import” form of import, all identifiers regardless of whether they are private or public are imported",
+            "d)\tWhen a module is loaded, a compiled version of the module with file extension .pyc is automatically produced",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 187,
+        "Question": " What is the order of namespaces in which Python looks for an identifier?",
+        "Options": [
+            "a)\tPython first searches the global namespace, then the local namespace and finally the built-in namespace",
+            "b)\tPython first searches the local namespace, then the global namespace and finally the built-in namespace",
+            "c)\tPython first searches the built-in namespace, then the global namespace and finally the local namespace",
+            "d)\tPython first searches the built-in namespace, then the local namespace and finally the global namespace",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 188,
+        "Question": "What is returned by math.ceil(3.4)?",
+        "Options": [
+            "a) 3",
+            "b) 4",
+            "c) 4.0",
+            "d) 3.0",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 189,
+        "Question": "What is the value returned by math.floor(3.4)?",
+        "Options": [
+            "a) 3",
+            "b) 4",
+            "c) 4.0",
+            "d) 3.0",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 190,
+        "Question": "What will be the output of print(math.copysign(3, -1))?",
+        "Options": [
+            "a) 1",
+            "b) 1.0",
+            "c) -3",
+            "d) -3.0",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 191,
+        "Question": "What is displayed on executing print(math.fabs(-3.4))?",
+        "Options": [
+            "a) -3.4",
+            "b) 3.4",
+            "c) 3",
+            "d) -3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 192,
+        "Question": "Is the output of the function abs() the same as that of the function math.fabs()?",
+        "Options": [
+            "a) sometimes",
+            "b) always",
+            "c) never",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 193,
+        "Question": "What is the value returned by math.fact(6)?",
+        "Options": [
+            "a) 720",
+            "b) 6",
+            "c) [1, 2, 3, 6] ",
+            "d) error",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 194,
+        "Question": "What is the value of x if x = math.factorial(0)?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) error",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 195,
+        "Question": "What is math.factorial(4.0)?",
+        "Options": [
+            "a) 24",
+            "b) 1",
+            "c) error",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 196,
+        "Question": "What will be the output of print(math.factorial(4.5))?",
+        "Options": [
+            "a) 24",
+            "b) 120",
+            "c) error",
+            "d) 24.0",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 197,
+        "Question": "What is math.floor(0o10)?",
+        "Options": [
+            "a) 8",
+            "b) 10",
+            "c) 0",
+            "d) 9",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 198,
+        "Question": "What does the function math.frexp(x) return?",
+        "Options": [
+            "a) a tuple containing the mantissa and the exponent of x",
+            "b) a list containing the mantissa and the exponent of x",
+            "c) a tuple containing the mantissa of x",
+            "d) a list containing the exponent of x",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 199,
+        "Question": "What is the result of math.fsum([.1 for i in range(20)])?",
+        "Options": [
+            "a) 2.0",
+            "b) 20",
+            "c) 2",
+            "d) 2.0000000000000004",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 200,
+        "Question": "What is the result of sum([.1 for i in range(20)])?",
+        "Options": [
+            "a) 2.0",
+            "b) 20",
+            "c) 2",
+            "d) 2.0000000000000004",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 201,
+        "Question": "What is returned by math.isfinite(float(‘inf’))?",
+        "Options": [
+            "a) True",
+            "b) False",
+            "c) None",
+            "d) error",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 202,
+        "Question": "What is returned by math.isfinite(float(‘nan’))?",
+        "Options": [
+            "a) True",
+            "b) False",
+            "c) None",
+            "d) error",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 203,
+        "Question": "What is x if x = math.isfinite(float(‘0.0’))?",
+        "Options": [
+            "a) True",
+            "b) False",
+            "c) None",
+            "d) error",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 204,
+        "Question": "What is the value of x if x = math.ldexp(0.5, 1)?",
+        "Options": [
+            "a) 1",
+            "b) 2.0",
+            "c) 0.5",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 205,
+        "Question": "What is returned by math.modf(1.0)?",
+        "Options": [
+            "a) (0.0, 1.0)",
+            "b) (1.0, 0.0)",
+            "c) (0.5, 1)",
+            "d) (0.5, 1.0)",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 206,
+        "Question": "What is the result of math.trunc(3.1)?",
+        "Options": [
+            "a) 3.0",
+            "b) 3",
+            "c) 0.1",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 207,
+        "Question": "What is the output of print(math.trunc(‘3.1’))?",
+        "Options": [
+            "a) 3",
+            "b) 3.0",
+            "c) error",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 208,
+        "Question": "Which of the following is the same as math.exp(p)?",
+        "Options": [
+            "a) e ** p",
+            "b) math.e ** p",
+            "c) p ** e",
+            "d) p ** math.e",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 209,
+        "Question": "What is returned by math.expm1(p)?",
+        "Options": [
+            "a) (math.e ** p) – 1",
+            "b) math.e ** (p – 1)",
+            "c) error",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 210,
+        "Question": "What is the default base used when math.log(x) is found?",
+        "Options": [
+            "a) e",
+            "b) 10",
+            "c) 2",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 211,
+        "Question": "Which of the following aren’t defined in the math module?",
+        "Options": [
+            "a) log2()",
+            "b) log10()",
+            "c) logx()",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 212,
+        "Question": "What is returned by int(math.pow(3, 2))?",
+        "Options": [
+            "a) 6",
+            "b) 9",
+            "c) error, third argument required",
+            "d) error, too many arguments",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 213,
+        "Question": "What is output of print(math.pow(3, 2))?",
+        "Options": [
+            "a) 9",
+            "b) 9.0",
+            "c) None",
+            "d) None of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 214,
+        "Question": "What is the value of x if x = math.sqrt(4)?",
+        "Options": [
+            "a) 2",
+            "b) 2.0",
+            "c) (2, -2)",
+            "d) (2.0, -2.0)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 215,
+        "Question": "What does math.sqrt(X, Y) do?",
+        "Options": [
+            "a) calculate the Xth root of Y",
+            "b) calculate the Yth root of X",
+            "c) error",
+            "d) return a tuple with the square root of X and Y",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 216,
+        "Question": "The value returned when we use the function isoweekday() is ______ and that for the function weekday() is ________ if the system date is 19th June, 2017 (Monday).",
+        "Options": [
+            "a) 0,0",
+            "b) 0,1",
+            "c) 1,0",
+            "d) 1,1",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 217,
+        "Question": "Which of the following functions can be used to find the coordinated universal time, assuming that the datetime module has already been imported?",
+        "Options": [
+            "a) datetime.utc()",
+            "b) datetime.datetime.utc()",
+            "c) datetime.utcnow()",
+            "d) datetime.datetime.utcnow()",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 218,
+        "Question": "The sleep function (under the time module) is used to ___________",
+        "Options": [
+            "a) Pause the code for the specified number of seconds",
+            "b) Return the specified number of seconds, in terms of milliseconds",
+            "c) Stop the execution of the code",
+            "d) Return the output of the code had it been executed earlier by the specified number of seconds",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 219,
+        "Question": "To include the use of functions which are present in the random library, we must use the option:",
+        "Options": [
+            "a) import random",
+            "b) random.h",
+            "c) import.random",
+            "d) random.random",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 220,
+        "Question": " Which of the following functions helps us to randomize the items of a list?",
+        "Options": [
+            "a) seed",
+            "b) randomise",
+            "c) shuffle",
+            "d) uniform",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 221,
+        "Question": "What is the interval of the value generated by the function random.random(), assuming that the random module has already been imported?",
+        "Options": [
+            "a) (0,1)",
+            "b) (0,1]",
+            "c) [0,1]",
+            "d) [0,1)",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 222,
+        "Question": "Both the functions randint and uniform accept ____________ parameters.",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 3",
+            "d) 2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 223,
+        "Question": "What the does random.seed(3) return?",
+        "Options": [
+            "a) True",
+            "b) None",
+            "c) 3",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 224,
+        "Question": "Which of the following cannot be returned by random.randrange(4)?",
+        "Options": [
+            "a) 0",
+            "b) 3",
+            "c) 2.3",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 225,
+        "Question": "Which of the following is equivalent to random.randrange(3)?",
+        "Options": [
+            "a) range(3)",
+            "b) random.choice(range(0, 3))",
+            "c) random.shuffle(range(3))",
+            "d) random.select(range(3))",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 226,
+        "Question": "The function random.randint(4) can return only one of the following values. Which?",
+        "Options": [
+            "a) 4",
+            "b) 3.4",
+            "c) error",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 227,
+        "Question": "Which of the following is equivalent to random.randint(3, 6)?",
+        "Options": [
+            "a) random.choice([3, 6])",
+            "b) random.randrange(3, 6)",
+            "c) 3 + random.randrange(3)",
+            "d) 3 + random.randrange(4)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 228,
+        "Question": "Which of the following will not be returned by random.choice(“1 ,”)?",
+        "Options": [
+            "a) 1",
+            "b) (space)",
+            "c) ,",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 229,
+        "Question": "Which of the following will never be displayed on executing print(random.choice({0: 1, 2: 3}))?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) KeyError: 1",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 230,
+        "Question": "What does random.shuffle(x) do when x = [1, 2, 3]?",
+        "Options": [
+            "a) error",
+            "b) do nothing, it is a placeholder for a function that is yet to be implemented",
+            "c) shuffle the elements of the list in-place",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 231,
+        "Question": "Which type of elements are accepted by random.shuffle()?",
+        "Options": [
+            "a) strings",
+            "b) lists",
+            "c) tuples",
+            "d) integers",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 232,
+        "Question": "What is the range of values that random.random() can return?",
+        "Options": [
+            "a) [0.0, 1.0] ",
+            "b) (0.0, 1.0] ",
+            "c) (0.0, 1.0)",
+            "d) [0.0, 1.0)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 233,
+        "Question": "Which of the following functions can help us to find the version of python that we are currently working on?",
+        "Options": [
+            "a) sys.version",
+            "b) sys.version()",
+            "c) sys.version(0)",
+            "d) sys.version(1)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 234,
+        "Question": "Which of the following functions is not defined under the sys module?",
+        "Options": [
+            "a) sys.platform",
+            "b) sys.path",
+            "c) sys.readline",
+            "d) sys.argv",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 235,
+        "Question": "To obtain a list of all the functions defined under sys module, which of the following functions can be used?",
+        "Options": [
+            "a) print(sys)",
+            "b) print(dir.sys)",
+            "c) print(dir[sys])",
+            "d) print(dir(sys))",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 236,
+        "Question": "The output of the function len(sys.argv) is ____________",
+        "Options": [
+            "a) Error",
+            "b) 1",
+            "c) 0",
+            "d) Junk value",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 237,
+        "Question": "What does os.name contain?",
+        "Options": [
+            "a) the name of the operating system dependent module imported",
+            "b) the address of the module os",
+            "c) error, it should’ve been os.name()",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 238,
+        "Question": "What does print(os.geteuid()) print?",
+        "Options": [
+            "a) the group id of the current process",
+            "b) the user id of the current process",
+            "c) both the group id and the user of the current process",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 239,
+        "Question": "What does os.getlogin() return?",
+        "Options": [
+            "a) name of the current user logged in",
+            "b) name of the superuser",
+            "c) gets a form to login as a different user",
+            "d) all of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 240,
+        "Question": "What does os.close(f) do?",
+        "Options": [
+            "a) terminate the process f",
+            "b) terminate the process f if f is not responding",
+            "c) close the file descriptor f",
+            "d) return an integer telling how close the file pointer is to the end of file",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 241,
+        "Question": "What does os.fchmod(fd, mode) do?",
+        "Options": [
+            "a) change permission bits of the file",
+            "b) change permission bits of the directory",
+            "c) change permission bits of either the file or the directory",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 242,
+        "Question": "Which of the following functions can be used to read data from a file using a file descriptor?",
+        "Options": [
+            "a) os.reader()",
+            "b) os.read()",
+            "c) os.quick_read()",
+            "d) os.scan()",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 243,
+        "Question": "Which of the following returns a string that represents the present working directory?",
+        "Options": [
+            "a) os.getcwd()",
+            "b) os.cwd()",
+            "c) os.getpwd()",
+            "d) os.pwd()",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 244,
+        "Question": "What does os.link() do?",
+        "Options": [
+            "a) create a symbolic link",
+            "b) create a hard link",
+            "c) create a soft link",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 245,
+        "Question": "Which of the following can be used to create a directory?",
+        "Options": [
+            "a) os.mkdir()",
+            "b) os.creat_dir()",
+            "c) os.create_dir()",
+            "d) os.make_dir()",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 246,
+        "Question": "Which of the following can be used to create a symbolic link?",
+        "Options": [
+            "a) os.symlink()",
+            "b) os.symb_link()",
+            "c) os.symblin()",
+            "d) os.ln()",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 247,
+        "Question": "The command which helps us to reset the pen (turtle):",
+        "Options": [
+            "a) turtle.reset",
+            "b) turtle.penreset",
+            "c) turtle.penreset()",
+            "d) turtle.reset()",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 248,
+        "Question": "Which of the following functions does not accept any arguments?",
+        "Options": [
+            "a) position",
+            "b) fillcolor",
+            "c) goto",
+            "d) setheading()",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 249,
+        "Question": "Which of the following functions can be used to make the arrow black?",
+        "Options": [
+            "a) turtle.color(0,1,0)",
+            "b) turtle.color(1,0,0)",
+            "c) turtle.color(0,0,1)",
+            "d) turtle.color(0,0,0)",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 250,
+        "Question": "In which direction is the turtle pointed by default?",
+        "Options": [
+            "a) North",
+            "b) South",
+            "c) East",
+            "d) West",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 251,
+        "Question": "The command used to set only the x coordinate of the turtle at 45 units is:",
+        "Options": [
+            "a) reset(45)",
+            "b) setx(45)",
+            "c) xset(45)",
+            "d) xreset(45)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 252,
+        "Question": "Which of the following functions returns a value in degrees, counterclockwise from the horizontal right?",
+        "Options": [
+            "a) heading()",
+            "b) degrees()",
+            "c) position()",
+            "d) window_height()",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 253,
+        "Question": "Which of the following functions results in an error?",
+        "Options": [
+            "a) turtle.shape(“turtle”)",
+            "b) turtle.shape(“square”)",
+            "c) turtle.shape(“triangle”)",
+            "d) turtle.shape(“rectangle”)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 254,
+        "Question": "The function used to alter the thickness of the pen to ‘x’ units:",
+        "Options": [
+            "a) turtle.width(x)",
+            "b) turtle.span(x)",
+            "c) turtle.girth(x)",
+            "d) turtle.thickness(x)",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 255,
+        "Question": "The process of pickling in Python includes:",
+        "Options": [
+            "a) conversion of a list into a datatable",
+            "b) conversion of a byte stream into Python object hierarchy",
+            "c) conversion of a Python object hierarchy into byte stream",
+            "d) conversion of a datatable into a list",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 256,
+        "Question": "To sterilize an object hierarchy, the _____________ function must be called. To desterilize a data stream, the ______________ function must be called.",
+        "Options": [
+            "a) dumps(), undumps()",
+            "b) loads(), unloads()",
+            "c) loads(), dumps()",
+            "d) dumps(), loads()",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 257,
+        "Question": "Pick the correct statement regarding pickle and marshal modules.",
+        "Options": [
+            "a) The pickle module supports primarily .pyc files whereas marshal module is used to sterilize Python objects",
+            "b) The pickle module keeps track of the objects that have already been sterilized whereas the marshal module does not do this",
+            "c) The pickle module cannot be used to sterilize user defined classes and their instances whereas marshal module can be used to perform this task",
+            "d) The format of sterilization of the pickle module is not guaranteed to be supported across all versions of Python. The marshal module sterilization is compatible across all the versions of Python",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 258,
+        "Question": "Which of the following functions can be used to find the protocol version of the pickle module currently being used?",
+        "Options": [
+            "a) pickle.DEFAULT",
+            "b) pickle.CURRENT",
+            "c) pickle.CURRENT_PROTOCOL",
+            "d) pickle.DEFAULT_PROTOCOL",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 259,
+        "Question": "Which of the following functions can accept more than one positional argument?",
+        "Options": [
+            "a) pickle.dumps",
+            "b) pickle.loads",
+            "c) pickle.dump",
+            "d) pickle.load",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 260,
+        "Question": "Which of the following functions raises an error when an unpicklable object is encountered by Pickler?",
+        "Options": [
+            "a) pickle.PickleError",
+            "b) pickle.PicklingError",
+            "c) pickle.UnpickleError",
+            "d) pickle.UnpicklingError",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 261,
+        "Question": "The pickle module defines ______ exceptions and exports _______ classes.",
+        "Options": [
+            "a) 2, 3",
+            "b) 3, 4",
+            "c) 3, 2",
+            "d) 4, 3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 262,
+        "Question": "Which of the following cannot be pickled?",
+        "Options": [
+            "a) Functions which are defined at the top level of a module with lambda",
+            "b) Functions which are defined at the top level of a module with def",
+            "c) Built-in functions which are defined at the top level of a module",
+            "d) Classes which are defined at the top level of a module",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 263,
+        "Question": "If __getstate__() returns _______________ the __setstate__() module will not be called on pickling.",
+        "Options": [
+            "a) True value",
+            "b) False value",
+            "c) ValueError",
+            "d) OverflowError",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 264,
+        "Question": "Lambda functions cannot be pickled because:",
+        "Options": [
+            "a) Lambda functions only deal with binary values, that is, 0 and 1",
+            "b) Lambda functions cannot be called directly",
+            "c) Lambda functions cannot be identified by the functions of the pickle module",
+            "d) All lambda functions have the same name, that is, <lambda>",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 265,
+        "Question": "The module _______________ is a comparatively faster implementation of the pickle module.",
+        "Options": [
+            "a) cPickle",
+            "b) nPickle",
+            "c) gPickle",
+            "d) tPickle",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 266,
+        "Question": "The copy module uses the ___________________ protocol for shallow and deep copy.",
+        "Options": [
+            "a) pickle",
+            "b) marshal",
+            "c) shelve",
+            "d) copyreg",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 267,
+        "Question": "Which module in Python supports regular expressions?",
+        "Options": [
+            "a) re",
+            "b) regex",
+            "c) pyregex",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 268,
+        "Question": "Which of the following creates a pattern object?",
+        "Options": [
+            "a) re.create(str)",
+            "b) re.regex(str)",
+            "c) re.compile(str)",
+            "d) re.assemble(str)",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 269,
+        "Question": "What does the function re.match do?",
+        "Options": [
+            "a) matches a pattern at the start of the string",
+            "b) matches a pattern at any position in the string",
+            "c) such a function does not exist",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 270,
+        "Question": "What does the function re.search do?",
+        "Options": [
+            "a) matches a pattern at the start of the string",
+            "b) matches a pattern at any position in the string",
+            "c) such a function does not exist",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 271,
+        "Question": "The character Dot (that is, ‘.’) in the default mode, matches any character other than _____________",
+        "Options": [
+            "a) caret",
+            "b) ampersand",
+            "c) percentage symbol",
+            "d) newline",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 272,
+        "Question": "The expression a{5} will match _____________ characters with the previous regular expression.",
+        "Options": [
+            "a) 5 or less",
+            "b) exactly 5",
+            "c) 5 or more",
+            "d) exactly 4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 273,
+        "Question": "Choose the function whose output can be: <_sre.SRE_Match object; span=(4, 8), match=’aaaa’>.",
+        "Options": [
+            "a) >>> re.search(‘aaaa’, “alohaaaa”, 0)",
+            "b) >>> re.match(‘aaaa’, “alohaaaa”, 0)",
+            "c) >>> re.match(‘aaa’, “alohaaa”, 0)",
+            "d) >>> re.search(‘aaa’, “alohaaa”, 0)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 274,
+        "Question": " Which of the following functions clears the regular expression cache?",
+        "Options": [
+            "a) re.sub()",
+            "b) re.pos()",
+            "c) re.purge()",
+            "d) re.subn()",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 275,
+        "Question": "Which of the following functions results in case insensitive matching?",
+        "Options": [
+            "a) re.A",
+            "b) re.U",
+            "c) re.I",
+            "d) re.X",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 276,
+        "Question": "The difference between the functions re.sub and re.subn is that re.sub returns a _______________ whereas re.subn returns a __________________",
+        "Options": [
+            "a) string, list",
+            "b) list, tuple",
+            "c) string, tuple",
+            "d) tuple, list",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 277,
+        "Question": "The function of re.search is __________",
+        "Options": [
+            "a) Matches a pattern at the start of the string",
+            "b) Matches a pattern at the end of the string",
+            "c) Matches a pattern from any part of a string",
+            "d) Such a function does not exist",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 278,
+        "Question": "Which of the following functions creates a Python object?",
+        "Options": [
+            "a) re.compile(str)",
+            "b) re.assemble(str)",
+            "c) re.regex(str)",
+            "d) re.create(str)",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 279,
+        "Question": "Which of the following pattern matching modifiers permits whitespace and comments inside the regular expression?",
+        "Options": [
+            "a) re.L",
+            "b) re.S",
+            "c) re.U",
+            "d) re.X",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 280,
+        "Question": "The function of re.match is ____________",
+        "Options": [
+            "a) Error",
+            "b) Matches a pattern anywhere in the string",
+            "c) Matches a pattern at the end of the string",
+            "d) Matches a pattern at the start of the string",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 281,
+        "Question": "The special character \\B matches the empty string, but only when it is _____________",
+        "Options": [
+            "a) at the beginning or end of a word",
+            "b) not at the beginning or end of a word",
+            "c) at the beginning of the word",
+            "d) at the end of the word",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 282,
+        "Question": "Which of the following special characters matches a pattern only at the end of the string?",
+        "Options": [
+            "a) \\B",
+            "b) \\X",
+            "c) \\Z",
+            "d) \\A",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 283,
+        "Question": "Which of the following special characters represents a comment (that is, the contents of the parenthesis are simply ignores)?",
+        "Options": [
+            "a) (?:…)",
+            "b) (?=…)",
+            "c) (?!…)",
+            "d) (?#…)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 284,
+        "Question": "Which of the codes shown below results in a match?",
+        "Options": [
+            "a) re.match(‘George(?=Washington)’, ‘George Washington’)",
+            "b) re.match(‘George(?=Washington)’, ‘George’)",
+            "c) re.match(‘George(?=Washington)’, ‘GeorgeWashington’)",
+            "d) re.match(‘George(?=Washington)’, ‘Georgewashington’)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 285,
+        "Question": "In the functions re.search.start(group) and re.search.end(group), if the argument groups not specified, it defaults to __________",
+        "Options": [
+            "a) Zero",
+            "b) None",
+            "c) One",
+            "d) Error",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 286,
+        "Question": "Which of the following functions returns a dictionary mapping group names to group numbers?",
+        "Options": [
+            "a) re.compile.group",
+            "b) re.compile.groupindex",
+            "c) re.compile.index",
+            "d) re.compile.indexgroup",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 287,
+        "Question": "Which of the following statements regarding the output of the function re.match is incorrect?",
+        "Options": [
+            "a) ‘pq*’ will match ‘pq’",
+            "b) ‘pq?’ matches ‘p’",
+            "c) ‘p{4}, q’ does not match ‘pppq’",
+            "d) ‘pq+’ matches ‘p’",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 288,
+        "Question": "Which of the following functions does not accept any argument?",
+        "Options": [
+            "a) re.purge",
+            "b) re.compile",
+            "c) re.findall",
+            "d) re.match",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 289,
+        "Question": "Which of the following lines of code will not show a match?",
+        "Options": [
+            "a) >>> re.match(‘ab*’, ‘a’)",
+            "b) >>> re.match(‘ab*’, ‘ab’)",
+            "c) >>> re.match(‘ab*’, ‘abb’)",
+            "d) >>> re.match(‘ab*’, ‘ba’)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 290,
+        "Question": "To open a file c:\\scores.txt for reading, we use _____________",
+        "Options": [
+            "a) infile = open(“c:\\scores.txt”, “r”)",
+            "b) infile = open(“c:\\\\scores.txt”, “r”)",
+            "c) infile = open(file = “c:\\scores.txt”, “r”)",
+            "d) infile = open(file = “c:\\\\scores.txt”, “r”)",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 291,
+        "Question": "To open a file c:\\scores.txt for writing, we use ____________",
+        "Options": [
+            "a) outfile = open(“c:\\scores.txt”, “w”)",
+            "b) outfile = open(“c:\\\\scores.txt”, “w”)",
+            "c) outfile = open(file = “c:\\scores.txt”, “w”)",
+            "d) outfile = open(file = “c:\\\\scores.txt”, “w”)",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 292,
+        "Question": "To open a file c:\\scores.txt for appending data, we use ____________",
+        "Options": [
+            "a) outfile = open(“c:\\\\scores.txt”, “a”)",
+            "b) outfile = open(“c:\\\\scores.txt”, “rw”)",
+            "c) outfile = open(file = “c:\\scores.txt”, “w”)",
+            "d) outfile = open(file = “c:\\\\scores.txt”, “w”)",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 293,
+        "Question": "Which of the following statements are true?",
+        "Options": [
+            "a) When you open a file for reading, if the file does not exist, an error occurs",
+            "b) When you open a file for writing, if the file does not exist, a new file is created",
+            "c) When you open a file for writing, if the file exists, the existing file is overwritten with the new file",
+            "d) All of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: d"
+    },
+    {
+        "id": 294,
+        "Question": "To read two characters from a file object infile, we use ____________",
+        "Options": [
+            "a) infile.read(2)",
+            "b) infile.read()",
+            "c) infile.readline()",
+            "d) infile.readlines()",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 295,
+        "Question": "To read the entire remaining contents of the file as a string from a file object infile, we use ____________",
+        "Options": [
+            "a) infile.read(2)",
+            "b) infile.read()",
+            "c) infile.readline()",
+            "d) infile.readlines()",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 296,
+        "Question": "To read the next line of the file from a file object infile, we use ____________",
+        "Options": [
+            "a) infile.read(2)",
+            "b) infile.read()",
+            "c) infile.readline()",
+            "d) infile.readlines()",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 297,
+        "Question": "To read the remaining lines of the file from a file object infile, we use ____________",
+        "Options": [
+            "a) infile.read(2)",
+            "b) infile.read()",
+            "c) infile.readline()",
+            "d) infile.readlines()",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 298,
+        "Question": "The readlines() method returns ____________",
+        "Options": [
+            "a) str",
+            "b) a list of lines",
+            "c) a list of single characters",
+            "d) a list of integers",
+            ""
+        ],
+        "Answer": " Answer: d"
+    },
+    {
+        "id": 299,
+        "Question": "Which are the two built-in functions to read a line of text from standard input, which by default comes from the keyboard?",
+        "Options": [
+            "a) Raw_input & Input",
+            "b) Input & Scan",
+            "c) Scan & Scanner",
+            "d) Scanner",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 300,
+        "Question": "Which one of the following is not attributes of file?",
+        "Options": [
+            "a) closed",
+            "b) softspace",
+            "c) rename",
+            "d) mode",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 301,
+        "Question": "What is the use of tell() method in python?",
+        "Options": [
+            "a) tells you the current position within the file",
+            "b) tells you the end position within the file",
+            "c) tells you the file is opened or not",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 302,
+        "Question": "What is the current syntax of rename() a file?",
+        "Options": [
+            "a) rename(current_file_name, new_file_name)",
+            "b) rename(new_file_name, current_file_name,)",
+            "c) rename(()(current_file_name, new_file_name))",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 303,
+        "Question": "What is the current syntax of remove() a file?",
+        "Options": [
+            "a) remove(file_name)",
+            "b) remove(new_file_name, current_file_name,)",
+            "c) remove(() , file_name))",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 304,
+        "Question": "What is the use of seek() method in files?",
+        "Options": [
+            "a) sets the file’s current position at the offset",
+            "b) sets the file’s previous position at the offset",
+            "c) sets the file’s current position within the file",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 305,
+        "Question": "What is the use of truncate() method in file?",
+        "Options": [
+            "a) truncates the file size",
+            "b) deletes the content of the file",
+            "c) deletes the file size",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 306,
+        "Question": "Which is/are the basic I/O connections in file?",
+        "Options": [
+            "a) Standard Input",
+            "b) Standard Output",
+            "c) Standard Errors",
+            "d) All of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: d"
+    },
+    {
+        "id": 307,
+        "Question": "Which of the following mode will refer to binary data?",
+        "Options": [
+            "a) r",
+            "b) w",
+            "c) +",
+            "d) b",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 308,
+        "Question": "What is the pickling?",
+        "Options": [
+            "a) It is used for object serialization",
+            "b) It is used for object deserialization",
+            "c) None of the mentioned",
+            "d) All of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: d"
+    },
+    {
+        "id": 309,
+        "Question": "What is unpickling?",
+        "Options": [
+            "a) It is used for object serialization",
+            "b) It is used for object deserialization",
+            "c) None of the mentioned",
+            "d) All of the mentioned",
+            ""
+        ],
+        "Answer": " Answer:d"
+    },
+    {
+        "id": 310,
+        "Question": "What is the correct syntax of open() function?",
+        "Options": [
+            "a) file = open(file_name [, access_mode][, buffering])",
+            "b) file object = open(file_name [, access_mode][, buffering])",
+            "c) file object = open(file_name)",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 311,
+        "Question": "Correct syntax of file.writelines() is?",
+        "Options": [
+            "a) file.writelines(sequence)",
+            "b) fileObject.writelines()",
+            "c) fileObject.writelines(sequence)",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 312,
+        "Question": "Correct syntax of file.readlines() is?",
+        "Options": [
+            "a) fileObject.readlines( sizehint );",
+            "b) fileObject.readlines();",
+            "c) fileObject.readlines(sequence)",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 313,
+        "Question": "In file handling, what does this terms means “r, a”?",
+        "Options": [
+            "a) read, append",
+            "b) append, read",
+            "c) write, append",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 314,
+        "Question": "What is the use of “w” in file handling?",
+        "Options": [
+            "a) Read",
+            "b) Write",
+            "c) Append",
+            "d) None of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 315,
+        "Question": "What is the use of “a” in file handling?",
+        "Options": [
+            "a) Read",
+            "b) Write",
+            "c) Append",
+            "d) None of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 316,
+        "Question": "Which function is used to read all the characters?",
+        "Options": [
+            "a) Read()",
+            "b) Readcharacters()",
+            "c) Readall()",
+            "d) Readchar()",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 317,
+        "Question": "Which function is used to read single line from file?",
+        "Options": [
+            "a) Readline()",
+            "b) Readlines()",
+            "c) Readstatement()",
+            "d) Readfullline()",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 318,
+        "Question": "Which function is used to write all the characters?",
+        "Options": [
+            "a) write()",
+            "b) writecharacters()",
+            "c) writeall()",
+            "d) writechar()",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 319,
+        "Question": "Which function is used to write a list of string in a file?",
+        "Options": [
+            "a) writeline()",
+            "b) writelines()",
+            "c) writestatement()",
+            "d) writefullline()",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 320,
+        "Question": "Which function is used to close a file in python?",
+        "Options": [
+            "a) Close()",
+            "b) Stop()",
+            "c) End()",
+            "d) Closefile()",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 321,
+        "Question": "Is it possible to create a text file in python?",
+        "Options": [
+            "a) Yes",
+            "b) No",
+            "c) Machine dependent",
+            "d) All of the mentioned",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 322,
+        "Question": "Which of the following are the modes of both writing and reading in binary format in file?",
+        "Options": [
+            "a) wb+",
+            "b) w",
+            "c) wb",
+            "d) w+",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 323,
+        "Question": "Which of the following is not a valid mode to open a file?",
+        "Options": [
+            "a) ab",
+            "b) rw",
+            "c) r+",
+            "d) w+",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 324,
+        "Question": "What is the difference between r+ and w+ modes?",
+        "Options": [
+            "a) no difference",
+            "b) in r+ the pointer is initially placed at the beginning of the file and the pointer is at the end for w+",
+            "c) in w+ the pointer is initially placed at the beginning of the file and the pointer is at the end for r+",
+            "d) depends on the operating system",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 325,
+        "Question": "How do you get the name of a file from a file object (fp)?",
+        "Options": [
+            "a) fp.name",
+            "b) fp.file(name)",
+            "c) self.__name__(fp)",
+            "d) fp.__name__()",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 326,
+        "Question": "Which of the following is not a valid attribute of a file object (fp)?",
+        "Options": [
+            "a) fp.name",
+            "b) fp.closed",
+            "c) fp.mode",
+            "d) fp.size",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 327,
+        "Question": "How do you close a file object (fp)?",
+        "Options": [
+            "a) close(fp)",
+            "b) fclose(fp)",
+            "c) fp.close()",
+            "d) fp.__close__()",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 328,
+        "Question": "How do you get the current position within the file?",
+        "Options": [
+            "a) fp.seek()",
+            "b) fp.tell()",
+            "c) fp.loc",
+            "d) fp.pos",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 329,
+        "Question": "How do you rename a file?",
+        "Options": [
+            "a) fp.name = ‘new_name.txt’",
+            "b) os.rename(existing_name, new_name)",
+            "c) os.rename(fp, new_name)",
+            "d) os.set_name(existing_name, new_name)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 330,
+        "Question": "How do you delete a file?",
+        "Options": [
+            "a) del(fp)",
+            "b) fp.delete()",
+            "c) os.remove(‘file’)",
+            "d) os.delete(‘file’)",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 331,
+        "Question": "How do you change the file position to an offset value from the start?",
+        "Options": [
+            "a) fp.seek(offset, 0)",
+            "b) fp.seek(offset, 1)",
+            "c) fp.seek(offset, 2)",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 332,
+        "Question": "What happens if no arguments are passed to the seek function?",
+        "Options": [
+            "a) file position is set to the start of file",
+            "b) file position is set to the end of file",
+            "c) file position remains unchanged",
+            "d) error",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 333,
+        "Question": "Which function overloads the + operator?",
+        "Options": [
+            "a) __add__()",
+            "b) __plus__()",
+            "c) __sum__()",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 334,
+        "Question": "Which operator is overloaded by __invert__()?",
+        "Options": [
+            "a) !",
+            "b) ~",
+            "c) ^",
+            "d) –",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 335,
+        "Question": "Which function overloads the == operator?",
+        "Options": [
+            "a) __eq__()",
+            "b) __equ__()",
+            "c) __isequal__()",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 336,
+        "Question": "Which operator is overloaded by __lg__()?",
+        "Options": [
+            "a) <",
+            "b) >",
+            "c) !=",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 337,
+        "Question": "Which function overloads the >> operator?",
+        "Options": [
+            "a) __more__()",
+            "b) __gt__()",
+            "c) __ge__()",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 338,
+        "Question": "Let A and B be objects of class Foo. Which functions are called when print(A + B) is executed?",
+        "Options": [
+            "a) __add__(), __str__()",
+            "b) __str__(), __add__()",
+            "c) __sum__(), __str__()",
+            "d) __str__(), __sum__()",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 339,
+        "Question": "Which operator is overloaded by the __or__() function?",
+        "Options": [
+            "a) ||",
+            "b) |",
+            "c) //",
+            "d) /",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 340,
+        "Question": "Which function overloads the // operator?",
+        "Options": [
+            "a) __div__()",
+            "b) __ceildiv__()",
+            "c) __floordiv__()",
+            "d) __truediv__()",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 341,
+        "Question": "1.\t_____ represents an entity in the real world with its identity and behaviour.",
+        "Options": [
+            "a)\tA method",
+            "b)\tAn object",
+            "c)\tA class",
+            "d)\tAn operator",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 342,
+        "Question": "2.\t_____  is used to create an object.",
+        "Options": [
+            "a)\tclass",
+            "b)\tconstructor",
+            "c)\tUser-defined functions",
+            "d)\tIn-built functions",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 343,
+        "Question": "4.\tWhat is setattr() used for?",
+        "Options": [
+            "a)\tTo access the attribute of the object",
+            "b)\tTo set an attribute",
+            "c)\tTo check if an attribute exists or not",
+            "d)\tTo delete an attribute",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 344,
+        "Question": "5.\tWhat is getattr() used for?",
+        "Options": [
+            "a)\tTo access the attribute of the object",
+            "b)\tTo delete an attribute",
+            "c)\tTo check if an attribute exists or not",
+            "d)\tTo set an attribute",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 345,
+        "Question": "What is Instantiation in terms of OOP terminology?",
+        "Options": [
+            "a)\tDeleting an instance of class",
+            "b)\tModifying an instance of class",
+            "c)\tCopying an instance of class",
+            "d)\tCreating an instance of class",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 346,
+        "Question": "1.\tThe assignment of more than one function to a particular operator is _______",
+        "Options": [
+            "a)\tOperator over-assignment",
+            "b)\tOperator overriding",
+            "c)\tOperator overloading",
+            "d)\tOperator instance",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 347,
+        "Question": "2.\tWhich of the following is not a class method?",
+        "Options": [
+            "a)\tNon-static",
+            "b)\tStatic",
+            "c)\tBounded",
+            "d)\tUnbounded",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 348,
+        "Question": " What are the methods which begin and end with two underscore characters called?",
+        "Options": [
+            "a)\tSpecial methods",
+            "b)\tIn-built methods",
+            "c)\tUser-defined methods",
+            "d)\tAdditional methods",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 349,
+        "Question": "10.\tWhat is hasattr(obj,name) used for?",
+        "Options": [
+            "a)\tTo access the attribute of the object",
+            "b)\tTo delete an attribute",
+            "c)\tTo check if an attribute exists or not",
+            "d)\tTo set an attribute",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 350,
+        "Question": "12.\tWhat is delattr(obj,name) used for?",
+        "Options": [
+            "a)\tTo print deleted attribute",
+            "b)\tTo delete an attribute",
+            "c)\tTo check if an attribute is deleted or not",
+            "d)\tTo set an attribute",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 351,
+        "Question": "15.\tWhat does print(Test.__name__) display (assuming Test is the name of the class)?",
+        "Options": [
+            "a)\t()",
+            "b)\tException is thrown",
+            "c)\tTest",
+            "d)\t__main__",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 352,
+        "Question": " Which of the following best describes inheritance?",
+        "Options": [
+            "a)\tAbility of a class to derive members of another class as a part of its own definition",
+            "b)\tMeans of bundling instance variables and methods in order to restrict access to certain class members",
+            "c)\tFocuses on variables and passing of variables to functions",
+            "d)\tAllows for implementation of elegant software that is well designed and easily modified",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 353,
+        "Question": "2.\tWhich of the following statements is wrong about inheritance?",
+        "Options": [
+            "a)\tProtected members of a class can be inherited",
+            "b)\tThe inheriting class is called a subclass",
+            "c)\tPrivate members of a class can be inherited and accessed",
+            "d)\tInheritance is one of the features of OOP",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 354,
+        "Question": " Suppose B is a subclass of A, to invoke the __init__ method in A from B, what is the line of code you should write?",
+        "Options": [
+            "a)\tA.__init__(self)",
+            "b)\tB.__init__(self)",
+            "c)\tA.__init__(B)",
+            "d)\tB.__init__(A)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 355,
+        "Question": " What does built-in function type do in context of classes?",
+        "Options": [
+            "a)\tDetermines the object name of any value",
+            "b)\tDetermines the class name of any value",
+            "c)\tDetermines class description of any value",
+            "d)\tDetermines the file name of any value",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 356,
+        "Question": " Which of the following is not a type of inheritance?",
+        "Options": [
+            "a)\tDouble-level",
+            "b)\tMulti-level",
+            "c)\tSingle-level",
+            "d)\tMultiple",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 357,
+        "Question": " What does built-in function help do in context of classes?",
+        "Options": [
+            "a)\tDetermines the object name of any value",
+            "b)\tDetermines the class identifiers of any value",
+            "c)\tDetermines class description of any built-in type",
+            "d)\tDetermines class description of any user-defined built-in type",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 358,
+        "Question": "What does single-level inheritance mean?",
+        "Options": [
+            "a)\tA subclass derives from a class which in turn derives from another class",
+            "b)\tA single superclass inherits from multiple subclasses",
+            "c)\tA single subclass derives from a single superclass",
+            "d)\tMultiple base classes inherit a single derived class",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 359,
+        "Question": "4.\tWhich of the following statements isn’t true?",
+        "Options": [
+            "a)\tA non-private method in a superclass can be overridden",
+            "b)\tA derived class is a subset of superclass",
+            "c)\tThe value of a private variable in the superclass can be changed in the subclass",
+            "d)\tWhen invoking the constructor from a subclass, the constructor of superclass is automatically invoked",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 360,
+        "Question": " Which of the following statements is true?",
+        "Options": [
+            "a)\tThe __new__() method automatically invokes the __init__ method",
+            "b)\tThe __init__ method is defined in the object class",
+            "c)\tThe __eq(other) method is defined in the object class",
+            "d)\tThe __repr__() method is defined in the object class",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 361,
+        "Question": " Which of the following best describes polymorphism?",
+        "Options": [
+            "a)\tAbility of a class to derive members of another class as a part of its own definition",
+            "b)\tMeans of bundling instance variables and methods in order to restrict access to certain class members",
+            "c)\tFocuses on variables and passing of variables to functions",
+            "d)\tAllows for objects of different types and behaviour to be treated as the same general type",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 362,
+        "Question": "2.\tWhat is the biggest reason for the use of polymorphism?",
+        "Options": [
+            "a)\tIt allows the programmer to think at a more abstract level",
+            "b)\tThere is less program code to write",
+            "c)\tThe program will have a more elegant design and will be easier to maintain and update",
+            "d)\tProgram code takes up less space",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 363,
+        "Question": "3.\tWhat is the use of duck typing?",
+        "Options": [
+            "a)\tMore restriction on the type values that can be passed to a given method",
+            "b)\tNo restriction on the type values that can be passed to a given method",
+            "c)\tLess restriction on the type values that can be passed to a given method",
+            "d)\tMakes the program code smaller",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 364,
+        "Question": " Which of the following statements is true?",
+        "Options": [
+            "a)\tA non-private method in a superclass can be overridden",
+            "b)\tA subclass method can be overridden by the superclass",
+            "c)\tA private method in a superclass can be overridden",
+            "d)\tOverriding isn’t possible in Python",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 365,
+        "Question": "1.\tWhich of these is not a fundamental features of OOP?",
+        "Options": [
+            "a)\tEncapsulation",
+            "b)\tInheritance",
+            "c)\tInstantiation",
+            "d)\tPolymorphism",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 366,
+        "Question": "2.\tWhich of the following is the most suitable definition for encapsulation?",
+        "Options": [
+            "a)\tAbility of a class to derive members of another class as a part of its own definition",
+            "b)\tMeans of bundling instance variables and methods in order to restrict access to certain class members",
+            "c)\tFocuses on variables and passing of variables to functions",
+            "d)\tAllows for implementation of elegant software that is well designed and easily modified",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 367,
+        "Question": "5.\tMethods of a class that provide access to private members of the class are called as ______ and ______",
+        "Options": [
+            "a)\tgetters/setters",
+            "b)\t__repr__/__str__",
+            "c)\tuser-defined functions/in-built functions",
+            "d)\t__init__/__del__",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 368,
+        "Question": " Which of the following is false about protected class members?",
+        "Options": [
+            "a)\tThey begin with one underscore",
+            "b)\tThey can be accessed by subclasses",
+            "c)\tThey can be accessed by name mangling method",
+            "d)\tThey can be accessed within a class",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 369,
+        "Question": "How many except statements can a try-except block have?",
+        "Options": [
+            "a) zero",
+            "b) one",
+            "c) more than one",
+            "d) more than zero",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 370,
+        "Question": "When will the else part of try-except-else be executed?",
+        "Options": [
+            "a) always",
+            "b) when an exception occurs",
+            "c) when no exception occurs",
+            "d) when an exception occurs in to except block",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 371,
+        "Question": "Can one block of except statements handle multiple exception?",
+        "Options": [
+            "a) yes, like except TypeError, SyntaxError [,…] ",
+            "b) yes, like except [TypeError, SyntaxError] ",
+            "c) no",
+            "d) none of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 372,
+        "Question": "When is the finally block executed?",
+        "Options": [
+            "a) when there is no exception",
+            "b) when there is an exception",
+            "c) only if some condition that has been specified is satisfied",
+            "d) always",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 373,
+        "Question": "What happens when ‘1’ == 1 is executed?",
+        "Options": [
+            "a) we get a True",
+            "b) we get a False",
+            "c) an TypeError occurs",
+            "d) a ValueError occurs",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 374,
+        "Question": "Which of the following is not an exception handling keyword in Python?",
+        "Options": [
+            "a) try",
+            "b) except",
+            "c) accept",
+            "d) finally",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 375,
+        "Question": "Which of the following statements is true?",
+        "Options": [
+            "a) The standard exceptions are automatically imported into Python programs",
+            "b) All raised standard exceptions must be handled in Python",
+            "c) When there is a deviation from the rules of a programming language, a semantic error is thrown",
+            "d) If any exception is thrown in try block, else block is executed",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 376,
+        "Question": "Which of the following is not a standard exception in Python?",
+        "Options": [
+            "a) NameError",
+            "b) IOError",
+            "c) AssignmentError",
+            "d) ValueError",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 377,
+        "Question": "An exception is ____________",
+        "Options": [
+            "a) an object",
+            "b) a special function",
+            "c) a standard module",
+            "d) a module",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 378,
+        "Question": "_______________________ exceptions are raised as a result of an error in opening a particular file.",
+        "Options": [
+            "a) ValueError",
+            "b) TypeError",
+            "c) ImportError",
+            "d) IOError",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 379,
+        "Question": "Which of the following blocks will be executed whether an exception is thrown or not?",
+        "Options": [
+            "a) except",
+            "b) else",
+            "c) finally",
+            "d) assert",
+            ""
+        ],
+        "Answer": "Answer: b"
+    }
+]

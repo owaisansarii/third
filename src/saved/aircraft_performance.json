@@ -1,0 +1,4202 @@
+[
+    {
+        "id": 1,
+        "Question": "Civilian aircraft mainly focuses on _________",
+        "Options": [
+            "a) defense",
+            "b) maneuvering",
+            "c) climb of altitude",
+            "d) coverage of distance",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 2,
+        "Question": "The surveillance aircraft focuses on ________",
+        "Options": [
+            "a) maneuvering",
+            "b) attack",
+            "c) high altitude and cover long distance",
+            "d) speed",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 3,
+        "Question": "What is the full form of STOL?",
+        "Options": [
+            "a) Short take-off and landing",
+            "b) Straight take-off and landing",
+            "c) Smart take-off and landing",
+            "d) Supportive take-off and landing",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 4,
+        "Question": "What is the full form of VTOL?",
+        "Options": [
+            "a) Variety take-off and landing",
+            "b) Vertical take-off and landing",
+            "c) Various take-off and landing",
+            "d) Valuable take-off and landing",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 5,
+        "Question": "What is the full form of STVOL?",
+        "Options": [
+            "a) Smart take-off and variety landing",
+            "b) Smart take-off and vertical landing",
+            "c) Short take-off and variety landing",
+            "d) Short take-off and vertical landing",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 6,
+        "Question": "What is the full form of CTOL?",
+        "Options": [
+            "a) Commercial take-off and landing",
+            "b) Convenient take-off and landing",
+            "c) Convectional take-off and landing",
+            "d) Confidential take-off and landing",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 7,
+        "Question": "What effect does high density altitude have on aircraft performance?",
+        "Options": [
+            "a) Decrease in climb performance",
+            "b) Increase in climb performance",
+            "c) Increase in take-off performance",
+            "d) Increase in engine performance",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 8,
+        "Question": "What is meant by reserves?",
+        "Options": [
+            "a) Fuel used when the route is extended",
+            "b) Fuel used to take-off",
+            "c) Fuel used when in emergency",
+            "d) Fuel used while cruising",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 9,
+        "Question": "The stages of mission profile of a commercial aircraft are _______",
+        "Options": [
+            "a) Take-off → climb → cruise → descent → landing",
+            "b) Take-off → descent → climb → cruise → landing",
+            "c) Take-off → cruise → climb → descent → landing",
+            "d) Take-off → climb → descent → cruise → landing",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 10,
+        "Question": "What is meant by performance estimation?",
+        "Options": [
+            "a) Prediction of capabilities of the aircraft",
+            "b) Provide validated performance data for performance section",
+            "c) Verification of aircraft achievements",
+            "d) Certification of performance",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 11,
+        "Question": "Which of the following is not applied to performance estimation?",
+        "Options": [
+            "a) Design",
+            "b) Modification",
+            "c) Supplement",
+            "d) Validation of performance data",
+            ""
+        ],
+        "Answer": "Answer:  d"
+    },
+    {
+        "id": 12,
+        "Question": "ISA stands for_________",
+        "Options": [
+            "a) International Standard Atmosphere",
+            "b) International Standard Altitude",
+            "c) International Standard Airlines",
+            "d) International Standard Aircraft",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 13,
+        "Question": "International Standard Atmosphere (ISA) is a ____________",
+        "Options": [
+            "a) Linearized Model of the Temperature Atmosphere",
+            "b) Horizontal Model of the Temperature Atmosphere",
+            "c) Linearized Model of the Pressure Atmosphere",
+            "d) Horizontal Model of the Pressure Atmosphere",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 14,
+        "Question": "The performance estimation process is _________",
+        "Options": [
+            "a) optional",
+            "b) iterative",
+            "c) not required",
+            "d) single attempt",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 15,
+        "Question": "_________ is the important factor to be satisfied during performance estimation.",
+        "Options": [
+            "a) Temperature",
+            "b) Pressure",
+            "c) Airworthiness requirement",
+            "d) Climate",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 16,
+        "Question": "WAT stands for _______",
+        "Options": [
+            "a) Weight, Altitude, Temperature",
+            "b) Weather,Altitude, Temperature",
+            "c) Weight, Atmosphere, Temperature",
+            "d) Weather,Atmosphere, Temperature",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 17,
+        "Question": "ODM stands for _________",
+        "Options": [
+            "a) Operation Data Manual",
+            "b) Operating Data Manual",
+            "c) Operation Data Management",
+            "d) Operating Digital Manual",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 18,
+        "Question": "What is meant by performance measurement?",
+        "Options": [
+            "a) Verification of aircraft achievements",
+            "b) Design new type of aircraft",
+            "c) Modification of existing aircraft type",
+            "d) Supplementor extent the full-scale measured performance of an aircraft",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 19,
+        "Question": "Which of the following is applied to performance measurement?",
+        "Options": [
+            "a) Design",
+            "b) Modification",
+            "c) Supplement",
+            "d) Validation of performance data",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 20,
+        "Question": "APMS stands for _________",
+        "Options": [
+            "a) Aviation Performance Measurement System",
+            "b) Aviation Performance Measuring System",
+            "c) Aircraft Performance Measuring System",
+            "d) Aircraft Performance Measurement System",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 21,
+        "Question": "FAA stands for ________",
+        "Options": [
+            "a) Fundamental Aviation Administration",
+            "b) Federal Aircraft Administration",
+            "c) Federal Aviation Administration",
+            "d) Fundamental Aircraft Administration",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 22,
+        "Question": "AFM stands for ______",
+        "Options": [
+            "a) Authority of Flight Manual",
+            "b) Aircraft Flight Manual",
+            "c) Aircraft Flight Management",
+            "d) Authority of Flight Management",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 23,
+        "Question": "POH stands for __________",
+        "Options": [
+            "a) Pilot’s Operational Handbook",
+            "b) Pilot’s Operating Handbook",
+            "c) Performance Operating Handbook",
+            "d) Performance Operational Handbook",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 24,
+        "Question": "AIAA stands for ________",
+        "Options": [
+            "a) Australian Institute of Aeronautics and Astronautics",
+            "b) Alberta Institute of Aeronautics and Astronautics",
+            "c) Andaman Institute of Aeronautics and Astronautics",
+            "d) American Institute of Aeronautics and Astronautics",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 25,
+        "Question": "MTOW stands for _________",
+        "Options": [
+            "a) Maximum permissible Take-Off Weight",
+            "b) Minimum permissible Take-Off Weight",
+            "c) Maximal permissible Take-Off Weight",
+            "d) Minimal permissible Take-Off Weight",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 26,
+        "Question": "What is operational performance of an aircraft?",
+        "Options": [
+            "a) The performance of an aircraft which is related to the aircraft above ground level",
+            "b) The performance of an aircraft which is related to the aircraft engine",
+            "c) The performance of an aircraft which is related to the aircraft when it is on ground",
+            "d) The performance of an aircraft which is related to the aircraft taxing",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 27,
+        "Question": "What is MTOW of an aircraft?",
+        "Options": [
+            "a) The maximum weight of an aircraft at which a pilot is allowed to attempt to land the aircraft",
+            "b) The maximum weight of an aircraft at which a pilot is allowed to attempt to take-off the aircraft",
+            "c) The minimum weight of an aircraft at which a pilot is allowed to attempt to take-off the aircraft",
+            "d) The minimum weight of an aircraft at which a pilot is allowed to attempt to land the aircraft",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 28,
+        "Question": "A flight is carrying 130 passengers over a distance of 990km with a seating capacity of 140 and a yield of 7.9. Calculate the load factor.",
+        "Options": [
+            "a) 90%",
+            "b) 92.86%",
+            "c) 89.556%",
+            "d) 67.35%",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 29,
+        "Question": "A flight is carrying 130 passengers over a distance of 990km with a seating capacity of 140 and a yield of 7.9. Calculate the passenger revenue.",
+        "Options": [
+            "a) 143780",
+            "b) 1016730",
+            "c) 1094940",
+            "d) 1524263",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 30,
+        "Question": "A flight is carrying 130 passengers over a distance of 990km with a seating capacity of 140 and a yield of 7.9. Calculate the Revenue passenger kilometers.",
+        "Options": [
+            "a) 138600",
+            "b) 124570",
+            "c) 128700",
+            "d) 124560",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 31,
+        "Question": "A flight is carrying 130 passengers over a distance of 990km with a seating capacity of 140 and a yield of 7.9. Calculate the available seats kilometer.",
+        "Options": [
+            "a) 148700",
+            "b) 138600",
+            "c) 128700",
+            "d) 154800",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 32,
+        "Question": "What is the ideal gas equation?",
+        "Options": [
+            "a) P=nRT",
+            "b) PV=nRT",
+            "c) PV=ρRT",
+            "d) Pρ=RT",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 33,
+        "Question": "Which of the following is the major reason for the global atmosphere pressure distribution?",
+        "Options": [
+            "a) Convective air flow",
+            "b) Conductive air flow",
+            "c) Radiation air flow",
+            "d) Conductive and radiation air flow",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 34,
+        "Question": "What is meant by Coriolis force?",
+        "Options": [
+            "a) An earth force that tends to deflect the moving objects on earth",
+            "b) An earth force that tends to vary the temperature",
+            "c) An earth force that tends to vary the pressure",
+            "d) An earth force that tends to vary the gravitational force",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 35,
+        "Question": "Which of the following holds a correct relation between pressure, temperature and altitude?",
+        "Options": [
+            "a) Pressure increases, temperature decreases, altitude increases",
+            "b) Pressure decreases, temperature decreases, altitude increases",
+            "c) Pressure decreases, temperature increases, altitude increases",
+            "d) Pressure decreases, temperature decreases, altitude decreases",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 36,
+        "Question": "What are the percentages of nitrogen, oxygen, argon and carbon dioxide in atmosphere?",
+        "Options": [
+            "a) 78%, 21%, 0.9%, 0.03%",
+            "b) 75%, 24%, 0.7%, 0.03%",
+            "c) 71%, 28%, 0.9%, 0.04%",
+            "d) 75%, 24%, 0.9%, 0.05%",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 37,
+        "Question": "What is the value of characteristic gas constant(R) in Nm/kg-K?",
+        "Options": [
+            "a) 287.05287",
+            "b) 2.8705287",
+            "c) 2870.5287",
+            "d) 2.8705287",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 38,
+        "Question": "The ratio of specific heats (γ) of air is _________",
+        "Options": [
+            "a) 1.6",
+            "b) 1.7",
+            "c) 1.4",
+            "d) 1.8",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 39,
+        "Question": "According to ISA atmospheric model what is the value of datum atmospheric pressure in N/m2?",
+        "Options": [
+            "a) 101325",
+            "b) 101335",
+            "c) 101336",
+            "d) 101326",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 40,
+        "Question": "The atmosphere is mainly divided into _______ layers.",
+        "Options": [
+            "a) 2",
+            "b) 6",
+            "c) 7",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 41,
+        "Question": "According to ISA atmospheric model what is the value of datum atmospheric temperature?",
+        "Options": [
+            "a) 273K",
+            "b) 277K",
+            "c) 288.15K",
+            "d) 288.15°C",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 42,
+        "Question": "The range of temperature in mesosphere is ________",
+        "Options": [
+            "a) below 130K",
+            "b) below 140K",
+            "c) below 110K",
+            "d) below 120K",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 43,
+        "Question": "The range of temperature in thermosphere is ________",
+        "Options": [
+            "a) 200-500°C",
+            "b) 200-1000°C",
+            "c) 200-2000°C",
+            "d) 200-700°C",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 44,
+        "Question": "The range of temperature in stratosphere is _____________",
+        "Options": [
+            "a) -51°C  to -15°C",
+            "b) -5°C  to -10°C",
+            "c) -510°C  to -105°C",
+            "d) -31°C  to -10°C",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 45,
+        "Question": "The range of temperature in troposphere is _____________",
+        "Options": [
+            "a) 15°C  to -51°C",
+            "b) 5°C  to -10°C",
+            "c) 510°C  to -105°C",
+            "d) 31°C  to -10°C",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 46,
+        "Question": "The altitude range of thermosphere is ___________",
+        "Options": [
+            "a) 50km to 400km",
+            "b) 90km to 500km",
+            "c) 100km to 300km",
+            "d) 70km to 400km",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 47,
+        "Question": "The altitude range of troposphere is ___________",
+        "Options": [
+            "a) 10km to 50km",
+            "b) 8km to 18km",
+            "c) 20km to 60km",
+            "d) 10km to 30km",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 48,
+        "Question": "The altitude range of mesosphere is ___________",
+        "Options": [
+            "a) 40km to 80km",
+            "b) 30km to 50km",
+            "c) 50km to 85km",
+            "d) 40km to 70km",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 49,
+        "Question": "The altitude range of stratosphere is ___________",
+        "Options": [
+            "a) 20km to 70km",
+            "b) 18km to 50km",
+            "c) 10km to 50km",
+            "d) 30km to 40km",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 50,
+        "Question": "Which of the following is the correct order of atmospheric layers with respect to altitude increase?",
+        "Options": [
+            "a) Exosphere < Thermosphere < Mesosphere < Stratosphere < Troposphere",
+            "b) Thermosphere < Stratosphere < Mesosphere < Troposphere < Exosphere",
+            "c) Troposphere < Stratosphere < Mesosphere < Thermosphere < Exosphere",
+            "d) Troposphere < Stratosphere < Mesosphere < Exosphere  < Thermosphere",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 51,
+        "Question": "The altitude range of exosphere is ________",
+        "Options": [
+            "a) 400km to 1000km",
+            "b) 500km to 1000km",
+            "c) 500km to 10000km",
+            "d) 500km to 5000km",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 52,
+        "Question": "According to ISA atmospheric model what is the value of datum atmospheric air density kg/m3?",
+        "Options": [
+            "a) 1.225",
+            "b) 12.225",
+            "c) 1.23",
+            "d) 1.000",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 53,
+        "Question": "The temperature-height profile is given by ___________",
+        "Options": [
+            "a) T=Ti+Li (H-Hi)",
+            "b) T=Ti+Li (H+Hi)",
+            "c) T=Ti-Li (H-Hi)",
+            "d) T=Ti-Li (H+Hi)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 54,
+        "Question": "What is lapse rate?",
+        "Options": [
+            "a) Change of temperature with respect to altitude",
+            "b) Change of temperature with respect to pressure",
+            "c) Change of pressure with respect to altitude",
+            "d) Change of temperature with respect to density",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 55,
+        "Question": "What is true height?",
+        "Options": [
+            "a) The vertical geometrical distance between an object and a datum level",
+            "b) The vertical geometrical distance between a certain height and a datum level",
+            "c) The horizontal geometrical distance between an object and a datum level",
+            "d) The horizontal geometrical distance between a certain height and a datum level",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 56,
+        "Question": "What is the hydrostatic equation?",
+        "Options": [
+            "a) ΔP=-ρg∆h",
+            "b) ΔP=-ρgh",
+            "c) P=-ρgΔh",
+            "d) ΔP=ρgΔh",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 57,
+        "Question": "What is the pressure difference across a cylinder which consists of water and has a height difference of 20m?",
+        "Options": [
+            "a) -196.2 kN/m2",
+            "b) -1.962×10-5 bar",
+            "c) -196.2 kN/m2",
+            "d) -1.962×10-5 bar",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 58,
+        "Question": "The pressure-height relationship in troposphere is given by _______",
+        "Options": [
+            "a) \\(\\frac{p}{p_0}\\)=[1 + \\(\\frac{L_0}{T_0}\\)H]\\(\\frac{-g_0}{RL_0}\\) ",
+            "b) \\(\\frac{p}{p_0}\\)=[1 + \\(\\frac{L_0}{T_0}\\)H]\\(\\frac{-T_0}{RL_0}\\) ",
+            "c) \\(\\frac{p}{p_0}\\)=[1 + \\(\\frac{g_0}{T_0}\\)H]\\(\\frac{-g_0}{RL_0}\\) ",
+            "d) \\(\\frac{p}{p_0}\\)=[1 + \\(\\frac{L_0}{g_0}\\)H]\\(\\frac{-g_0}{RL_0}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 59,
+        "Question": "What is relative pressure at 101325 N/m2?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer:  a"
+    },
+    {
+        "id": 60,
+        "Question": "What is relative temperature at 241.45K?",
+        "Options": [
+            "a) 1",
+            "b) 0.8379",
+            "c) 0.8774",
+            "d) 0.8756",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 61,
+        "Question": "What is relative temperature at 1600ft? (T1600=284.98 K)",
+        "Options": [
+            "a) 0.989",
+            "b) 0.838",
+            "c) 0.877",
+            "d) 0.999",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 62,
+        "Question": "What is relative pressure at 1600ft? (P1600=95602 N/m2)",
+        "Options": [
+            "a) 0.9453",
+            "b) 0.9858",
+            "c) 0.9435",
+            "d) 0.9595",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 63,
+        "Question": "What will be the pressure-height ratio of air at an altitude of 9144m? (L0=-0.0065 K/m, T0=288.15K, P0=101325 N/m2)",
+        "Options": [
+            "a) 0.297",
+            "b) 0.596",
+            "c) 0.359",
+            "d) 0.458",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 64,
+        "Question": "ADD stands for ____________",
+        "Options": [
+            "a) Airflow Direction Detector",
+            "b) Aircraft Direction Detector",
+            "c) Airflow Density Detector",
+            "d) Aircraft Density Detector",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 65,
+        "Question": "ADC stands for _____________",
+        "Options": [
+            "a) Aircraft Data Computer",
+            "b) Air Data Computer",
+            "c) Air Density Computer",
+            "d) Air Data Computation",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 66,
+        "Question": "1 knot=________km/hr",
+        "Options": [
+            "a) 1.773",
+            "b) 1.852",
+            "c) 1.609",
+            "d) 1.414",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 67,
+        "Question": "1 foot=_________meters",
+        "Options": [
+            "a) 3.28084",
+            "b) 0.3678",
+            "c) 0.3048",
+            "d) 3.4567",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 68,
+        "Question": "Which of the following are measured by Pitot – static system in air data system?",
+        "Options": [
+            "a) Height, mach number, airspeed",
+            "b) Pressure, density, temperature",
+            "c) Height, mach number, pressure",
+            "d) Height, mach number, density",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 69,
+        "Question": "What is meant by altimeter reading?",
+        "Options": [
+            "a) It is the reading of individual mechanical instrument which calculates the pressure",
+            "b) It is the reading of individual electrical instrument which calculates the pressure",
+            "c) It is the reading of individual mechanical instrument which calculates the density",
+            "d) It is the reading of individual electrical instrument which calculates the density",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 70,
+        "Question": "What is meant by indicated altitude?",
+        "Options": [
+            "a) It is the pitot-static reading corrected for performance error",
+            "b) It is the altimeter reading corrected for instrument error",
+            "c) It is the pitot-static reading corrected for instrument error",
+            "d) It is the altimeter reading corrected for performance error",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 71,
+        "Question": "What is meant by pressure altitude?",
+        "Options": [
+            "a) It is the indicated altitude measured with respect to appropriate datum pressure setting",
+            "b) It is the indicated altitude measured with respect to appropriate gauge  pressure setting",
+            "c) It is the indicated altitude measured with respect to appropriate static pressure setting",
+            "d) It is the indicated altitude measured with respect to appropriate vacuum pressure setting",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 72,
+        "Question": "What is meant by geopotential height interval?",
+        "Options": [
+            "a) It is the pressure height interval measured by the pitot-static tube",
+            "b) It is the pressure height interval measured by the altimeter",
+            "c) It is the temperature height interval measured by the pitot-static tube",
+            "d) It is the temperature height interval measured by the altimeter",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 73,
+        "Question": "The geopotential height of the isothermal lower stratosphere (i.e. at 11km) is given by __________",
+        "Options": [
+            "a) H=11000-\\(\\frac{RT_{11}}{g_0}\\)ln(\\(\\frac{p}{p_{11}}\\)) ",
+            "b) H=11000-\\(\\frac{RT_{11}}{g_0}\\)ln(\\(\\frac{p_{11}}{p}\\)) ",
+            "c) H=11000+\\(\\frac{RT_{11}}{g_0}\\)ln(\\(\\frac{p}{p_{11}}\\)) ",
+            "d) H=11000+\\(\\frac{RT_{11}}{g_0}\\)ln(\\(\\frac{p_{11}}{p}\\)) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 74,
+        "Question": "Find the geopotential height of an aircraft flying sea level where L0=-0.0065 k/m, p=30070.36Pa.",
+        "Options": [
+            "a) 9120 km",
+            "b) 9144 km",
+            "c) 9854 km",
+            "d) 9874 km",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 75,
+        "Question": "8.The geopotential height in troposphere is given by __________",
+        "Options": [
+            "a) H=\\(\\frac{T_0}{l_0}\\)[(\\(\\frac{p}{p_0}\\))\\(\\frac{-L_0R}{g_0}\\)+1] ",
+            "b) H=\\(\\frac{T_0}{l_0}\\)[(\\(\\frac{p}{p_0}\\))\\(\\frac{L_0R}{g_0}\\)-1] ",
+            "c) H=\\(\\frac{T_0}{l_0}\\)[(\\(\\frac{p}{p_0}\\))\\(\\frac{-L_0R}{g_0}\\)-1] ",
+            "d) H=\\(\\frac{T_0}{l_0}\\)[(\\(\\frac{p}{p_0}\\))\\(\\frac{L_0R}{g_0}\\)+1] ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 76,
+        "Question": "What is a barometric altimeter?",
+        "Options": [
+            "a) A device used to measure the height above a fixed level with the help of barometric pressure changes",
+            "b) A device used to measure the pressure above a fixed level with the help of barometric pressure changes",
+            "c) A device used to measure the height above a fixed level with the help of pitot tube pressure changes",
+            "d) A device used to measure the pressure above a fixed level with the help of pitot tube pressure changes",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 77,
+        "Question": "What is the relation between pressure and density in an adiabatic air flow?",
+        "Options": [
+            "a) \\(\\frac{p_1}{p_2}\\)=(\\(\\frac{\\rho_1}{\\rho_2}\\))\\(\\frac{1}{\\gamma}\\)",
+            "b) \\(\\frac{p_1}{p_2}\\)=(\\(\\frac{\\rho_1}{\\rho_2}\\))γ",
+            "c) \\(\\frac{p_1}{p_2}\\)=(\\(\\frac{\\rho_1}{\\rho_2}\\))γ+1",
+            "d) \\(\\frac{p_1}{p_2}\\)=(\\(\\frac{\\rho_1}{\\rho_2}\\))γ-1",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 78,
+        "Question": "What is meant by airspeed?",
+        "Options": [
+            "a) The relative velocity between the aircraft and the air mass in which the aircraft is flying",
+            "b) The ratio of velocity between the aircraft and the air mass in which the aircraft is flying",
+            "c) The relative acceleration between the aircraft and the air mass in which the aircraft is flying",
+            "d) The ratio of velocity between the aircraft and the ground in which the aircraft is flying",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 79,
+        "Question": "Which of the following is the general equation that relates flow temperature to true airspeed?",
+        "Options": [
+            "a) CpT+\\(\\frac{V^2}{2}\\)=constant",
+            "b) CpT-\\(\\frac{V^2}{2}\\)=constant",
+            "c) CvT+\\(\\frac{V^2}{2}\\)=constant",
+            "d) CvT-\\(\\frac{V^2}{2}\\)=constant",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 80,
+        "Question": "What is true airspeed?",
+        "Options": [
+            "a) relative speed of aircraft with respect to the surrounding air flow",
+            "b) relative speed of aircraft sound with respect to the surrounding air flow sound",
+            "c) moment of aircraft with respect to air",
+            "d) moment of aircraft with respect to ground",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 81,
+        "Question": "TAS stands for _________",
+        "Options": [
+            "a) true air speed",
+            "b) temperature air speed",
+            "c) troposphere air speed",
+            "d) thermal air speed",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 82,
+        "Question": " IAS stands for ___________",
+        "Options": [
+            "a) inductor air speed",
+            "b) indicated air speed",
+            "c) induced air speed",
+            "d) isentropic air speed",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 83,
+        "Question": "GS stands for __________",
+        "Options": [
+            "a) gravitational speed",
+            "b) greater speed",
+            "c) ground speed",
+            "d) gradual speed",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 84,
+        "Question": "CAS stands for __________",
+        "Options": [
+            "a) calculated air speed",
+            "b) casual air speed",
+            "c) crucial air speed",
+            "d) calibrated air speed",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 85,
+        "Question": "Which of the following is the correct relationship between R and Cp?",
+        "Options": [
+            "a) R=Cp\\(\\frac{\\gamma-1}{\\gamma}\\) ",
+            "b) Cp=R\\(\\frac{\\gamma-1}{\\gamma}\\) ",
+            "c) R=Cp\\(\\frac{\\gamma+1}{\\gamma}\\) ",
+            "d) Cp=R\\(\\frac{\\gamma}{\\gamma-1}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 86,
+        "Question": "Which of the following is the correct relationship between γ and Cv?",
+        "Options": [
+            "a) Cv=R\\(\\frac{\\gamma}{\\gamma-1}\\) ",
+            "b) Cv=\\(\\frac{R}{\\gamma-1}\\) ",
+            "c) Cv=\\(\\frac{R}{\\gamma+1}\\) ",
+            "d) Cv=R\\(\\frac{\\gamma}{\\gamma\\mp1}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 87,
+        "Question": "Which of the following is the correct formula for speed of sound?",
+        "Options": [
+            "a) \\(\\sqrt{\\gamma RT}\\) ",
+            "b) \\(\\sqrt{pRT}\\) ",
+            "c) \\(\\sqrt{\\rho Rt}\\) ",
+            "d) \\(\\sqrt{\\gamma R0T}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 88,
+        "Question": "What is the speed of sound in air at an altitude where temperature is 299K?",
+        "Options": [
+            "a) 346.61K",
+            "b) 343.61K",
+            "c) 71.61 °C",
+            "d) 70.61 °C",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 89,
+        "Question": " What is the relation between pressure and air speed in isentropic relations?",
+        "Options": [
+            "a) \\(\\frac{p_1}{p_2}\\)=\\(\\Big\\{1+\\frac{\\gamma-1}{2}(\\frac{V1}{a1})^2\\Big\\}^\\frac{\\gamma}{\\gamma-1}\\) ",
+            "b) \\(\\frac{p_1}{p_2}\\)=\\(\\Big\\{1+\\frac{\\gamma+1}{2}(\\frac{V1}{a1})^2\\Big\\}^\\frac{\\gamma}{\\gamma+1}\\) ",
+            "c) \\(\\frac{p_1}{p_2}\\)=\\(\\Big\\{1+\\frac{\\gamma+1}{2}(\\frac{V1}{a1})^2\\Big\\}^\\frac{\\gamma}{\\gamma-1}\\) ",
+            "d) \\(\\frac{p_1}{p_2}\\)=\\(\\Big\\{1+\\frac{\\gamma-1}{2}(\\frac{V1}{a1})^2\\Big\\}^\\frac{\\gamma}{\\gamma+1}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 90,
+        "Question": "What is the pressure ratio of an aircraft moving in air at a mach number 1?",
+        "Options": [
+            "a) 1.893",
+            "b) 1.558",
+            "c) 1.444",
+            "d) 1.555",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 91,
+        "Question": "What is the pressure ratio of an aircraft moving in air at a velocity 500m/s and speed of sound is 244 m/s?",
+        "Options": [
+            "a) 4.556",
+            "b) 3.327",
+            "c) 6.256",
+            "d) 2.565",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 92,
+        "Question": "Which of the following is the correct isentropic relation between pressure and temperature?",
+        "Options": [
+            "a) \\(\\frac{p_1}{p_2}=(\\frac{T_2}{T_1})^\\frac{\\gamma}{1-\\gamma}\\) ",
+            "b) \\(\\frac{p_1}{p_2}=(\\frac{T_2}{T_1})^\\frac{\\gamma-1}{\\gamma}\\) ",
+            "c) \\(\\frac{p_1}{p_2}=(\\frac{T_2}{T_1})^\\frac{\\gamma+1}{\\gamma}\\) ",
+            "d) \\(\\frac{p_1}{p_2}=(\\frac{T_2}{T_1})^\\frac{\\gamma}{\\gamma-1}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 93,
+        "Question": "What is the speed of sound where density and pressure are 1.225kg/m3 and 101306N/m2?",
+        "Options": [
+            "a) 340.26m/s",
+            "b) 330.26m/s",
+            "c) 313 m/s",
+            "d) 325 m/s",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 94,
+        "Question": "What is the formula for speed of sound in terms of pressure and density?",
+        "Options": [
+            "a) a=\\(\\sqrt{\\frac{\\gamma P}{\\rho}}\\) ",
+            "b) a=\\(\\sqrt{\\frac{\\gamma\\rho}{P}}\\) ",
+            "c) a=\\(\\sqrt{\\frac{\\gamma RP}{\\rho}}\\) ",
+            "d) a=\\(\\sqrt{\\frac{\\gamma P}{\\rho R}}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 95,
+        "Question": "What is the relation between equivalent air speed and pressure ratio?",
+        "Options": [
+            "a) Ve=V\\(\\sqrt{\\sigma}\\) ",
+            "b) Ve=\\(\\frac{V}{\\sqrt{\\sigma}}\\) ",
+            "c) Ve=Vσ2",
+            "d) Ve=Vσ-2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 96,
+        "Question": "What is the equivalent air speed where velocity is 330m/s and pressure ratio is 8.447?",
+        "Options": [
+            "a) 959.1m/s",
+            "b) 1000m/s",
+            "c) 981m/s",
+            "d) 954m/s",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 97,
+        "Question": "What is equivalent air speed?",
+        "Options": [
+            "a) The calibrated air speed corrected for scale-altitude error",
+            "b) The true air speed corrected for scale-altitude error",
+            "c) The indicated air speed corrected for scale-altitude error",
+            "d) The ground air speed corrected for scale-altitude error",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 98,
+        "Question": "Which of the following is the full-law calibration equation?",
+        "Options": [
+            "a) pp-p=p0\\(\\Bigg[\\Big\\{1+\\frac{\\gamma-1}{2}\\left(\\frac{V_c}{a_0}\\right)^2\\Big\\}^{\\frac{\\gamma}{\\gamma-1}}-1\\Bigg]\\) ",
+            "b) pp-p=p0\\(\\Bigg[\\Big\\{1+\\frac{\\gamma+1}{2}\\left(\\frac{V_c}{a_0}\\right)^2\\Big\\}^{\\frac{\\gamma}{\\gamma-1}}-1\\Bigg]\\) ",
+            "c) p-p0=p0\\(\\Bigg[\\Big\\{1+\\frac{\\gamma-1}{2}\\left(\\frac{V_c}{a_0}\\right)^2\\Big\\}^{\\frac{\\gamma}{\\gamma-1}}-1\\Bigg]\\) ",
+            "d) pp-p=p0\\(\\Bigg[\\Big\\{1+\\frac{\\gamma-1}{2}\\left(\\frac{V_c}{a_0}\\right)^2\\Big\\}^{\\frac{\\gamma}{\\gamma+1}}-1\\Bigg]\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 99,
+        "Question": "What is the formula for mach number?",
+        "Options": [
+            "a) M=\\(\\frac{V}{a}\\) ",
+            "b) M=\\(\\frac{a}{V}\\) ",
+            "c) V=\\(\\frac{a}{M}\\) ",
+            "d) a=\\(\\frac{M}{V}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 100,
+        "Question": "What is the mach number of an aircraft flying with a speed of 450m/s at a temperature of 290 K?",
+        "Options": [
+            "a) 1.318",
+            "b) 2.045",
+            "c) 3.214",
+            "d) 0.235",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 101,
+        "Question": "Which of the following is the correct relation for mach number?",
+        "Options": [
+            "a) M=V\\(\\sqrt{\\frac{\\rho}{\\gamma P}}\\) ",
+            "b) V=\\(\\frac{a}{M}\\) ",
+            "c) M=V\\(\\sqrt{\\frac{P}{\\gamma\\rho}}\\) ",
+            "d) M=V\\(\\sqrt{\\frac{\\gamma p}{\\rho}}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 102,
+        "Question": "What is the mach number of an aircraft flying in air at a pressure of 101306N/m2 and velocity 556m/s?",
+        "Options": [
+            "a) 1.634",
+            "b) 2.145",
+            "c) 0.125",
+            "d) 1.225",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 103,
+        "Question": "What is the relation between mach number and pressure ratio?",
+        "Options": [
+            "a) \\(\\frac{p1}{p2}=\\Big\\{1+\\frac{\\gamma-1}{2}(M)^2\\Big\\}^\\frac{\\gamma}{\\gamma-1}\\) ",
+            "b) \\(\\frac{p2}{p1}=\\Big\\{1+\\frac{\\gamma-1}{2}(M)^2\\Big\\}^\\frac{\\gamma}{\\gamma-1}\\) ",
+            "c) \\(\\frac{p1}{p2}=\\Big\\{1+\\frac{\\gamma+1}{2}(M)^2\\Big\\}^\\frac{\\gamma}{\\gamma-1}\\) ",
+            "d) \\(\\frac{p1}{p2}=\\Big\\{1-\\frac{\\gamma+1}{2}(M)^2\\Big\\}^\\frac{\\gamma}{\\gamma-1}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 104,
+        "Question": "What is the mach number of aircraft flying in air where the pressure ratio is 1.893?",
+        "Options": [
+            "a) 2",
+            "b) 1",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 105,
+        "Question": "What is the relationship between temperature and mach number?",
+        "Options": [
+            "a) T0=T\\(\\Big[1+\\frac{\\gamma-1}{2}M^2\\Big]\\) ",
+            "b) T0=T\\(\\Big[1+\\frac{\\gamma+1}{2}M^2\\Big]\\) ",
+            "c) T0=T\\(\\Big[1-\\frac{\\gamma-1}{2}M^2\\Big]\\) ",
+            "d) T0=T\\(\\Big[1-\\frac{\\gamma+1}{2}M^2\\Big]\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 106,
+        "Question": " What will be the temperature of aircraft flying in air where the stagnation temperature is 288.15K and mach number is 1?",
+        "Options": [
+            "a) 250.15K",
+            "b) 240.125K",
+            "c) 300K",
+            "d) 270.18K",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 107,
+        "Question": "Which of the following is the correct expression for recovery factor?",
+        "Options": [
+            "a) r=\\(\\frac{T_i+T}{T_t+T}\\) ",
+            "b) r=\\(\\frac{T_i-T}{T_t-T}\\) ",
+            "c) r=\\(\\frac{T_i+T}{T_t-T}\\) ",
+            "d) r=\\(\\frac{T-T_i}{T+T_t}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 108,
+        "Question": "What is the recovery factor if the total temperature is equal to the indicated total temperature?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) -1",
+            "d) -2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 109,
+        "Question": "What is the relation between speed of object and temperature?",
+        "Options": [
+            "a) T0=T\\(\\Big[1+\\frac{\\gamma-1}{2}(\\frac{V}{a})^2\\Big]\\) ",
+            "b) T0=T\\(\\Big[1-\\frac{\\gamma-1}{2}(\\frac{V}{a})^2\\Big]\\) ",
+            "c) T0=T\\(\\Big[1+\\frac{\\gamma+1}{2}(\\frac{V}{a})^2\\Big]\\) ",
+            "d) T0=T\\(\\Big[1-\\frac{\\gamma+1}{2}(\\frac{V}{a})^2\\Big]\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 110,
+        "Question": "What is the relation between recovery factor and temperature?",
+        "Options": [
+            "a) Ti=T[1+r\\(\\frac{\\gamma-1}{2}\\)M2] ",
+            "b) Ti=T[1+r\\(\\frac{\\gamma+1}{2}\\)M2] ",
+            "c) Ti=T[1-r\\(\\frac{\\gamma-1}{2}\\)M2] ",
+            "d) Ti=T[1-r\\(\\frac{\\gamma+1}{2}\\)M2] ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 111,
+        "Question": "What is the indicated temperature of an aircraft having mach number 2 and when temperature and recovery factor are 300K and 2?",
+        "Options": [
+            "a) 780K",
+            "b) 128K",
+            "c) 345K",
+            "d) 435K",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 112,
+        "Question": "What is the mach number of the aircraft which is moving in air at an indicated total temperature is 780K and the temperature, recovery factor at that point are 300K and 2?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 0.1",
+            "d) 0.2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 113,
+        "Question": "Calculate the indicated temperature rise when indicated total temperature is 400K and temperature at that point is 389K.",
+        "Options": [
+            "a) 11",
+            "b) 5.5",
+            "c) 6",
+            "d) 12",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 114,
+        "Question": "Calculate the ideal temperature rise when total temperature is 440K and temperature at that point is 369K.",
+        "Options": [
+            "a) 71",
+            "b) 70",
+            "c) 75",
+            "d) 78",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 115,
+        "Question": "FSO stands for ____________",
+        "Options": [
+            "a) Full-scale output",
+            "b) Flight-scale output",
+            "c) Flight stimulation output",
+            "d) Full screen output",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 116,
+        "Question": "Which of the following is the correct formula for dynamic pressure?",
+        "Options": [
+            "a) q=\\(\\frac{1}{2}\\)γPM2",
+            "b) q=\\(\\frac{1}{2}\\)γρM2",
+            "c) q=\\(\\frac{1}{2}\\)γPV2",
+            "d) q=\\(\\frac{1}{2}\\)γρV2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 117,
+        "Question": "Calculate the dynamic pressure of aircraft in air when mach number and pressure are 2 and 101325N/m2.",
+        "Options": [
+            "a) 283710 N/m2",
+            "b) 541278 N/m2",
+            "c) 352769 N/m2",
+            "d) 457815 N/m2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 118,
+        "Question": "Calculate the dynamic pressure of aircraft in air when density and flow speed are 1.23 kg/m3 and 340m/s.",
+        "Options": [
+            "a) 71094 N/m2",
+            "b) 54128N/m2",
+            "c) 65487 N/m2",
+            "d) 65789 N/m2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 119,
+        "Question": "Find the flow speed of air when the dynamic pressure is 70516 N/m2 and density is 1.23kg/m3.",
+        "Options": [
+            "a) 338.62 m/s",
+            "b) 340 m/s",
+            "c) 313.5 m/s",
+            "d) 321.5 m/s",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 120,
+        "Question": "Which of the following is a correct equation?",
+        "Options": [
+            "a) Fa+Fp+Fg=Fl",
+            "b) Fa+Fp+Fg=Fl",
+            "c) Fa+Fp+Fg=Fl",
+            "d) Fa+Fp+Fg=Fl",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 121,
+        "Question": "What is the basic assumption taken in formulating equations of motion?",
+        "Options": [
+            "a) All the engines will operate at equal gross thrust",
+            "b) All the engines do not operate at equal gross thrust",
+            "c) All the engines will operate at equal gross drag",
+            "d) All the engines do not operate at equal gross drag",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 122,
+        "Question": "Which of the following is not the additional assumption taken in the derivation of the equations of motion?",
+        "Options": [
+            "a) Gross thrust acts in aircraft body axis",
+            "b) Thrust component is small compared to lift component",
+            "c) Aircraft is in symmetric flight",
+            "d) Rate of change of mass is neglected",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 123,
+        "Question": "The total thrust force assumed in the derivation of equations of motion is ___________",
+        "Options": [
+            "a) FN=T cosα+DM",
+            "b) FN=T cosα-DM",
+            "c) T cosα=DM-FN",
+            "d) DM=T cosα+FN",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 124,
+        "Question": "Excess thrust in the longitudinal equations of motion is given by ____________",
+        "Options": [
+            "a) FN+D",
+            "b) FN-D",
+            "c) D-FN",
+            "d) FN*D",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 125,
+        "Question": "What is the function of excess thrust in longitudinal equations of motion?",
+        "Options": [
+            "a) Decrease the potential energy and kinetic energy",
+            "b) Increase the potential energy and kinetic energy",
+            "c) Decrease the potential energy and increase kinetic energy",
+            "d) Increase the potential energy and decrease kinetic energy",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 126,
+        "Question": "In which of the following terms the forces of aircraft must be considered?",
+        "Options": [
+            "a) Aircraft weight, flight mach number, altitude",
+            "b) Aircraft weight, airspeed, altitude, temperature",
+            "c) Aircraft weight, flight mach number, temperature",
+            "d) Aircraft weight, airspeed, altitude",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 127,
+        "Question": "Which of the following are the forces that are concerned with the performance of an aircraft?",
+        "Options": [
+            "a) Lift, drag, weight",
+            "b) Lift, drag, side force",
+            "c) Lift, drag",
+            "d) Lift, drag, weight, side force",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 128,
+        "Question": "Which of the following is the correct formula for reynolds number?",
+        "Options": [
+            "a) Re=\\(\\frac{\\rho Vl}{\\mu}\\) ",
+            "b) Re=\\(\\frac{PVl}{\\mu}\\) ",
+            "c) Re=\\(\\frac{\\rho \\mu l}{V}\\) ",
+            "d) Re=\\(\\frac{\\rho Vl}{P}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 129,
+        "Question": "The range of Re in the typical flight is ___________",
+        "Options": [
+            "a) 106 to 109",
+            "b) 105 to 109",
+            "c) 106 to 108",
+            "d) 106 to 1010",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 130,
+        "Question": "What is the range of mach number for a conventional aircraft?",
+        "Options": [
+            "a) 0 to 3.2",
+            "b) 0 to 2.2",
+            "c) 0 to 4.2",
+            "d) 0 to 1.2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 131,
+        "Question": "What is the critical mach number for most subsonic aircraft?",
+        "Options": [
+            "a) Around 0.8",
+            "b) Around 2",
+            "c) Around 1",
+            "d) Around 1.5",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 132,
+        "Question": "Which of the following is the correct formula for lift of an aircraft?",
+        "Options": [
+            "a) L=\\(\\frac{1}{2}\\)ρV2SCl",
+            "b) L=\\(\\frac{1}{2}\\)V2SCl",
+            "c) L=\\(\\frac{1}{2}\\)ρV2Cl",
+            "d) L=\\(\\frac{1}{2}\\)PV2SCl",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 133,
+        "Question": "What is the theoretical value of lift curve slope of a flat airfoil?",
+        "Options": [
+            "a) 2π per radian",
+            "b) 4aπ per radian",
+            "c) 3π per radian",
+            "d) π per radian",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 134,
+        "Question": "What is meant by stalling angle of attack?",
+        "Options": [
+            "a) The angle at which we get maximum lift",
+            "b) The angle at which we get maximum drag",
+            "c) The angle at which we get minimum lift",
+            "d) The angle at which we get minimum drag",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 135,
+        "Question": "Which of the following is a correct condition when the angle of attack is beyond stalling angle?",
+        "Options": [
+            "a) Drag is greater than lift",
+            "b) Weight is less than lift",
+            "c) Drag is less than lift",
+            "d) Weight is less than thrust",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 136,
+        "Question": "What is the value of Cl of a symmetric airfoil if the angle of attack is 5°?",
+        "Options": [
+            "a) 0.548",
+            "b) 0.0548",
+            "c) 3.1416",
+            "d) 31.416",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 137,
+        "Question": "What is stall buffet condition?",
+        "Options": [
+            "a) It is an aerodynamic vibration caused due to separation or turbulent airflow",
+            "b) it is a condition in which the separation is laminar",
+            "c) It is a condition in which the flow separation is not considered",
+            "d) It is a condition in which the turbulence is not considered",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 138,
+        "Question": "Total drag is the sum of ______________",
+        "Options": [
+            "a) lift dependent drag and lift independent drag",
+            "b) lift dependent drag, lift independent drag and volume dependent wave drag",
+            "c) lift dependent drag and volume dependent wave drag",
+            "d) volume dependent wave drag and lift independent drag",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 139,
+        "Question": "Which of the following is the correct relation between lift dependent drag, lift independent drag and drag coefficient?",
+        "Options": [
+            "a) CD=CDz+KCL2",
+            "b) CD=CDz-KCL2",
+            "c) CD=CDz*KCL2",
+            "d) CD=CDz/KCL2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 140,
+        "Question": "Which of the following are the two types of lift independent drag?",
+        "Options": [
+            "a) surface friction drag and profile drag",
+            "b) induced drag and profile drag",
+            "c) surface friction drag and induced drag",
+            "d) parasitic drag and induced drag",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 141,
+        "Question": "How is the zero-lift drag force related to atmospheric pressure?",
+        "Options": [
+            "a) The zero-lift drag force is directly proportional to atmospheric pressure",
+            "b) The zero-lift drag force is indirectly proportional to atmospheric pressure",
+            "c) The zero-lift drag force is twice multiple to atmospheric pressure",
+            "d)The zero-lift drag force is half divided to atmospheric pressure",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 142,
+        "Question": "What is the correct expression for induced drag?",
+        "Options": [
+            "a) \\(\\frac{ZW^2}{V^2_e}\\) ",
+            "b) YVe2",
+            "c) \\(\\frac{ZW^2}{V_e}\\) ",
+            "d) YVe",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 143,
+        "Question": "What is the correct expression for pressure drag?",
+        "Options": [
+            "a) \\(\\frac{ZW^2}{V^2_e}\\) ",
+            "b) YVe2",
+            "c) \\(\\frac{ZW^2}{V_e}\\) ",
+            "d) YVe",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 144,
+        "Question": "Which of the following is correct equation?",
+        "Options": [
+            "a) D=YVee+\\(\\frac{ZW^2}{V^2_e}\\) ",
+            "b) CD=CDz-KCL2",
+            "c) D=Dz-Di",
+            "d) Vemd=\\(\\sqrt[3]{\\frac{ZW^2}{Y}}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 145,
+        "Question": "Which of the following is the correct equation for minimum speed drag?",
+        "Options": [
+            "a) Vemd=\\(\\sqrt[3]{\\frac{ZW^2}{Y}}\\) ",
+            "b) Vemd=\\(\\sqrt[4]{\\frac{ZW^2}{Y}}\\) ",
+            "c) Vemd=\\(\\sqrt[4]{\\frac{ZW^2}{Y^2}}\\) ",
+            "d) Vemd=\\(\\sqrt[3]{\\frac{ZW^2}{Y^2}}\\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 146,
+        "Question": "What is overall drag force?",
+        "Options": [
+            "a) The sum of drag force, zero-lift drag, lift-dependent drag and volume dependent wave drag",
+            "b) The sum of lift-dependent drag and volume dependent wave drag",
+            "c) The sum of drag force, lift-dependent drag and volume dependent wave drag",
+            "d) The sum of drag force, zero-lift drag and lift-dependent drag",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 147,
+        "Question": "Which of the following is the correct equation for the Prandtl-Glauert factor?",
+        "Options": [
+            "a) β=\\(\\sqrt{1-M^2}\\) ",
+            "b) β=\\(\\sqrt{1-M}\\) ",
+            "c) β=\\(\\sqrt{M^2-1}\\) ",
+            "d) β=\\(\\sqrt{1+M^2}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 148,
+        "Question": "Power is defined as ___________",
+        "Options": [
+            "a) product of force and acceleration",
+            "b) ability to do work",
+            "c) rate of doing work",
+            "d) capacity to do work",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 149,
+        "Question": "Which of the following is correct relation between EAS and minimum power speed?",
+        "Options": [
+            "a) VemP=\\(\\sqrt[3]{\\frac{ZW^2}{3Y}}\\) ",
+            "b) VemP=\\(\\sqrt[4]{\\frac{ZW^2}{Y}}\\) ",
+            "c) VemP=\\(\\sqrt[4]{\\frac{ZW^2}{3Y}}\\) ",
+            "d) VemP=\\(\\sqrt[4]{\\frac{ZW}{3Y}}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 150,
+        "Question": "Which of the following is correct relation between EAS and drag power?",
+        "Options": [
+            "a) P\\(\\sqrt{\\sigma}\\)=YVe3+\\(\\frac{ZW^2}{V_e}\\) ",
+            "b) P\\(\\sqrt{\\sigma}\\)=YVe3–\\(\\frac{ZW^2}{V_e}\\) ",
+            "c) P\\(\\sqrt{\\sigma}\\)=YVe2-+\\(\\frac{ZW^2}{V_e}\\) ",
+            "d) P\\(\\sqrt{\\sigma}\\)=YVe2–\\(\\frac{ZW^2}{V_e}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 151,
+        "Question": "Which of the following equation is correct?",
+        "Options": [
+            "a) P\\(\\sqrt{\\sigma}\\)=YVe3+\\(\\frac{ZW^2}{V_e}\\) ",
+            "b) VemP=\\(\\sqrt[4]{\\frac{ZW}{3Y}}\\) ",
+            "c) P\\(\\sqrt{\\sigma}\\)=YVe2+\\(\\frac{ZW^2}{V_e}\\) ",
+            "d) VemP=\\(\\sqrt[3]{\\frac{ZW^2}{3Y}}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 152,
+        "Question": "The minimum drag speed and minimum power speed are related by ___________",
+        "Options": [
+            "a) \\(\\sqrt[4]{3}\\) ",
+            "b) \\(\\sqrt[4]{2}\\) ",
+            "c) \\(\\sqrt[2]{3}\\) ",
+            "d) \\(\\sqrt[3]{3}\\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 153,
+        "Question": "What is the relation between true air speed and equivalent air speed?",
+        "Options": [
+            "a) VT=\\(\\frac{V_e}{\\sqrt{\\sigma}}\\) ",
+            "b) VT=\\(\\frac{V_e}{4\\sqrt{\\sigma}}\\) ",
+            "c) Ve=\\(\\frac{V_T}{\\sqrt{\\sigma}}\\) ",
+            "d) VT=\\(\\frac{V_e}{3\\sqrt{\\sigma}}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 154,
+        "Question": "The forms of powerplant used in aircraft propulsion are ___________",
+        "Options": [
+            "a) thrust-producing and power producing",
+            "b) weight-producing and power producing",
+            "c) thrust-producing and weight producing",
+            "d) thrust-producing, power producing and weight producing",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 155,
+        "Question": "What is thrust producing powerplant?",
+        "Options": [
+            "a) Propulsive force that is directed by increasing momentum of the airflow",
+            "b) Propulsive force that is obtained from shaft power by propeller",
+            "c) Propulsive force that is directed by decreasing momentum of the airflow",
+            "d) Propulsive force that is obtained from engine power by propeller",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 156,
+        "Question": "Which of the following is not a thrust-producing powerplant?",
+        "Options": [
+            "a) turbojet",
+            "b) turbofan",
+            "c) rocket",
+            "d) piston engine",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 157,
+        "Question": "What is the function of the compressor in an aircraft?",
+        "Options": [
+            "a) To supply sufficient amount of air for combustion",
+            "b) Increase velocity",
+            "c) Decrease pressure",
+            "d) To cut off the air flow inside the aircraft",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 158,
+        "Question": "What is net propulsive force?",
+        "Options": [
+            "a) The stream force exited at the exit of the engine",
+            "b) The difference between the stream force entering and leaving the engine",
+            "c) The stream force entering at the entrance of the engine",
+            "d) The product of stream force entering and leaving the engine",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 159,
+        "Question": "What is gross thrust?",
+        "Options": [
+            "a) Thrust produced at the exit of the nozzle",
+            "b) The difference between the stream force entering and leaving the engine",
+            "c) The stream force exited at the exit of the engine",
+            "d) The product of stream force entering and leaving the engine",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 160,
+        "Question": "The net propulsive thrust is given by _________",
+        "Options": [
+            "a) FN=FG-Dm",
+            "b) FN=FG+Dm",
+            "c) FN=FG*Dm",
+            "d) FN=FG/Dm",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 161,
+        "Question": "What kind of forces is responsible for airframe drag?",
+        "Options": [
+            "a) Forces resulting from external flow",
+            "b) Forces resulting from internal flow",
+            "c) Forces resulting from discontinuous flow",
+            "d) Forces resulting from continuous flow",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 162,
+        "Question": "What is thrust drag accounting?",
+        "Options": [
+            "a) Allocation of flow forces to the airframe drag",
+            "b) Allocation of flow forces to the wave drag",
+            "c) Allocation of flow forces to the induced drag",
+            "d) Allocation of flow forces to the parasitic drag",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 163,
+        "Question": "The net thrust of the powerplant is affected by ____________",
+        "Options": [
+            "a) pressure and temperature",
+            "b) altitude andtemperature",
+            "c) temperature and mach number",
+            "d) mach number and altitude",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 164,
+        "Question": "Which of the following is the correct equation for net thrust?",
+        "Options": [
+            "a) FN=ṁ(Vj+V)",
+            "b) FN=(Vj-V)",
+            "c) FN=ṁ(Vj-V)",
+            "d) FN=ṁ(V-Vj)",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 165,
+        "Question": "What is the net thrust of the jet engine if the mass flow rate is 500kg/s, exit velocity is 1000m/s and inlet velocity is 600m/s?",
+        "Options": [
+            "a) 400kN",
+            "b) 600kN",
+            "c) 500kN",
+            "d) 200kN",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 166,
+        "Question": "How is thrust related to altitude of an aircraft?",
+        "Options": [
+            "a) Thrust is directly proportional",
+            "b) Thrust is indirectly proportional",
+            "c) They are independent of each other",
+            "d) Thrust increases square of altitude",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 167,
+        "Question": "What will be the net thrust when momentum drag is 50N and gross thrust is 400N?",
+        "Options": [
+            "a) 450N",
+            "b) 8N",
+            "c) 350N",
+            "d) 350kN",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 168,
+        "Question": "What is power producing powerplant?",
+        "Options": [
+            "a) Propulsive force that is directed by increasing momentum of the airflow",
+            "b) Propulsive force that is obtained from shaft power by propeller",
+            "c) Propulsive force that is directed by decreasing momentum of the airflow",
+            "d) Propulsive force that is obtained from engine power by propeller",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 169,
+        "Question": "Which of the following is a power-producing powerplant?",
+        "Options": [
+            "a) Turbojet",
+            "b) Turbofan",
+            "c) Rocket",
+            "d) Piston engine",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 170,
+        "Question": "Which of the following statement is correct?",
+        "Options": [
+            "a) Thrust power delivered by an aircraft engine is always less than shaft power delivered",
+            "b) Thrust power delivered by an aircraft engine is always more than shaft power delivered",
+            "c) Thrust power delivered by an aircraft engine is directly proportional to shaft power delivered",
+            "d) Thrust power delivered by an aircraft engine is inversly proportional to shaft power delivered",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 171,
+        "Question": "Which of the following represents the correct formula for propeller efficiency?",
+        "Options": [
+            "a) η=\\(\\frac{T}{P}\\) ",
+            "b) η=\\(\\frac{P}{TV}\\) ",
+            "c) η=\\(\\frac{T}{PV}\\) ",
+            "d) η=\\(\\frac{TV}{P}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 172,
+        "Question": "Which of the following relations are correct for pressure coefficient?",
+        "Options": [
+            "a) CP=\\(\\frac{P}{\\frac{\\rho n^3D^4}{2}}\\) ",
+            "b) CP=\\(\\frac{P}{\\frac{\\rho n^2D^5}{2}}\\) ",
+            "c) CP=\\(\\frac{TV}{\\frac{\\rho n^3D^5}{2}}\\) ",
+            "d) CP=\\(\\frac{P}{\\frac{\\rho n^3D^5}{2}}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 173,
+        "Question": "Which of the following relations are correct for propeller advance ratio?",
+        "Options": [
+            "a) J=\\(\\frac{TV}{nD}\\) ",
+            "b) J=\\(\\frac{P}{nD}\\) ",
+            "c) J=\\(\\frac{V}{nD}\\) ",
+            "d) J=\\(\\frac{PV}{nD}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 174,
+        "Question": "What is the propeller advance ratio for the power-producing powerplant when the true airspeed is 300m/s and the diameter of propeller is 0.5 m with rotational speed of 117.81rad/sec?",
+        "Options": [
+            "a) 7.01",
+            "b) 9.02",
+            "c) 5.09",
+            "d) 5.89",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 175,
+        "Question": "What is meant by static thrust?",
+        "Options": [
+            "a) thrust at maximum airspeed",
+            "b) power at zero airspeed",
+            "c) thrust at zero airspeed",
+            "d) power at maximum airspeed",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 176,
+        "Question": "Which of the following is the correct equation for longitudinal performance equation of motion?",
+        "Options": [
+            "a) \\(\\frac{\\eta P}{V}\\)=D-Wsinγ2+mV",
+            "b) \\(\\frac{\\eta P}{V}\\)=D+Wsinγ2-mV",
+            "c) \\(\\frac{\\eta T}{V}\\)=D+Wsinγ2+mV",
+            "d) \\(\\frac{\\eta P}{V}\\)=D+Wsinγ2+mV",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 177,
+        "Question": "The minimum drag speed is given by ___________",
+        "Options": [
+            "a) \\(\\big(\\frac{2W}{\\rho S}\\big)^{\\frac{1}{2}}\\big(\\frac{K}{C_{Dz}}\\big)^\\frac{1}{4}\\) ",
+            "b) \\(\\big(\\frac{2W}{\\gamma \\rho S}\\big)^{\\frac{1}{2}}\\big(\\frac{K}{C_{Dz}}\\big)^\\frac{1}{4}\\) ",
+            "c) \\(\\big(\\frac{2W}{\\rho S}\\big)^{\\frac{1}{2}}\\big(\\frac{K}{C_{Dz}}\\big)^\\frac{1}{2}\\) ",
+            "d) \\(\\big(\\frac{2W}{\\gamma \\rho S}\\big)^{\\frac{1}{2}}\\big(\\frac{K}{C_{Dz}}\\big)^\\frac{1}{2}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 178,
+        "Question": "The minimum drag mach number is given by ___________",
+        "Options": [
+            "a) \\(\\big(\\frac{2W}{\\rho S}\\big)^{\\frac{1}{2}}\\big(\\frac{K}{C_{Dz}}\\big)^\\frac{1}{4}\\) ",
+            "b) \\(\\big(\\frac{2W}{\\gamma \\rho S}\\big)^{\\frac{1}{2}}\\big(\\frac{K}{C_{Dz}}\\big)^\\frac{1}{4}\\) ",
+            "c) \\(\\big(\\frac{2W}{\\rho S}\\big)^{\\frac{1}{2}}\\big(\\frac{K}{C_{Dz}}\\big)^\\frac{1}{2}\\) ",
+            "d) \\(\\big(\\frac{2W}{\\gamma \\rho S}\\big)^{\\frac{1}{2}}\\big(\\frac{K}{C_{Dz}}\\big)^\\frac{1}{2}\\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 179,
+        "Question": "At steady state flight condition",
+        "Options": [
+            "a) T>D",
+            "b) T<D",
+            "c) T=D",
+            "d) T≠D",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 180,
+        "Question": "Which of the following is the correct relation between minimum power speed and minimum drag speed?",
+        "Options": [
+            "a) Vmp=\\(\\frac{1}{\\sqrt[2]{3}}\\)Vmd",
+            "b) Vmp=\\(\\frac{1}{\\sqrt[4]{3}}\\)Vmd",
+            "c) Vmp=\\(\\frac{1}{\\sqrt[3]{3}}\\)Vmd",
+            "d) Vmp=\\(\\frac{1}{\\sqrt[4]{5}}\\)Vmd",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 181,
+        "Question": "What is the value of minimum power speed when minimum drag speed is 300m/s?",
+        "Options": [
+            "a) 173.21 m/s",
+            "b) 227.95 m/s",
+            "c) 134.16 m/s",
+            "d) 200.62 m/s",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 182,
+        "Question": "What is the relative airspeed of an aircraft whose airspeed and minimum drag speed are 500m/s and 150m/s?",
+        "Options": [
+            "a) 3.33",
+            "b) 0.3",
+            "c) 33.33",
+            "d) 0.333",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 183,
+        "Question": "What will be the drag to minimum drag ratio when the relative airspeed is 3.33?",
+        "Options": [
+            "a) 5.49",
+            "b) 1.51",
+            "c) 5.59",
+            "d) 1.82",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 184,
+        "Question": "Which of the following is the correct performance equation?",
+        "Options": [
+            "a) \\(\\big[\\frac{\\lambda}{u}+τ\\big]+\\frac{1}{2}\\big[u^2+\\frac{1}{u^2}\\big]\\)=Emax\\(\\big\\{sin\\gamma_2-\\frac{V}{g}\\big\\}\\) ",
+            "b) \\(\\big[\\frac{\\lambda}{u}+τ\\big]-\\frac{1}{2}\\big[u^2+\\frac{1}{u^2}\\big]\\)=Emax\\(\\big\\{sin\\gamma_2-\\frac{V}{g}\\big\\}\\) ",
+            "c) \\(\\big[\\frac{\\lambda}{u}+τ\\big]+\\frac{1}{2}\\big[u^2+\\frac{1}{u^2}\\big]\\)=Emax\\(\\big\\{sin\\gamma_2+\\frac{V}{g}\\big\\}\\) ",
+            "d) \\(\\big[\\frac{\\lambda}{u}+τ\\big]-\\frac{1}{2}\\big[u^2+\\frac{1}{u^2}\\big]\\)=Emax\\(\\big\\{sin\\gamma_2+\\frac{V}{g}\\big\\}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 185,
+        "Question": "What is a trim in aircraft performance?",
+        "Options": [
+            "a) The state of equilibrium where the forces and moments are balanced",
+            "b) The state of equilibrium where the forces and moments are not balanced",
+            "c) The state of equilibrium where only the forces are balanced",
+            "d) The state of equilibrium where only the moments are balanced",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 186,
+        "Question": "An aircraft is climbing with a 20° of climb angle and a 5° of angle of attack having a mass of 11,000 kg and aircraft drag is 9,000 N then determine engine thrust.",
+        "Options": [
+            "a) 5257.79 N",
+            "b) 1810.97 N",
+            "c) 28013.99 N",
+            "d) 46082.75 N",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 187,
+        "Question": "An aircraft is climbing with a 20° of climb angle and a 5° of angle of attack having a mass of 11,000 kg and aircraft drag is 9,000 N then determine aircraft lift.",
+        "Options": [
+            "a) 11453.17 N",
+            "b) 9220.07 N",
+            "c) 11553.17 N",
+            "d) 97385.85 N",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 188,
+        "Question": "An aircraft is climbing with a 20° of climb angle and a 5° of angle of attack having a mass of 11,000 kg and aircraft thrust is 46082.75N then determine aircraft drag.",
+        "Options": [
+            "a) 33898.64 N",
+            "b) 52708.59 N",
+            "c) 82814.78 N",
+            "d) 8999.99 N",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 189,
+        "Question": "What is specific air range?",
+        "Options": [
+            "a) horizontal distance flown per unit of fuel consumed",
+            "b) vertical distance flown per unit of fuel consumed",
+            "c) horizontal distance flown per unit time",
+            "d) vertical distance flown per unit time",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 190,
+        "Question": "What is specific endurance?",
+        "Options": [
+            "a) It is instantaneous flight distance per unit of time",
+            "b) It is instantaneous flight time per unit of distance",
+            "c) It is instantaneous flight distance per unit of fuel consumed",
+            "d) It is instantaneous flight time per unit of fuel consumed",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 191,
+        "Question": "What will be the specific endurance of an aircraft having fuel mass flow 0.75 kg/s?",
+        "Options": [
+            "a) 4.33 s/kg",
+            "b) 3.33 s/kg",
+            "c) 1.33 s/kg",
+            "d) 2.33 s/kg",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 192,
+        "Question": "What will be the specific endurance of an aircraft having fuel mass flow 0.75 kg/s and true air speed is 300m/s?",
+        "Options": [
+            "a) 400 m/kg",
+            "b) 333 m/kg",
+            "c) 133 m/kg",
+            "d) 250 m/kg",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 193,
+        "Question": "What is specific fuel consumption?",
+        "Options": [
+            "a) It is the fuel flow rate per unit distance",
+            "b) It is the fuel flow rate per unit thrust",
+            "c) It is the fuel flow rate per unit time",
+            "d) It is the mass flow rate per unit thrust",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 194,
+        "Question": "There are ___________ fuel flow laws.",
+        "Options": [
+            "a) one",
+            "b) two",
+            "c) three",
+            "d) four",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 195,
+        "Question": "What is the significance of first fuel flow law?",
+        "Options": [
+            "a) Specific fuel consumption is not considered",
+            "b) Considers temperature and effects of mach number",
+            "c) Assumptions are taken for empirical fuel flow data",
+            "d) Specific fuel consumption is constant",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 196,
+        "Question": "What is the significance of second fuel flow law?",
+        "Options": [
+            "a) specific fuel consumption is not considered",
+            "b) considers temperature and effects of mach number",
+            "c) assumptions are taken for empirical fuel flow data",
+            "d) specific fuel consumption is constant",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 197,
+        "Question": "What is the significance of third fuel flow law?",
+        "Options": [
+            "a) Specific fuel consumption is not considered",
+            "b) Considers temperature and effects of mach number",
+            "c) Assumptions are taken for empirical fuel flow data",
+            "d) Specific fuel consumption is constant",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 198,
+        "Question": "What is meant by fuel ratio?",
+        "Options": [
+            "a) ratio of initial fuel of aircraft to that of final weight of aircraft",
+            "b) ratio of final fuel of aircraft to that of initial weight of aircraft",
+            "c) ratio of initial weight of aircraft to that of final weight of aircraft",
+            "d) ratio of final weight of aircraft to that of initial weight of aircraft",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 199,
+        "Question": "Which of the following is the correct equation?",
+        "Options": [
+            "a) SAR=\\(\\frac{C}{V}\\frac{L}{D}\\frac{1}{W}\\) ",
+            "b) SE=\\(\\frac{C}{V}\\frac{L}{D}\\frac{1}{W}\\) ",
+            "c) SAR=\\(\\frac{V}{C}\\frac{L}{D}\\frac{1}{W}\\) ",
+            "d) SAR=\\(\\frac{1}{C}\\frac{L}{D}\\frac{1}{W}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 200,
+        "Question": "There are two fuel flow laws. They are:",
+        "Options": [
+            "i.\tC=C1, here specific fuel consumption is constant",
+            "ii.\t C=C3+C4M, here it considers temperature and effects of mach number",
+            "a) True",
+            "b) False",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 201,
+        "Question": "What is the fuel ratio of aircraft when initial and final weight are 385560kg and 15560kg?",
+        "Options": [
+            "a) 34.78",
+            "b) 24.78",
+            "c) 56.76",
+            "d) 45.65",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 202,
+        "Question": "What is the condition of cruise method 1?",
+        "Options": [
+            "a) Air pressure is increased",
+            "b) Aircraft weight is increased",
+            "c) W/D ratio is kept constant",
+            "d) L/D ratio is varying",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 203,
+        "Question": "Cruise climb technique is involved in ___________",
+        "Options": [
+            "a) cruise method 1",
+            "b) cruise method 2",
+            "c) cruise method 3",
+            "d) cruise method 4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 204,
+        "Question": "Which of the following is incorrect statement regarding cruise method 1?",
+        "Options": [
+            "a) W/D ratio is kept constant",
+            "b) L/D ratio is varying",
+            "c) Air pressure is decreased",
+            "d) Aircraft weight is decreased",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 205,
+        "Question": "What is Brequet Range expression?",
+        "Options": [
+            "a) R1 = \\(\\frac{D}{C}\\frac{L}{V}\\) ln ω",
+            "b) R1 = \\(\\frac{1}{C} \\left[\\frac{2W}{\\rho S}\\right]^{\\frac{1}{2}} \\frac{C_L^{\\frac{1}{2}}}{C_D}\\) ln ω",
+            "c) R1 = \\(\\frac{1}{V} \\left[\\frac{2W}{\\rho S}\\right]^{\\frac{1}{2}} \\frac{C_L^{\\frac{1}{2}}}{C_D}\\)  ln ω",
+            "d) R1 = \\(\\frac{V}{C}\\frac{L}{D}\\) ln ω",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 206,
+        "Question": "Brequet Range expression value is maximum at __________",
+        "Options": [
+            "a) 1.316 Vmd",
+            "b) 1.216 Vmd",
+            "c) 1.3 Vmd",
+            "d) 1.2 Vmd",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 207,
+        "Question": "What is range factor in cruise method 1?",
+        "Options": [
+            "a) \\(\\left[\\frac{V_{mdi}}{C} E_{max}\\right]\\) ",
+            "b) \\(\\left[\\frac{V_{max}}{C} E_{max}\\right]\\) ",
+            "c) \\(\\Big\\{\\frac{2u^3}{u^4+1}\\Big\\}\\) ",
+            "d) \\(\\Big\\{\\frac{2u^4}{u^4+1}\\Big\\}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 208,
+        "Question": "Which of the following does range factor consists?",
+        "Options": [
+            "a) Air density",
+            "b) Cruise weight",
+            "c) Temperature",
+            "d) Cruise weight and air density",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 209,
+        "Question": "Which of the following represents range function?",
+        "Options": [
+            "a) \\(\\Big[\\frac{V_{mdi}}{C}E_{max}\\Big]\\)lnω",
+            "b) \\(\\Big[\\frac{V_{max}}{C}E_{max}\\Big]\\)lnω",
+            "c) \\(\\Big\\{\\frac{2u^3}{u^4+1}\\Big\\}\\)lnω",
+            "d) \\(\\Big\\{\\frac{2u^4}{u^4+1}\\Big\\}\\)lnω",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 210,
+        "Question": "Which of the following is correct statement regarding cruise method 1?",
+        "Options": [
+            "a) Fuel ratio for very long range aircraft is 1.3",
+            "b) Fuel ratio for short range aircraft is 1.3",
+            "c) Fuel ratio for medium to long range aircraft is 1.3",
+            "d) Fuel ratio for short range aircraft is 1.5",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 211,
+        "Question": "What is endurance factor?",
+        "Options": [
+            "a) \\(\\big[\\frac{E_{max}}{C}\\big]\\) ",
+            "b) \\(\\big[\\frac{E_{max}}{VC}\\big]\\) ",
+            "c) \\(\\big\\{\\frac{2u^3}{u^4+1}\\big\\}\\) ",
+            "d) \\(\\big\\{\\frac{2u^4}{u^4+1}\\big\\}\\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 212,
+        "Question": "What is endurance function?",
+        "Options": [
+            "a) \\(\\big[\\frac{E_{max}}{C}\\big]\\) ",
+            "b) lnω",
+            "c) \\(\\big\\{\\frac{2u^2}{u^4+1}\\big\\}\\) ",
+            "d) \\(\\big\\{\\frac{2u^2}{u^4+1}\\big\\}\\)lnω",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 213,
+        "Question": "Which factor must be reduced in constant angle of attack and constant altitude method?",
+        "Options": [
+            "a) Mach number",
+            "b) Angle of attack",
+            "c) Altitude",
+            "d) Temperature",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 214,
+        "Question": "Which of the following indicates the range formula in cruise method 2?",
+        "Options": [
+            "a) R=\\(\\frac{1}{C}\\big(\\frac{2}{\\rho SC_L}\\big)^{\\frac{1}{2}}\\int_{W_{i}}^{W_{f}}\\frac{dW}{W^{\\frac{1}{2}}}\\) ",
+            "b) R=\\(\\Big(\\frac{2}{\\rho SC_L}\\Big)^{\\frac{1}{2}}\\frac{L}{D}\\int_{W_{i}}^{W_{f}}\\frac{dW}{W^{\\frac{1}{2}}}\\) ",
+            "c) R=\\(\\Big(\\frac{2}{\\rho SC_L}\\Big)^{\\frac{1}{2}}\\frac{LC}{D}\\int_{W_{i}}^{W_{f}}\\frac{dW}{W^{\\frac{1}{2}}}\\) ",
+            "d) R=\\(\\frac{1}{C}\\Big(\\frac{2}{\\rho SC_L}\\Big)^{\\frac{1}{2}}\\frac{L}{D}\\int_{W_{i}}^{W_{f}}\\frac{dW}{W^{\\frac{1}{2}}}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 215,
+        "Question": "Which of the following is the correct integrated range equation of cruise method 2?",
+        "Options": [
+            "a) R=\\(\\frac{1}{C}\\Big(\\frac{2W_i}{S_{\\rho}}\\Big)^{\\frac{1}{2}}\\frac{C_L}{C_D}2\\Big(1-\\omega^{\\frac{-1}{2}}\\Big)\\) ",
+            "b) R=\\(\\Big(\\frac{2W_i}{S_{\\rho}}\\Big)^{\\frac{1}{2}}\\frac{C_{L}^{0.5}}{C_D}2\\Big(1-\\omega^{\\frac{-1}{2}}\\Big)\\) ",
+            "c) R=\\(\\frac{1}{C}\\Big(\\frac{2W_i}{S_{\\rho}}\\Big)^{\\frac{1}{2}}\\frac{C_{L}^{0.5}}{C_D}2\\Big(1-\\omega^{\\frac{-1}{2}}\\Big)\\) ",
+            "d) R=\\(\\frac{1}{C}\\Big(\\frac{2W_i}{S_{\\rho}}\\Big)^{\\frac{1}{2}}\\frac{C_{L}^{0.5}}{C_D}2\\Big(1-\\omega\\Big)\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 216,
+        "Question": "Cruise method 2 is also known as ____________",
+        "Options": [
+            "a) constant angle of attack and variable mach number",
+            "b) constant angle of attack and constant mach number",
+            "c) constant angle of attack and constant altitude number",
+            "d) constant mach number and constant altitude number",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 217,
+        "Question": "Which of the following factors are not constant in cruise method 2?",
+        "Options": [
+            "a) altitude",
+            "b) relative airspeed",
+            "c) mach number",
+            "d) angle of attack",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 218,
+        "Question": "Which of the following is a reason of disadvantage of cruise method 2?",
+        "Options": [
+            "a) Increased mach number",
+            "b) Fuel saving",
+            "c) Increased time of flight",
+            "d) Increased weight of aircraft",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 219,
+        "Question": "In which of the following cases cruise method 2 is used?",
+        "Options": [
+            "a) Commercial aircraft",
+            "b) Fighter aircraft",
+            "c) Military",
+            "d) Patrol and surveillance",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 220,
+        "Question": "Which factor must be reduced in cruise method 3?",
+        "Options": [
+            "a) Mach number",
+            "b) Angle of attack",
+            "c) Altitude",
+            "d) Temperature",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 221,
+        "Question": "Which of the following indicates the range formula in cruise method 3?",
+        "Options": [
+            "a) R=\\(\\frac{1}{C}\\Big(\\frac{2}{\\rho SC_L}\\Big)^{\\frac{1}{2}}\\int_{W_i}^{W_f}\\frac{dW}{W^{\\frac{1}{2}}}\\) ",
+            "b) R=\\(\\Big(\\frac{2}{\\rho SC_L}\\Big)^{\\frac{1}{2}}\\frac{L}{D}\\int_{W_i}^{W_f}\\frac{dW}{W^{\\frac{1}{2}}}\\) ",
+            "c) R=\\(\\Big[\\frac{V_{mdi}}{C}E_{max}\\Big]2u_i\\Big\\{tan^{-1}\\Big[\\frac{1}{u_{i}^2}\\Big]+tan^{-1}\\Big[\\frac{1}{\\omega u_{i}^2}\\Big]\\Big\\}\\) ",
+            "d) R=\\(\\Big[\\frac{V_{mdi}}{C}E_{max}\\Big]2u_i\\Big\\{tan^{-1}\\Big[\\frac{1}{u_{i}^2}\\Big]-tan^{-1}\\Big[\\frac{1}{\\omega u_{i}^2}\\Big]\\Big\\}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 222,
+        "Question": "Which of the following is the correct integrated range equation of cruise method 3?",
+        "Options": [
+            "a) R=\\(\\frac{1}{C}\\Big(\\frac{2W_i}{S\\rho}\\Big)^{\\frac{1}{2}}\\frac{C_L}{C_D}2\\Big(1-\\omega^{\\frac{-1}{2}}\\Big)\\) ",
+            "b) R=\\(\\frac{V}{C}\\int_{W_i}^{W_f}\\frac{dW}{D}\\) ",
+            "c) R=\\(\\Big[\\frac{V_{mdi}}{C}E_{max}\\Big]2u_i\\Big\\{tan^{-1}\\Big[\\frac{1}{u_{i}^2}\\Big]-tan^{-1}\\Big[\\frac{1}{\\omega u_{i}^2}\\Big]\\Big\\}\\) ",
+            "d) R=\\(\\frac{1}{C}\\Big(\\frac{2W_i}{S\\rho}\\Big)^{\\frac{1}{2}}\\frac{C_{L}^{0.5}}{C_D}2\\Big(1-\\omega^{\\frac{-1}{2}}\\Big)\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 223,
+        "Question": "Cruise method 3 is also known as ____________",
+        "Options": [
+            "a) constant angle of attack and variable mach number",
+            "b) constant angle of attack and constant mach number",
+            "c) constant angle of attack and constant altitude number",
+            "d) constant mach number and constant altitude number",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 224,
+        "Question": "Which factor is not a constant factor in cruise method 3?",
+        "Options": [
+            "a) Mach number",
+            "b) Angle of attack",
+            "c) Altitude",
+            "d) Relative air speed",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 225,
+        "Question": "Which of the following is a reason of disadvantage of cruise method 3?",
+        "Options": [
+            "a) Increased mach number",
+            "b) Fuel saving",
+            "c) Increased time of flight",
+            "d) Increased weight of aircraft",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 226,
+        "Question": "In which of the following cases cruise method 3 is used?",
+        "Options": [
+            "a) Commercial aircraft",
+            "b) Fighter aircraft",
+            "c) Military",
+            "d) Patrol and surveillance",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 227,
+        "Question": "The range and endurance are proportional to which of the following factors?",
+        "Options": [
+            "a) fuel flow",
+            "b) net thrust",
+            "c) bypass ratio",
+            "d) airspeed",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 228,
+        "Question": "Which of the following is a correct form of fuel flow?",
+        "Options": [
+            "a) C=C2θMn",
+            "b) C=C2θ\\(\\frac{1}{2}\\)M",
+            "c) C=C2θM",
+            "d) C=C2θ\\(\\frac{1}{2}\\)Mn",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 229,
+        "Question": "The formula for velocity of maximum specific air range is __________",
+        "Options": [
+            "a) \\(\\big[\\frac{3-n}{1+n}\\big]^{\\frac{1}{4}}\\) ",
+            "b) \\(\\big[\\frac{3-n}{1+n}\\big]^{\\frac{1}{3}}\\)Vmd",
+            "c) \\(\\big[\\frac{3-n}{1+n}\\big]^{\\frac{1}{4}}\\)Vmd",
+            "d) \\(\\big[\\frac{3+n}{1+n}\\big]^{\\frac{1}{4}}\\)Vmd",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 230,
+        "Question": "The formula for velocity of maximum specific endurance is _______________",
+        "Options": [
+            "a) \\(\\big[\\frac{3+n}{1+n}\\big]^{\\frac{1}{4}}\\)Vmd",
+            "b) \\(\\big[\\frac{2+n}{1+n}\\big]^{\\frac{1}{4}}\\)Vmd",
+            "c) \\(\\big[\\frac{2+n}{2-n}\\big]^{\\frac{1}{4}}\\)Vmd",
+            "d) \\(\\big[\\frac{2-n}{2+n}\\big]^{\\frac{1}{4}}\\)Vmd",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 231,
+        "Question": "What is the velocity of maximum specific air range of the engine when the maximum air speed is 400m/s and the exponential value is 0.2?",
+        "Options": [
+            "a) 300.84",
+            "b) 380.43",
+            "c) 440.76",
+            "d) 494.37",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 232,
+        "Question": "What is the velocity of maximum specific endurance of the engine when the maximum air speed is 400m/s and the exponential value is 0.2?",
+        "Options": [
+            "a) 350.43",
+            "b) 490.34",
+            "c) 494.37",
+            "d) 380.43",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 233,
+        "Question": "What is the value of ‘n’ exponential in the fuel flow law for a high bypass ratio turbofan?",
+        "Options": [
+            "a) 0.4",
+            "b) 0.5",
+            "c) 0.6",
+            "d) 0.7",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 234,
+        "Question": "Which of the following is a correct statement?",
+        "Options": [
+            "a) Increase in initial weight of aircraft implies increase in fuel available for cruise",
+            "b) Decrease in initial weight of aircraft implies increase in fuel available for cruise",
+            "c) Increase in initial weight of aircraft implies decrease in fuel available for cruise",
+            "d) Increase in initial weight of aircraft does not have any effect on the fuel available for cruise",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 235,
+        "Question": "What happens if the final fuel weight increases in an aircraft?",
+        "Options": [
+            "a) Fuel ratio increases",
+            "b) Fuel ratio is not effected",
+            "c) Range of the aircraft is increased",
+            "d) Range of the aircraft is decreased",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 236,
+        "Question": "What is the relation between air temperature and the aircraft range?",
+        "Options": [
+            "a) Air temperature increases with increase in the aircraft range",
+            "b) Air temperature decreases with increase in the aircraft range",
+            "c) Air temperature increases with decrease in the aircraft range",
+            "d) Air temperature is not effected by the aircraft range",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 237,
+        "Question": "What is the relation between altitude and the aircraft range?",
+        "Options": [
+            "a) Altitude increases with increase in the aircraft range",
+            "b) Altitude decreases with increase in the aircraft range",
+            "c) Altitude increases with decrease in the aircraft range",
+            "d) Altitude is not effected by the aircraft range",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 238,
+        "Question": "Which of the following factors are inversely proportional to the range of the aircraft?",
+        "Options": [
+            "a) Altitude",
+            "b) Ambient relative pressure",
+            "c) Temperature",
+            "d) Mach number",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 239,
+        "Question": "Which of the following is the correct performance equation for power-producing engines?",
+        "Options": [
+            "a) ηV=PD",
+            "b) ηD=PV",
+            "c) ηP=VD",
+            "d) V=ηPD",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 240,
+        "Question": "What is the unit of specific fuel consumption?",
+        "Options": [
+            "a) kg/kW-sec",
+            "b) kg/W-hr",
+            "c) kg/hr",
+            "d) kg/kW-hr",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 241,
+        "Question": "Which of the following is the correct formula for specific fuel consumption?",
+        "Options": [
+            "a) Qf=\\(\\frac{P}{C}\\) ",
+            "b) Qf=\\(\\frac{C}{P}\\) ",
+            "c) C=\\(\\frac{P}{Q_f}\\) ",
+            "d) C=\\(\\frac{Q_f}{P}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 242,
+        "Question": "What is the value of specific fuel consumption where the fuel heating is 42,800kJ/kg and power produced is 5760 kW-hr?",
+        "Options": [
+            "a) 0.135 kg/kW-hr",
+            "b) 7.43 kg/W-hr",
+            "c) 1.546 kg/kW-hr",
+            "d) 7.43 kg/kW-hr",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 243,
+        "Question": "What is the relation between specific air range and specific enurance?",
+        "Options": [
+            "a) SAR=V*SE",
+            "b) SAR=\\(\\frac{V}{SE}\\) ",
+            "c) SE=V*SAR",
+            "d) SE=\\(\\frac{V}{SAR}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 244,
+        "Question": "Which of the following is the correct formula for specific air range?",
+        "Options": [
+            "a) SAR=\\(\\frac{\\eta}{C}\\frac{L}{D}\\frac{1}{W}\\) ",
+            "b) SAR=\\(\\frac{1}{PC}\\) ",
+            "c) SAR=\\(\\frac{\\eta W}{C}\\frac{L}{D}\\) ",
+            "d) SAR=\\(\\frac{1}{C}\\frac{L}{D}\\frac{1}{W}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 245,
+        "Question": "Which of the following is the correct formula for specific endurance?",
+        "Options": [
+            "a) SE=\\(\\frac{V}{C}\\frac{L}{D}\\frac{1}{W}\\) ",
+            "b) SE=\\(\\frac{V}{PC}\\) ",
+            "c) SE=\\(\\frac{\\eta}{C}\\frac{L}{D}\\frac{1}{W}\\) ",
+            "d) SE=\\(\\frac{\\eta}{CV}\\frac{L}{D}\\frac{1}{W}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 246,
+        "Question": "What is the value of specific air range where the lift to drag ratio is 10, weight is 50000N, efficiency is 85% and specific fuel consumption is 7.43 kg/kW-hr?",
+        "Options": [
+            "a) 3000km",
+            "b) 4000 km",
+            "c) 1000km",
+            "d) 5000km",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 247,
+        "Question": "What is the value of specific endurance where the lift to drag ratio is 10, weight is 50000N, efficiency is 85% , velocity is 250m/s and specific fuel consumption is 7.43 kg/kW-hr?",
+        "Options": [
+            "a) 30hr",
+            "b) 57.6hr",
+            "c) 10hr",
+            "d) 50hr",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 248,
+        "Question": "What is a turboprop?",
+        "Options": [
+            "a) It is a combination of turbojet and ramjet",
+            "b) It is a combination of turbojet and turbofan",
+            "c) It is a combination of turbojet and scramjet",
+            "d) It is a combination of turbojet and propeller engine",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 249,
+        "Question": "The residual energy is converted into __________",
+        "Options": [
+            "a) power",
+            "b) thrust",
+            "c) lift",
+            "d) drag",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 250,
+        "Question": "What is the range of thrust producing engine?",
+        "Options": [
+            "a) RT=\\(\\big[\\frac{V_{mdi}}{C_T}E_{max}\\big]\\big\\{\\frac{2u^4}{u^4+1}\\big\\}\\)lnω",
+            "b) RT=\\(\\big[\\frac{V_{mdi}}{C_T}\\big]\\big\\{\\frac{2u^3}{u^4+1}\\big\\}\\)lnω",
+            "c) RT=\\(\\big[\\frac{V_{mdi}}{C_T}E_{max}\\big]\\big\\{\\frac{2u^3}{u^4+1}\\big\\}\\)lnω",
+            "d) RT=\\(\\big[\\frac{V_{mdi}}{C_T}E_{max}\\big]\\big\\{\\frac{u^3}{u^4+1}\\big\\}\\)lnω",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 251,
+        "Question": "What is the range of the power producing engine?",
+        "Options": [
+            "a) RP=\\(\\big[\\frac{\\eta}{C_P}E_{max}\\big]\\big\\{\\frac{2u^2}{u^4+1}\\big\\}\\)lnω",
+            "b) RP=\\(\\big[\\frac{\\eta}{C_P}E_{max}\\big]\\big\\{\\frac{2u^3}{u^4+1}\\big\\}\\)lnω",
+            "c) RP=\\(\\big[\\frac{\\eta}{C_P}\\big]\\big\\{\\frac{2u^2}{u^4+1}\\big\\}\\)lnω",
+            "d) RP=\\(\\big[\\frac{V_{mdi}}{C_P}E_{max}\\big]\\big\\{\\frac{2u^3}{u^4+1}\\big\\}\\)lnω",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 252,
+        "Question": "What is the range formula for mixed power-plant?",
+        "Options": [
+            "a) R=Emax\\(\\big[Π\\frac{\\eta}{C_P}+(1+Π)\\frac{uV_{md}}{C_T}\\big]\\big\\{\\frac{2u^2}{u^4-1}\\big\\}\\)lnω",
+            "b) R=Emax\\(\\big[Π\\frac{\\eta}{C_P}+(1-Π)\\frac{uV_{md}}{C_T}\\big]\\big\\{\\frac{2u^2}{u^4-1}\\big\\}\\)lnω",
+            "c) R=Emax\\(\\big[Π\\frac{\\eta}{C_P}+(1-Π)\\frac{uV_{md}}{C_T}\\big]\\big\\{\\frac{2u^2}{u^4+1}\\big\\}\\)lnω",
+            "d) R=Emax\\(\\big[Π\\frac{\\eta}{C_P}+(1+Π)\\frac{uV_{md}}{C_T}\\big]\\big\\{\\frac{2u^2}{u^4+1}\\big\\}\\)lnω",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 253,
+        "Question": "What is the full form of ESHP?",
+        "Options": [
+            "a) Equivalent shaft horsepower",
+            "b) Equal shaft horsepower",
+            "c) Engine shaft horsepower",
+            "d) Endurance shaft horsepower",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 254,
+        "Question": "Which of the following is the correct thrust balancing equation for thrust producing engines?",
+        "Options": [
+            "a) FN+D=Wsinγ2+mV̇",
+            "b) FN-D=Wsinγ2+mV̇",
+            "c) FN-D=Wsinγ2-mV̇",
+            "d) FN+D=Wsinγ2-mV̇",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 255,
+        "Question": "Which of the following is the correct lift balancing equation for thrust producing engines?",
+        "Options": [
+            "a) L=Wcosγ2",
+            "b) L=Wsinγ2",
+            "c) L=\\(\\frac{cos\\gamma _2}{W}\\) ",
+            "d) L=\\(\\frac{sin\\gamma_2}{W}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 256,
+        "Question": "What should be the value of thrust- to-weight ratio for a normal take-off so that the acceleration associated with the rate of climb is neglected?",
+        "Options": [
+            "a) 0.1",
+            "b) 0.2",
+            "c) 0.3",
+            "d) 0.4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 257,
+        "Question": "What is the relation between thrust power and true airspeed?",
+        "Options": [
+            "a) Thrust power increases with increase in true airspeed",
+            "b) Thrust power decreases with increase in true airspeed",
+            "c) Thrust power increases with decrease in true airspeed",
+            "d) Thrust power is independent of true airspeed",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 258,
+        "Question": "In which of the following the maximum rate of climb occurs?",
+        "Options": [
+            "a) It occurs when difference in thrust power and drag power is minimum",
+            "b) It occurs when difference in thrust power and drag power is maximum",
+            "c) It occurs when difference in thrust power is minimum",
+            "d) It occurs when difference in drag power is minimum",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 259,
+        "Question": "Which of the following is the correct climb gradient equation?",
+        "Options": [
+            "a) τ-\\(\\frac{1}{2}\\)[u2+u-2]=Emaxsinγ2",
+            "b) τ+\\(\\frac{1}{2}\\)[u2+u-2]=Emaxsinγ2",
+            "c) τ+\\(\\frac{1}{2}\\)[u2+u-2]=Emax",
+            "d) τ-\\(\\frac{1}{2}\\)[u2+u-2]=Emax",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 260,
+        "Question": "At what airspeed does maximum gradient of climb occurs?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 261,
+        "Question": "Which of the following is the correct rate of climb equation?",
+        "Options": [
+            "a) τu-\\(\\frac{1}{2}\\)[u3+u-1]=Emaxv",
+            "b) τ-\\(\\frac{1}{2}\\)[u2+u-2]=Emaxsinγ2",
+            "c) τ+\\(\\frac{1}{2}\\)[u2+u-2]=Emaxsinγ2",
+            "d) τu-\\(\\frac{1}{2}\\)[u3+u-1]=Emaxv",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 262,
+        "Question": "What is the correct formula for dimensionless rate of climb?",
+        "Options": [
+            "a) ν=\\(\\frac{dH/dt}{V_{md}}\\) ",
+            "b) v=\\(\\frac{V_{md}}{dH/dt}\\) ",
+            "c) v=\\(\\frac{-V_{md}}{dH/dt}\\) ",
+            "d) v=\\(\\frac{-dH/dt}{V_{md}}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 263,
+        "Question": "What is the benefit of flying at minimum power speed?",
+        "Options": [
+            "a) Increases gliding flight time",
+            "b) Decreases gliding flight time",
+            "c) Does not change the gliding flight time",
+            "d) Decreases the aircraft performance",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 264,
+        "Question": "What is the value that maintains minimum power speed of the aircraft?",
+        "Options": [
+            "a) u/\\(\\sqrt[4]{3}\\) ",
+            "b) u/\\(\\sqrt[3]{3}\\) ",
+            "c) u2/\\(\\sqrt[4]{3}\\) ",
+            "d) u2/\\(\\sqrt[3]{3}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 265,
+        "Question": "The propulsive force developed by the engine-propeller combination is given by _______",
+        "Options": [
+            "a) \\(\\frac{\\eta V}{P}\\) ",
+            "b) \\(\\frac{\\eta P}{V}\\) ",
+            "c) \\(\\frac{P}{V}\\) ",
+            "d) \\(\\frac{VP}{\\eta}\\) ",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 266,
+        "Question": "The gradient of climb is given by _____________",
+        "Options": [
+            "a) \\(\\Big[\\frac{\\eta P}{V}-W\\Big]\\frac{1}{D}\\)=sinγ2",
+            "b) \\(\\Big[\\frac{\\eta P}{V}+D\\Big]\\frac{1}{W}\\)=sinγ2",
+            "c) \\(\\Big[\\frac{\\eta P}{V}-D\\Big]\\frac{1}{W}\\)=sinγ2",
+            "d) \\(\\Big[\\frac{\\eta P}{V}+W\\Big]\\frac{1}{D}\\)=sinγ2",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 267,
+        "Question": "The rate of climb is given by _____________",
+        "Options": [
+            "a) [ηP+DV]\\(\\frac{1}{W}\\)=\\(\\frac{dH}{dt}\\) ",
+            "b) [ηP-DV]\\(\\frac{1}{W}\\)=\\(\\frac{dH}{dt}\\) ",
+            "c) [ηP+DV]W=\\(\\frac{dH}{dt}\\) ",
+            "d) [ηP-DV]W=\\(\\frac{dH}{dt}\\) ",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 268,
+        "Question": "What is the relation between climb rate and power speed?",
+        "Options": [
+            "a) Climb rate increases at minimum power drag",
+            "b) Climb rate decreases at minimum power drag",
+            "c) Climb rate is independent of minimum power drag",
+            "d) Climb rate increases at maximum power drag",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 269,
+        "Question": "What is the value of λ in gliding flight flying at minimum drag speed?",
+        "Options": [
+            "a) 3",
+            "b) 2",
+            "c) 1",
+            "d) 0",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 270,
+        "Question": "What is the relation betweenpower and airspeed for climb gradient?",
+        "Options": [
+            "a) Power increases with increase in airspeed",
+            "b) Power decreases with increase in airspeed",
+            "c) Power increases with decrease in airspeed",
+            "d) Power is unaffected by the airspeed",
+            ""
+        ],
+        "Answer": " Answer: d"
+    },
+    {
+        "id": 271,
+        "Question": "What is the value that maintains maximum rate and minimum power speed of the aircraft?",
+        "Options": [
+            "a) 1/\\(\\sqrt[4]{3}\\) ",
+            "b) 1/\\(\\sqrt[3]{3}\\) ",
+            "c) u2/\\(\\sqrt[4]{3}\\) ",
+            "d) u2/\\(\\sqrt[3]{3}\\) ",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 272,
+        "Question": "At what rate does the minimum sink rate occur in a gliding flight?",
+        "Options": [
+            "a) It occurs at minimum power speed",
+            "b) It occurs at maximum power speed",
+            "c) It occurs at minimum airspeed",
+            "d) It occurs at maximum airspeed",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 273,
+        "Question": "Which of the following is the correct performance equation for mixed power-plants?",
+        "Options": [
+            "a) Emaxsinγ2=\\(\\Big[\\frac{\\lambda}{u}+\\tau \\Big]-\\frac{1}{2}[u^2+u^{-2}]\\) ",
+            "b) Emaxsinγ2=\\(\\Big[\\frac{\\lambda}{u}-\\tau \\Big]-\\frac{1}{2}[u^2-u^{-2}]\\) ",
+            "c) Emaxsinγ2=\\(\\Big[\\frac{\\lambda}{u}+\\tau \\Big]-\\frac{1}{2}[u^2-u^{-2}]\\) ",
+            "d) Emaxsinγ2=\\(\\Big[\\frac{\\lambda}{u}-\\tau \\Big]-\\frac{1}{2}[u^2+u^{-2}]\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 274,
+        "Question": "The best gradient of climb is attained at _____________",
+        "Options": [
+            "a) airspeed below maximum drag speed",
+            "b) airspeed below maximum power speed",
+            "c) airspeed below minimum power speed",
+            "d) airspeed below minimum drag speed",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 275,
+        "Question": "The best rate of climb is attained at _____________",
+        "Options": [
+            "a) airspeed above maximum drag speed",
+            "b) airspeed above maximum power speed",
+            "c) airspeed above minimum power speed",
+            "d) airspeed above minimum drag speed",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 276,
+        "Question": "At which speed the maximum rate of climb occurs?",
+        "Options": [
+            "a) u=0.76",
+            "b) u=0.98",
+            "c) u=1",
+            "d) u=2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 277,
+        "Question": "The rate of climb of an aircraft is measured by _______",
+        "Options": [
+            "a) variometer",
+            "b) altimeter",
+            "c) pitot-static prob",
+            "d) gyroscope",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 278,
+        "Question": "The advanced ratio is given by _______________",
+        "Options": [
+            "a) J=\\(\\frac{D}{nV}\\) ",
+            "b) J=\\(\\frac{nV}{D}\\) ",
+            "c) J=\\(\\frac{V}{nD}\\) ",
+            "d) J=\\(\\frac{n}{VD}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 279,
+        "Question": "What is the use of partial climbs?",
+        "Options": [
+            "a) It is used for calculating climb rate",
+            "b) It is used for calculating gradient of climb",
+            "c) It is used for calculating speed",
+            "d) It is used for calculating velocity",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 280,
+        "Question": "What is departure path?",
+        "Options": [
+            "a) A path of no obstructions",
+            "b) Runway path",
+            "c) Apron area",
+            "d) Passenger terminal",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 281,
+        "Question": "The departure path in an airport is depended on _________",
+        "Options": [
+            "a) size of the runway",
+            "b) size of the airfield",
+            "c) maneuvers done by the aircraft",
+            "d) fuel content in the aircraft",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 282,
+        "Question": "What is the distance of the safeguard path?",
+        "Options": [
+            "a) 25000m",
+            "b) 30000m",
+            "c) 35000m",
+            "d) 15000m",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 283,
+        "Question": "What is the gradient of climb for one engine inoperative?",
+        "Options": [
+            "a) 2%",
+            "b) 3%",
+            "c) 4%",
+            "d) 5%",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 284,
+        "Question": "Which of the following gives the best gradient of climb?",
+        "Options": [
+            "a) Low airspeed which is closer to critical operating airspeed",
+            "b) High airspeed which is closer to critical operating airspeed",
+            "c) At any airspeed",
+            "d) At high bypass ratio",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 285,
+        "Question": "Which part of the flight is more crucial?",
+        "Options": [
+            "a) Take-off path",
+            "b) Landing path",
+            "c) After take-off path",
+            "d) Before landing path",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 286,
+        "Question": "Which of the following is correct according to power producing engines?",
+        "Options": [
+            "a) Airspeed for climb is high than for optimum climb gradient",
+            "b) Airspeed for climb is less than for optimum climb gradient",
+            "c) Airspeed for climb is equal to optimum climb gradient",
+            "d) Airspeed for climb is equal to maximum climb gradient",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 287,
+        "Question": "What are the restrictions on the airspeed scheduled for climb gradient?",
+        "Options": [
+            "a) Safe margining over the stall airspeed",
+            "b) Fuel management",
+            "c) Speed control",
+            "d) Altitude check",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 288,
+        "Question": "Which of the following is the correct safe height of an aircraft?",
+        "Options": [
+            "a) 20000m",
+            "b) 15000m",
+            "c) 30000m",
+            "d) 40000m",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 289,
+        "Question": "The best economic flight is achieved by _________",
+        "Options": [
+            "a) maximum drag",
+            "b) minimum speed",
+            "c) minimum drag",
+            "d) maximum fuel consumption",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 290,
+        "Question": "What is climb rate?",
+        "Options": [
+            "a) The rate at which the flight take-off the ground",
+            "b) Speed at which the flight takes-off",
+            "c) Distance required for flight to take-off",
+            "d) Fuel required for the take-off of flight",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 291,
+        "Question": "The thrust required during the take-off is a function of ________",
+        "Options": [
+            "a) time",
+            "b) fuel",
+            "c) weight",
+            "d) lift",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 292,
+        "Question": "Which of the following is the formula for specific climb?",
+        "Options": [
+            "a) SC=\\(\\frac{dH}{Q_f}\\) ",
+            "b) SC=\\(\\frac{dH}{dt}\\) ",
+            "c) SC=\\(\\frac{dH/dt}{Q_f}\\)c ",
+            "d) SC=\\(\\frac{dH/dt}{Q_f}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 293,
+        "Question": "What is the value of specific climb when the value of \\(\\frac{dH}{dt}\\)=1 and the fuel flow is 833.33 kg?",
+        "Options": [
+            "a) 0.0013ft/kg",
+            "b) 0.0012ft/kg",
+            "c) 0.0019ft/kg",
+            "d) 0.002ft/kg",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 294,
+        "Question": "Which of the following characteristics are determined during flight trials of calculated fuel flow?",
+        "Options": [
+            "a) Fuel rate",
+            "b) Optimum climb speed",
+            "c) Airspeed",
+            "d) Altitude",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 295,
+        "Question": "The thrust reduction during climb leads to ____________",
+        "Options": [
+            "a) increase in rate of climb",
+            "b) reduction in time of flight",
+            "c) increase in gradient of climb",
+            "d) decrease in climb gradient",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 296,
+        "Question": "What are the factors that affect the economic benefits of fuel climb?",
+        "Options": [
+            "a) Indirect operating costs",
+            "b) Direct operating costs",
+            "c) Annual pay to the airport",
+            "d) Tax pay",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 297,
+        "Question": "In what proportion should the propulsive thrust be so that the aircraft will decelerate?",
+        "Options": [
+            "a) Thrust is less than airframe drag",
+            "b) Thrust is more than airframe drag",
+            "c) Greater airspeed",
+            "d) Less airspeed",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 298,
+        "Question": "What are the factors for that increase the drag in an aircraft?",
+        "Options": [
+            "a) Varying airspeed",
+            "b) Constant airspeed",
+            "c) Varying thrust",
+            "d) Varying fuel ratio",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 299,
+        "Question": "At which cases does descent of flow occur?",
+        "Options": [
+            "a) By flying the aircraft at airspeed less than minimum drag speed",
+            "b) By flying the aircraft at airspeed more than minimum drag speed",
+            "c) By flying the aircraft at airspeed less than maximum drag speed",
+            "d) By flying the aircraft at airspeed more than maximum drag speed",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 300,
+        "Question": "The flight path is unstable during __________",
+        "Options": [
+            "a) the aircraft flying at airspeed less than minimum drag speed",
+            "b) the aircraft flying at airspeed more than minimum drag speed",
+            "c) the aircraft flying at airspeed less than maximum drag speed",
+            "d) the aircraft flying at airspeed more than maximum drag speed",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 301,
+        "Question": "The flight path can be controlled by the use of __________",
+        "Options": [
+            "a) elevator",
+            "b) rudder",
+            "c) flaps",
+            "d) slats",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 302,
+        "Question": "By which of the methods the flight can be descended?",
+        "Options": [
+            "a) nose down pitch",
+            "b) nose uppitch",
+            "c) nose down and elevator",
+            "d) elevator and nose up",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 303,
+        "Question": "What measures are taken to maintain precise control of flight path gradient?",
+        "Options": [
+            "a) Elevator settings alone",
+            "b) Thrust settings alone",
+            "c) Elevator and thrust settings",
+            "d) Flap settings",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 304,
+        "Question": "The rate of the change in the cabin pressure should not exceed ______ at sea level.",
+        "Options": [
+            "a) 30 ft/min",
+            "b) 3000 ft/min",
+            "c) 3 ft/min",
+            "d) 300 ft/min",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 305,
+        "Question": "What is the required time of descend for flight gradient?",
+        "Options": [
+            "a) 50 min",
+            "b) 15min",
+            "c) 24min",
+            "d) 70min",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 306,
+        "Question": "The gradient of descent is ____",
+        "Options": [
+            "a) 15%",
+            "b) 11%",
+            "c) 5%",
+            "d) 18%",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 307,
+        "Question": "The aircraft is taken to the level ground operating for ________",
+        "Options": [
+            "a) considering vertical component of the wind",
+            "b) considering horizontal component of the wind",
+            "c) considering both horizontal and vertical component of the wind",
+            "d) neglecting the effect of wind",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 308,
+        "Question": "The relative velocity of the wind produces boundary layer close to the ground which ___________",
+        "Options": [
+            "a) decreases the wind speed with decrease in height",
+            "b) increases the wind speed with decrease in height",
+            "c) makes the wind speed unaffected",
+            "d) constantly increases",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 309,
+        "Question": "The flight path is calculated relative to ________",
+        "Options": [
+            "a) air mass",
+            "b) still air condition",
+            "c) air mass and still air condition",
+            "d) airspeed",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 310,
+        "Question": "What is meant by perceived performance?",
+        "Options": [
+            "a) Visualization of the aircraft with respect to wind",
+            "b) Visualization of the aircraft with respect to aircraft relative to ground",
+            "c) Visualization of the aircraft with respect to wind with respect to ground",
+            "d) Visualization of the aircraft with respect to any one frame such as aircraft or ground",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 311,
+        "Question": "The horizontal component of the true airspeed is _______________",
+        "Options": [
+            "a) increased by tailwind",
+            "b) decreased by tailwind",
+            "c) increased by headwind",
+            "d) unaffected by the airspeed",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 312,
+        "Question": "What is wind shear?",
+        "Options": [
+            "a) The extreme case of airspeed effect on the aircraft",
+            "b) The extreme case of wind effect on the aircraft",
+            "c) The extreme case of temperature effect on the wind",
+            "d) The extreme case of altitude effect on the wind",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 313,
+        "Question": "If ETS is 400kts, what is the acceleration associated with it?",
+        "Options": [
+            "a) 40kts/min",
+            "b) 4000kts/min",
+            "c) 4kts/min",
+            "d) 400kts/min",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 314,
+        "Question": "Specific total energy is ________",
+        "Options": [
+            "a) the potential energy per unit mass",
+            "b) the kinetic energy per unit mass",
+            "c) the potential and kinetic energy per unit mass",
+            "d) the potential and kinetic energy per unit time",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 315,
+        "Question": "STE stands for ___________",
+        "Options": [
+            "a) Standard total energy",
+            "b) Specific terminal energy",
+            "c) Standard terminal energy",
+            "d) Specific total energy",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 316,
+        "Question": "Which of the following is the correct formula for STE?",
+        "Options": [
+            "a) Es=\\(\\Big\\{H-\\frac{V^2}{2g}\\Big\\}\\) ",
+            "b) Es=\\(\\Big\\{H+\\frac{V^2}{g}\\Big\\}\\) ",
+            "c) Es=\\(\\Big\\{H+\\frac{V^2}{2}\\Big\\}\\) ",
+            "d) Es=\\(\\Big\\{H+\\frac{V^2}{2g}\\Big\\}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 317,
+        "Question": "SEP stands for ___________",
+        "Options": [
+            "a) Specific Efficient Power",
+            "b) Specific Excess Power",
+            "c) Standard Efficient Power",
+            "d) Standard Excess Power",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 318,
+        "Question": "The formula for SEP is given by ___________",
+        "Options": [
+            "a) [FN-D]\\(\\frac{V}{W}=\\frac{d}{dt}\\Big\\{H+\\frac{V^2}{2g}\\Big\\}\\) ",
+            "b) [FN+D]\\(\\frac{V}{W}=\\frac{d}{dt}\\Big\\{H+\\frac{V^2}{2g}\\Big\\}\\) ",
+            "c) [FN-D]\\(\\frac{V}{W}=\\frac{d}{dt}\\Big\\{H-\\frac{V^2}{2g}\\Big\\}\\) ",
+            "d) [FN+D]\\(\\frac{V}{W}=\\frac{d}{dt}\\Big\\{H-\\frac{V^2}{2g}\\Big\\}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 319,
+        "Question": "What are the methods followed to gain advantage in air to air combat mission?",
+        "Options": [
+            "a) Accelerate to the operational height in a short time",
+            "b) Decelerate to the operational height in a short time",
+            "c) Accelerate to the operational height in a long time",
+            "d) Decelerate to the operational height in a long time",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 320,
+        "Question": "What is the operational technique in combat mission aircraft?",
+        "Options": [
+            "a) Minimizing the time required to increase the total energy of the aircraft to its combat height",
+            "b) Maximizing the time required to decrease the total energy of the aircraft to its combat height",
+            "c) Minimizing the time required to decrease the total energy of the aircraft to its combat height",
+            "d) Minimizing the time required to increase the total energy of the aircraft to its combat height",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 321,
+        "Question": "What are the terminal phases of the aircraft landing?",
+        "Options": [
+            "a) Take-off",
+            "b) Landing",
+            "c) Take-off and landing",
+            "d) En-route",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 322,
+        "Question": "What is engine failure accountability?",
+        "Options": [
+            "a) management of landing during the engine failure",
+            "b) management of take-off during the engine failure",
+            "c) fuel management during the engine failure",
+            "d) thrust management during the engine failure",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 323,
+        "Question": "What is aspect ratio?",
+        "Options": [
+            "a) It is the ratio of square of wing span to wing area",
+            "b) It is the ratio of wing span to wing area",
+            "c) It is the ratio of square of wing area to wing span",
+            "d) It is the ratio of wing area to wing span",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 324,
+        "Question": "What is the formula of aspect ratio?",
+        "Options": [
+            "a) AS=\\(\\frac{b}{S}\\) ",
+            "b) AS=\\(\\frac{s}{b}\\) ",
+            "c) AS=\\(\\frac{S^2}{b}\\) ",
+            "d) AS=\\(\\frac{b^2}{S}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 325,
+        "Question": "What is the aspect ratio when the wing is 10 feet long and 2 feet wide?",
+        "Options": [
+            "a) 5",
+            "b) 10",
+            "c) 50",
+            "d) 0.4",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 326,
+        "Question": "Ski-jump take-off path is used by _______",
+        "Options": [
+            "a) military aircrafts",
+            "b) commercial aircrafts",
+            "c) passenger aircrafts",
+            "d) cargo aircrafts",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 327,
+        "Question": "Which of the following are the correct type of take-off and landings?",
+        "Options": [
+            "a) reduced take-off and landing, short take-off and landing, vertical take-off and landing",
+            "b) short take-off and landing, vertical take-off and landing",
+            "c) convectional take-off and landing, reduced take-off and landing",
+            "d) convectional take-off and landing, reduced take-off and landing, short take-off and landing, vertical take-off and landing, short take-off and vertical landing",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 328,
+        "Question": "Which of the following are not heavy lift devices?",
+        "Options": [
+            "a) full span flaps",
+            "b) drooped ailerons",
+            "c) passive boundary layer control systems",
+            "d) elevator",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 329,
+        "Question": "How is the power-induced lift generated?",
+        "Options": [
+            "a) installing the propeller in front of the wing",
+            "b) installing the propeller in front of the wing and deflecting the slip stream with large flaps",
+            "c) deflecting the slip stream with large flaps",
+            "d) deflecting the slip stream with large rudder",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 330,
+        "Question": "What is meant by minimum control speed ground?",
+        "Options": [
+            "a) The airspeed below which the rudder the will not be capable of producing a yawing moment",
+            "b) The airspeed below which the rudder the will not be capable of producing a pitching moment",
+            "c) The airspeed below which the rudder the will not be capable of producing a rolling moment",
+            "d) The airspeed below which the rudder the will not be capable of producing a dutch moment",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 331,
+        "Question": "What is lift-off speed?",
+        "Options": [
+            "a) The speed at which the aircraft generates enough power to become airborne",
+            "b) The speed at which the aircraft generates enough speed to become airborne",
+            "c) The speed at which the aircraft generates enough thrust to become airborne",
+            "d) The speed at which the aircraft generates enough lift to become airborne",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 332,
+        "Question": "What is the screen height during the take-off of an aircraft?",
+        "Options": [
+            "a) 40 ft",
+            "b) 14 ft",
+            "c) 30 ft",
+            "d) 35 ft",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 333,
+        "Question": "What is meant by ground run distance?",
+        "Options": [
+            "a) The distance where the aircraft takes-off on the ground",
+            "b) The vertical distance where the aircraft takes-off on the ground",
+            "c) It is also known as the screen height",
+            "d) It is the landing distance of the aircraft",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 334,
+        "Question": "What is the use of minimum control speed airborne?",
+        "Options": [
+            "a) Maintain directional control",
+            "b) Maintain fuel ratio",
+            "c) Maintain constant thrust",
+            "d) Maintain constant power",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 335,
+        "Question": "What is meant by take-off safety speed?",
+        "Options": [
+            "a) Airspeed at which only the safe climb gradient is attained",
+            "b) Airspeed at which only the directional control is attained",
+            "c) Airspeed at which only the directional control is kept constant",
+            "d) Airspeed at which both the safe climb gradient and directional control is attained",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 336,
+        "Question": "What is meant by decision speed?",
+        "Options": [
+            "a) The speed at the point where there is unequal distances on the take-off run",
+            "b) The slope at the point where there is unequal distances on the take-off run",
+            "c) The slope at the point where there is equal distances on the take-off run",
+            "d) The speed at the point where there is equal distances on the take-off run",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 337,
+        "Question": "What is meant by airborne distance?",
+        "Options": [
+            "a) The distance between take-off point and the point at which the screen height is cleared",
+            "b) The distance between lift-off point and the point at which the screen height is not cleared",
+            "c) The distance between lift-off point and the point at which the screen height is cleared",
+            "d) The distance between take-off point and the point at which the screen height is not cleared",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 338,
+        "Question": "What is meant by minimum unstick speed?",
+        "Options": [
+            "a) The maximum speed at which the aircraft becomes airborne",
+            "b) The minimum speed at which the aircraft does not becomes airborne",
+            "c) The maximum speed at which the aircraft does not becomes airborne",
+            "d) The minimum speed at which the aircraft becomes airborne",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 339,
+        "Question": "What are the additional forces acting on the aircraft?",
+        "Options": [
+            "a) Runway friction",
+            "b) Lift",
+            "c) Thrust",
+            "d) Power",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 340,
+        "Question": "Which of the following are the correct equations for take-off run?",
+        "Options": [
+            "a) FN+D-WsinγR-μrR=mV̇",
+            "b) R-L=WcosγR",
+            "c) R-L=WsinγR",
+            "d) FN-D-WsinγR-μrR=mV̇",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 341,
+        "Question": "Which of the following is the correct formula for accelerating force?",
+        "Options": [
+            "a) \\(\\frac{F}{W}=\\Big\\{\\frac{F_N}{W}+\\mu_R-sin\\gamma_R\\Big\\}-\\frac{L}{W}\\Big(\\frac{C_D}{C_L}-\\mu_R\\Big)\\) ",
+            "b) \\(\\frac{F}{W}=\\Big\\{\\frac{F_N}{W}-\\mu_R+sin\\gamma_R\\Big\\}-\\frac{L}{W}\\Big(\\frac{C_D}{C_L}-\\mu_R\\Big)\\) ",
+            "c) \\(\\frac{F}{W}=\\Big\\{\\frac{F_N}{W}-\\mu_R-sin\\gamma_R\\Big\\}-\\frac{L}{W}\\Big(\\frac{C_D}{C_L}-\\mu_R\\Big)\\) ",
+            "d) \\(\\frac{F}{W}=\\Big\\{\\frac{F_N}{W}-\\mu_R-sin\\gamma_R\\Big\\}-\\frac{L}{W}\\Big(\\frac{C_D}{C_L}+\\mu_R\\Big)\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 342,
+        "Question": "The formula for ground run is given by the formula __________",
+        "Options": [
+            "a) SG=\\(\\frac{V_{LOF}^2}{2g(A+BV^2)_{V_{LOF}}}\\) ",
+            "b) SG=\\(\\frac{V_{LOF}^2}{2g(A+BV^2)_{0.7V_{LOF}}}\\) ",
+            "c) SG=\\(\\frac{V_{LOF}^2}{2g(A-BV^2)_{0.7V_{LOF}}}\\) ",
+            "d) SG=\\(\\frac{V_{LOF}^2}{2g(A-BV^2)_{V_{LOF}}}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 343,
+        "Question": "The airborne distance is given by __________",
+        "Options": [
+            "a) SA=\\(\\frac{W}{(F_N-D)_{av}}\\Big\\{\\frac{V_{2}^2+V_{LOF}^2}{2g}+35\\Big\\}\\) ",
+            "b) SA=\\(\\frac{W}{(F_N+D)_{av}}\\Big\\{\\frac{V_{2}^2+V_{LOF}^2}{2g}+35\\Big\\}\\) ",
+            "c) SA=\\(\\frac{W}{(F_N+D)_{av}}\\Big\\{\\frac{V_{2}^2-V_{LOF}^2}{2g}+35\\Big\\}\\) ",
+            "d) SA=\\(\\frac{W}{(F_N-D)_{av}}\\Big\\{\\frac{V_{2}^2-V_{LOF}^2}{2g}+35\\Big\\}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 344,
+        "Question": "The energy change is given by __________",
+        "Options": [
+            "a) ΔE=\\(\\frac{T^2}{S^2}\\) ",
+            "b) ΔE=\\(\\frac{T^2}{S}\\) ",
+            "c) ΔE=\\(\\frac{T}{S}\\) ",
+            "d) ΔE=T x S",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 345,
+        "Question": "What is the energy change in the aircraft when the thrust is 244N and the distance travelled is 1230km?",
+        "Options": [
+            "a) 198000 N-Km",
+            "b) 484000 N-Km",
+            "c) 300120 N-Km",
+            "d) 234553 N-Km",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 346,
+        "Question": "Which of the following is the correct formula of ground run distance with respect to aircraft weight?",
+        "Options": [
+            "a) SG=\\(\\frac{WV_{LOF}^2}{2g[F_N+D+\\mu (W-L)]_{0.7V_{LOF}^2}}\\) ",
+            "b) SG=\\(\\frac{WV_{LOF}^2}{2g[F_N-D+\\mu (W-L)]_{0.7V_{LOF}^2}}\\) ",
+            "c) SG=\\(\\frac{WV_{LOF}^2}{2g[F_N+D-\\mu (W-L)]_{0.7V_{LOF}^2}}\\) ",
+            "d) SG=\\(\\frac{WV_{LOF}^2}{2g[F_N-D-\\mu (W-L)]_{0.7V_{LOF}^2}}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 347,
+        "Question": "Which of the following is the correct formula of airborne distance with respect to aircraft weight?",
+        "Options": [
+            "a) SA=\\(\\frac{W}{(F_N-D)_{av}}\\Big\\{\\frac{V_{2}^2+V_{LOF}^2}{2g}+35\\Big\\}\\) ",
+            "b) SA=\\(\\frac{W}{(F_N+D)_{av}}\\Big\\{\\frac{V_{2}^2+V_{LOF}^2}{2g}+35\\Big\\}\\) ",
+            "c) SA=\\(\\frac{W}{(F_N+D)_{av}}\\Big\\{\\frac{V_{2}^2-V_{LOF}^2}{2g}+35\\Big\\}\\) ",
+            "d) SA=\\(\\frac{W}{(F_N-D)_{av}}\\Big\\{\\frac{V_{2}^2-V_{LOF}^2}{2g}+35\\Big\\}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 348,
+        "Question": "Which of the following statement is not correct?",
+        "Options": [
+            "a) The airborne distance is given by SA=\\(\\frac{W}{(F_N-D)_{av}}\\Big\\{\\frac{V_{2}^2-V_{LOF}^2}{2g}+35\\Big\\}\\) ",
+            "b) The ground run distance is given by SG=\\(\\frac{WV_{LOF}^2}{2g[F_N-D-\\mu (W-L)]_{0.7V_{LOF}^2}}\\) ",
+            "c) The ground run distance is directly proportional to aircraft weight",
+            "d) The ground run distance is directly proportional to aircraft drag",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 349,
+        "Question": "What is the use of the headwind?",
+        "Options": [
+            "a) To change the datum height",
+            "b) To change the datum temperature",
+            "c) To change the fuel ratio",
+            "d) To change the pressure ratio",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 350,
+        "Question": "Which of the following will not effect the ground run distance?",
+        "Options": [
+            "a) TAS",
+            "b) EAS",
+            "c) Weight",
+            "d) Thrust",
+            ""
+        ],
+        "Answer": "Answer: a"
+    }
+]

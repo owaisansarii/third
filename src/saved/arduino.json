@@ -1,0 +1,4622 @@
+[
+    {
+        "id": 1,
+        "Question": "What is the operating frequency of the Arduino UNO Board?",
+        "Options": [
+            "a) 20 MHz",
+            "b) 16 Mhz",
+            "c) 6 MHz",
+            "d) 10 MHz",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 2,
+        "Question": "What is the Maximum Operating Voltage of the Arduino Due?",
+        "Options": [
+            "a) 20V",
+            "b) 19V",
+            "c) 5V",
+            "d) 3.3V",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 3,
+        "Question": "Analog Pins in the Arduino boards work on the principle of PWM. What is the full form of PWM?",
+        "Options": [
+            "a) Pin Wide Modulation",
+            "b) Pulse Waveform Modulation",
+            "c) Pulse Width Modulation",
+            "d) Pulse Wave Modulation",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 4,
+        "Question": "How much Program Memory does the Arduino UNO have?",
+        "Options": [
+            "a) 24K bytes",
+            "b) 256K bytes",
+            "c) 32K bytes",
+            "d) 2K bytes",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 5,
+        "Question": "Which of the following boards from the Arduino Family is not powered by a variant of the ATmega processors?",
+        "Options": [
+            "a) Arduino UNO",
+            "b) Arduino Nano",
+            "c) Arduino Mega",
+            "d) Arduino Due",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 6,
+        "Question": "What is the full form of EEPROM?",
+        "Options": [
+            "a) Electrically Erasable Programmable Read Only Memory",
+            "b) Electrically Encoded Programmable Read Only Memory",
+            "c) Electronic Embedded Programmable Read Only Memory",
+            "d) Encrypted Electronic Programmable Read Only Memory",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 7,
+        "Question": "What is the full form of SRAM?",
+        "Options": [
+            "a) Synchronized Random Access Memory",
+            "b) Static Random Access Memory",
+            "c) Simplified Random Access Memory",
+            "d) Segregated Static Random Access Memory",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 8,
+        "Question": "The Arduino Diecimila has 14 Digital I/O Pins of which __ pins can provide PWM output.",
+        "Options": [
+            "a) 1",
+            "b) 4",
+            "c) 6",
+            "d) 8",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 9,
+        "Question": "What is the use of the RESET button on the Arduino UNO?",
+        "Options": [
+            "a) To restart the code present in the Arduino",
+            "b) To restore a previous version of a code",
+            "c) To erase the code present in the Arduino",
+            "d) To erase the SRAM in Arduino Microcontroller",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 10,
+        "Question": "What is the use of the Vin pin present on some Arduino Boards?",
+        "Options": [
+            "a) To provide a 5V output",
+            "b) Is used for plugging in 3V supply",
+            "c) To power the Arduino Board",
+            "d) To ground the Arduino Board",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 11,
+        "Question": "What does the analogRead() function do physically when invoked in a code?",
+        "Options": [
+            "a) It accepts a digital Input",
+            "b) Reads the raw voltage value",
+            "c) Activates the ADC Circuit to read voltage values",
+            "d) Activates the DAC Circuit to read voltage values",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 12,
+        "Question": "What is the use for the 2 serial pins on the Arduino Diecimila?",
+        "Options": [
+            "a) To send and receive GPIO digital signals",
+            "b) To receive analog signals",
+            "c) To send PWM signals",
+            "d) To send and receive Serial TTL signals",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 13,
+        "Question": "The pins SS, SCK, MOSI and MISO on the Arduino belong to the ___ bus.",
+        "Options": [
+            "a) I2C",
+            "b) SPI",
+            "c) GPIO",
+            "d) Ethernet",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 14,
+        "Question": "What is the full form of the I2C Protocol?",
+        "Options": [
+            "a) Inter-Integrated Circuit",
+            "b) Intra-Integrated Circuit",
+            "c) Integrated-Inter Circuit",
+            "d) Infinite-Integrated Circuit",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 15,
+        "Question": "What is the function of the IOREF pin on the Arduino UNO?",
+        "Options": [
+            "a) To provide a constant 12V DC supply",
+            "b) To provide the voltage corresponding to the standard GPIO working voltage of the board",
+            "c) To take input voltage and set it as a reference for all GPIO operations",
+            "d) To provide ground",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 16,
+        "Question": "What is the function of the AREF pin in the Arduino UNO?",
+        "Options": [
+            "a) It is used as a reference voltage for all analog voltage calculations in the board",
+            "b) It is used as a reference voltage for all digital voltage calculations in the board",
+            "c) It is used as a reference voltage for the power source on the board",
+            "d) It is used as a reference voltage for the ground pins on the board",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 17,
+        "Question": "What are the functions of the SDA and SCL pins of the Arduino UNO?",
+        "Options": [
+            "a) They facilitate I2C communications",
+            "b) They facilitate SPI Communications",
+            "c) They facilitate USB Communications",
+            "d) They facilitate Ethernet Communications",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 18,
+        "Question": "Why is the Arduino Mega more a viable solution when dealing with complex projects, than the Arduino UNO?",
+        "Options": [
+            "a) Higher SRAM on the Arduino Mega",
+            "b) More number of GPIO pins on the Arduino Mega",
+            "c) More flash memory on the Arduino Mega",
+            "d) Higher power rating on the Arduino Mega",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 19,
+        "Question": "Which Arduino board is famous for integration with fabric-based projects?",
+        "Options": [
+            "a) The LilyPad",
+            "b) The UNO",
+            "c) The Mega",
+            "d) The Nano",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 20,
+        "Question": "Which Arduino Product is not just a board but also comes preinstalled with wheels and a motor board.",
+        "Options": [
+            "a) The LilyPad",
+            "b) The Robot",
+            "c) The Flora",
+            "d) The Mega",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 21,
+        "Question": "Which Arduino Board contains an onboard joystick?",
+        "Options": [
+            "a) Arduino Esplora",
+            "b) Arduino Nano",
+            "c) Arduino Due",
+            "d) Arduino UNO",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 22,
+        "Question": "For projects where a small microcontroller is required, which boards should we use?",
+        "Options": [
+            "a) Arduino Yun, Leonardo",
+            "b) Arduino Esplora, Robot",
+            "c) Arduino Due, Mega, Uno",
+            "d) Arduino LilyPad, Nano",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 23,
+        "Question": "Which Arduino Board comes with a Linux Distribution?",
+        "Options": [
+            "a) Arduino Nano",
+            "b) Arduino Leonardo",
+            "c) Arduino Due",
+            "d) Arduino Yun",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 24,
+        "Question": "With the Arduino Mini, in the absence of an inbuilt USB connector on the board. How is one supposed to connect it to the computer?",
+        "Options": [
+            "a) Ethernet Adapter",
+            "b) SPI",
+            "c) I2C",
+            "d) RS232 to TTL Serial Adapter",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 25,
+        "Question": "Which Arduino Board would one choose if one had to perform network operations in Linux out of the box?",
+        "Options": [
+            "a) Arduino Diecimila",
+            "b) Arduino Yun",
+            "c) Arduino Uno",
+            "d) Arduino Esplora",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 26,
+        "Question": "Which Arduino Board has an XBee Socket inbuilt?",
+        "Options": [
+            "a) Arduino Nano",
+            "b) Arduino Micro",
+            "c) Arduino Uno",
+            "d) Arduino Fio",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 27,
+        "Question": "Which processor supports the Arduino Zero?",
+        "Options": [
+            "a) Atmega328P",
+            "b) Atmega32u4",
+            "c) ARM Cortex M0+",
+            "d) ARM Cortex M3",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 28,
+        "Question": "How much flash memory does the Atmega2560 have?",
+        "Options": [
+            "a) 13K bytes",
+            "b) 200K bytes",
+            "c) 256K bytes",
+            "d) 255K bytes",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 29,
+        "Question": "How many timers does the Atmega2560 have?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 4",
+            "d) 6",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 30,
+        "Question": "How many comparators does the Atmega2560 have?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 31,
+        "Question": "There are __ Digital IO and __ Analog IO Pins on the Atmega2560.",
+        "Options": [
+            "a) 29, 30",
+            "b) 54, 16",
+            "c) 53, 17",
+            "d) 52, 18",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 32,
+        "Question": "Which Arduino Boards use the Atmega2560?",
+        "Options": [
+            "a) Arduino Mega and Mega ADK",
+            "b) Arduino Micro and Due",
+            "c) Arduino Uno and Robot",
+            "d) Arduino Nano and Fio",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 33,
+        "Question": "What is the operating voltage of Atmega2560?",
+        "Options": [
+            "a) 12V to 9V",
+            "b) 1.9V to 5V",
+            "c) 2V to 12V",
+            "d) 1.8V to 5.5V",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 34,
+        "Question": "The Atmega2560 is an _________ bit chip.",
+        "Options": [
+            "a) 8",
+            "b) 16",
+            "c) 32",
+            "d) 64",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 35,
+        "Question": "How many General-Purpose Registers are present in the Atmega2560?",
+        "Options": [
+            "a) 12",
+            "b) 32",
+            "c) 64",
+            "d) 9",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 36,
+        "Question": "The Atmega2560 is a _____ SC Microcontroller.",
+        "Options": [
+            "a) RI",
+            "b) CI",
+            "c) AI",
+            "d) BI",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 37,
+        "Question": "How much flash memory does the Atmega328 have?",
+        "Options": [
+            "a) 13K bytes",
+            "b) 32K bytes",
+            "c) 256K bytes",
+            "d) 16K bytes",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 38,
+        "Question": "How many timers does the Atmega328 have?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 39,
+        "Question": "How many comparators does the Atmega328 have?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 40,
+        "Question": "There are __ ADC and __ PWM Pins on the Atmega328.",
+        "Options": [
+            "a) 9, 7",
+            "b) 8, 6",
+            "c) 10, 1",
+            "d) 5, 18",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 41,
+        "Question": "Which Arduino Boards use the Atmega328?",
+        "Options": [
+            "a) Arduino Uno",
+            "b) Arduino Mega",
+            "c) Arduino Fio",
+            "d) Arduino Due",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 42,
+        "Question": "What is the operating voltage of Atmega328?",
+        "Options": [
+            "a) 12V to 9V",
+            "b) 1.9V to 5V",
+            "c) 1.8V to 5.5V",
+            "d) 1.1V to 5V",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 43,
+        "Question": "The Atmega328 is an _________ bit chip.",
+        "Options": [
+            "a) 8",
+            "b) 16",
+            "c) 32",
+            "d) 64",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 44,
+        "Question": "How many General-Purpose Registers are present in the Atmega328?",
+        "Options": [
+            "a) 12",
+            "b) 64",
+            "c) 32",
+            "d) 9",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 45,
+        "Question": "The Atmega328 is a ___ SC Microcontroller.",
+        "Options": [
+            "a) RI",
+            "b) CI",
+            "c) AI",
+            "d) BI",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 46,
+        "Question": "How much flash memory does the Atmega32U4 have?",
+        "Options": [
+            "a) 13K bytes",
+            "b) 16K bytes",
+            "c) 256K bytes",
+            "d) 32K bytes",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 47,
+        "Question": "How many timers does the Atmega32U4 have?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 48,
+        "Question": "How many comparators does the Atmega32U4 have?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 49,
+        "Question": "Does the Atmega32U4 have a way to handle the brown-out condition?",
+        "Options": [
+            "a) Yes, it does. It has a provision to programmatically change the brown-out threshold for the chip",
+            "b) No, it does not. It does not have a provision to programmatically change the brown-out threshold for the chip",
+            "c) Yes, it does. But one cannot change the inbuilt brown-out threshold set for the chip during fabrication",
+            "d) Yes, it does. But one can only increase the brown-out threshold for the chip, not decrease it",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 50,
+        "Question": "Which Arduino Boards use the Atmega32U4?",
+        "Options": [
+            "a) Arduino Micro",
+            "b) Arduino Leonardo",
+            "c) Arduino Uno",
+            "d) None Mega",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 51,
+        "Question": "What is the operating voltage of Atmega32U4?",
+        "Options": [
+            "a) 12V to 9V",
+            "b) 1.9V to 5V",
+            "c) 1.8V to 5.5V",
+            "d) 2.7V to 5.5V",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 52,
+        "Question": "The Atmega32U4 is an ____________ bit chip.",
+        "Options": [
+            "a) 8",
+            "b) 16",
+            "c) 32",
+            "d) 64",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 53,
+        "Question": "How many General-Purpose Registers are present in the Atmega32U4?",
+        "Options": [
+            "a) 12",
+            "b) 64",
+            "c) 32",
+            "d) 9",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 54,
+        "Question": "The Atmega32U4 is a ________ SC Microcontroller.",
+        "Options": [
+            "a) RI",
+            "b) CI",
+            "c) AI",
+            "d) BI",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 55,
+        "Question": "How much flash memory does the Atmega168 have?",
+        "Options": [
+            "a) 13K bytes",
+            "b) 32K bytes",
+            "c) 256K bytes",
+            "d) 16K bytes",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 56,
+        "Question": "How many timers does the Atmega168 have?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 57,
+        "Question": "How many comparators does the Atmega168 have?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 58,
+        "Question": "There are ___ PWM pins and ____ ADC pins on the Atmega168?",
+        "Options": [
+            "a) 6, 8",
+            "b) 2, 9",
+            "c) 3, 1",
+            "d) 9, 1",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 59,
+        "Question": "Which Arduino Boards use the Atmega168?",
+        "Options": [
+            "a) Arduino Due",
+            "b) Arduino Nano",
+            "c) Arduino Mini",
+            "d) Arduino Uno",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 60,
+        "Question": "What is the operating voltage of Atmega168?",
+        "Options": [
+            "a) 12V to 9V",
+            "b) 1.9V to 5V",
+            "c) 1.8V to 5.5V",
+            "d) 1.1V to 5V",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 61,
+        "Question": "The Atmega168 is an ________ bit chip.",
+        "Options": [
+            "a) 8",
+            "b) 16",
+            "c) 32",
+            "d) 64",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 62,
+        "Question": "How many General-Purpose Registers are present in the Atmega168?",
+        "Options": [
+            "a) 12",
+            "b) 64",
+            "c) 32",
+            "d) 9",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 63,
+        "Question": "The Atmega168 is a _____ SC Microcontroller.",
+        "Options": [
+            "a) RI",
+            "b) CI",
+            "c) AI",
+            "d) BI",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 64,
+        "Question": "What language is a typical Arduino code based on?",
+        "Options": [
+            "a) C/C++",
+            "b) Java",
+            "c) Python",
+            "d) Assembly Code",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 65,
+        "Question": "What language is the Arduino IDE built on?",
+        "Options": [
+            "a) C/C++",
+            "b) Python",
+            "c) HTML",
+            "d) Java",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 66,
+        "Question": "Is it possible to write code for the Arduino in any other programming language?",
+        "Options": [
+            "a) Yes, you can write",
+            "b) No, it only allows the use of Arduino Code",
+            "c) Yes, but you must write the code in C/C++ only",
+            "d) Yes, but you must write the code in Python Only",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 67,
+        "Question": "Does the Arduino code get processed by an interpreter or a compiler?",
+        "Options": [
+            "a) The Arduino code is processed by an interpreter",
+            "b) The Arduino code is first compiled to C++ and then processed using an interpreter",
+            "c) The Arduino code is processed by a compiler",
+            "d) The Arduino code is directly executed by the processor",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 68,
+        "Question": "What is the difference between an IDE and a compiler?",
+        "Options": [
+            "a) The IDE executes the code while the compiler gives a graphical environment for writing the code",
+            "b) The compiler executes the code while the IDE gives a graphical environment for writing the code",
+            "c) The compiler links the code to the respective files and the IDE takes it from there",
+            "d) The compiler and the IDE are the same thing",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 69,
+        "Question": "Can external generic C/C++ libraries be imported to the Arduino IDE and used in the code?",
+        "Options": [
+            "a) Yes, external C/C++ libraries can be used with the Arduino code",
+            "b) No, no external libraies can be imported to the Arduino code",
+            "c) Yes, but only libraries that are approved by the company can be used",
+            "d) Yes, but the libraries must be written in Arduino Code only",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 70,
+        "Question": "Is the Arduino code an Object-Oriented programming language or a Procedural programming language?",
+        "Options": [
+            "a) The Arduino Code follows the Object-Oriented ideology",
+            "b) The Arduino Code follows the Top-Down Procedural ideology",
+            "c) The Arduino Code follows the Bottom-Up Procedural ideology",
+            "d) The Arduino Code follows a custom Procedural Ideology",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 71,
+        "Question": "Arduino Codes are referred to as ________ in the Arduino IDE.",
+        "Options": [
+            "a) drawings",
+            "b) notes",
+            "c) sketches",
+            "d) links",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 72,
+        "Question": "What is the #include Preprocessor Directive used for?",
+        "Options": [
+            "a) For getting operating system information",
+            "b) For performing read/write operations",
+            "c) For importing header files or other codes into the existing code",
+            "d) For compiling the written code",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 73,
+        "Question": "What is the use of #define?",
+        "Options": [
+            "a) To define macros",
+            "b) To define pointer variables",
+            "c) To define file names",
+            "d) To create variables",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 74,
+        "Question": "What is the correct execution process of an Arduino code.",
+        "Options": [
+            "a) Editor->Compiler->Preprocessor",
+            "b) Editor->Preprocessor->Compiler",
+            "c) Preprocessor->Editor->Compiler",
+            "d) Compiler->Preprocessor->Editor",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 75,
+        "Question": "What is the way of throwing an error using preprocessing directives to the Arduino Compiler and forcing it to stop compilation?",
+        "Options": [
+            "a) #stop",
+            "b) #cut",
+            "c) #error",
+            "d) #warning",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 76,
+        "Question": "What character does the preprocessor look out for whilst searching for commands in the code?",
+        "Options": [
+            "a) x",
+            "b) @",
+            "c) #",
+            "d) !",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 77,
+        "Question": "#warning and #error are two preprocessor directives and the job of #warning is to throw a message to the Arduino IDE. However, which of these preprocessor directives stops the compilation process?",
+        "Options": [
+            "a) #error",
+            "b) #warning",
+            "c) #include",
+            "d) #define",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 78,
+        "Question": "How many types of macros are there?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 79,
+        "Question": "What compiler toolchain is used to compile the Arduino Sketches?",
+        "Options": [
+            "a) AVR-G++/GCC",
+            "b) Python",
+            "c) PowerShell",
+            "d) Perl",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 80,
+        "Question": "Where does the Arduino IDE search if it needs to find out the Name of a type of Arduino Board?",
+        "Options": [
+            "a) build.txt",
+            "b) boards.txt",
+            "c) build.core",
+            "d) Arduino.h",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 81,
+        "Question": "What is the use of the Arduino.h header file?",
+        "Options": [
+            "a) It gives root access to the microcontroller’s file system",
+            "b) It enables the programmer to access all of Arduino’s core functionality",
+            "c) It allows other people to create libraries for the Arduino code",
+            "d) It doesn’t have any use and can be omitted at any point of time in the code",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 82,
+        "Question": "How many architectures does the Arduino subfolder in the Hardware section contain?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 4",
+            "d) 9",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 83,
+        "Question": "How many configuration files are there which allows us to customize the architecture in an Arduino in order to add support for custom boards?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 84,
+        "Question": "After the compilation process, the file containing the assembly instructions for the microcontroller is stored in a file. What is the file type?",
+        "Options": [
+            "a) .o",
+            "b) .hex",
+            "c) .cpp",
+            "d) .hpp",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 85,
+        "Question": "Which of the following file format is generated once the C code is compiled?",
+        "Options": [
+            "a) .c",
+            "b) .h",
+            "c) .ino",
+            "d) .o",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 86,
+        "Question": "What is the .d file format’s use in C?",
+        "Options": [
+            "a) For managing dependencies",
+            "b) For the D programming language",
+            "c) For storing the variables and memory locations",
+            "d) For creating new errors in dependencies",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 87,
+        "Question": "Why does every compilation of a source code in Arduino check for previous compilations?",
+        "Options": [
+            "a) To delete the previously generated “.o” files",
+            "b) To use the previously generated “.o” files",
+            "c) To relocate the previously generated “.o” files",
+            "d) To copy the previously generated “.o” files",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 88,
+        "Question": "How to view each command that gets executed during the compilation process?",
+        "Options": [
+            "a) Enable Verbose Output",
+            "b) Disable Verbose Output",
+            "c) Show Sketch Folder",
+            "d) Open Serial Plotter",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 89,
+        "Question": "Which software is used to upload the Arduino Sketches to the board?",
+        "Options": [
+            "a) avrdude",
+            "b) avrgcc",
+            "c) g++",
+            "d) cpython for windows",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 90,
+        "Question": "What is the use of the dmesg command?",
+        "Options": [
+            "a) Sending messages to the device connected",
+            "b) Reading messages generated from avrdude",
+            "c) Receiving messages from the gcc compiler",
+            "d) Receiving messages from the particular device",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 91,
+        "Question": "What is USBasp?",
+        "Options": [
+            "a) It is a compiler for microcontroller code",
+            "b) It is a software for debugging any code preexisting in microcontrollers",
+            "c) It is a programmer for a specific microcontroller family",
+            "d) It is a microcontroller that is produced by Atmel",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 92,
+        "Question": "What is the use of the MOSI and MISO pins?",
+        "Options": [
+            "a) To download code from the microcontroller to the computer",
+            "b) To verify the program that the computer uploads to the microcontroller",
+            "c) To erase the SRAM of the microcontroller",
+            "d) To dump or transfer programs from the computer to the microcontroller",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 93,
+        "Question": "Select the correct name for the SPI master-slave configuration.",
+        "Options": [
+            "a) Dependent Slave Configuration",
+            "b) Independent Master Configuration",
+            "c) Independent Slave Configuration",
+            "d) Chained Master and Slave Configuration",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 94,
+        "Question": "What is the recipe for compiling Assembly Source Code in the Arduino IDE?",
+        "Options": [
+            "a) recipe.S.o.pattern",
+            "b) recipe.A.n.pattern",
+            "c) recipe.S.b.pattern",
+            "d) recipe.S.i.pattern",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 95,
+        "Question": "What type of signal does the analogWrite() method generate when a pin is set to OUTPUT mode?",
+        "Options": [
+            "a) Digital Signal",
+            "b) Pulse Code Modulated Signal",
+            "c) Pulse amplitude Modulated Signal",
+            "d) Pulse Width Modulated Signal",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 96,
+        "Question": "What are the two modes that the pinMode() method sets for a particular pin?",
+        "Options": [
+            "a) DIGITAL and ANALOG",
+            "b) INPUT and OUTPUT",
+            "c) TX and RX",
+            "d) READ and WRITE",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 97,
+        "Question": "What are the voltage levels that can be detected if a pin is set to OUTPUT using the pinMode() method and the analogRead() method is used, in the Arduino Uno?",
+        "Options": [
+            "a) 0 and 5V",
+            "b) 0 to 5.1V",
+            "c) 0 to 5V",
+            "d) 0 to 10V",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 98,
+        "Question": "What is the difference between the INPUT and INPUT_PULLUP arguments in the pinMode() function?",
+        "Options": [
+            "a) They are both the same",
+            "b) INPUT supports only analog voltages while INPUT_PULLUP supports only digital voltage readings",
+            "c) INPUT takes the default reading as 0 while INPUT_PULLUP takes default reading as 1023",
+            "d) INPUT takes the default reading as 1023 while INPUT_PULLUP takes the default reading as 0",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 99,
+        "Question": "How many times does the setup() function run on every startup of the Arduino System?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 100,
+        "Question": "Can the setup() function change the value of constant variables?",
+        "Options": [
+            "a) Yes, it can change",
+            "b) No, it cannot change",
+            "c) Yes, it can change but only integer values",
+            "d) Yes, it can change but only byte values",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 101,
+        "Question": "Is it syntactically correct to write the loop() function over the setup() function while writing an Arduino program?",
+        "Options": [
+            "a) No, it is not syntactically correct",
+            "b) Yes, it is syntactically correct but will result in the loop() method executing first",
+            "c) Yes, it is syntactically correct and the setup() function will execute first",
+            "d) It is syntactically correct but logically wrong",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 102,
+        "Question": "What do we need to do if we want to run the setup() function in an infinite loop?",
+        "Options": [
+            "a) Call the setup() function from a custom named function",
+            "b) Call the setup() function from a constructor",
+            "c) Call the setup() function from the loop() function",
+            "d) Call the setup() function from the destructor",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 103,
+        "Question": "Choose the correct Combination that works.",
+        "Options": [
+            "a) BC",
+            "b) A",
+            "c) C",
+            "d) B",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 104,
+        "Question": "How many times does the loop() function run on every startup of the Arduino System?",
+        "Options": [
+            "a) 1",
+            "b) Depends upon the setup() function",
+            "c) Infinitely till the power is supplied to the Arduino",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 105,
+        "Question": "Can the loop() function be used to call another function that is custom defined by the programmer?",
+        "Options": [
+            "a) Yes, it can call",
+            "b) No, it cannot call",
+            "c) Yes, it can call but only functions with no return values",
+            "d) Yes, it can call but only functions with return values",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 106,
+        "Question": "Is the loop() function a replacement of the main() function in the Arduino Programming Environment?",
+        "Options": [
+            "a) No, it is a replacement for the constructor",
+            "b) Yes, it is a replacement",
+            "c) Yes, but only for certain Arduino Boards",
+            "d) No, it is not a replacement",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 107,
+        "Question": "Can a programmer not use the loop function at all in a code?",
+        "Options": [
+            "a) Yes",
+            "b) No",
+            "c) Yes, but it needs to be called at least once",
+            "d) Yes, but it needs to be commented out",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 108,
+        "Question": "Can the loop() function be used to replace the functionality of the setup() function?",
+        "Options": [
+            "a) Yes, it can",
+            "b) No, it cannot",
+            "c) Yes, it can, but only for certain Arduino Boards",
+            "d) Yes, it can, but only for a limited time frame",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 109,
+        "Question": "How to make the loop function run only once but the code inside run infinitely?",
+        "Options": [
+            "a) Create a recursive function call statement",
+            "b) Create a nested infinite loop within the loop() function",
+            "c) Call the setup() function from the loop() function",
+            "d) Call the loop() function from the setup() function",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 110,
+        "Question": "Can the loop() function be called recursively?",
+        "Options": [
+            "a) Yes, it can be called recursively",
+            "b) No, it cannot be called recursively",
+            "c) Yes, it can be called recursively but only by the setup() function",
+            "d) Yes, it can be called recursively but only twice",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 111,
+        "Question": "How many voltage levels are present when a pin uses digitalWrite()?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 112,
+        "Question": "Can the digitalRead() function identify analog voltages?",
+        "Options": [
+            "a) Yes, it can",
+            "b) No, it cannot",
+            "c) Yes, it can but only 2",
+            "d) Yes, it can but only 4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 113,
+        "Question": "Can the digitalWrite() function be used from any analog pin?",
+        "Options": [
+            "a) No, it cannot",
+            "b) Yes, it can, but only on certain Arduino Boards",
+            "c) Yes, it can",
+            "d) Yes, it can, but only through certain pins",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 114,
+        "Question": "How many arguments does the digitalRead() function have?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 115,
+        "Question": "Can the analogRead() function be used as a replacement for the digitalRead() function?",
+        "Options": [
+            "a) No, it cannot be used",
+            "b) Yes, it can be used but only on certain Arduino Boards",
+            "c) Yes, it can be used",
+            "d) Yes, it can be used but only for certain pins",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 116,
+        "Question": "What is the need for a quantizer in Digital Communications?",
+        "Options": [
+            "a) Break up a sampled signal to a finite dataset",
+            "b) Sample a pure analog signal",
+            "c) Sample a digital signal",
+            "d) Encode an analog signal",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 117,
+        "Question": "Which of the following is not a Digital Encoding Technique?",
+        "Options": [
+            "a) NRZ (Non-Return to Zero)",
+            "b) Amplitude Modulation",
+            "c) Manchester",
+            "d) RZ (Return to Zero)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 118,
+        "Question": "Which of the following is not a method to convert analog signals to digital signals?",
+        "Options": [
+            "a) Pulse Code Modulation",
+            "b) Pulse Amplitude Modulation",
+            "c) Pulse Width Modulation",
+            "d) Frequency Modulation",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 119,
+        "Question": "What is the numeric base of the math operations performed in binary?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 120,
+        "Question": "What type of signal does the analogWrite() function output?",
+        "Options": [
+            "a) Pulse Width Modulated Signal",
+            "b) Pulse Code Modulated Signal",
+            "c) Pulse Amplitude Modulated Signal",
+            "d) Frequency Modulated Signal",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 121,
+        "Question": "What is the resolution of analog readings on the Arduino Uno?",
+        "Options": [
+            "a) 5V/1023",
+            "b) 3.3V/1024",
+            "c) 5V/1024",
+            "d) 3.3V/100",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 122,
+        "Question": "Can the analogRead() function be used from any digital pin?",
+        "Options": [
+            "a) No, it cannot",
+            "b) Yes, it can, but only on certain Arduino Boards",
+            "c) Yes, it can",
+            "d) Yes, it can, but only through certain pins",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 123,
+        "Question": "How many arguments does the analogRead() function have?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 124,
+        "Question": "What is the use of the analogReference() function?",
+        "Options": [
+            "a) To change the digital signal reference value",
+            "b) To change the analog signal reference value",
+            "c) To print the analog signal reference voltage",
+            "d) To print the digital signal reference voltage",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 125,
+        "Question": "On which of the following Arduino Boards does the analogReadResolution() function not work?",
+        "Options": [
+            "a) Arduino Zero",
+            "b) Arduino MKR Vidor 4000",
+            "c) Arduino Due",
+            "d) Arduino Uno",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 126,
+        "Question": "What happens to the output if the analogReadResolution() function is invoked with a resolution higher than the board’s ADC can physically handle?",
+        "Options": [
+            "a) The output is padded with zeros",
+            "b) The output is not obtained as an error is thrown during compile time",
+            "c) The output is not obtained as an error is thrown during run time",
+            "d) The output is padded with ones",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 127,
+        "Question": "What is the maximum number of arguments that the pulseIn() function accepts?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 128,
+        "Question": "What is the purpose of the tone() function?",
+        "Options": [
+            "a) To generate a sine wave",
+            "b) To generate a cosine wave",
+            "c) To generate a stable voltage level",
+            "d) To generate a square wave",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 129,
+        "Question": "What is the use of the MSBFIRST argument in the shiftIn() function?",
+        "Options": [
+            "a) To denote the least significant bit",
+            "b) To denote the maximum number of Bits",
+            "c) To denote the most significant bit",
+            "d) To denote the minimum number of bits",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 130,
+        "Question": "Can the tone() and noTone() functions be used for digital communications?",
+        "Options": [
+            "a) No, they cannot be used",
+            "b) Yes, they can be used but only on certain Arduino Boards",
+            "c) Yes, they can be used for all digital pins and Arduino Boards",
+            "d) Yes, they can be used but only for certain pins",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 131,
+        "Question": "How many tone() functions can be invoked to run simultaneously on an Arduino Board?",
+        "Options": [
+            "a) As many pins are present",
+            "b) Infinite number",
+            "c) Only one",
+            "d) Depending on the number of timers present",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 132,
+        "Question": "How many arguments does the shiftOut() function require?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 133,
+        "Question": "What is the return type for the shiftOut() function?",
+        "Options": [
+            "a) double",
+            "b) null",
+            "c) long",
+            "d) int",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 134,
+        "Question": "What is the return type of the pulseIn() function?",
+        "Options": [
+            "a) null",
+            "b) signed byte",
+            "c) unsigned long",
+            "d) unsigned int",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 135,
+        "Question": "What is the name for the library to manipulate data in and out of the EEPROM of the Arduino Board?",
+        "Options": [
+            "a) EEPROM.h",
+            "b) eeprom.h",
+            "c) Eeprom.h",
+            "d) eepROM.h",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 136,
+        "Question": "Which of the following statements is not true when dealing with the Firmata library?",
+        "Options": [
+            "a) The Firmata Library is used to establish communications between the Arduino and the Desktop",
+            "b) The Firmata Library uses the Firmata Protocol for communicating data",
+            "c) The Firmata Library uses the Midi Message Format",
+            "d) The Firmata Library can only be used on an Arduino Uno",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 137,
+        "Question": "Which of these devices are supported by the Wire Library?",
+        "Options": [
+            "a) I2C Bus",
+            "b) Wi-Fi Devices",
+            "c) Bluetooth Devices",
+            "d) Cellular Devices",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 138,
+        "Question": "What is the use of the Ethernet library?",
+        "Options": [
+            "a) To connect the Arduino to Bluetooth",
+            "b) To connect the Arduino to Wi-Fi",
+            "c) To connect the Arduino to Li-Fi",
+            "d) To connect the Arduino to Ethernet",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 139,
+        "Question": "If one would want to place a call using an Arduino which library would one use which was specifically designed for that purpose?",
+        "Options": [
+            "a) The Firmata Library",
+            "b) The TFT Library",
+            "c) The GSM Library",
+            "d) The Ethernet Library",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 140,
+        "Question": "What is the use of the SD.h Library in Arduino?",
+        "Options": [
+            "a) To communicate with the SD Card Module",
+            "b) To communicate with another microcontroller",
+            "c) To communicate with the computer",
+            "d) To communicate with the internet",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 141,
+        "Question": "Which interface does SD.h depend on for communication between the SD Card Module and the Arduino?",
+        "Options": [
+            "a) SPI",
+            "b) I2C",
+            "c) USB",
+            "d) TTL",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 142,
+        "Question": "What is the library to be used if one wants to use UART communications on an Arduino?",
+        "Options": [
+            "a) TFT Library",
+            "b) SoftwareSerial Library",
+            "c) Ethernet Library",
+            "d) I2C Library",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 143,
+        "Question": "Which chipset is the LCD library for Arduino based on?",
+        "Options": [
+            "a) Hitachi HD44780",
+            "b) Hitachi HD45780",
+            "c) Hitachi HDD4780",
+            "d) Hitachi HD46780",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 144,
+        "Question": "What library is to be required for manipulating audio on the Arduino Due?",
+        "Options": [
+            "a) AudioMan.h",
+            "b) PulseAudio.h",
+            "c) Audio.h",
+            "d) Sound.h",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 145,
+        "Question": "Which of the following Arduino Boards does the USBHost Library work on?",
+        "Options": [
+            "a) Arduino Nano",
+            "b) Arduino Due",
+            "c) Arduino Uno",
+            "d) Arduino Micro",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 146,
+        "Question": "What is the function of the Scheduler Library?",
+        "Options": [
+            "a) To allow queueing of functions",
+            "b) To allow for cancelling of functions",
+            "c) To allow for parallel execution of functions",
+            "d) To allow for serial initialization of functions",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 147,
+        "Question": "Which Arduino Board Architectures can the Audio Frequency Meter Library work on?",
+        "Options": [
+            "a) SAM Architecture",
+            "b) Intel Architecture",
+            "c) SAMD Architecture",
+            "d) ARM Architecture",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 148,
+        "Question": "Which library allows for manipulating the real time clock of an Arduino?",
+        "Options": [
+            "a) RTC Library",
+            "b) RT Library",
+            "c) Clock Library",
+            "d) Time Library",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 149,
+        "Question": "Which Arduino Board does the SigFox Library work with?",
+        "Options": [
+            "a) Arduino MKR1000",
+            "b) Arduino MKRFOX1200",
+            "c) Arduino MKRZero",
+            "d) Arduino MKRFOX1230",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 150,
+        "Question": "What purpose does the Bridge Library serve on the Arduino Yun?",
+        "Options": [
+            "a) Connecting the Linux processor and the microcontroller onboard the Yun",
+            "b) Disconnecting the Linux processor and the microcontroller onboard the Yun",
+            "c) Making the Linux Processor the master device and the microcontroller, the slave device",
+            "d) Making the Linux Processor the slave device and the microcontroller, the master device",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 151,
+        "Question": "What is the purpose of the MKRNB Library?",
+        "Options": [
+            "a) Connecting to the internet over GSM",
+            "b) Connecting to the internet over Ethernet",
+            "c) Connecting to the internet over Wi-Fi",
+            "d) Connecting to the internet over LAN",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 152,
+        "Question": "Which of the following boards does the WifiNINA Library work on?",
+        "Options": [
+            "a) Arduino MKR 1010",
+            "b) Arduino Due",
+            "c) Arduino MKR VIDOR 3000",
+            "d) Arduino Micro",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 153,
+        "Question": "How many RX-TX pairs of pins are present in the Arduino Mega?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 154,
+        "Question": "What is the full form of UART?",
+        "Options": [
+            "a) Universal Asynchronous Receiver/Transmitter",
+            "b) Universal Anti-Rectifying Transmitter",
+            "c) Universal Asynchronous Radio Transmitter",
+            "d) Universal Asynchronous Rectifier Transistor",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 155,
+        "Question": "In Serial Communications, how many sections is a data packet divided into?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 156,
+        "Question": "What is the function in Arduino that is capable of reading Strings from a stream and store the acquired value into a String?",
+        "Options": [
+            "a) Stream.readstring()",
+            "b) Stream.stringread()",
+            "c) Stream.readString()",
+            "d) Stream.readfromstring()",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 157,
+        "Question": "What is the function of the readBytesUntil() function?",
+        "Options": [
+            "a) Reads only integers from a stream",
+            "b) Reads any characters from a stream",
+            "c) Reads only special characters from a stream",
+            "d) Tokenizes a string from a stream",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 158,
+        "Question": "What is the maximum number of arguments does the find() function accept?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 159,
+        "Question": "How many parameters does the flush() function accept?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 2",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 160,
+        "Question": "What is the default time limit that is set automatically if no value is passed as the limit to the setTimeout() function?",
+        "Options": [
+            "a) 100 milliseconds",
+            "b) 1500 milliseconds",
+            "c) 1000 milliseconds",
+            "d) 2432 milliseconds",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 161,
+        "Question": "What is the difference between ternary operators and unary operators?",
+        "Options": [
+            "a) Ternary Operators work with 1 operand while unary operators work with 3 operands",
+            "b) Ternary Operators work with 3 operands while unary operators work with 1 operand",
+            "c) Ternary Operators work with 2 operands while unary operators work with 3 operands",
+            "d) Ternary Operators work with 4 operands while unary operators work with 1 operand",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 162,
+        "Question": "What is the name of the | operator?",
+        "Options": [
+            "a) Logical OR",
+            "b) Bitwise OR",
+            "c) Logical AND",
+            "d) Bitwise AND",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 163,
+        "Question": "What is the name of the ~ operator?",
+        "Options": [
+            "a) Bitwise NOT",
+            "b) Logical NOT",
+            "c) Bitwise SHIFT",
+            "d) Pointer Address",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 164,
+        "Question": "What is the name of the ^ operator?",
+        "Options": [
+            "a) Bitwise XNOR",
+            "b) Bitwise NAND",
+            "c) Bitwise XOR",
+            "d) Bitwise AND",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 165,
+        "Question": "What is the purpose of the << operator?",
+        "Options": [
+            "a) Bitwise AND",
+            "b) Bitwise Right Shift",
+            "c) Bitwise Left Shift",
+            "d) Bitwise OR",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 166,
+        "Question": "How many operands does the >= operator require?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 167,
+        "Question": "Which of the following control structures is an exit-controlled loop?",
+        "Options": [
+            "a) For loop",
+            "b) While loop",
+            "c) Const and Goto",
+            "d) Do-While loop",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 168,
+        "Question": "What is the name of the control structure used to stop any loop prematurely and only exit out of the loop, not affecting the running of the rest of the program?",
+        "Options": [
+            "a) The continue statement",
+            "b) The break statement",
+            "c) The exit statement",
+            "d) The purge statement",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 169,
+        "Question": "Which one of the control structures is similar to the if-else statement?",
+        "Options": [
+            "a) Switch-case",
+            "b) For loop",
+            "c) While loop",
+            "d) Continue",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 170,
+        "Question": "Can the break statement be used to abort a program?",
+        "Options": [
+            "a) Yes",
+            "b) Yes, but only if it is used within the global scope",
+            "c) No",
+            "d) Yes, but only for some Arduino Boards",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 171,
+        "Question": "What are the three components of a for-loop?",
+        "Options": [
+            "a) initialization, conditional, increment/decrement",
+            "b) conditional, memory allocation, memory deletion",
+            "c) reset, increment, conditional",
+            "d) reset, increment/decrement, memory allocation",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 172,
+        "Question": "Which one of the control structures is similar to the if-else statement?",
+        "Options": [
+            "a) Switch-case",
+            "b) For loop",
+            "c) While loop",
+            "d) Continue",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 173,
+        "Question": "Is there a difference between iteration and recursion?",
+        "Options": [
+            "a) Yes",
+            "b) No",
+            "c) Yes, but only in some programming languages",
+            "d) Yes, but it depends on the version of programming language used",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 174,
+        "Question": "Can an infinite loop be dangerous to embedded systems due to memory leak?",
+        "Options": [
+            "a) Yes",
+            "b) Yes, but only if it is used within a limited scope",
+            "c) No",
+            "d) Yes, but only for some Arduino Boards",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 175,
+        "Question": "What is the return type of the micros() function?",
+        "Options": [
+            "a) Signed Long",
+            "b) Signed Int",
+            "c) Unsigned Long",
+            "d) Unsigned Int",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 176,
+        "Question": "What is the return type of the millis() function?",
+        "Options": [
+            "a) Signed Long",
+            "b) Unsigned Long",
+            "c) Signed Float",
+            "d) Unsigned Int",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 177,
+        "Question": "What is the return type of the delayMicroseconds() function?",
+        "Options": [
+            "a) Unsigned Int",
+            "b) Signed Int",
+            "c) Unsigned Long",
+            "d) Signed Long",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 178,
+        "Question": "What is the resolution of the micros() function on the Arduino Nano?",
+        "Options": [
+            "a) 2 Microseconds",
+            "b) 3 Microseconds",
+            "c) 4 Microseconds",
+            "d) 5 Microseconds",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 179,
+        "Question": "What is the overflow point of the millis() function?",
+        "Options": [
+            "a) 10 day",
+            "b) 30 days",
+            "c) 50 days",
+            "d) 70 days",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 180,
+        "Question": "What is the resolution of the micros() function on the Arduino LilyPad?",
+        "Options": [
+            "a) 2 Microseconds",
+            "b) 4 Microseconds",
+            "c) 6 Microseconds",
+            "d) 8 Microseconds",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 181,
+        "Question": "How many bits of memory does the bool datatype occupy?",
+        "Options": [
+            "a) 2",
+            "b) 4",
+            "c) 6",
+            "d) 8",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 182,
+        "Question": "What datatype should one use to represent 2147483610?",
+        "Options": [
+            "a) Int",
+            "b) Byte",
+            "c) Short",
+            "d) Long",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 183,
+        "Question": "How many bits of memory does the Short datatype take up?",
+        "Options": [
+            "a) 17",
+            "b) 15",
+            "c) 16",
+            "d) 14",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 184,
+        "Question": "What method does the int datatype use for storing negative numbers?",
+        "Options": [
+            "a) 1’s Complement",
+            "b) 2’s Complement",
+            "c) 3’s Complement",
+            "d) 4’s Complement",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 185,
+        "Question": "How can you assign the binary number 101 to an integer variable?",
+        "Options": [
+            "a) Var = B101",
+            "b) Var = 101",
+            "c) Var = bin(101)",
+            "d) Var = Bin(101)",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 186,
+        "Question": "What is the math function to find out the minimum of 2 numbers?",
+        "Options": [
+            "a) The min() function",
+            "b) The minimum_number() function",
+            "c) The m() function",
+            "d) The minimumOf() function",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 187,
+        "Question": "What is the math function to find out the maximum of 2 numbers?",
+        "Options": [
+            "a) The maximumOf() function",
+            "b) The maximum_number() function",
+            "c) The max() function",
+            "d) The m() function",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 188,
+        "Question": "What is the maximum number of arguments for the constrain() function?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 189,
+        "Question": "What is the maximum number of arguments for the map() function?",
+        "Options": [
+            "a) 1",
+            "b) 3",
+            "c) 5",
+            "d) 7",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 190,
+        "Question": "What is the purpose of the pow(x,y) function?",
+        "Options": [
+            "a) To find xy",
+            "b) To find yx",
+            "c) To find ex",
+            "d) To find 10y",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 191,
+        "Question": "What is the use of the sqrt() function?",
+        "Options": [
+            "a) To find the square of a number",
+            "b) To find the square root of a number",
+            "c) To find the cube root of a number",
+            "d) To find the cube of a number",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 192,
+        "Question": "What is the use of the sq() function?",
+        "Options": [
+            "a) To find the square root of a number",
+            "b) To find the square of a number",
+            "c) To find the cube of a number",
+            "d) To find the cube root of a number",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 193,
+        "Question": "What is the use of the cos() function?",
+        "Options": [
+            "a) To find the cosine of a number",
+            "b) To find the sine of a number",
+            "c) To find the tan of a number",
+            "d) To find the inverse cosine of a number",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 194,
+        "Question": "What is the use of the sin() function?",
+        "Options": [
+            "a) To find the sine of a number",
+            "b) To find the cosine of a number",
+            "c) To find the tan of a number",
+            "d) To find the inverse tan of a number",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 195,
+        "Question": "What is the use of the tan() function?",
+        "Options": [
+            "a) To find the sine of a number",
+            "b) To find the cosine of a number",
+            "c) To find the tan of a number",
+            "d) To find the inverse tan of a number",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 196,
+        "Question": "What is the special escape sequence for newline in C++?",
+        "Options": [
+            "a) ‘\\b’",
+            "b) ‘\\m’",
+            "c) ‘\\n’",
+            "d) ‘\\\\’",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 197,
+        "Question": "What is the minimum number of arguments that the strcpy() function accept?",
+        "Options": [
+            "a) 4",
+            "b) 3",
+            "c) 2",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 198,
+        "Question": "What is the function of the strcmp() function?",
+        "Options": [
+            "a) To compare two strings",
+            "b) To compile two strings",
+            "c) To concatenate two strings",
+            "d) To converge two strings",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 199,
+        "Question": "Which of the following escape sequences placed at the end of a string makes the string a Null Terminated String?",
+        "Options": [
+            "a) ‘\\p’",
+            "b) ‘\\u’",
+            "c) ‘\\0’",
+            "d) ‘\\1’",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 200,
+        "Question": "What is the return type of the front() function?",
+        "Options": [
+            "a) char",
+            "b) int",
+            "c) long",
+            "d) short",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 201,
+        "Question": "How many arguments does the back() function take?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 2",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 202,
+        "Question": "How many arguments does the at() function take?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 2",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 203,
+        "Question": "Which of these functions are used to partially or fully substitute a string?",
+        "Options": [
+            "a) replace()",
+            "b) size()",
+            "c) subs()",
+            "d) substring()",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 204,
+        "Question": "What is the return type of the substr() function?",
+        "Options": [
+            "a) int",
+            "b) long",
+            "c) byte",
+            "d) string",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 205,
+        "Question": "In C++ what type of operator is a cast operator?",
+        "Options": [
+            "a) Unary",
+            "b) Binary",
+            "c) Ternary",
+            "d) Quaternary",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 206,
+        "Question": "What is Type Casting?",
+        "Options": [
+            "a) Converting a file from one type to another",
+            "b) Creating new arrays",
+            "c) Deleting the variable from memory",
+            "d) Converting a variable from one type to another",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 207,
+        "Question": "Who carries out implicit type casting?",
+        "Options": [
+            "a) The programmer",
+            "b) The assembler",
+            "c) The compiler",
+            "d) The microcontroller",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 208,
+        "Question": "Who initiates explicit type casting?",
+        "Options": [
+            "a) The programmer",
+            "b) The compiler",
+            "c) The microcontroller",
+            "d) The assembler",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 209,
+        "Question": "What is the conversion type for reinterpret casting?",
+        "Options": [
+            "a) Pointer to Variable",
+            "b) Variable to Variable",
+            "c) Pointer to Pointer",
+            "d) Variable to Pointer",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 210,
+        "Question": "What is the use of the typeid() function?",
+        "Options": [
+            "a) To find the datatype of the variable",
+            "b) To find the “const” status of the variable",
+            "c) To find the address of the variable",
+            "d) To find the value of the variable",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 211,
+        "Question": "What functions are a static variable visible to?",
+        "Options": [
+            "a) Only Static Functions",
+            "b) All Types of Functions",
+            "c) Only Functions with a return type",
+            "d) Only Non Static Functions",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 212,
+        "Question": "From which memory does the compiler revert to if a variable is declared volatile?",
+        "Options": [
+            "a) RAM",
+            "b) Storage Register",
+            "c) ROM",
+            "d) EEPROM",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 213,
+        "Question": "Which of the sizes of data given below require us to shut off all interrupts while inputting them into a volatile variable?",
+        "Options": [
+            "a) 1 bit",
+            "b) 2 bit",
+            "c) 2 bytes",
+            "d) 0.5 bytes",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 214,
+        "Question": "How many times can a variable declared ‘const’ be fed a value in any program?",
+        "Options": [
+            "a) 1",
+            "b) 26",
+            "c) 30",
+            "d) 0",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 215,
+        "Question": "What is the use of the Interrupt Service Routine in an Arduino?",
+        "Options": [
+            "a) To automate functions",
+            "b) To boot up the arduino",
+            "c) To make more memory",
+            "d) To exit any code that is running",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 216,
+        "Question": "What is the use of the digitalPinToInterrupt() function?",
+        "Options": [
+            "a) To create an Interrupt Object",
+            "b) To delete an Interrupt Object",
+            "c) To map the Arduino Pin to the Interrupt pin",
+            "d) To invoke the Interrupt Service Routine",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 217,
+        "Question": "What is the use of the attachInterrupt() function?",
+        "Options": [
+            "a) To enable ISR usage",
+            "b) To enable ISR usage, but only on certain Arduino Boards",
+            "c) To decommission ISR usage for a particular Arduino Board",
+            "d) To translate pin numbers",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 218,
+        "Question": "What is the use of pin change interrupts?",
+        "Options": [
+            "a) To change pins during interrupts",
+            "b) To use more pins for interrupts",
+            "c) To disable pin usage during interrupts",
+            "d) To enable pin usage during interrupts",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 219,
+        "Question": "When does the Interrupt Handler execute it’s assigned code?",
+        "Options": [
+            "a) After all the codes executed in the program",
+            "b) Before any code is executed in the program",
+            "c) Blocks the code from getting executed at any time in the program",
+            "d) When the interrupt is in effect",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 220,
+        "Question": "What is the use of the interrupt mode?",
+        "Options": [
+            "a) Decides which type of transition to trigger on",
+            "b) Decides when to turn off interrupts",
+            "c) Decides which pin to turn off",
+            "d) Decides when to turn off the Arduino Board",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 221,
+        "Question": "What is the use of the detachInterrupt() function?",
+        "Options": [
+            "a) To turn off interrupt",
+            "b) To turn on interrupt",
+            "c) To disable interrupt functions for the remaining ON time.",
+            "d) To turn off the Arduino",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 222,
+        "Question": "How many pins are available for interrupt functions in the Arduino Zero?",
+        "Options": [
+            "a) No pins",
+            "b) All pins except pin 4",
+            "c) Only pin 4",
+            "d) Only pin 3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 223,
+        "Question": "How many pins are available for interrupt functions in the Arduino Uno?",
+        "Options": [
+            "a) No pins",
+            "b) All pins except pin 2 and 3",
+            "c) Only pin 2",
+            "d) Only pins 2 and 3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 224,
+        "Question": "In which memory does the Arduino save data in when the PROGMEM Utility is invoked?",
+        "Options": [
+            "a) EEPROM",
+            "b) SRAM",
+            "c) Flash",
+            "d) DRAM",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 225,
+        "Question": "Which header file contains the PROGMEM Utility?",
+        "Options": [
+            "a) The avr/pgmspace.h header file",
+            "b) The pmspace.h header file",
+            "c) The avr/pspace.h header file",
+            "d) The avr/progmem.h header file",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 226,
+        "Question": "What type of variables does the PROGMEM Utility work on?",
+        "Options": [
+            "a) Globally Defined or static",
+            "b) Defined inside a function and non-static",
+            "c) Defined inside a for-loop and non-static",
+            "d) Defined inside a while-loop and non-static",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 227,
+        "Question": "What is the equivalent macro for the PROGMEM Utility when dealing with sending data that is to be printed, into the Flash memory?",
+        "Options": [
+            "a) A() Macro",
+            "b) C() Macro",
+            "c) F() Macro",
+            "d) N() Macro",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 228,
+        "Question": "In which versions of the Arduino IDE can the PROGMEM Utility be used without declaration in the Arduino code?",
+        "Options": [
+            "a) Any Arduino IDE version above 2.0",
+            "b) Any Arduino IDE version above 1.0",
+            "c) Any Arduino IDE version below 1.0",
+            "d) Any Arduino IDE version above 3.1",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 229,
+        "Question": "What is the meaning of the data returned by the sizeof() function?",
+        "Options": [
+            "a) Length",
+            "b) Location",
+            "c) Pointer",
+            "d) Memory",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 230,
+        "Question": "When the sizeof() function is invoked on an array. What information does it return?",
+        "Options": [
+            "a) Number of elements in the array",
+            "b) The largest element in the array",
+            "c) The total sum of the ASCII values of the elements in the array",
+            "d) The largest ASCII value of any element in the array",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 231,
+        "Question": "What function will we use to find out the number of elements in an array?",
+        "Options": [
+            "a) sizeof()",
+            "b) size()",
+            "c) sf()",
+            "d) sizeOf()",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 232,
+        "Question": "What notation should we use for denoting the breadth of an array?",
+        "Options": [
+            "a) sizeof(a[0])",
+            "b) sizeof(a)",
+            "c) sizeof(a[])",
+            "d) sizeof(a.0)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 233,
+        "Question": "What is the use of the IR Sensor?",
+        "Options": [
+            "a) Object Detection",
+            "b) Humidity Detection",
+            "c) Image Processing",
+            "d) GPS",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 234,
+        "Question": "How many pins are present in the IR Sensor?",
+        "Options": [
+            "a) 1",
+            "b) 3",
+            "c) 2",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 235,
+        "Question": "What mode should we put the Arduino pin to, for object detection to work with the IR Sensor?",
+        "Options": [
+            "a) Analog",
+            "b) Digital",
+            "c) PCM",
+            "d) TDM",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 236,
+        "Question": "What will happen if we supply a voltage of 25V to the Vcc of the IR sensor?",
+        "Options": [
+            "a) Damage is caused",
+            "b) Sensor will work fine",
+            "c) Sensor will not respond for the time the voltage is applied",
+            "d) Sensor will function normally",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 237,
+        "Question": "If 1 means an object is detected and 0 meaning no object is detected, then considering the sensor is stationary, what can be said about the movement of the object if the output by the sensor is 1010101?",
+        "Options": [
+            "a) Object is stationary",
+            "b) Object is oscillating side by side",
+            "c) Object is continuously moving away",
+            "d) Object is continuously moving closer",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 238,
+        "Question": "If 1 means an object is detected and 0 meaning no object is detected, then considering the sensor is stationary, what can be said about the movement of the object if the output by the sensor is 111000?",
+        "Options": [
+            "a) Object is stationary",
+            "b) Object is oscillating side by side",
+            "c) Object is continuously moving away",
+            "d) Object is continuously moving closer",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 239,
+        "Question": "What kind of waves does the IR Sensor work on?",
+        "Options": [
+            "a) Infrared",
+            "b) Indigo",
+            "c) Ultrasonic",
+            "d) Infrasonic",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 240,
+        "Question": "What is the use of the Ultrasonic Sensor?",
+        "Options": [
+            "a) Proximity Detection",
+            "b) Humidity Detection",
+            "c) Image Processing",
+            "d) GPS",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 241,
+        "Question": "How many pins are present in the Ultrasonic Sensor?",
+        "Options": [
+            "a) 1",
+            "b) 3",
+            "c) 2",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 242,
+        "Question": "What mode should we put the Arduino pin to, in order for object detection to work with the Ultrasonic Sensor?",
+        "Options": [
+            "a) Analog",
+            "b) Digital",
+            "c) PCM",
+            "d) TDM",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 243,
+        "Question": "What will happen if we supply a voltage of 25V to the Vcc of the Ultrasonic sensor?",
+        "Options": [
+            "a) Damage is caused",
+            "b) Sensor will work fine",
+            "c) Sensor will not respond for the time the voltage is applied",
+            "d) Sensor will function normally",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 244,
+        "Question": "If 1 means an object is detected and 0 meaning no object is detected, then considering the sensor is stationary, what can be said about the movement of the object if the output by the sensor is 1010101?",
+        "Options": [
+            "a) Object is stationary",
+            "b) Object is oscillating side by side",
+            "c) Object is continuously moving away",
+            "d) Object is continuously moving closer",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 245,
+        "Question": "What kind of waves does the Ultrasonic Sensor work on?",
+        "Options": [
+            "a) Gas",
+            "b) Heat",
+            "c) Light",
+            "d) Sound",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 246,
+        "Question": "What are the factors that affect the performance of the Ultrasonic Sensor during operation?",
+        "Options": [
+            "a) Distant Target Object",
+            "b) Target Object hidden by fog",
+            "c) Smoke",
+            "d) Dust",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 247,
+        "Question": "What is the optimum current that is required to operate the Ultrasonic Sensor?",
+        "Options": [
+            "a) 20 mA",
+            "b) 15 mA",
+            "c) 200 A",
+            "d) 1 A",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 248,
+        "Question": "What is the maximum distance that the Ultrasonic Sensor can detect an object?",
+        "Options": [
+            "a) 8 cm",
+            "b) 200 cm",
+            "c) 9 cm",
+            "d) 20.21 cm",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 249,
+        "Question": "What is the use of the ADXL-335 sensor?",
+        "Options": [
+            "a) To measure acceleration",
+            "b) To measure heat",
+            "c) To measure temperature",
+            "d) To measure GPS Location",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 250,
+        "Question": "How many pins are present in the ADXL-335?",
+        "Options": [
+            "a) 1",
+            "b) 4",
+            "c) 2",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 251,
+        "Question": "What mode should the 3 axis pins of the ADXL-335 be read in, in an Arduino in order to obtain meaningful values?",
+        "Options": [
+            "a) Analog",
+            "b) Digital",
+            "c) PCM",
+            "d) TDM",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 252,
+        "Question": "What will happen if we supply a voltage of 25V to the Vcc of the ADXL-335 sensor?",
+        "Options": [
+            "a) Damage is caused",
+            "b) Sensor will work fine",
+            "c) Sensor will not respond for the time the voltage is applied",
+            "d) Sensor will function normally",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 253,
+        "Question": "Which of the formulae give us the value of acceleration for the x-axis in the ADXL-335?",
+        "Options": [
+            "a) Axout = (((Value * Vref) / 1024) – 1.65) / 0.330",
+            "b) Axout = (((Value * Vref) / 1024) – 1.65) / 2000",
+            "c) Axout = (((Value * Vref) / 1024) – 1.65) / 330",
+            "d) Axout = (((Value * Vref) / 1024) – 1.65) / 0.12",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 254,
+        "Question": "Which of the formulae give us the angle of inclination in the ADXL-335?",
+        "Options": [
+            "a) theta=atan(X_Value/sqrt((Y_Value*Y_Value)+(Z_Value*Z_Value)))",
+            "b) theta=atan(X_Value/sqrt((Y_Value*Y_Value)*(Z_Value*Z_Value)))",
+            "c) theta=atan(X_Value/sqrt((Y_Value)+(Z_Value*Z_Value)))",
+            "d) theta=atan(X_Value/sqrt((Y_Value*Y_Value)+(Z_Value)))",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 255,
+        "Question": "What kind of sensor is the ADXL-335 Accelerometer Module?",
+        "Options": [
+            "a) Passive",
+            "b) Active",
+            "c) Radio",
+            "d) Pressure based",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 256,
+        "Question": "The ADXL-335 Accelerometer sensor module uses capacitive technology to detect changes. The Equation governing that function is given by C=f(A/d). What is the meaning of ‘A’ in the equation?",
+        "Options": [
+            "a) Area",
+            "b) Air",
+            "c) Antenna",
+            "d) Acceleration",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 257,
+        "Question": "What is the use of the Nokia 5110 GDM?",
+        "Options": [
+            "a) To measure luminosity of something",
+            "b) To display something",
+            "c) To measure temperature",
+            "d) To measure GPS Location",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 258,
+        "Question": "How many pins are present in the Nokia 5110 GDM have?",
+        "Options": [
+            "a) 1",
+            "b) 8",
+            "c) 10",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 259,
+        "Question": "What kind of input does the DC pin accept?",
+        "Options": [
+            "a) Analog",
+            "b) Digital",
+            "c) PCM",
+            "d) TDM",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 260,
+        "Question": "What will happen if we supply a voltage of 25V to the Vcc of the Nokia 5110 GDM?",
+        "Options": [
+            "a) Damage is caused",
+            "b) Module will shut down",
+            "c) Module will not respond for the time the voltage is applied",
+            "d) Module will function normally",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 261,
+        "Question": "What will happen if we start using the Nokia 5110 GDM without resetting?",
+        "Options": [
+            "a) Damage is caused",
+            "b) Module will work fine",
+            "c) Module will not respond indefinitely",
+            "d) Module will overheat",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 262,
+        "Question": "What communication protocol does the Nokia 5110 GDM follow?",
+        "Options": [
+            "a) SPI",
+            "b) UART",
+            "c) I2C",
+            "d) API",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 263,
+        "Question": "What is the use of the X and Y Addresses of the RAM for Display Control?",
+        "Options": [
+            "a) Rows and Columns",
+            "b) Rows",
+            "c) Columns",
+            "d) Pixels",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 264,
+        "Question": "What is the use of the VLCD?",
+        "Options": [
+            "a) Temperature Control",
+            "b) Heat Generation",
+            "c) Shutting down the LCD",
+            "d) Starting up the LCD",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 265,
+        "Question": "What kind of images can the Nokia 5110 GDM display?",
+        "Options": [
+            "a) Colored Image",
+            "b) Grayscale Image",
+            "c) Binary Image",
+            "d) Inverted Image",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 266,
+        "Question": "What is the use of the GSR Sensor?",
+        "Options": [
+            "a) Monitors electrodermal activity",
+            "b) Monitors skin capacitance",
+            "c) Monitors skin temperature",
+            "d) Monitors heartbeat",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 267,
+        "Question": "How many pins are present in the GSR Sensor?",
+        "Options": [
+            "a) 1",
+            "b) 4",
+            "c) 10",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 268,
+        "Question": "What kind of output does the SIG pin give?",
+        "Options": [
+            "a) Analog",
+            "b) Digital",
+            "c) PCM",
+            "d) TDM",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 269,
+        "Question": "What will happen if we supply a voltage of 25V to the Vcc of the GSR Sensor?",
+        "Options": [
+            "a) Damage is caused",
+            "b) Module will shut down",
+            "c) Module will not respond for the time the voltage is applied",
+            "d) Module will function normally",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 270,
+        "Question": "How many electrodes does the GSR Sensor need?",
+        "Options": [
+            "a) 1",
+            "b) 3",
+            "c) 5",
+            "d) 2",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 271,
+        "Question": "What is the optimum current that is required to operate the GSR Sensor?",
+        "Options": [
+            "a) 20 mA",
+            "b) 15 mA",
+            "c) 200 A",
+            "d) 1 A",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 272,
+        "Question": "What kind of sensor is the GSR Sensor?",
+        "Options": [
+            "a) Passive",
+            "b) Active",
+            "c) Radio",
+            "d) Pressure based",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 273,
+        "Question": "What can the GSR Sensor’s function be applied to?",
+        "Options": [
+            "a) Sleep Analysis",
+            "b) Heat Generation",
+            "c) Injury Detection",
+            "d) Physical health issues",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 274,
+        "Question": "What is the unit for skin conductance?",
+        "Options": [
+            "a) Mega Siemens",
+            "b) Deca Siemens",
+            "c) Micro Siemens",
+            "d) Octa Siemens",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 275,
+        "Question": "What voltage is applied between the two electrodes or terminals of the GSR Sensor?",
+        "Options": [
+            "a) 1 V",
+            "b) 0.5V",
+            "c) 330 mV",
+            "d) 10 V",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 276,
+        "Question": "What is the use of the MPU 6050 Sensor?",
+        "Options": [
+            "a) Monitors Motion",
+            "b) Monitors air pressure",
+            "c) Monitors objects",
+            "d) Monitors heartbeat",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 277,
+        "Question": "How many pins are present in the MPU6050 Sensor?",
+        "Options": [
+            "a) 1",
+            "b) 4",
+            "c) 8",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 278,
+        "Question": "What is the use of the AD0 pin?",
+        "Options": [
+            "a) I2C Slave Address LSB Pin",
+            "b) SPI Master Address MSB Pin",
+            "c) UART Slave Address LSB Pin",
+            "d) UART Master Address LSB Pin",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 279,
+        "Question": "What will happen if we supply a voltage of 25V to the Vcc of the MPU 6050 Sensor?",
+        "Options": [
+            "a) Damage is caused",
+            "b) Module will shut down",
+            "c) Module will not respond for the time the voltage is applied",
+            "d) Module will function normally",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 280,
+        "Question": "Which of the formulae give us the angular velocity in the MPU 6050 along the X axis?",
+        "Options": [
+            "a) Angular velocity along the X axis = (Gyroscope X axis raw data/131) °/s",
+            "b) Angular velocity along the X axis = (Gyroscope X axis raw data/132) °/s",
+            "c) Angular velocity along the X axis = (Gyroscope X axis raw data/12) °/s",
+            "d) Angular velocity along the X axis = (Gyroscope X axis raw data/130) °/s",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 281,
+        "Question": "What is the optimum current that is required to operate the MPU 6050 Sensor?",
+        "Options": [
+            "a) 20 mA",
+            "b) 15 mA",
+            "c) 200 A",
+            "d) 1 A",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 282,
+        "Question": "What kind of sensor is the MPU 6050 Sensor?",
+        "Options": [
+            "a) Passive",
+            "b) Active",
+            "c) Radio",
+            "d) Pressure based",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 283,
+        "Question": "What is the datatype of the output given by the temperature module on the MPU 6050?",
+        "Options": [
+            "a) Signed Double",
+            "b) Unsigned Byte",
+            "c) Signed Int",
+            "d) Unsigned Float",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 284,
+        "Question": "What is the formula for calculating the temperature in degrees celsius from the raw data gathered by the temperature module of the MPU 6050?",
+        "Options": [
+            "a) Temperature in degrees celsius = ((temperature sensor data)/340 + 36.53) °/c",
+            "b) Temperature in degrees celsius = ((temperature sensor data)/340 + 36) °/c",
+            "c) Temperature in degrees celsius = ((temperature sensor data) + 36.53) °/c",
+            "d) Temperature in degrees celsius = ((temperature sensor data)/340 * 36.53) °/c",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 285,
+        "Question": "Which of the formulae give us the acceleration in the MPU 6050 along the X axis?",
+        "Options": [
+            "a) Acceleration along the X axis = (Accelerometer X axis raw data/16384) g",
+            "b) Acceleration along the X axis = (Accelerometer X axis raw data/1634) g",
+            "c) Acceleration along the X axis = (Accelerometer X axis raw data/1384) g",
+            "d) Acceleration along the X axis = (Accelerometer X axis raw data/1622) g",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 286,
+        "Question": "What is the use of the LDR Sensor?",
+        "Options": [
+            "a) Monitors Motion",
+            "b) Monitors air pressure",
+            "c) Monitors Light Intensity",
+            "d) Monitors heartbeat",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 287,
+        "Question": "How many pins are present in the LDR Sensor?",
+        "Options": [
+            "a) 1",
+            "b) 4",
+            "c) 2",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 288,
+        "Question": "What is the full form of the LDR Sensor?",
+        "Options": [
+            "a) Lithium Diode Resistor",
+            "b) Light Diaphragm Resistor",
+            "c) Lithium Disk Resistor",
+            "d) Light Dependent Resistor",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 289,
+        "Question": "What will happen if we supply a voltage of 250 kV to the terminal of the LDR Sensor?",
+        "Options": [
+            "a) Damage is caused",
+            "b) Module will shut down",
+            "c) Module will not respond for the time the voltage is applied",
+            "d) Module will function normally",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 290,
+        "Question": "Which of the formulae give us the relation between resistance and illumination in the LDR Sensor?",
+        "Options": [
+            "a) Resistance = Constant_1 * (Illumination^Constant_2)",
+            "b) Resistance = Constant_1 * (Illumination+Constant_2)",
+            "c) Resistance = Constant_1 ^ (Illumination-Constant_2)",
+            "d) Resistance = Constant_1 + (Illumination^Constant_2)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 291,
+        "Question": "Which one of the following materials would be used for making an LDR?",
+        "Options": [
+            "a) Lead Sulfide",
+            "b) Pure Aluminum",
+            "c) Iron Ore",
+            "d) Aluminum Oxide",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 292,
+        "Question": "What kind of sensor is the LDR Sensor?",
+        "Options": [
+            "a) Passive",
+            "b) Active",
+            "c) Radio",
+            "d) Pressure based",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 293,
+        "Question": "If an LDR is connected to an LED and a battery and is brought from the dark to the light, what will be the state of the LED?",
+        "Options": [
+            "a) Lit",
+            "b) Not lit",
+            "c) Damaged by voltage change",
+            "d) Damaged by power surge",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 294,
+        "Question": "How much time on an average does the LDR take for it’s resistance to change when light is incident?",
+        "Options": [
+            "a) 8 to 12 ms",
+            "b) 12 min",
+            "c) 30 s",
+            "d) 354 hr",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 295,
+        "Question": "What is the use of the Relay (Dual Channel) Module?",
+        "Options": [
+            "a) Monitors Motion",
+            "b) Evaluates air pressure",
+            "c) Monitors objects",
+            "d) Switches circuits",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 296,
+        "Question": "How many pins are present in the Relay (Dual Channel) Module?",
+        "Options": [
+            "a) 12",
+            "b) 220",
+            "c) 13",
+            "d) 50",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 297,
+        "Question": "What is the use of the IN1 and IN2 pin?",
+        "Options": [
+            "a) Input",
+            "b) Output",
+            "c) Ground",
+            "d) Power input",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 298,
+        "Question": "What will happen if we supply a voltage of 250 kV to the Vcc of the Relay (Dual Channel) module?",
+        "Options": [
+            "a) Damage is caused",
+            "b) Module will shut down",
+            "c) Module will not respond for the time the voltage is applied",
+            "d) Module will function normally",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 299,
+        "Question": "What is the use of the COM pin?",
+        "Options": [
+            "a) Input",
+            "b) Output",
+            "c) Ground",
+            "d) Circuit Completion",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 300,
+        "Question": "What is the optimum current that is required to operate the Relay Module?",
+        "Options": [
+            "a) 28 A",
+            "b) 13 A",
+            "c) 210 A",
+            "d) 1 A",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 301,
+        "Question": "What kind of device is the Relay Module?",
+        "Options": [
+            "a) Passive Sensor",
+            "b) Active Sensor",
+            "c) Radio Device",
+            "d) Switching Device",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 302,
+        "Question": "What is the type of output given by the DC Relay Module?",
+        "Options": [
+            "a) Analog Signal",
+            "b) AC Signal",
+            "c) DC Signal",
+            "d) Hybrid Signal",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 303,
+        "Question": "How much time does it take for the relay module to react to a change?",
+        "Options": [
+            "a) 5 to 10 ms",
+            "b) 12 to 10 min",
+            "c) 52 to 100 ms",
+            "d) 5 to 10 s",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 304,
+        "Question": "What happens to the NO1 and NO2 pins when INT1 and INT2 is HIGH?",
+        "Options": [
+            "a) Gets connected to COM",
+            "b) Gets disconnected from COM",
+            "c) Gets connected to Vcc",
+            "d) Gets connected to GND",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 305,
+        "Question": "What is the use of the Motor Driver (L293D) Module?",
+        "Options": [
+            "a) Monitors Motion",
+            "b) Evaluates air pressure",
+            "c) Controls Motors",
+            "d) Switches circuits",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 306,
+        "Question": "How many pins are present in the Motor Driver (L293D) Module?",
+        "Options": [
+            "a) 12",
+            "b) 16",
+            "c) 13",
+            "d) 50",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 307,
+        "Question": "What is the use of the EN1_2 pin?",
+        "Options": [
+            "a) Input",
+            "b) Output",
+            "c) Activation",
+            "d) Power input",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 308,
+        "Question": "What will happen if we supply a voltage of 250 kV to the Vcc of the L293D module?",
+        "Options": [
+            "a) Damage is caused",
+            "b) Module will shut down",
+            "c) Module will not respond for the time the voltage is applied",
+            "d) Module will function normally",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 309,
+        "Question": "What is the use of the EN3_4 pin?",
+        "Options": [
+            "a) Input",
+            "b) Output",
+            "c) Activation",
+            "d) Power input",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 310,
+        "Question": "What is the use of the OUT1 and OUT2 pins?",
+        "Options": [
+            "a) Input",
+            "b) Output",
+            "c) Activation",
+            "d) Power input",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 311,
+        "Question": "What is the use of the Vcc2 pin?",
+        "Options": [
+            "a) Input",
+            "b) Output",
+            "c) Activation",
+            "d) Power input",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 312,
+        "Question": "What is the use of the Vcc1 pin?",
+        "Options": [
+            "a) Input",
+            "b) Output",
+            "c) Activation",
+            "d) Power input",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 313,
+        "Question": "What happens when the sequence 0 1 1 is fed to the IN1, IN2 and EN1_2 pins respectively?",
+        "Options": [
+            "a) Clockwise Motor Rotation",
+            "b) Anticlockwise Motor Rotation",
+            "c) Stops Motor Rotation",
+            "d) Stalls Motor Rotation",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 314,
+        "Question": "What happens when the sequence 1 1 1 is fed to the IN3, IN4 and EN3_4 pins respectively?",
+        "Options": [
+            "a) Clockwise Motor Rotation",
+            "b) Anticlockwise Motor Rotation",
+            "c) Stops Motor Rotation",
+            "d) Stalls Motor Rotation",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 315,
+        "Question": "What is the use of the ESP8266 WiFi Module?",
+        "Options": [
+            "a) Monitors Motion",
+            "b) Evaluates air pressure",
+            "c) Network Provider",
+            "d) Switches circuits",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 316,
+        "Question": "How many pins are present in the ESP8266 WiFi Module?",
+        "Options": [
+            "a) 12",
+            "b) 10",
+            "c) 8",
+            "d) 50",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 317,
+        "Question": "What is the use of the TX pin?",
+        "Options": [
+            "a) Upload",
+            "b) Download",
+            "c) Ground",
+            "d) Power input",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 318,
+        "Question": "What will happen if we supply a voltage of 250 kV to the Vcc of the ESP8266 WiFi Module?",
+        "Options": [
+            "a) Damage is caused",
+            "b) Module will shut down",
+            "c) Module will not respond for the time the voltage is applied",
+            "d) Module will function normally",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 319,
+        "Question": "What is the maximum source current that is required to operate the ESP8266 WiFi Module?",
+        "Options": [
+            "a) 28 A",
+            "b) 12 mA",
+            "c) 100 mA",
+            "d) 1 A",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 320,
+        "Question": "What is the optimum supply current that is required to operate the ESP8266 WiFi Module?",
+        "Options": [
+            "a) 28 A",
+            "b) 13 mA",
+            "c) 100 mA",
+            "d) 1 A",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 321,
+        "Question": "What kind of device is the ESP8266 WiFi Module?",
+        "Options": [
+            "a) Passive Sensor",
+            "b) Active Sensor",
+            "c) Networking Device",
+            "d) Switching Device",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 322,
+        "Question": "What is the type of waves that the ESP8266 WiFi Module detects?",
+        "Options": [
+            "a) Infrared Signal",
+            "b) Radio Signal",
+            "c) DC Signal",
+            "d) Hybrid Signal",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 323,
+        "Question": "What mode does the ESP8266 WiFi Module switch to when fed the sequence 1 1 to its GPIO-0 and GPIO-2 Pins?",
+        "Options": [
+            "a) UART Mode",
+            "b) Sleep Mode",
+            "c) Active Mode",
+            "d) Flash Mode",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 324,
+        "Question": "What mode does the ESP8266 WiFi Module switch to when fed the sequence 0 1 to its GPIO-0 and GPIO-2 Pins?",
+        "Options": [
+            "a) UART Mode",
+            "b) Sleep Mode",
+            "c) Active Mode",
+            "d) Flash Mode",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 325,
+        "Question": "What is the use of the OV7670 Camera Module?",
+        "Options": [
+            "a) Monitors Motion",
+            "b) Evaluates air pressure",
+            "c) Network Provider",
+            "d) Image Capture",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 326,
+        "Question": "How many pins are present in the OV7670 Camera Module?",
+        "Options": [
+            "a) 18",
+            "b) 10",
+            "c) 8",
+            "d) 50",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 327,
+        "Question": "What is the resolution of the OV7670 Camera Module?",
+        "Options": [
+            "a) 640×480 VGA",
+            "b) 640×481 VGA",
+            "c) 640×1020 VGA",
+            "d) 640×12 VGA",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 328,
+        "Question": "What will happen if we supply a voltage of 250 kV to the Vdd of the EOV7670 Camera Module ?",
+        "Options": [
+            "a) Damage is caused",
+            "b) Module will shut down",
+            "c) Module will not respond for the time the voltage is applied",
+            "d) Module will function normally",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 329,
+        "Question": "What is the nature of the video output protocol in the OV7670 Camera Module?",
+        "Options": [
+            "a) Serial Analog",
+            "b) Parallel Analog",
+            "c) Parallel Digital",
+            "d) Serial Digital",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 330,
+        "Question": "What kind of device is the ESP8266 WiFi Module?",
+        "Options": [
+            "a) Passive Sensor",
+            "b) Active Sensor",
+            "c) Transducer Device",
+            "d) Switching Device",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 331,
+        "Question": "What is the type of waves that the ESP8266 WiFi Module detects?",
+        "Options": [
+            "a) Infrared Signal",
+            "b) Radio Signal",
+            "c) VL Signal",
+            "d) Hybrid Signal",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 332,
+        "Question": "What technology does the  OV7670 Camera Module use for image sub-sampling?",
+        "Options": [
+            "a) VarioPixel",
+            "b) ConstPix",
+            "c) Activarr",
+            "d) Tidal",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 333,
+        "Question": "What is the use of the Nokia 5110 GDM?",
+        "Options": [
+            "a) To measure luminosity of something",
+            "b) To display something",
+            "c) To measure temperature",
+            "d) To measure GPS Location",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 334,
+        "Question": "How many pins are present in the Nokia 5110 GDM have?",
+        "Options": [
+            "a) 1",
+            "b) 8",
+            "c) 10",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 335,
+        "Question": "What kind of input does the DC pin accept?",
+        "Options": [
+            "a) Analog",
+            "b) Digital",
+            "c) PCM",
+            "d) TDM",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 336,
+        "Question": "What will happen if we supply a voltage of 25V to the Vcc of the Nokia 5110 GDM?",
+        "Options": [
+            "a) Damage is caused",
+            "b) Module will shut down",
+            "c) Module will not respond for the time the voltage is applied",
+            "d) Module will function normally",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 337,
+        "Question": "What will happen if we start using the Nokia 5110 GDM without resetting?",
+        "Options": [
+            "a) Damage is caused",
+            "b) Module will work fine",
+            "c) Module will not respond indefinitely",
+            "d) Module will overheat",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 338,
+        "Question": "What communication protocol does the Nokia 5110 GDM follow?",
+        "Options": [
+            "a) SPI",
+            "b) UART",
+            "c) I2C",
+            "d) API",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 339,
+        "Question": "What is the use of the X and Y Addresses of the RAM for Display Control?",
+        "Options": [
+            "a) Rows and Columns",
+            "b) Rows",
+            "c) Columns",
+            "d) Pixels",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 340,
+        "Question": "What is the use of the VLCD?",
+        "Options": [
+            "a) Temperature Control",
+            "b) Heat Generation",
+            "c) Shutting down the LCD",
+            "d) Starting up the LCD",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 341,
+        "Question": "What kind of images can the Nokia 5110 GDM display?",
+        "Options": [
+            "a) Colored Image",
+            "b) Grayscale Image",
+            "c) Binary Image",
+            "d) Inverted Image",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 342,
+        "Question": "What is the use of the Adafruit FONA 3G+GPS Breakout?",
+        "Options": [
+            "a) To measure luminosity of something",
+            "b) To provide 3G Connectivity",
+            "c) To measure temperature",
+            "d) To measure Wi-Fi strength",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 343,
+        "Question": "Which module enables GPS capabilities to the Adafruit FONA 3G+GPS Breakout?",
+        "Options": [
+            "a) Qualcomm 8015",
+            "b) Qualcomm 20111",
+            "c) Qualcomm 234",
+            "d) Qualcomm 8013",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 344,
+        "Question": "What kind of commands does the Adafruit FONA 3G+GPS Breakout accept?",
+        "Options": [
+            "a) Analog Commands",
+            "b) BT Commands",
+            "c) AT Commands",
+            "d) TDM Commands",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 345,
+        "Question": "What will happen if we supply a voltage of 25V to the Vcc of the Adafruit FONA 3G+GPS Breakout?",
+        "Options": [
+            "a) Damage is caused",
+            "b) Module will shut down",
+            "c) Module will not respond for the time the voltage is applied",
+            "d) Module will function normally",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 346,
+        "Question": "Which port on any Arduino board should be connected to the Key Port on the Adafruit FONA 3G+GPS Breakout?",
+        "Options": [
+            "a) Any Digital Pin",
+            "b) Vcc",
+            "c) Gnd",
+            "d) Any Analog Pin",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 347,
+        "Question": "What is the full form of the RI pin on the Adafruit FONA 3G+GPS Breakout?",
+        "Options": [
+            "a) Ring Indicator",
+            "b) Right Indicator",
+            "c) Right Impersonation",
+            "d) Rig Indicator",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 348,
+        "Question": "How many LED indicators are present on the Adafruit FONA 3G+GPS Breakout?",
+        "Options": [
+            "a) 2",
+            "b) 1",
+            "c) 10",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 349,
+        "Question": "What signal should be sent to the RESET pin of the Adafruit FONA 3G+GPS Breakout in order to perform a Hard Reset of the module?",
+        "Options": [
+            "a) 100ms LOW Signal",
+            "b) Continuous HIGH Signal",
+            "c) 100ms HIGH Signal",
+            "d) Continuous LOW Signal",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 350,
+        "Question": "What is the use of the RTSin pin on the  Adafruit FONA 3G+GPS Breakout?",
+        "Options": [
+            "a) Right Turn Pin",
+            "b) Hardware Control Pin",
+            "c) Software Control Pin",
+            "d) Residue Transmitter Pin",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 351,
+        "Question": "What is the use of the LM35 Temperature Sensor Module?",
+        "Options": [
+            "a) Object Identification",
+            "b) To provide 3G Connectivity",
+            "c) To measure temperature",
+            "d) To measure Wi-Fi strength",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 352,
+        "Question": "How many terminals does the LM35 Temperature Sensor Module have?",
+        "Options": [
+            "a) 1",
+            "b) 3",
+            "c) 2",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 353,
+        "Question": "What is the sensitivity of the LM35 Temperature Sensor Module?",
+        "Options": [
+            "a) 10mV/°C",
+            "b) 1mV/°C",
+            "c) 23mV/°C",
+            "d) 12mV/°C",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 354,
+        "Question": "What will happen if we supply a voltage of 250V to the Vcc of the LM35 Temperature Sensor Module?",
+        "Options": [
+            "a) Damage is caused",
+            "b) Module will shut down",
+            "c) Module will not respond for the time the voltage is applied",
+            "d) Module will function normally",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 355,
+        "Question": "What is the maximum temperature value that the LM35 Temperature Sensor Module can read?",
+        "Options": [
+            "a) 100°C",
+            "b) 140°C",
+            "c) 150°C",
+            "d) 130°C",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 356,
+        "Question": "What is the minimum temperature that the LM35 Temperature Sensor Module can read?",
+        "Options": [
+            "a) -11°C",
+            "b) -55°C",
+            "c) -10°C",
+            "d) 0°C",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 357,
+        "Question": "If the temperature would be 25°C then what would be the corresponding output on the LM35 Temperature Sensor?",
+        "Options": [
+            "a) 250mV",
+            "b) 200mV",
+            "c) 25V",
+            "d) 250V",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 358,
+        "Question": "What is the formula for obtaining the temperature value in degrees centigrade from the LM35 Temperature Sensor while using an ADC?",
+        "Options": [
+            "a) °C=ADC/10mV",
+            "b) °C=ADC/100mV",
+            "c) °C=ADC/1mV",
+            "d) °C=ADC/120mV",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 359,
+        "Question": "What is the approximate self heating temperature of the LM35 Temperature Sensor Module?",
+        "Options": [
+            "a) 0.08°C",
+            "b) 0.91°C",
+            "c) 0.11°C",
+            "d) 1.23°C",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 360,
+        "Question": "What is the use of the RFID Module?",
+        "Options": [
+            "a) Object Identification",
+            "b) To provide 3G Connectivity",
+            "c) To measure temperature",
+            "d) To measure Wi-Fi strength",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 361,
+        "Question": "What is the role of the MISO pin in the RFID Module?",
+        "Options": [
+            "a) Master In Slave Out",
+            "b) Manage Internal Slave Output",
+            "c) Master Internal Search Optimization",
+            "d) Manage Input Slave Op",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 362,
+        "Question": "What will happen if we supply a voltage of 25V to the Vcc of the RFID Module?",
+        "Options": [
+            "a) Damage is caused",
+            "b) Module will shut down",
+            "c) Module will not respond for the time the voltage is applied",
+            "d) Module will function normally",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 363,
+        "Question": "Which frequency does the RFID Module operate in?",
+        "Options": [
+            "a) 12.98 MHz",
+            "b) 14.67 MHz",
+            "c) 19.56 MHz",
+            "d) 13.56 MHz",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 364,
+        "Question": "What is the maximum data rate of the RFID Module?",
+        "Options": [
+            "a) 11 Mbps",
+            "b) 1 Kbps",
+            "c) 10 Mbps",
+            "d) 11 Gbps",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 365,
+        "Question": "What is the maximum read range of the RFID Module?",
+        "Options": [
+            "a) 2 cm",
+            "b) 1 cm",
+            "c) 10 cm",
+            "d) 5 cm",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 366,
+        "Question": "What is the minimum working current internally in the RFID Module?",
+        "Options": [
+            "a) 12 mA",
+            "b) 13 mA",
+            "c) 10 mA",
+            "d) 1 mA",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 367,
+        "Question": "Till what voltage are the logic pins on the RFID Module resistant to?",
+        "Options": [
+            "a) 5V",
+            "b) 3.3V",
+            "c) 2V",
+            "d) 12V",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 368,
+        "Question": "What is the use of the MQ2 Gas Sensor?",
+        "Options": [
+            "a) Object Identification",
+            "b) To provide 3G Connectivity",
+            "c) To measure presence of gas",
+            "d) To measure Wi-Fi strength",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 369,
+        "Question": "How many terminals does the MQ2 Gas Sensor have?",
+        "Options": [
+            "a) 1",
+            "b) 3",
+            "c) 2",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 370,
+        "Question": "What will happen if we supply a voltage of 25V to the Vcc of the MQ2 Gas Sensor?",
+        "Options": [
+            "a) Damage is caused",
+            "b) Module will shut down",
+            "c) Module will not respond for the time the voltage is applied",
+            "d) Module will function normally",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 371,
+        "Question": "What is the maximum output voltage that the MQ2 Gas Sensor can put out on its analog output pin?",
+        "Options": [
+            "a) 1V",
+            "b) 140V",
+            "c) 5V",
+            "d) 10V",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 372,
+        "Question": "If the PPM concentration of a gas that is being detected by the MQ2 Gas Sensor increases what will happen to its Digital Output pin?",
+        "Options": [
+            "a) Voltage Increases",
+            "b) Voltage Decreases",
+            "c) Voltage becomes 0",
+            "d) Voltage doesn’t change",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 373,
+        "Question": "If the PPM concentration of a gas that is being detected by the MQ2 Gas Sensor increases what will happen to its Analog Output pin?",
+        "Options": [
+            "a) Voltage Increases",
+            "b) Voltage Decreases",
+            "c) Voltage becomes 0",
+            "d) Voltage doesn’t change",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 374,
+        "Question": "What is the full form of the abbreviation called PPM?",
+        "Options": [
+            "a) Parts Per Million",
+            "b) Parts Per Milligram",
+            "c) Parts Per Megagram",
+            "d) Parts Per Millilitre",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 375,
+        "Question": "What is the name of the mesh surrounding the MQ2 Gas Sensor?",
+        "Options": [
+            "a) Anti-Heat Mesh",
+            "b) Anti-Explosion Mesh",
+            "c) Anti-Air Mesh",
+            "d) Filtration Mesh",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 376,
+        "Question": "What is the use of the rotary encoder?",
+        "Options": [
+            "a) To measure RPM or speed",
+            "b) To provide 3G Connectivity",
+            "c) To measure presence of gas",
+            "d) To measure Wi-Fi strength",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 377,
+        "Question": "How many terminals does the rotary encoder have?",
+        "Options": [
+            "a) 1",
+            "b) 3",
+            "c) 5",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 378,
+        "Question": "What is the purpose of the CLK pin in the rotary encoder?",
+        "Options": [
+            "a) To provide pulse reference",
+            "b) To power the module",
+            "c) To shut down the module",
+            "d) To provide analog reference voltage",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 379,
+        "Question": "What will happen if we supply a voltage of 25V to the Vcc of the rotary encoder?",
+        "Options": [
+            "a) Damage is caused",
+            "b) Module will shut down",
+            "c) Module will not respond for the time the voltage is applied",
+            "d) Module will function normally",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 380,
+        "Question": "What is the maximum output voltage that the rotary encoder can put out on its DATA output pin?",
+        "Options": [
+            "a) 1V",
+            "b) 140V",
+            "c) 5V",
+            "d) 10V",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 381,
+        "Question": "What is the purpose of the DATA pin in the rotary encoder?",
+        "Options": [
+            "a) To provide direction of motion",
+            "b) To power the module",
+            "c) To shut down the module",
+            "d) To provide analog reference voltage",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 382,
+        "Question": "Which direction is the rotary encoder moving?",
+        "Options": [
+            "a) Swinging both clockwise and anticlockwise",
+            "b) Anticlockwise",
+            "c) Clockwise",
+            "d) Still",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 383,
+        "Question": "Which direction is the rotary encoder moving?",
+        "Options": [
+            "a) Swinging both clockwise and anticlockwise",
+            "b) Anticlockwise",
+            "c) Clockwise",
+            "d) Still",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 384,
+        "Question": "Which direction is the rotary encoder moving?",
+        "Options": [
+            "a) Swinging both clockwise and anticlockwise",
+            "b) Anticlockwise",
+            "c) Clockwise",
+            "d) Still",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 385,
+        "Question": "Which direction is the rotary encoder moving?",
+        "Options": [
+            "a) Swinging both clockwise and anticlockwise",
+            "b) Anticlockwise",
+            "c) Clockwise",
+            "d) Still",
+            ""
+        ],
+        "Answer": "Answer: a"
+    }
+]

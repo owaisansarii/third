@@ -1,0 +1,4850 @@
+[
+    {
+        "id": 1,
+        "Question": "The first National Highway of India, NH 1 connects New Delhi to which town in India?",
+        "Options": [
+            "a) Sri- Nagar",
+            "b) Attari",
+            "c) Kolkata",
+            "d) Rajkot",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 2,
+        "Question": "The Golden Quadrilateral connects which four major cities in India?",
+        "Options": [
+            "a) Delhi, Mumbai, Chennai and Kolkata",
+            "b) Delhi, Mumbai, Chennai and Guwahati",
+            "c) Delhi, Surat, Mumbai and Bangalore",
+            "d) Surat, Mumbai, Bangalore and Kolkata",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 3,
+        "Question": "Which programme was introduced to improve road connectivity in North-East India?",
+        "Options": [
+            "a) National Highways Authority of India",
+            "b) Border Roads Development Board",
+            "c) Special Accelerated Road Development Programme",
+            "d) Setu Bharatam",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 4,
+        "Question": "The Motor Vehicle Act was passed by the Parliament of India in the year _______",
+        "Options": [
+            "a) 1988",
+            "b) 1942",
+            "c) 1995",
+            "d) 2000",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 5,
+        "Question": "The longest bridge in India, Dhola-Sadia bridge spans over which river?",
+        "Options": [
+            "a) Lohit river",
+            "b) Dihing River",
+            "c) Manas River",
+            "d) Sankosh river",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 6,
+        "Question": "Who was the chairman of the Indian Road development committee, 1927?",
+        "Options": [
+            "a) Yogendra Narain",
+            "b) M.R.Jayakar",
+            "c) Lt. Gen.Harpal Singh",
+            "d) R. K. Chaturvedi",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 7,
+        "Question": "What is the main function of the Central Road Research Institute (1951)?",
+        "Options": [
+            "a) Research on road construction and to provide consultation services for the state government",
+            "b) Develop and maintain roads in the institute",
+            "c) Planning of various road maintenance programmes",
+            "d) To provide the standards and the specifications for the road construction in the country",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 8,
+        "Question": "Who launched the National Green Highway Program?",
+        "Options": [
+            "a) Ministry of Transport and NHAI",
+            "b) Border Roads Organisation",
+            "c) Public Works Department",
+            "d) Indian Road Development Committee",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 9,
+        "Question": "When was the Inland Waterways Authority of India established?",
+        "Options": [
+            "a) 1986",
+            "b) 1942",
+            "c) 1995",
+            "d) 1982",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 10,
+        "Question": "The first train journey in India was made between which two cities?",
+        "Options": [
+            "a) Bombay and Nashik",
+            "b) Bombay and Thane",
+            "c) Nagpur and Pune",
+            "d) Nashik and Dadar",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 11,
+        "Question": "Which one of the four options given below does not belong to Nagpur Plan of 1943?",
+        "Options": [
+            "a) State Highways",
+            "b) District roads",
+            "c) National Highways",
+            "d) Expressways",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 12,
+        "Question": "Why was the Central Road Fund (CRF) created?",
+        "Options": [
+            "a) To impose a tax on the consumption of Petrol and Diesel",
+            "b) To impose tolls on bridges",
+            "c) To collect fund from various national organisations",
+            "d) To Impose a tax on vehicle buyers",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 13,
+        "Question": "Which scheme in India has 50 percent of the cess levied on High-Speed Diesel (HSD) earmarked to fund it?",
+        "Options": [
+            "a) Central Road Fund (CRF)",
+            "b) Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+            "c) Border Roads Development Organisation (BRO)",
+            "d) National Bank for Agriculture and Rural Development (NABARD)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 14,
+        "Question": "Canal Transport comes under which mode of transportation?",
+        "Options": [
+            "a) Land Transport",
+            "b) Water transport",
+            "c) Air transport",
+            "d) Underground transport",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 15,
+        "Question": "Which is the cheapest mode of transportation in India?",
+        "Options": [
+            "a) Air transport",
+            "b) Land transport",
+            "c) Water transport",
+            "d) Railway",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 16,
+        "Question": "Which was the first commercial airport in India?",
+        "Options": [
+            "a) Mumbai-Juhu Airport",
+            "b) Indira Gandhi International Airport, New Delhi",
+            "c) Bengaluru International Airport, Bengaluru",
+            "d) Chhatrapati Shivaji International Airport, Mumbai",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 17,
+        "Question": "Which is the oldest port in India?",
+        "Options": [
+            "a) Kandla Port",
+            "b) Kamajhar Port",
+            "c) Lothal Port",
+            "d) Morgugao Port",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 18,
+        "Question": "Which of the following authority responsible for managing shipping and trade through a commercial seaport?",
+        "Options": [
+            "a) Port Trust Board",
+            "b) Inland Waterways Authority of India (IWAI)",
+            "c) Port Authority of India",
+            "d) Port Association of India",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 19,
+        "Question": "Which National Waterway (NW) runs from Haldia to Prayagraj?",
+        "Options": [
+            "a) NW-1",
+            "b) NW-2",
+            "c) NW-3",
+            "d) NW-4",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 20,
+        "Question": "In how many zones is the rail network divided into?",
+        "Options": [
+            "a) 20",
+            "b) 17",
+            "c) 15",
+            "d) 10",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 21,
+        "Question": "Where is the zone headquarter for the South Central Railway?",
+        "Options": [
+            "a) Secunderabad",
+            "b) Hyderabad",
+            "c) Vijayawada",
+            "d) Nanded",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 22,
+        "Question": "Which city given below doesn’t have metro rail connectivity? (As on year 2019)",
+        "Options": [
+            "a) Bangalore",
+            "b) Delhi",
+            "c) Chennai",
+            "d) Thiruvananthapuram",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 23,
+        "Question": "The first bus service in India was started in the year _________",
+        "Options": [
+            "a) 1926",
+            "b) 1942",
+            "c) 1966",
+            "d) 1988",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 24,
+        "Question": "The Konkan rail line was fully operational in the year _________",
+        "Options": [
+            "a) 2000",
+            "b) 1998",
+            "c) 1996",
+            "d) 1988",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 25,
+        "Question": "The first line of Delhi Metro was inaugurated on _________",
+        "Options": [
+            "a) December 24, 2002",
+            "b) December 22, 2002",
+            "c) November 22, 2002",
+            "d) November 24, 2002",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 26,
+        "Question": "Which of the following is not the function of Transportation organization?",
+        "Options": [
+            "a) Organize the construction and functioning of transportation facilities and services",
+            "b) Implementing strategies to manage the demand for transportation",
+            "c) Establishing the linkage between land use strategies and transportation investments",
+            "d) Review the management of various organizations responsible for road management in the country",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 27,
+        "Question": "Which of the following is not an International Transport Organisations?",
+        "Options": [
+            "a) International Freight Forwarders Association",
+            "b) International Air Transport Association",
+            "c) International Maritime Health Association",
+            "d) International Union of Railways",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 28,
+        "Question": "Which of the following is the best way to make public transportation efficient?",
+        "Options": [
+            "a) Separate bus lanes",
+            "b) Carpooling",
+            "c) Increasing tax",
+            "d) Providing toll booths",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 29,
+        "Question": "Which administration represents the interests of truck, bus, coach and taxi operators for the transportation of people and commodities by roadway?",
+        "Options": [
+            "a) International Freight Forwarders Association",
+            "b) National Highways Authority of India",
+            "c) International Road Transport Union",
+            "d) International Shipping Federation",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 30,
+        "Question": "Which organization controls the State Road Transport Corporations?",
+        "Options": [
+            "a) International Road Transport Union",
+            "b) National Highways Authority of India",
+            "c) Association of State Road Transport Undertakings (ASTRU)",
+            "d) Association of Management Development Institutions in South Asia",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 31,
+        "Question": "Which of the following is not a category of Traffic Studies?",
+        "Options": [
+            "a) Inventories",
+            "b) Administrative studies",
+            "c) Dynamic studies",
+            "d) Economic studies",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 32,
+        "Question": "Which of the following traffic study requires the collection of data under operational conditions?",
+        "Options": [
+            "a) Dynamic studies",
+            "b) Administrative studies",
+            "c) Inventories",
+            "d) Economic studies",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 33,
+        "Question": "Spot speed studies are conducted to ______",
+        "Options": [
+            "a) estimate distribution of speeds of vehicles in traffic at a particular location",
+            "b) estimate distribution of traffic density at a particular location",
+            "c) survey various locations based on speed",
+            "d) survey various locations based on traffic density",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 34,
+        "Question": "Aerial photography and surveying are required in which type of traffic study?",
+        "Options": [
+            "a) Inventories",
+            "b) Administrative studies",
+            "c) Dynamic studies",
+            "d) Detailed study",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 35,
+        "Question": "Pneumatic road tube device is a type of _______",
+        "Options": [
+            "a) Manual data collection method",
+            "b) Semi-automated data collection method",
+            "c) Fully-automated data collection method",
+            "d) None of the above",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 36,
+        "Question": "Which of the following study is not conducted manually?",
+        "Options": [
+            "a) Traffic counts",
+            "b) Intersection delay",
+            "c) Operation of the traffic signal",
+            "d) Travel time data",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 37,
+        "Question": "Which of the following is the prime disadvantage of fixed signal?",
+        "Options": [
+            "a) Data is available for a short period of time",
+            "b) It is not portable",
+            "c) Requires skills to use",
+            "d) Costly",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 38,
+        "Question": "What is the error reported when using a stopwatch for manual study?",
+        "Options": [
+            "a) Time error",
+            "b) Parallax",
+            "c) Reading error",
+            "d) Cumulative error",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 39,
+        "Question": "What principle does radar meters use?",
+        "Options": [
+            "a) Doppler principle",
+            "b) Van-Hoff principle",
+            "c) Hooke’s law",
+            "d) Tyndall effect",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 40,
+        "Question": "Radar meters must have a license from ________",
+        "Options": [
+            "a) Indian Traffic Commission",
+            "b) Federal Communication Commission",
+            "c) Federal Traffic Commission",
+            "d) Indian Communication Commission",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 41,
+        "Question": "Pneumatic tubes are used for ______",
+        "Options": [
+            "a) Traffic counting",
+            "b) Surveying",
+            "c) Parking counts",
+            "d) Delay time",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 42,
+        "Question": "What is the disadvantage of Pneumatic tubes?",
+        "Options": [
+            "a) They are costly",
+            "b) They require skill",
+            "c) They count the number of axles",
+            "d) They are not portable",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 43,
+        "Question": "What was the first permanent detector used?",
+        "Options": [
+            "a) Inductive loop",
+            "b) Pressure plate",
+            "c) Magnetic detector",
+            "d) Magnetometer",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 44,
+        "Question": "What is the principle used by the inductive loop?",
+        "Options": [
+            "a) Induction",
+            "b) Electromagnetic field",
+            "c) Doppler effect",
+            "d) Scattering",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 45,
+        "Question": "What is the standard loop detector size?",
+        "Options": [
+            "a) 12ft X 12ft",
+            "b) 10ft X 10ft",
+            "c) 6ft X 6ft",
+            "d) 5ft X 5ft",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 46,
+        "Question": "Inductive loop directly measures ________",
+        "Options": [
+            "a) Speed of vehicles",
+            "b) Delay time",
+            "c) Passage and presence of vehicles",
+            "d) Travel time from one location to another",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 47,
+        "Question": "What are the two types of magnetic detector?",
+        "Options": [
+            "a) Magnetometer and magnetic sensor",
+            "b) Speed detector and magnetic sensor",
+            "a) Magnetometer and speed detector",
+            "b) Density detector and speed detector",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 48,
+        "Question": "Which magnetic detector can measure both passage and presence of vehicles?",
+        "Options": [
+            "a) Magnetometer",
+            "b) Magnetic sensor",
+            "c) Magnetometer and Magnetic sensor",
+            "d) Speedometer",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 49,
+        "Question": "What is the principle upon which the magnetic detector is based on?",
+        "Options": [
+            "a) Doppler effect",
+            "b) Electromagnetic field",
+            "c) Moving metal disturbs earth’s magnetic field",
+            "d) Charles law",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 50,
+        "Question": "What is the use of second wire loop on the Magnetometer?",
+        "Options": [
+            "a) To detect passage",
+            "b) To detect presence",
+            "c) To detect speed",
+            "d) To detect density",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 51,
+        "Question": "Aerial photography uses which basic platform?",
+        "Options": [
+            "a) A stationary elevated vantage point",
+            "b) Satellite",
+            "c) Skydiving",
+            "d) Hot air balloon",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 52,
+        "Question": "Which process captures individual vehicle traces through the photographed segment?",
+        "Options": [
+            "a) Aerial photography",
+            "b) Digitizing",
+            "c) Operating",
+            "d) Tracing",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 53,
+        "Question": "Which is the most desirable platform for aerial photography?",
+        "Options": [
+            "a) Elevated vantage point",
+            "b) Fixed wing aircraft",
+            "c) Helicopters",
+            "d) Satellite",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 54,
+        "Question": "Which is the most suitable study for information on trip purpose?",
+        "Options": [
+            "a) Traffic counting",
+            "b) Interview study",
+            "c) Parking counts",
+            "d) Tracking",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 55,
+        "Question": "In which of the following interview study traffic is disrupted?",
+        "Options": [
+            "a) Roadside interview",
+            "b) Comprehensive home interview",
+            "c) Destination-based interview",
+            "d) Parking survey",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 56,
+        "Question": "Which of the following is not a factor that affects PRT?",
+        "Options": [
+            "a) Age",
+            "b) Presence of alcohol in driver’s system",
+            "c) Fatigue",
+            "d) Vehicle accommodation",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 57,
+        "Question": "Within which field of vision should traffic signs be placed without the drivers having to change their line of sight?",
+        "Options": [
+            "a) Acute vision field",
+            "b) Fairly clear vision field",
+            "c) Peripheral vision field",
+            "d) Obtuse vision field",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 58,
+        "Question": "What is the correct order of the four distinct processes a driver has to perform during perception and reaction time?",
+        "Options": [
+            "a) Detection, Identification, Decision, and Response",
+            "b) Detection, Decision, Identification, and Response",
+            "c) Identification, Detection, Decision, and Response",
+            "d) Identification, Decision, Detection, and Response",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 59,
+        "Question": "What is the range of fairly clear vision cone?",
+        "Options": [
+            "a) 10° – 15°",
+            "b) 10° – 12°",
+            "c) 3° – 10°",
+            "d) 60° – 90°",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 60,
+        "Question": "Some _______ pigment has been added to green lights and some ________ pigment has been added to red light to make it easier for the colourblind drivers to distinguish it.",
+        "Options": [
+            "a) blue, yellow",
+            "b) red, green",
+            "c) yellow, blue",
+            "d) green, red",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 61,
+        "Question": "What do Raised markers on a pavement indicate?",
+        "Options": [
+            "a) Cycle trail",
+            "b) Mandatory reduction in speed of the vehicle",
+            "c) Railway track ahead",
+            "d) Two-way lane demarcation",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 62,
+        "Question": "Which visual reception affects the ability of a driver to estimate speed, distance, size, and acceleration?",
+        "Options": [
+            "a) Hearing perception",
+            "b) Depth perception",
+            "c) Glare vision",
+            "d) Visual acuity",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 63,
+        "Question": "What is the recovery time when the driver moves from light to dark condition?",
+        "Options": [
+            "a) 3 seconds",
+            "b) 2 seconds",
+            "c) 6 seconds",
+            "d) 5 seconds",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 64,
+        "Question": "What does the etching on the outside edge of the shoulder on a highway pavement indicate to a driver?",
+        "Options": [
+            "a) Vehicle leaving the pavement surface",
+            "b) Vehicle entering a different lane",
+            "c) Vehicle entering a construction site",
+            "d) Vehicle entering the pedestrian lane",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 65,
+        "Question": "The cone for peripheral vision is typically 160°. On what does this value depend on?",
+        "Options": [
+            "a) Speed of vehicle and hearing perception",
+            "b) Speed of vehicle and age of driver",
+            "c) Age of driver and depth perception",
+            "d) Age of driver and glare recovery",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 66,
+        "Question": "What is Gap Acceptance?",
+        "Options": [
+            "a) Minimum gap required to change the lane safely",
+            "b) Maximum gap required to change the lane safely",
+            "c) Minimum gap required in between parked cars",
+            "d) Maximum gap required in between parked cars",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 67,
+        "Question": "The visibility difficulty that the driver faces at night is due to _____________",
+        "Options": [
+            "a) Depth perception",
+            "b) Glare vision",
+            "c) Visibility perception",
+            "d) Colour blindness",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 68,
+        "Question": "What does PIEV mean?",
+        "Options": [
+            "a) Perception, Imitation, Environment, and Volition",
+            "b) Perception, Identification, Environment, and Volition",
+            "c) Perception, Identification, Emotion, and Volition",
+            "d) Perception, Identification, Emotion, and Violation",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 69,
+        "Question": "What are the factors that affect PRT?",
+        "Options": [
+            "a) Age, presence of alcohol and drugs, road rage, walking speed",
+            "b) Age, presence of alcohol and drugs, fatigue, complexity of reactions",
+            "c) Age, presence of alcohol and drugs, fatigue, size of obstruction",
+            "d) Age, presence of alcohol and drugs, fatigue, type of pavement",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 70,
+        "Question": "What is the Perception Reaction Time for braking on highways?",
+        "Options": [
+            "a) 1 second",
+            "b) 2.5 seconds",
+            "c) 3.5 seconds",
+            "d) 3 seconds",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 71,
+        "Question": "The initial speed of the vehicle is 80 kmph. What is the reaction distance?",
+        "Options": [
+            "a) 45.5 m",
+            "b) 55.2 m",
+            "c) 55.6 m",
+            "d) 22.24 m",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 72,
+        "Question": "A vehicle travels at a speed of 60 kmph. The driver then sees a stopped car on the road ahead. How far will the driver’s vehicle travel before the driver’s foot reach the brake?",
+        "Options": [
+            "a) 41.7 m",
+            "b) 40 m",
+            "c) 31.2 m",
+            "d) 45 m",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 73,
+        "Question": "The driver notices a red traffic signal towards the front. The vehicle moves 11m before he can observe and apply brakes on the vehicle. At what speed the vehicle was moving?",
+        "Options": [
+            "a) 30 kmph",
+            "b) 40 kmph",
+            "c) 50 kmph",
+            "d) 60 kmph",
+            "e) "
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 74,
+        "Question": "What is the AASHTO recommendation for a PRT for stops on rural roads where collision avoidance maneuver is required?",
+        "Options": [
+            "a) 9.1 seconds",
+            "b) 10 seconds",
+            "c) 8 seconds",
+            "d) 3 seconds",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 75,
+        "Question": "Which of the following is not a category of expectancy?",
+        "Options": [
+            "a) Continuity",
+            "b) Event",
+            "c) Temporal",
+            "d) Complexity of reaction",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 76,
+        "Question": "A driver with a perception-reaction time of 2.5s is driving with a speed of 75 kmph. He observes an accident on the road ahead. Workout the distance the vehicle will travel before the driver applies brakes.",
+        "Options": [
+            "a) 49 m",
+            "b) 52 m",
+            "c) 50 m",
+            "d) 53 m",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 77,
+        "Question": "What is the AASHTO recommendation for a PRT on urban roads where collision avoidance requires speed, path and direction changes?",
+        "Options": [
+            "a) 14 to 14.5 seconds",
+            "b) 10.2 to 11.2 seconds",
+            "c) 12.1 to 12.9 seconds",
+            "d) 9.1 to 9.9 seconds",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 78,
+        "Question": "What can be done to avoid Expectant accidents on the road?",
+        "Options": [
+            "a) Set up Speed limits",
+            "b) Two lane roads",
+            "c) Guide signs",
+            "d) Speed breakers",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 79,
+        "Question": "In how many categories are motor vehicles classified by AASHTO?",
+        "Options": [
+            "a) 4",
+            "b) 5",
+            "c) 3",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 80,
+        "Question": "Which of the following is critical vehicle property for the design of roadways and traffic control?",
+        "Options": [
+            "a) Type of engine",
+            "b) Type of fuel the vehicle runs on",
+            "c) Acceleration",
+            "d) Age of vehicle",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 81,
+        "Question": "How many design vehicles has AASHTO specified for geometric design of road?",
+        "Options": [
+            "a) 10",
+            "b) 11",
+            "c) 13",
+            "d) 20",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 82,
+        "Question": "Which of the following is the incorrect use of Design vehicles?",
+        "Options": [
+            "a) Design of turning roadways",
+            "b) Design of intersection curbs",
+            "c) Determination of lane widths",
+            "d) Design of different types of vehicles",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 83,
+        "Question": "Which of the following is the minimum design vehicle for local street applications?",
+        "Options": [
+            "a) Passenger car",
+            "b) Single-unit truck",
+            "c) Intercity bus",
+            "d) Triple semi-trailer",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 84,
+        "Question": "Which of the following is the design vehicle for parking lots?",
+        "Options": [
+            "a) Passenger car",
+            "b) Single-unit truck",
+            "c) Intercity bus",
+            "d) Triple semi-trailer",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 85,
+        "Question": "For the design of highways and intersections, the selection of design vehicle must consider __________",
+        "Options": [
+            "a) Vehicle length",
+            "b) Vehicle mix",
+            "c) Emergency vehicles",
+            "d) Topography",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 86,
+        "Question": "What is the height range of design vehicles?",
+        "Options": [
+            "a) 4.25 ft—13.5 ft",
+            "b) 4.5 ft—13.5 ft",
+            "c) 4.25 ft—14 ft",
+            "d) 4.25 ft—15 ft",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 87,
+        "Question": "What is the minimum clearance for most facilities?",
+        "Options": [
+            "a) 15 ft",
+            "b) 15 ft",
+            "c) 10 ft",
+            "d) 14 ft",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 88,
+        "Question": "What is the width range of design vehicles?",
+        "Options": [
+            "a) 7 ft — 8.5 ft",
+            "b) 5 ft — 10 ft",
+            "c) 2 ft — 8 ft",
+            "d) 4 ft — 10 ft",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 89,
+        "Question": "What is the desirable lane width for facilities?",
+        "Options": [
+            "a) 12 ft",
+            "b) 13 ft",
+            "c) 10 ft",
+            "d) 5 ft",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 90,
+        "Question": "What are the conditions under which vehicles must take turns?",
+        "Options": [
+            "a) Low speed turns and high speed turns",
+            "b) Superelevation",
+            "c) Wheel load",
+            "d) Centrifugal force",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 91,
+        "Question": "Low speed turns are limited by _______",
+        "Options": [
+            "a) Characteristics of vehicle",
+            "b) Dynamics of side friction",
+            "c) Wheel load",
+            "d) Type of road",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 92,
+        "Question": "High speed turns are limited by ______________",
+        "Options": [
+            "a) Characteristics of vehicle",
+            "b) Dynamics of side friction",
+            "c) Wheel load",
+            "d) Type of road",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 93,
+        "Question": "The characteristic WB-40 indicates which design vehicle?",
+        "Options": [
+            "a) Intermediate semi-trailer ( wheelbase = 40 ft)",
+            "b) Intermediate semi-trailer ( wheelbase = 50 ft)",
+            "c) Intermediate semi-trailer ( wheelbase = 62 ft)",
+            "d) Inter bus city (wheelbase = 40 ft)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 94,
+        "Question": "Which technique can be used to judge pedestrian behaviour?",
+        "Options": [
+            "a) Traffic survey",
+            "b) Interview study",
+            "c) Calibration study",
+            "d) Observation study",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 95,
+        "Question": "Which main trait is obtained from Pedestrian study?",
+        "Options": [
+            "a) Crosswalks at signalized and un-signalized intersection",
+            "b) Crosswalks at flyovers",
+            "c) Pedestrian’s origin and destination",
+            "d) Pedestrian’s traffic",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 96,
+        "Question": "What is the standard speed at which pedestrians cross the crosswalks?",
+        "Options": [
+            "a) 3-5ft/s",
+            "b) 2-3ft/s",
+            "c) 5-7ft/s",
+            "d) 1-3ft/s",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 97,
+        "Question": "Bicycle LOS is based on __________",
+        "Options": [
+            "a) Quality of service linked to the comfort of car drivers",
+            "b) Quality of service linked to the comfort of cyclists",
+            "c) Speed of cycles",
+            "d) Density of cycles",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 98,
+        "Question": "Warning signs dealing with pedestrians and cyclists have which colour background?",
+        "Options": [
+            "a) Red",
+            "b) Lime Green",
+            "c) Yellow",
+            "d) Black",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 99,
+        "Question": "What are the two approaches considered when minimum pedestrian condition is not met?",
+        "Options": [
+            "a) Pedestrian actuator and retiming of signal",
+            "b) Pedestrian actuator and redesigning",
+            "c) Retiming of signal and traffic controller",
+            "d) Traffic controller and crossway broadened",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 100,
+        "Question": "What is the standard walking speed used in timing signals where older pedestrians are dominant?",
+        "Options": [
+            "a) 4ft/s",
+            "b) 5ft/s",
+            "c) 2ft/s",
+            "d) 3.5ft/s",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 101,
+        "Question": "What is the main demerit of retiming the traffic signal for pedestrians and cyclists?",
+        "Options": [
+            "a) Delay of vehicles",
+            "b) Delay of pedestrians and cyclist",
+            "c) Accidents",
+            "d) Disruption of traffic",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 102,
+        "Question": "Which of the following formula gives the amount of time needed for pedestrians to safely cross the crosswalk in a pre-timed traffic signal?",
+        "Options": [
+            "a) G = 3.2 – 0.27 Npeds + L/S",
+            "b) G = 3.2 + 0.27 Npeds + L/S",
+            "c) G = 0.27 Npeds + L/S",
+            "d) G = 3.2 + 0.27 Npeds",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 103,
+        "Question": "What should be done when minimum green does not provide safe crossing for pedestrians?",
+        "Options": [
+            "a) Crosswalk removed",
+            "b) Retiming of signal",
+            "c) Traffic controller",
+            "d) Pedestrian push button",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 104,
+        "Question": "What is the minimum width of footpath in India for commercial areas?",
+        "Options": [
+            "a) 2m",
+            "b) 3m",
+            "c) 1.8m",
+            "d) 2.5m",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 105,
+        "Question": "What is the minimum width of cycling path?",
+        "Options": [
+            "a) 1.5m",
+            "b) 2m",
+            "c) 4m",
+            "d) 5m",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 106,
+        "Question": "Which of the following is one of the 8 climate mission of the Government of India?",
+        "Options": [
+            "a) National Mission on Sustainable Habitat",
+            "b) Nehemiah Sustainable Vision Engagement",
+            "c) National Mission on Climate Change",
+            "d) National Mission on Transportation",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 107,
+        "Question": "What is the act which refers to the ease of access to offices, public buildings, and transport infrastructure?",
+        "Options": [
+            "a) Rights of Person with Disability Act, 2016",
+            "b) Rights of Specially Abled Act, 2016",
+            "c) Disabled People Right, 2016",
+            "d) Rights of Person with Disability Act, 2015",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 108,
+        "Question": "What was the issue identified in IRC:106, 1990 (Guidelines for Capacity if Urban Roads in Plain Areas)?",
+        "Options": [
+            "a) Doesn’t address cycle infrastructure",
+            "b) Cycle as a mode was not considered",
+            "c) Parking space for NMT is absent",
+            "d) Identifies cycle as a threat",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 109,
+        "Question": "Which of the following factors does not affect the NMT network?",
+        "Options": [
+            "a) Reduction of speed of motorized vehicles",
+            "b) Merging safest and fastest route",
+            "c) Signalized paths",
+            "d) Improving visibility at intersections",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 110,
+        "Question": "What is the data source for Trip Production Pattern in an NMT plan?",
+        "Options": [
+            "a) Household Interview Data",
+            "b) Ward Map",
+            "c) Property Tax Data",
+            "d) Traffic Volume Counts",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 111,
+        "Question": "Why is Travel Demand Model required?",
+        "Options": [
+            "a) To recreate the road network and travel pattern",
+            "a) To recreate the road network only",
+            "b) To recreate the travel pattern only",
+            "c) To recreate the travel pattern and footpaths",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 112,
+        "Question": "Trip distribution in NMT is carried out based on _____",
+        "Options": [
+            "a) Pedestrian Compatibility Index",
+            "b) Cycle Compatibility Index",
+            "c) Vehicle Compatibility Index",
+            "d) Trip Compatibility Index",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 113,
+        "Question": "What is the data source for Road Network in an NMT plan?",
+        "Options": [
+            "a) Household Interview Data",
+            "b) Ward Map",
+            "c) Property Tax Data",
+            "d) Land Use Data",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 114,
+        "Question": "What is the WALK interval when the number of pedestrians is 10?",
+        "Options": [
+            "a) 4 s",
+            "b) 5.9 s",
+            "c) 6.2 s",
+            "d) 10 s",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 115,
+        "Question": "How many travel movements are present on a typical trip?",
+        "Options": [
+            "a) 5",
+            "b) 6",
+            "c) 3",
+            "d) 2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 116,
+        "Question": "Which travel movement occurs when vehicle transfers from the through portion of trip to the remaining travel movement functions?",
+        "Options": [
+            "a) Main Movement",
+            "b) Access",
+            "c) Transition",
+            "d) Distribution",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 117,
+        "Question": "In how many groups are highways classified based on access and mobility?",
+        "Options": [
+            "a) 3",
+            "b) 4",
+            "c) 6",
+            "d) 2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 118,
+        "Question": "Which class of highway classification provides 100% mobility?",
+        "Options": [
+            "a) Arterials",
+            "b) Collectors",
+            "c) Limited-access facilities",
+            "d) Local street",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 119,
+        "Question": "The function of arterial can be strengthened by which of the following options?",
+        "Options": [
+            "a) Incorporating sharp curvature",
+            "b) Use of cul-de-sacs",
+            "c) Not having any residence in front of collector",
+            "d) Limiting the number of locations of entry and exit on the arterial",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 120,
+        "Question": "Which of the following is not a primary element of the geometry of a highway section?",
+        "Options": [
+            "a) Horizontal alignment",
+            "b) Vertical alignment",
+            "c) Cross-sectional element",
+            "d) Traffic Signals",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 121,
+        "Question": "Which of the following is an important consideration for designing Horizontal alignment?",
+        "Options": [
+            "a) Social consideration",
+            "b) Aesthetics",
+            "c) Maintenance of comfortable operations",
+            "d) Superelevation",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 122,
+        "Question": "Which of the following is not an Engineering factor?",
+        "Options": [
+            "a) Topography",
+            "b) Natural barriers",
+            "c) Forecast demand volumes",
+            "d) Drainage patterns",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 123,
+        "Question": "What is the unit of Grade in a vertical alignment?",
+        "Options": [
+            "a) Meter",
+            "b) Hectare",
+            "c) Dimensionless",
+            "d) Kilograms",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 124,
+        "Question": "Which of the following is a primary design criterion for vertical curves?",
+        "Options": [
+            "a) Drainage",
+            "b) Forecast demand volumes",
+            "c) Sub-surface conditions",
+            "d) Natural barriers",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 125,
+        "Question": "Which of the following is an important consideration for designing cross-sections of a highway?",
+        "Options": [
+            "a) Superelevation",
+            "b) Topography",
+            "c) Forecast demand volumes",
+            "d) Sub-surface conditions",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 126,
+        "Question": "If the degree of curvature is higher then the curve is ______",
+        "Options": [
+            "a) sharper",
+            "b) flatter",
+            "c) vertical",
+            "d) elliptical",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 127,
+        "Question": "What is the maximum side slope of cut and fill section where sandy soil is predominant?",
+        "Options": [
+            "a) 1:2",
+            "b) 3:1",
+            "c) 6:1",
+            "d) 10:1",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 128,
+        "Question": "What is the maximum superelevation in snowy areas?",
+        "Options": [
+            "a) 5%",
+            "b) 6%",
+            "c) 3%",
+            "d) 8%",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 129,
+        "Question": "The value of side-friction factor varies with ______",
+        "Options": [
+            "a) design speed",
+            "b) superelevation",
+            "c) skidding",
+            "d) overturning",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 130,
+        "Question": "In how many stages does the transition from a tangent section to super-elevated horizontal curve takes place?",
+        "Options": [
+            "a) 3",
+            "b) 2",
+            "c) 4",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 131,
+        "Question": "Length of the transition curve is the maximum of length due to _____",
+        "Options": [
+            "a) centrifugal force, superelevation, and empirical",
+            "b) centrifugal force, superelevation, and tangent",
+            "c) superelevation, centripetal, and empirical",
+            "d) superelevation, centripetal, and design speed",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 132,
+        "Question": "Which one of the following is not an advantage of spiral transition?",
+        "Options": [
+            "a) Easy path for drivers to follow",
+            "b) Aesthetics",
+            "c) Agreeable arrangement of superelevation runoff",
+            "d) Less delay",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 133,
+        "Question": "The distance from the centreline of the inside lane to the nearest roadside sight blockage is called.",
+        "Options": [
+            "a) Length of curve",
+            "b) Apex",
+            "c) Mid-ordinate",
+            "d) Tangent",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 134,
+        "Question": "What are the two types of vertical curves?",
+        "Options": [
+            "a) Crest and sag",
+            "b) Crest and plume",
+            "c) Sag and sink",
+            "d) Sink and fall",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 135,
+        "Question": "What is the mid-ordinate of a curve with a radius of curvature 2m and angle of deflection = 60°?",
+        "Options": [
+            "a) 0.342",
+            "b) 0.268",
+            "c) 0.112",
+            "d) 0.245",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 136,
+        "Question": "The sight distance in a sag vertical curve is limited by which factor given below during night time driving condition?",
+        "Options": [
+            "a) Design speed",
+            "b) Driver’s height",
+            "c) Headlamp range",
+            "d) Ruling speed",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 137,
+        "Question": "Which of the following is not a feature of cross-section elements of a highway?",
+        "Options": [
+            "a) Shoulders",
+            "b) Side slopes",
+            "c) Curbs",
+            "d) Signal",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 138,
+        "Question": "The number of vehicles crossing a section of road in a unit time at any selected period is called ____________",
+        "Options": [
+            "a) Traffic volume study",
+            "b) Traffic density study",
+            "c) Traffic mass study",
+            "d) Traffic characteristic study",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 139,
+        "Question": "Speed studies are conducted for what primary purpose?",
+        "Options": [
+            "a) Traffic census",
+            "b) Safety",
+            "c) Quality of service",
+            "d) Planning",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 140,
+        "Question": "Demand-forecasting model is based on which traffic studies?",
+        "Options": [
+            "a) Speed studies",
+            "b) Traffic volume study",
+            "c) Travel time studies",
+            "d) Accident studies",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 141,
+        "Question": "Total parking demand is determined by which traffic study?",
+        "Options": [
+            "a) Accident studies",
+            "b) Traffic volume study",
+            "c) Travel time studies",
+            "d) Parking studies",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 142,
+        "Question": "Which traffic study records the existing truck loading facilities and transit system?",
+        "Options": [
+            "a) Goods movement and Transit studies",
+            "b) Parking studies",
+            "c) Traffic volume studies",
+            "d) Travel time studies",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 143,
+        "Question": "Which traffic study uses traffic models to analyze traffic?",
+        "Options": [
+            "a) Traffic volume studies",
+            "b) Calibration studies",
+            "c) Parking studies",
+            "d) Accident studies",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 144,
+        "Question": "Which traffic study studies the effectiveness of various traffic control devices?",
+        "Options": [
+            "a) Calibration studies",
+            "b) Observation studies",
+            "c) Parking studies",
+            "d) Traffic volume studies",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 145,
+        "Question": "The time lost by traffic due to traffic friction and traffic control devices is called _____",
+        "Options": [
+            "a) Delay",
+            "b) Green time",
+            "c) Red time",
+            "d) Setback time",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 146,
+        "Question": "The delay caused by the intervention by other components of traffic is called __________",
+        "Options": [
+            "a) Operational delay",
+            "b) Fixed delay",
+            "c) Stopped delay",
+            "d) Approach delay",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 147,
+        "Question": "What is the difference between the actual time required to cross a section of a road and the time taken corresponding to the average speed of traffic under free-flow condition called?",
+        "Options": [
+            "a) Travel time delay",
+            "b) Congestion delay",
+            "c) Stopped Delay",
+            "d) Approach Delay",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 148,
+        "Question": "The total time of travel, including stop and delay, to travel from one point of a section to another under existing traffic condition is called __________",
+        "Options": [
+            "a) Operational delay",
+            "b) Travel time",
+            "c) Fixed delay",
+            "d) Approach delay",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 149,
+        "Question": "What is the purpose of a Travel Time and Delay Study?",
+        "Options": [
+            "a) To assess the quality of traffic movement",
+            "b) To assess the time taken to travel by various vehicles",
+            "c) To evaluate the traffic stream",
+            "d) For survey data",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 150,
+        "Question": "In which of the following cases Travel Time and Delay Study is not used?",
+        "Options": [
+            "a) To compare operational conditions before and after enhancements have been made",
+            "b) To compare operational inadequacies in each project",
+            "c) To monitor LOS of road",
+            "d) To compare the design width of the road in each condition",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 151,
+        "Question": "Which of the following is not a method for obtaining travel time and delay studies?",
+        "Options": [
+            "a) Floating car method",
+            "b) Average speed method",
+            "c) Interview method",
+            "d) Spot speed method",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 152,
+        "Question": "In which of the following methods given below does the observer travels and makes a round trip along a test section in a traffic stream?",
+        "Options": [
+            "a) Floating car method",
+            "b) Average speed method",
+            "c) Spot speed method",
+            "d) License plate method",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 153,
+        "Question": "Which given formula gives the volume of traffic in westbound direction?",
+        "Options": [
+            "a) qw = (ma+mo-mp)/(ta+tw)",
+            "b) qw = (ma+mo-mp)/(ta-tw)",
+            "c) qw = (ma-mo-mp)/(ta+tw)",
+            "d) qw = (ma+mo+mp)/(ta+tw)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 154,
+        "Question": "In which method a test vehicle is selected at random?",
+        "Options": [
+            "a) Elevated observation method",
+            "b) Average speed method",
+            "c) License plate method",
+            "d) Floating car method",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 155,
+        "Question": "Which travel time and delay study method is usually adopted in a farm or an establishment?",
+        "Options": [
+            "a) Photographic method",
+            "b) Elevated observation method",
+            "c) License plate method",
+            "d) Interview method",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 156,
+        "Question": "Average travel time in westbound direction is obtained from which of the given formula?",
+        "Options": [
+            "a) tw(avg) = tw-((mo-mp)/qw)",
+            "b) tw(avg) = tw+((mo-mp)/qw)",
+            "c) tw(avg) = tw-((mo-mp)+qw)",
+            "d) tw(avg) = tw-((mo+mp)/qw)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 157,
+        "Question": "Which method is applicable for under saturated signalized intersection?",
+        "Options": [
+            "a) Highway Capacity Manual 2000",
+            "b) Photographic method",
+            "c) License plate method",
+            "d) Elevated observation method",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 158,
+        "Question": "What is the correct order of procedure in a License plate method?",
+        "Options": [
+            "a) Portable computer, Manual, Video with manual transcription, Video with character recognition",
+            "b) Manual, Portable computer, Video with manual transcription, Video with character recognition",
+            "c) Video with manual transcription, Video with character recognition, Portable computer, Manual",
+            "d) Video with manual transcription, Video with character recognition, Manual, Portable computer",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 159,
+        "Question": "What is Passenger Car Unit used for?",
+        "Options": [
+            "a) to evaluate the traffic-flow rate on a highway",
+            "b) to record the number of passengers in each car",
+            "c) to record the number of passengers in each section of road",
+            "d) to evaluate the density of passengers",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 160,
+        "Question": "What is the Passenger Car Unit (PCU) value of a motorcycle?",
+        "Options": [
+            "a) 1",
+            "b) 0.5",
+            "c) 0.2",
+            "d) 0.3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 161,
+        "Question": "What is the unit of highway capacity?",
+        "Options": [
+            "a) Veh/hr",
+            "b) PCU/hr",
+            "c) Veh/hr/section of road",
+            "d) PCU/section of road",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 162,
+        "Question": "Which of the following is not a factor affecting PCU?",
+        "Options": [
+            "a) Vehicles characteristic",
+            "b) Traffic stream characteristic",
+            "c) Roadway characteristic",
+            "d) Design characteristic",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 163,
+        "Question": "PCU value is the fraction of capacity of a road where there are passenger cars only to the ______",
+        "Options": [
+            "a) capacity of the same road when there are vehicles of that class",
+            "b) capacity of a different road when there are vehicles of that class",
+            "c) capacity of the same road when there are vehicles of a different class",
+            "d) capacity of the different road when there are vehicles of a different class",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 164,
+        "Question": "Passenger Car Unit is an estimate of the impact that a mode of transport has on ______",
+        "Options": [
+            "a) traffic system",
+            "b) traffic variables",
+            "c) traffic signals",
+            "d) design",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 165,
+        "Question": "Which of the following method is used to determine PCU?",
+        "Options": [
+            "a) Multiple linear regression method",
+            "b) Average speed method",
+            "c) Spot speed method",
+            "d) Elevated observation method",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 166,
+        "Question": "Which method represents the speed of a traffic stream as a function of the number of variables?",
+        "Options": [
+            "a) Modified Density Method",
+            "b) Multiple linear regression method",
+            "c) Headway method",
+            "d) Chandra’s method",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 167,
+        "Question": "How many factors does Chandra’s method to determine PCU depends on?",
+        "Options": [
+            "a) 1",
+            "b) 3",
+            "c) 2",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 168,
+        "Question": "Which of the following methods to determine PCU can only be applied in India?",
+        "Options": [
+            "a) Multiple linear regression method",
+            "b) Chandra’s method",
+            "c) Headway method",
+            "d) Modified Density Method",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 169,
+        "Question": "Headway method is most suited on which terrain?",
+        "Options": [
+            "a) level terrain",
+            "b) mountainous region",
+            "c) hilly terrain",
+            "d) desert",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 170,
+        "Question": "What are the normal time intervals for manual count?",
+        "Options": [
+            "a) 5, 10 and 15 minutes",
+            "b) 5, 10 and 20 minutes",
+            "c) 10, 14 and 18 minutes",
+            "d) 10, 15 and 20 minutes",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 171,
+        "Question": "Most applications of manual count require ____",
+        "Options": [
+            "a) small samples of data",
+            "b) large samples of data",
+            "c) no data",
+            "d) maximum data",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 172,
+        "Question": "The data obtained from volume counts helps to identify.",
+        "Options": [
+            "a) Speed of vehicles",
+            "b) Critical flow time periods",
+            "c) Design drawbacks",
+            "d) Existing traffic signal drawbacks",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 173,
+        "Question": "Which of the following is not determined by traffic volume studies?",
+        "Options": [
+            "a) Design criteria",
+            "b) Vehicle classification",
+            "c) Number of vehicles",
+            "d) Movement of vehicles",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 174,
+        "Question": "What is the time interval at which automatic count is taken?",
+        "Options": [
+            "a) 1 hour",
+            "b) 2 hour",
+            "c) 1 week",
+            "d) 1 day",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 175,
+        "Question": "Which of the following is not a method of recording automatic counts?",
+        "Options": [
+            "a) portable counters",
+            "b) permanent counters",
+            "c) videotape",
+            "d) speedometer",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 176,
+        "Question": "When demand exceeds the capacity of approach, the volume is counted as the vehicle _______",
+        "Options": [
+            "a) enters the intersection",
+            "b) departs the intersection",
+            "c) is in the middle of the intersection",
+            "d) crosses an opposite vehicle in the intersection",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 177,
+        "Question": "How is “unstable queue buildup” identified at a un-signalized intersection?",
+        "Options": [
+            "a) queues that become smaller during each successive counting period",
+            "b) queues that become larger during each successive counting period",
+            "c) queues that remain the same during each successive counting period",
+            "d) queues that increase exponentially during each successive counting period",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 178,
+        "Question": "Portable counters are generally used for _______",
+        "Options": [
+            "a) Only major counts",
+            "b) Only minor counts",
+            "c) Both major and minor counts",
+            "d) Not used for counting",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 179,
+        "Question": "Which type of counter is used at mid-block locations?",
+        "Options": [
+            "a) permanent counters",
+            "b) portable counters",
+            "c) videotape",
+            "d) audiotape",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 180,
+        "Question": "As per IRC, for many days the traffic count should be taken for rural roads?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 5",
+            "d) 7",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 181,
+        "Question": "How many times should the traffic volume counts be taken in a year?",
+        "Options": [
+            "a) 3",
+            "b) 1",
+            "c) 2",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 182,
+        "Question": "Which of the following is not a way by which traffic volume data is presented?",
+        "Options": [
+            "a) AADT",
+            "b) Variation charts",
+            "c) Traffic composition",
+            "d) Modal average",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 183,
+        "Question": "Which type of traffic volume presentation of data shows volume along various routes using bands proportional to traffic volume carried?",
+        "Options": [
+            "a) Traffic flow maps",
+            "b) Intersection flow diagram",
+            "c) Trend charts",
+            "d) Traffic composition",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 184,
+        "Question": "Which of the following type of presentation of data is useful for future expansion, design, and regulation?",
+        "Options": [
+            "a) Traffic composition",
+            "b) Trend charts",
+            "c) Traffic flow maps",
+            "d) Intersection flow diagram",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 185,
+        "Question": "What information does the Intersection flow diagram show?",
+        "Options": [
+            "a) Direction and volume of traffic at an intersection",
+            "b) Direction and volume of traffic at a flyover",
+            "c) Direction and volume of traffic at a oneway route",
+            "d) Direction and volume of traffic at a two-lane highway",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 186,
+        "Question": "In Traffic flow maps, the thickness of lines represents ______",
+        "Options": [
+            "a) Traffic volume",
+            "b) Direction of flow",
+            "c) Volume change",
+            "d) Boundary for expansion",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 187,
+        "Question": "What is thirtieth highest hourly volume?",
+        "Options": [
+            "a) Hourly volume that is exceeded only 29 times a year",
+            "b) Hourly volume that is exceeded only 30 times a year",
+            "c) Monthly volume that is exceeded only 29 times a year",
+            "d) Monthly volume that is exceeded only 30 times a year",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 188,
+        "Question": "What information does data from variation charts help to determine?",
+        "Options": [
+            "a) Peak traffic flow at various hours in a day",
+            "b) Peak traffic flow at limited hours in a day",
+            "c) Lowest traffic flow in a day",
+            "d) Traffic flow at noon",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 189,
+        "Question": "Design of transportation facilities in urban transport infrastructural projects is based on which presentation of traffic volume data?",
+        "Options": [
+            "a) Variation charts",
+            "b) Peak hour factor",
+            "c) 30th highest hourly volume",
+            "d) Trends charts",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 190,
+        "Question": "Which presentation of traffic volume data helps to plan transportation facilities for your future generations?",
+        "Options": [
+            "a) 30th highest hourly volume",
+            "b) Variation charts",
+            "c) Peak hour factor",
+            "d) Trends charts",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 191,
+        "Question": "The average 24 hours volume at the given area over a year is known as _______",
+        "Options": [
+            "a) average annual daily traffic",
+            "b) average daily traffic",
+            "c) thirtieth highest hourly volume",
+            "d) average annual weekday traffic",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 192,
+        "Question": "Why are traffic forecasts often does in terms of AADTs based on forecasting models?",
+        "Options": [
+            "a) AADTs are more stable than hourly volumes",
+            "b) Hourly volumes are more stable than hourly volume",
+            "c) AADTs are simple",
+            "d) AADTs are economical",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 193,
+        "Question": "What is Directional Design Hour Volume  (DDHV)?",
+        "Options": [
+            "a) AADTs converted to a peak-hour volume in the peak direction of flow",
+            "b) ADTs converted to a peak-hour volume in the peak direction of flow",
+            "c) Hourly volumes converted to a peak-hour volume in the peak direction of flow",
+            "d) Weekly volumes converted to a peak-hour volume in the peak direction of flow",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 194,
+        "Question": "What does K factor represent in the relationship DDHV=AADTxKxD?",
+        "Options": [
+            "a) The proportion of AADT occurring during the 30th peak hour",
+            "b) The proportion of ADT occurring during the 30th peak hour",
+            "c) The proportion of hourly volume occurring during the 30th peak hour",
+            "d) The proportion of weekly occurring during the 30th peak hour",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 195,
+        "Question": "K and D values from the relationship DDHV=AADTxKxD are based on which characteristics?",
+        "Options": [
+            "a) Local characteristics",
+            "b) National characteristics",
+            "c) Terrain characteristics",
+            "d) Area characteristics",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 196,
+        "Question": "The average 24 hours volume at the given location for less than a year is called.",
+        "Options": [
+            "a) Average annual daily traffic",
+            "b) Average daily traffic",
+            "c) Thirtieth highest hourly volume",
+            "d) Average annual weekday traffic",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 197,
+        "Question": "The D factor tends to be ______",
+        "Options": [
+            "a) more variable",
+            "b) more stable",
+            "c) less variable",
+            "d) less stable",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 198,
+        "Question": "How is planning analysis initiated?",
+        "Options": [
+            "a) With the conversion of AADT to DDHV",
+            "b) With the conversion of ADT to DDHV",
+            "c) With the conversion of hourly volume to DDHV",
+            "d) With the conversion of weekly volume to DDHV",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 199,
+        "Question": "The hourly volume that is exceeded only 29 times a year is known as _______",
+        "Options": [
+            "a) 30th highest hourly volume",
+            "b) Peak hourly volume",
+            "c) AADT",
+            "d) ADT",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 200,
+        "Question": "What is directional volume?",
+        "Options": [
+            "a) Peak hour volume",
+            "b) 30th highest hourly volume",
+            "c) AADT",
+            "d) ADT",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 201,
+        "Question": "When are reversible lanes used?",
+        "Options": [
+            "a) When the directional imbalance is significant",
+            "b) When the directional imbalance is insignificant",
+            "c) When the traffic signal doesn’t work in one lane",
+            "d) When there is a blockade",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 202,
+        "Question": "What happens when recommendations of traffic impact studies that use the Design hourly volume (DHV) is implemented in the Peak hour warrant?",
+        "Options": [
+            "a) Congestion",
+            "b) Installation of unwarranted traffic signals",
+            "c) Economical design of highway",
+            "d) Satisfactory design of highway",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 203,
+        "Question": "How is the design year determined?",
+        "Options": [
+            "a) Roadway network planning schedule",
+            "b) City planning schedule",
+            "c) National planning schedule",
+            "d) International planning schedule",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 204,
+        "Question": "The maximum hourly traffic volume that a highway should be designed to serve without the level of service falling below a predetermined level is known as ______",
+        "Options": [
+            "a) AADT",
+            "b) 30th highest hourly volume",
+            "c) Design service volume",
+            "d) Peak hour volume",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 205,
+        "Question": "Why are Spot speed studies conducted?",
+        "Options": [
+            "a) To record the distribution of vehicle speeds",
+            "b) To record the distribution of time taken to reach a destination",
+            "c) To design signals",
+            "d) To determine design speed",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 206,
+        "Question": "On a freeway, spot speed studies are not conducted if the traffic volumes exceed _____",
+        "Options": [
+            "a) 700-1000 veh/hr/ln",
+            "b) 500-600 veh/hr/ln",
+            "c) 750-1000 veh/hr/ln",
+            "d) 100-200 veh/hr/ln",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 207,
+        "Question": "The mean speed of all the vehicles crossing a location is known as ________",
+        "Options": [
+            "a) Standard deviation",
+            "b) Median",
+            "c) Time mean speed",
+            "d) Pace",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 208,
+        "Question": "Which of the following is a method to measure spot speed?",
+        "Options": [
+            "a) Long Base method",
+            "b) Aerial Photography",
+            "c) Inductive loop detector",
+            "d) Weigh In Motion (WIM) sensor",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 209,
+        "Question": "What is the disadvantage of Direct Timing procedure?",
+        "Options": [
+            "a) Parallax effect",
+            "b) Uneconomical",
+            "c) Complicated",
+            "d) Inaccurate results",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 210,
+        "Question": "Which of the following is not a procedure of Long base method?",
+        "Options": [
+            "a) Direct Timing procedure",
+            "b) Enoscope",
+            "c) Pressure contact tubes",
+            "d) Radar speed meters",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 211,
+        "Question": "Which of the following is a disadvantage of Pressure contact tubes?",
+        "Options": [
+            "a) Low initial cost",
+            "b) Simple to install",
+            "c) Easy maintenance",
+            "d) Tubes are visible which affects the driver’s behaviour",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 212,
+        "Question": "Which of the following is an advantage of Enoscope?",
+        "Options": [
+            "a) Tubes are visible which affects the driver’s behaviour",
+            "b) Parallax effect",
+            "c) Inaccurate results",
+            "d) Eliminates Parallax error",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 213,
+        "Question": "Which of the following instrument works on the Doppler principle?",
+        "Options": [
+            "a) Enoscope",
+            "b) Radar speed meter",
+            "c) Pressure contact tubes",
+            "d) Time lapse camera",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 214,
+        "Question": "The average difference between observed speeds and time mean speed is _____",
+        "Options": [
+            "a) 85th percentile speed",
+            "b) Median",
+            "c) Standard deviation",
+            "d) Pace",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 215,
+        "Question": "Which of the following is not an application of speed study?",
+        "Options": [
+            "a) Determining appropriate speed limits",
+            "b) Analyzing the cause of accidents",
+            "c) Deciding speed trends",
+            "d) For deciding PCU",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 216,
+        "Question": "Why are speed trends at local, state, and national level established?",
+        "Options": [
+            "a) To standardize a speed limit",
+            "b) To compare the results",
+            "c) To assess the effectiveness of the national strategies on speed limits",
+            "d) For design purposes",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 217,
+        "Question": "With the help of speed studies, traffic operations are controlled and regulated to ______",
+        "Options": [
+            "a) establish safe speed limits",
+            "b) analyze traffic capacity",
+            "c) analyze the cause of accidents",
+            "d) decide speed trends",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 218,
+        "Question": "Which of the following is not a way by which spot speed data is presented?",
+        "Options": [
+            "a) Average speed of vehicles",
+            "b) Modal average",
+            "c) Cumulative speed of vehicles",
+            "d) Variation charts",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 219,
+        "Question": "Which of the following way of presentation of spot speed data is a mathematical analysis?",
+        "Options": [
+            "a) Average speed of vehicles",
+            "b) Modal average",
+            "c) Cumulative speed of vehicles",
+            "d) Variation charts",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 220,
+        "Question": "The speed corresponding to the summit of the frequency distribution curve of spot speeds is _______",
+        "Options": [
+            "a) Peak speed",
+            "b) Ruling speed",
+            "c) Modal speed",
+            "d) Mean speed",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 221,
+        "Question": "What is the use of a cumulative speed distribution curve?",
+        "Options": [
+            "a) To determine the speed above or below which certain percentages of vehicles are moving",
+            "b) To determine the traffic volume",
+            "c) To determine the modal speed",
+            "d) To determine the PCU",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 222,
+        "Question": "Which of the following is considered to be the safe speed limit?",
+        "Options": [
+            "a) 98 percentile speed",
+            "b) 85 percentile speed",
+            "c) 50 percentile speed",
+            "d) 10 percentile speed",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 223,
+        "Question": "Which of the following is considered to be the minimum speed limit on a highway?",
+        "Options": [
+            "a) 98 percentile speed",
+            "b) 85 percentile speed",
+            "c) 15 percentile speed",
+            "d) 10 percentile speed",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 224,
+        "Question": "98 percentile speed is _____",
+        "Options": [
+            "a) design speed",
+            "b) safe speed",
+            "c) minimum speed",
+            "d) median speed",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 225,
+        "Question": "What is Modal speed?",
+        "Options": [
+            "a) Speed that is most likely to occur",
+            "b) Speed that is least likely to occur",
+            "c) Peak speed",
+            "d) Minimum speed",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 226,
+        "Question": "Which curve helps to determine Modal speed?",
+        "Options": [
+            "a) Frequency distribution curve",
+            "b) Uniform distribution curve",
+            "c) Normal distribution curve",
+            "d) Poisson distribution curve",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 227,
+        "Question": "What is Median speed?",
+        "Options": [
+            "a) Speed that divides the distribution in to equal parts",
+            "b) Speed that divides the distribution in to unequal parts",
+            "c) Speed that is most likely to occur",
+            "d) Speed that is least likely to occur",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 228,
+        "Question": "Median speed is the 50th percentile speed in _______",
+        "Options": [
+            "a) Frequency distribution curve",
+            "b) Normal distribution curve",
+            "c) Cumulative frequency curve",
+            "d) Uniform distribution curve",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 229,
+        "Question": "How many primary traffic flow elements are there?",
+        "Options": [
+            "a) 2",
+            "b) 4",
+            "c) 5",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 230,
+        "Question": "Which of the following is not an application of traffic flow theory?",
+        "Options": [
+            "a) to determine adequate lane lengths",
+            "b) to study the interrelationships of traffic flow elements",
+            "c) to determine PCU",
+            "d) to determine the average delay at intersections and freeway ramp merging areas",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 231,
+        "Question": "Time-space diagram is a graph that describes the relationships between time of the vehicle as it progress in the highway and ______",
+        "Options": [
+            "a) green time",
+            "b) location of intersections",
+            "c) location of vehicles in a traffic stream",
+            "d) density of traffic stream",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 232,
+        "Question": "The number of vehicles travelling over a unit length of highway at an instant in time is ________",
+        "Options": [
+            "a) flow",
+            "b) speed",
+            "c) density",
+            "d) acceleration",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 233,
+        "Question": "The slope of time-space diagram is ______",
+        "Options": [
+            "a) flow",
+            "b) speed",
+            "c) density",
+            "d) location",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 234,
+        "Question": "The harmonic mean of the speeds of vehicles passing a point on a roadway during an interval of time is known as ______",
+        "Options": [
+            "a) Density",
+            "b) Flow",
+            "c) Space mean speed",
+            "d) Time mean speed",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 235,
+        "Question": "Flow can be determined by which for the following mathematical formula?",
+        "Options": [
+            "a) q = n x 3600/T",
+            "b) q = n x 360/T",
+            "c) q = T x 3600/n",
+            "d) q = n x 60/T",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 236,
+        "Question": "What is the unit of time headway?",
+        "Options": [
+            "a) meter",
+            "b) veh/m",
+            "c) seconds",
+            "d) m/veh",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 237,
+        "Question": "Which of the following equations shows the correct relationship between flow, density, and space mean speed?",
+        "Options": [
+            "a) Flow = density/space mean speed",
+            "b) Flow = space mean speed /density",
+            "c) Density = flow x space mean speed",
+            "d) Flow = density x space mean speed",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 238,
+        "Question": "On which of the following factors are flow, density, and space mean speed are not dependent?",
+        "Options": [
+            "a) Characteristics of the roadway",
+            "b) Characteristics of the vehicle",
+            "c) Topography",
+            "d) Weather",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 239,
+        "Question": "With respect to the shape of the flow-density curve, when the density reaches maximum the flow must be ______",
+        "Options": [
+            "a) Maximum",
+            "b) Infinite",
+            "c) 0",
+            "d) Minimum",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 240,
+        "Question": "On which of the following factor does mean free speed depend on??",
+        "Options": [
+            "a) Physical characteristics of highway",
+            "b) Characteristics of the roadway",
+            "c) Characteristics of the vehicle",
+            "d) Characteristics of the driver",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 241,
+        "Question": "The macroscopic approach considers which of the following factor?",
+        "Options": [
+            "a) Spacing",
+            "b) Speed",
+            "c) Flow-density relationship",
+            "d) Design",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 242,
+        "Question": "Which of the following is a model that is commonly used by the macroscopic approach?",
+        "Options": [
+            "a) Macroscopic Simulation Models",
+            "b) Mesoscopic Simulation Models",
+            "c) Greenshields model",
+            "d) Travel Demand Models",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 243,
+        "Question": "Greenberg model uses which analogy?",
+        "Options": [
+            "a) Fluid flow",
+            "b) Laws of motion",
+            "c) Secchi disk",
+            "d) Turbidity",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 244,
+        "Question": "The Greenberg model is used for which type of traffic condition?",
+        "Options": [
+            "a) Dense",
+            "b) Light",
+            "c) Uncongested",
+            "d) Unrestricted",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 245,
+        "Question": "When does the Greenshields model satisfy the boundary condition?",
+        "Options": [
+            "a) When the density is approaching zero as well as when the density is approaching the jam density kj",
+            "b) When the density is approaching infinity as well as when the density is approaching the jam density kj",
+            "c) When the density is approaching zero as well as when the density is approaching infinity",
+            "d) When the density is approaching zero as well as when the density is approaching the jam density kj",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 246,
+        "Question": "The Microscopic approach does not consider which of the following factor?",
+        "Options": [
+            "a) Spacing between vehicles",
+            "b) Flow-density relationship",
+            "c) Design",
+            "d) Speed of vehicles",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 247,
+        "Question": "Which of the following cannot be determined by the microscopic model?",
+        "Options": [
+            "a) Velocity",
+            "b) PCU",
+            "c) Flow",
+            "d) Density",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 248,
+        "Question": "What is gap acceptance?",
+        "Options": [
+            "a) Maximum gap required to finish lane changing safely",
+            "b) Minimum major-stream headway during which a minor-street vehicle can make a manoeuvre",
+            "c) Time interval between the arrival of two cars",
+            "d) Minimum gap required to finish lane changing safely",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 249,
+        "Question": "Which of the following equation can be used to determine the expected number of adequate gaps that will take place at an unsignalized intersection or at the merging area of an expressway?",
+        "Options": [
+            "a) P(0) = P(h>0, h=0) = e—λt",
+            "b) P(0) = P(h=0) = e—λt",
+            "c) P(0) x P(h>0) = e—λt",
+            "d) P(0) = P(h>0) = e—λt",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 250,
+        "Question": "Which of the following is determined by gap acceptance?",
+        "Options": [
+            "a) To determine the delay of vehicles in minor streams aiming to merge onto major streams",
+            "b) To determine the maximum gap required to finish lane changing safely",
+            "c) To determine the minimum gap required to finish lane changing safely",
+            "d) To determine minimum major-stream headway during which a minor-street vehicle can make a manoeuvre",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 251,
+        "Question": "Which of the following is not a parameter of traffic stream?",
+        "Options": [
+            "a) Density of traffic",
+            "b) Flow of traffic",
+            "c) Speed",
+            "d) PCU",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 252,
+        "Question": "Which of the following is the parameter of traffic stream that has microscopic characteristics?",
+        "Options": [
+            "a) Flow",
+            "b) Density",
+            "c) Speed",
+            "d) Space headway",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 253,
+        "Question": "What is the definition of Highway Capacity?",
+        "Options": [
+            "a) The minimum traffic flow that can be accommodated in a highway facility in a given time period under existing roadway and control conditions",
+            "b) The maximum traffic flow that can be accommodated in a highway facility in the future",
+            "c) The minimum traffic flow that can be accommodated in a highway facility according to data from the previous year",
+            "d) The maximum traffic flow that can be accommodated in a highway facility in a given time period under existing roadway and control conditions",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 254,
+        "Question": "How many types of highway capacity was defined by Highway Capacity Manual (1950)?",
+        "Options": [
+            "a) 2",
+            "b) 5",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 255,
+        "Question": "Which of the following capacity is considered as design capacity?",
+        "Options": [
+            "a) Basic capacity",
+            "b) Possible capacity",
+            "c) Practical capacity",
+            "d) Traffic capacity",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 256,
+        "Question": "Which of the following parameter is not dependent on highway capacity?",
+        "Options": [
+            "a) Class of highway",
+            "b) Lane width",
+            "c) Number of lanes",
+            "d) Gauge width",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 257,
+        "Question": "What is the capacity value for urban roads as per IRC for one-way traffic flow with two lanes?",
+        "Options": [
+            "a) 1500 PCU/hr",
+            "b) 2400 PCU/hr",
+            "c) 3600 PCU/hr",
+            "d) 4000 PCU/hr",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 258,
+        "Question": "Which of the following is not a factor affecting traffic capacity?",
+        "Options": [
+            "a) Lane width",
+            "b) Lateral clearance",
+            "c) Gradient",
+            "d) Traffic control devices",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 259,
+        "Question": "Highway capacity is independent of _____",
+        "Options": [
+            "a) demand",
+            "b) lane width",
+            "c) geometric design",
+            "d) traffic conditions",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 260,
+        "Question": "What is maximum flow rate?",
+        "Options": [
+            "a) Worst 15 minutes of the peak hours",
+            "b) Worst 10 minutes of peak hours",
+            "c) Worst 30 minutes of the peak hours",
+            "d) Worst 5 minutes of the peak hours",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 261,
+        "Question": "Capacity is measured as a reasonably expected value and not the maximum flow rate observed in the facility. Why?",
+        "Options": [
+            "a) Because capacity at a given location varies from day to day",
+            "b) Because capacity at a given location doesn’t vary",
+            "c) Because capacity at a given location varies from year to year",
+            "d) Because capacity at a given location decreases simultaneously",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 262,
+        "Question": "Which one of the following is an interrupted facility?",
+        "Options": [
+            "a) Traffic signal",
+            "b) Stop sign",
+            "c) Yield sign",
+            "d) Basic freeway",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 263,
+        "Question": "Freeway has which magnitude as the measure of effectiveness?",
+        "Options": [
+            "a) Density",
+            "b) Speed",
+            "c) Capacity",
+            "d) Delay",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 264,
+        "Question": "What is a basic freeway segment?",
+        "Options": [
+            "a) The section between two ramps which is unaffected by weaving and diverging maneuvers",
+            "b) The section between three ramps which is unaffected by weaving and diverging maneuvers",
+            "c) The section between two ramps which is affected by weaving and diverging maneuvers",
+            "d) The section between three ramps which is affected by weaving and diverging maneuvers",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 265,
+        "Question": "In how many steps is the freeway capacity determined?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 266,
+        "Question": "Basic or theoretical capacity under ideal traffic and environmental conditions can be determined by the concept that the _____",
+        "Options": [
+            "a) flow rate equals time divided by time headway; time headway equals distance divided by speed",
+            "b) flow rate equals time multiplied to time headway; time headway equals distance divided by speed",
+            "c) flow rate equals time multiplied to time headway; time headway equals distance multiplied to speed",
+            "d) flow rate equals time added to time headway; time headway equals distance divided by speed",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 267,
+        "Question": "How is basic capacity determined by prevailing capacity?",
+        "Options": [
+            "a) Repeated observation of maximum traffic flow under peak conditions",
+            "b) Repeated observation of minimum traffic flow under peak conditions",
+            "c) Repeated observation of minimum traffic flow under ideal conditions",
+            "d) Repeated observation of maximum traffic flow under ideal conditions",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 268,
+        "Question": "Two-lane highways have which factor as the MoE (measure of effectiveness)?",
+        "Options": [
+            "a) Density",
+            "b) Capacity",
+            "c) PCU",
+            "d) Speed/delay",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 269,
+        "Question": "Two-lane highways are classified into how many classes for the purpose of analysis?",
+        "Options": [
+            "a) 1",
+            "b) 3",
+            "c) 2",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 270,
+        "Question": "What is a major consideration in class-I highways?",
+        "Options": [
+            "a) Density",
+            "b) Delay",
+            "c) Speed",
+            "d) Distance",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 271,
+        "Question": "Which type of roads does class-I include?",
+        "Options": [
+            "a) Major inter-city roads",
+            "b) Village roads",
+            "c) Districts roads",
+            "d) Streets",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 272,
+        "Question": "In which class of two-lane highway does motorists not travel at high speeds?",
+        "Options": [
+            "a) Class I",
+            "b) Class II",
+            "c) Class III",
+            "d) Class IV",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 273,
+        "Question": "Which class of two-lane highway serves as scenic or recreational routes?",
+        "Options": [
+            "a) Class I",
+            "b) Class II",
+            "c) Class III",
+            "d) Class IV",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 274,
+        "Question": "In which terms is LOS defined in class I highways?",
+        "Options": [
+            "a) Only percentage time spent following",
+            "b) Only average travel time",
+            "c) Percentage time spent following and average travel time",
+            "d) PCU",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 275,
+        "Question": "In which terms is LOS defined in class II highways?",
+        "Options": [
+            "a) Only percentage time spent following",
+            "b) Only average travel time",
+            "c) Percentage time spent following and average travel time",
+            "d) PCU",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 276,
+        "Question": "Which of the following is not a correction or adjustment required for multi-lane highways?",
+        "Options": [
+            "a) Lane width",
+            "b) Lateral clearance",
+            "c) Median time",
+            "d) Length of highway",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 277,
+        "Question": "What is the free-flow speed (FFS) of a multilane highway?",
+        "Options": [
+            "a) FFS = BFFS-flw-flc-fm-fa",
+            "b) FFS = BFFS+flw-flc-fm-fa",
+            "c) FFS = BFFS-flw-flc-fm+fa",
+            "d) FFS = BFFS-flw+flc-fm-fa",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 278,
+        "Question": "How much does the FFS decrease when 10 foot lanes are used?",
+        "Options": [
+            "a) 6.6 mph",
+            "b) 6 mph",
+            "c) 10 mph",
+            "d) 2 mph",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 279,
+        "Question": "Calculate flc (lateral clearance) for a 4 lane highway with milepost markers which are located 3 feet to the right of the travel lane?",
+        "Options": [
+            "a) 9",
+            "b) 11",
+            "c) 5",
+            "d) 6",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 280,
+        "Question": "Which of the following is the factor that affects the flow on multilane highways?",
+        "Options": [
+            "a) Uncontrolled excess form roadside",
+            "b) Right turns",
+            "c) Controlled excess form roadside",
+            "d) Traffic signals",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 281,
+        "Question": "Equivalent flow rate is calculated by which of the following?",
+        "Options": [
+            "a) vp = V/(PHF x N x fhv x fp)",
+            "b) vp = V x (PHF x N x fhv x fp)",
+            "c) vp = V/(PHF + N x fhv x fp)",
+            "d) vp = V/(PHF x N + fhv x fp)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 282,
+        "Question": "What is weaving capacity?",
+        "Options": [
+            "a) The maximum number of vehicles per hour that can cross a weaving section in a period of time",
+            "b) The minimum number of vehicles per hour that can cross a weaving section in a period of time",
+            "c) The maximum number of vehicles per day that can cross a weaving section in a period of time",
+            "d) The minimum number of vehicles per day that can cross a weaving section in a period of time",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 283,
+        "Question": "Weaving capacity is affected by which prime factor given below?",
+        "Options": [
+            "a) Length of weaving section",
+            "b) Driver characteristics",
+            "c) Traffic police",
+            "d) Traffic control devices",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 284,
+        "Question": "Higher capacity value occurs when free-flow speeds are ______",
+        "Options": [
+            "a) Higher",
+            "b) Low",
+            "c) 30 kmph",
+            "d) 60 kmph",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 285,
+        "Question": "Which of the following is a limitation of a rotary?",
+        "Options": [
+            "a) Rotaries are self-governing",
+            "b) Rotaries require a large area",
+            "c) Eliminates severe conflicts",
+            "d) Accidents are less",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 286,
+        "Question": "How many traffic operations are there in a rotary?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 287,
+        "Question": "Which one of the following is the empirical formula to find the capacity of the weaving section?",
+        "Options": [
+            "a) Qw = (280w(1+e/w)(1-p/3))/(1+w/l)",
+            "b) Qw = (280w(1+e/w)(1-p/3))/(1-w/l)",
+            "c) Qw = (280w(1-e/w)(1-p/3))/(1+w/l)",
+            "d) Qw = (280w(1+e/w)(1*p/3))/(1+w/l)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 288,
+        "Question": "The capacity formula is valid only if the weaving width is between _______",
+        "Options": [
+            "a) 6 and 18 metres",
+            "b) 1 and 10 metres",
+            "c) 3 and 9 metres",
+            "d) 4 and 14 metres",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 289,
+        "Question": "What are the upper limit and the lower limit of the traffic volume for the installation of a traffic rotary?",
+        "Options": [
+            "a) 3000 and 500 vehicles per hour",
+            "b) 5000 and 500 vehicles per hour",
+            "c) 6000 and 500 vehicles per hour",
+            "d) 3000 and 1000 vehicles per hour",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 290,
+        "Question": "What does macroscopic stream models represent?",
+        "Options": [
+            "a) Change in behaviour of one parameter with respect to another",
+            "b) The flow density",
+            "c) The maximum passengers the vehicle can accommodate",
+            "d) The characteristics of vehicles with respect to pedestrians",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 291,
+        "Question": "What type of relationship did Greenfield assume in the speed and density relationship?",
+        "Options": [
+            "a) Elliptical",
+            "b) Linear",
+            "c) Exponential",
+            "d) Parabolic",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 292,
+        "Question": "Which of the following given options shows the correct relationship between speed and density according to Greenshield’s model?",
+        "Options": [
+            "a) v = vf + (vf/kj).k",
+            "b) v = vf – (vf/kj).k",
+            "c) v = vf / (vf/kj).k",
+            "d) v = vf * (vf/kj).k",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 293,
+        "Question": "What is the shape of the relationship between flow and density according to Greenshield’s Model?",
+        "Options": [
+            "a) Linear",
+            "b) Parabolic",
+            "c) Elliptical",
+            "d) Exponential",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 294,
+        "Question": "According to Greenberg’s Logarithmic Model, what is the relation between speed and density?",
+        "Options": [
+            "a) Linear",
+            "b) Logarithmic",
+            "c) Parabolic",
+            "d) Exponential",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 295,
+        "Question": "Which of the following given options shows the correct relationship between speed and density according to Greenberg’s Logarithmic Model?",
+        "Options": [
+            "a) v = vo ln(kj*k)",
+            "b) v = vo ln(kj+k)",
+            "c) v = vo ln(kj-k)",
+            "d) v = vo ln(kj/k)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 296,
+        "Question": "What is the main drawback of Greenberg’s Logarithmic Model?",
+        "Options": [
+            "a) Density tends to infinity, speed tends to zero",
+            "b) Mean speed tends to zero, speed tends to infinity",
+            "c) Density tends to zero, speed tends to infinity",
+            "d) Flow tends to zero, speed tends to infinity",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 297,
+        "Question": "According to Underwood’s Exponential Model, what is the relation between speed and density?",
+        "Options": [
+            "a) Linear",
+            "b) Parabolic",
+            "c) Elliptical",
+            "d) Exponential",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 298,
+        "Question": "Which of the following given options shows the correct relationship between speed and density according to Underwood’s Exponential Model?",
+        "Options": [
+            "a) v = vf.e-k/ko",
+            "b) v = vf/e-k/ko",
+            "c) v = vf*e-k/ko",
+            "d) v = vf+e-k/ko",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 299,
+        "Question": "What is the drawback of Underwood’s Exponential Model?",
+        "Options": [
+            "a) Cannot be used for predicting speeds at high densities",
+            "b) Cannot be used for predicting speeds at low densities",
+            "c) Cannot be used for predicting flow at high densities",
+            "d) Cannot be used for predicting mean speed at high densities",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 300,
+        "Question": "What is meant by time-in-queue delay?",
+        "Options": [
+            "a) Time between a vehicle joining the end of the queue at a signalized intersection and the time it crosses the intersection",
+            "b) Delay during which the vehicles is at rest",
+            "c) Delay caused due to resistance of other traffic",
+            "d) Time between a vehicle joining the end of the queue at an unsignalized intersection and the time it crosses that intersection",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 301,
+        "Question": "Why are the control delay caused?",
+        "Options": [
+            "a) Control devices",
+            "b) Speedometer",
+            "c) Traffic",
+            "d) deceleration to and acceleration from a stop to stopped time delay",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 302,
+        "Question": "Which of the following travel time and delay studies doesn’t require a test vehicle?",
+        "Options": [
+            "a) Floating car technique",
+            "b) Average speed technique",
+            "c) Moving vehicle technique",
+            "d) License plate observations",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 303,
+        "Question": "How is average delay time calculated in License plate method?",
+        "Options": [
+            "a) Average delay time = (Sum of all delay time) / (Number of matched license plates)",
+            "b) Average delay time = (Sum of all delay time) x (Number of matched license plates)",
+            "c) Average delay time = (Sum of all delay time) + (Number of matched license plates)",
+            "d) Average delay time = (Sum of all delay time) – (Number of matched license plates)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 304,
+        "Question": "Which of the following is not an application of travel time and delay study?",
+        "Options": [
+            "a) Collection of rating data",
+            "b) Problem location identification",
+            "c) Economic analysis",
+            "d) Determining relation between mean speed and flow",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 305,
+        "Question": "In which test vehicle technique the test vehicle has to make a round trip on a test section?",
+        "Options": [
+            "a) Floating-car technique",
+            "b) Average-speed technique",
+            "c) Moving-vehicle technique",
+            "d) License plate technique",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 306,
+        "Question": "The selection of test to be a test-vehicle based or not depends upon which of the following criteria?",
+        "Options": [
+            "a) Available personnel and equipment",
+            "b) Driver’s choice",
+            "c) Type of road",
+            "d) Location of test",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 307,
+        "Question": "Floating car method is also known as _____",
+        "Options": [
+            "a) Average speed method",
+            "b) Moving vehicle method",
+            "c) License plate method",
+            "d) Riding check method",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 308,
+        "Question": "Which of the following data is not recorded by the observers during a floating car method?",
+        "Options": [
+            "a) Number of vehicles overtaking the test vehicle",
+            "b) Number of vehicles overtaken the test vehicle",
+            "c) Number of vehicles travelling in the opposite direction",
+            "d) Number of pedestrians",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 309,
+        "Question": "Which of the following a disadvantage of methods with test vehicles?",
+        "Options": [
+            "a) Data storage difficulties",
+            "b) Low initial cost",
+            "c) Consistent data collection",
+            "d) Detailed data",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 310,
+        "Question": "Which of the following formula gives the correct determination of the minimum number of test runs in a floating car method?",
+        "Options": [
+            "a) N=((tα χ σ)/d*2)",
+            "b) N=((tα χ σ)/d*3)",
+            "c) N=((tα / σ)/d*2)",
+            "d) N=((tα + σ)/d*2)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 311,
+        "Question": "What are the limit of acceptable error for traffic operations, economic evaluation, and trend analysis studies?",
+        "Options": [
+            "a) ±2.0 to ± 4.o mi/l",
+            "b) ±3.0 to ± 4.o mi/l",
+            "c) ±1.0 to ± 4.o mi/l",
+            "d) ±0.0 to ± 4.o mi/l",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 312,
+        "Question": "What is acceleration noise?",
+        "Options": [
+            "a) Degree of discomfort of driver due to acceleration and deceleration",
+            "b) Degree of discomfort of driver due to pedestrians",
+            "c) Degree of discomfort of driver due to control devices",
+            "d) Degree of discomfort of driver due to inadequate spacing",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 313,
+        "Question": "The average journey time T in minutes in the direction of flow is calculated by.",
+        "Options": [
+            "a) T = tw – (ny/q)",
+            "b) T = tw + (ny/q)",
+            "c) T = tw x (ny/q)",
+            "d) T = tw / (ny/q)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 314,
+        "Question": "The average volume in floating car method is calculated by.",
+        "Options": [
+            "a) q = (na+ny)/(ta+tw)",
+            "b) q = (na-ny)/(ta+tw)",
+            "c) q = (na+ny)/(ta-tw)",
+            "d) q = (na+ny)x(ta+tw)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 315,
+        "Question": "Floating car method is suitable for which type of road?",
+        "Options": [
+            "a) Multilane highways",
+            "b) Village roads",
+            "c) State highways",
+            "d) 2 lane 2 way highways",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 316,
+        "Question": "When is inaccuracy most likely to occur in floating car method?",
+        "Options": [
+            "a) During periods of congested flow on multi-lane highways",
+            "b) In village roads due to bad road conditions",
+            "c) When there are lots of potholes",
+            "d) During non-peak hours in city roads",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 317,
+        "Question": "Fixed delay is caused by ________",
+        "Options": [
+            "a) control devices",
+            "b) impedance of traffic",
+            "c) when the vehicle is at rest",
+            "d) overtaking",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 318,
+        "Question": "Why control devices like traffic signals should not be overused?",
+        "Options": [
+            "a) To reduce fixed delay",
+            "b) To reduce operational delay",
+            "c) To reduce stopped-time delay",
+            "d) To reduce excessive delay",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 319,
+        "Question": "Fixed delay does not depend on which of the following factor?",
+        "Options": [
+            "a) Traffic volume",
+            "b) Traffic signals",
+            "c) Level crossing",
+            "d) Markers",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 320,
+        "Question": "Which of the following is not an objective of OD Studies?",
+        "Options": [
+            "a) To determine the amount of by passable traffic that enters a town and thus establishes the need for diversion",
+            "b) To develop trip generation and trip distribution models",
+            "c) To determine the potential of the present highway system and plan for new facilities",
+            "d) To assess the pedestrian pattern",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 321,
+        "Question": "What do you mean by trips?",
+        "Options": [
+            "a) One-way movement of a person from origin to destination",
+            "b) Two-way movement of a person from origin to destination",
+            "c) Continuous movement",
+            "d) A movement that is more than 50 kms",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 322,
+        "Question": "Trips are classified into how many categories?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 4",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 323,
+        "Question": "Which one of the following is not a common application OD survey?",
+        "Options": [
+            "a) Weaving-area studies",
+            "b) Freeway studies",
+            "c) Major activity centre studies",
+            "d) Traffic volume studies",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 324,
+        "Question": "Why are screen lines required?",
+        "Options": [
+            "a) To check the accuracy",
+            "b) To divide different types of vehicles",
+            "c) To divide different types of goods and passengers",
+            "d) To divide areas into urban and rural",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 325,
+        "Question": "How many methods are used for the origin-destination study?",
+        "Options": [
+            "a) 6",
+            "b) 1",
+            "c) 5",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 326,
+        "Question": "Which among the following is an origin-destination study?",
+        "Options": [
+            "a) Licence plate mail-out method",
+            "b) Traffic mass study",
+            "c) Floating car method",
+            "d) Average speed method",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 327,
+        "Question": "In which of the following origin-destination study licence plate numbers of vehicles are recorded?",
+        "Options": [
+            "a) Licence plate mail-out method",
+            "b) Roadside interview",
+            "c) Phone survey",
+            "d) Mail back postcard survey",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 328,
+        "Question": "How many methods can be used for obtaining licence plate number of the vehicles in Licence plate mail-out method of origin-destination study?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 4",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 329,
+        "Question": "Which among the four method is preferred for high volume highways?",
+        "Options": [
+            "a) Photo/video",
+            "b) Manual recording",
+            "c) Interview",
+            "d) Questionnaire",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 330,
+        "Question": "Which of the following method has no disruption to normal traffic flow?",
+        "Options": [
+            "a) Licence plate mail-out method",
+            "b) Roadside interview",
+            "c) Questionnaire",
+            "d) Toll booths",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 331,
+        "Question": "Which of the following origin-destination study requires directing vehicles to a designated interview area and asking a series of short questions?",
+        "Options": [
+            "a) Licence plate mail-out method",
+            "b) Roadside interview",
+            "c) Phone survey",
+            "d) Mail back postcard survey",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 332,
+        "Question": "Which of the following is not an advantage of Roadside interview method?",
+        "Options": [
+            "a) High response rate",
+            "b) Good sampling control",
+            "c) Broad geographic coverage",
+            "d) No interruption to traffic",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 333,
+        "Question": "Roadside interview method is widely used for _________",
+        "Options": [
+            "a) Truck and auto trip collection",
+            "b) Village roads",
+            "c) National highways",
+            "d) Mountainous roads",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 334,
+        "Question": "Which of the following is the primary disadvantage of Roadside interview method?",
+        "Options": [
+            "a) Traffic disruption",
+            "b) Requires more manpower",
+            "c) Skilled surveyors",
+            "d) Huge set of data",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 335,
+        "Question": "When is mail-back postcard surveys usually used?",
+        "Options": [
+            "a) When traffic volume is high",
+            "b) When traffic volume is low",
+            "c) When traffic is homogeneous",
+            "d) When traffic is heterogeneous",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 336,
+        "Question": "How is mail-back postcard surveys conducted?",
+        "Options": [
+            "a) Postcard with a brief questionnaire",
+            "b) Via email",
+            "c) Via post",
+            "d) Postcard with an elaborate questionnaire",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 337,
+        "Question": "Which of the following is an advantage of the mail-back postcard survey?",
+        "Options": [
+            "a) Less personnel required",
+            "b) Skilled personnel required",
+            "c) More personnel required",
+            "d) High response rate",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 338,
+        "Question": "Phone surveys are usually used for ___________",
+        "Options": [
+            "a) household travel survey",
+            "b) pedestrian survey",
+            "c) traffic volume",
+            "d) traffic flow",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 339,
+        "Question": "Which of the following method used cell phone tracking technology?",
+        "Options": [
+            "a) Phone surveys",
+            "b) Mail-back postcard survey",
+            "c) Road interview method",
+            "d) GPS",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 340,
+        "Question": "What are desire lines?",
+        "Options": [
+            "a) Illustrations on a map showing the flow of people or goods from point to another",
+            "b) Illustrations on a map showing wind direction",
+            "c) Separates two lanes",
+            "d) Separates the soldiers from the lane",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 341,
+        "Question": "Which one of the following is a disadvantage of a desire line?",
+        "Options": [
+            "a) The real distance and direction may be distorted",
+            "b) Shows volume and direction of movement",
+            "c) Can be superimposed onto a base",
+            "d) Width of lines proportional to value",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 342,
+        "Question": "Which of the following represents traffic volume from one key area to another in a desire line map?",
+        "Options": [
+            "a) Dark line",
+            "b) Circles",
+            "c) Triangles",
+            "d) Dots",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 343,
+        "Question": "Which of the following represents traffic volume from one key area to another in a route volume map?",
+        "Options": [
+            "a) Circles",
+            "b) Bars",
+            "c) Lines",
+            "d) Dots",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 344,
+        "Question": "What are traffic analysis zones?",
+        "Options": [
+            "a) Study area divided into a number of small units",
+            "b) Group of study areas",
+            "c) Points of the study area",
+            "d) Zones of maximum traffic",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 345,
+        "Question": "What is a zone centroid?",
+        "Options": [
+            "a) Point at which all attributes and properties are concentrated",
+            "b) Point at which traffic is maximum",
+            "c) Point at which surveyor takes data",
+            "d) Point at which study area changes",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 346,
+        "Question": "What is the assumption taken in case of zoning models?",
+        "Options": [
+            "a) All individuals have the same travel cost from the centroid to the nearest transport facility",
+            "b) All individuals have different travel cost from the centroid to the nearest transport facility",
+            "c) All zones have the same travel cost",
+            "d) Models are assumed to have constant travel cost",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 347,
+        "Question": "The intersection from outside is normally represented through ______",
+        "Options": [
+            "a) external zones",
+            "b) internal zones",
+            "c) zone centroid",
+            "d) study centre",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 348,
+        "Question": "Which of the following is not an aspect of data preparation?",
+        "Options": [
+            "a) Data correction",
+            "b) Data expansion",
+            "c) Data validation",
+            "d) Data dilation",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 349,
+        "Question": "Which of the following is not a type of data correction in the data preparation process?",
+        "Options": [
+            "a) Household size correction",
+            "b) Socio-demographic correction",
+            "c) Non-response correction",
+            "d) Input correction",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 350,
+        "Question": "What information does parking surveys not provide?",
+        "Options": [
+            "a) Data regarding availability of parking space",
+            "b) Data regarding the extent of its usage",
+            "c) Data regarding parking demand",
+            "d) Data regarding pedestrians path",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 351,
+        "Question": "Which of the following parking statistics is expressed by accumulation curve?",
+        "Options": [
+            "a) Parking accumulation",
+            "b) Parking volume",
+            "c) Parking load",
+            "d) Parking turnover",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 352,
+        "Question": "The area under accumulation curve is known as _______",
+        "Options": [
+            "a) Parking load",
+            "b) Parking accumulation",
+            "c) Parking volume",
+            "d) Parking turnover",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 353,
+        "Question": "Parking turnover is expressed as _________",
+        "Options": [
+            "a) number of vehicles per bay per time duration",
+            "b) vehicle hours",
+            "c) accumulation curve",
+            "d) turnover curve",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 354,
+        "Question": "Which of the following parking statistics gives an aggregate measure of how effectively the parking space is utilized?",
+        "Options": [
+            "a) Parking index",
+            "b) Parking load",
+            "c) Parking accumulation",
+            "d) Parking turnover",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 355,
+        "Question": "Parking index is defined as __________",
+        "Options": [
+            "a) the ratio of the number of bays occupied in a time duration to the total space available",
+            "b) ratio of total vehicle hours to the number of vehicles parked",
+            "c) total number of vehicles parked at a given duration of time",
+            "d) number of vehicles parked at a given instant of time",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 356,
+        "Question": "Fixed period sampling of parking surveys is similar to which of the following surveys?",
+        "Options": [
+            "a) In-out survey",
+            "b) License plate method",
+            "c) Turnover Surveys",
+            "d) Duration Surveys",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 357,
+        "Question": "Parking duration and turn over is not obtained in which of the following survey?",
+        "Options": [
+            "a) In-out survey",
+            "b) License plate method",
+            "c) Turnover Surveys",
+            "d) Cordon count",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 358,
+        "Question": "Which of the following survey method is the most labour intensive?",
+        "Options": [
+            "a) In-out survey",
+            "b) License plate method",
+            "c) Turnover Surveys",
+            "d) Cordon count",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 359,
+        "Question": "Which of the following surveys provide the most accurate data?",
+        "Options": [
+            "a) In-out survey",
+            "b) License plate method",
+            "c) Turnover Surveys",
+            "d) Cordon count",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 360,
+        "Question": "Parking accumulation is defined by _________",
+        "Options": [
+            "a) the number of vehicles parked at a given instant of time",
+            "b) the total number of vehicles parked at a given duration of time",
+            "c) ratio of total vehicle hours to the number of vehicles parked",
+            "d) aggregate measure of how effectively the parking space is utilized",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 361,
+        "Question": "Which of the following is not a type of on-street parking system?",
+        "Options": [
+            "a) Parallel parking",
+            "b) Right-angle parking",
+            "c) 30 degrees parking",
+            "d) Metered parking",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 362,
+        "Question": "Which type of parking has areas exclusively allotted for parking at some distance away from the mainstream of traffic?",
+        "Options": [
+            "a) Off street parking",
+            "b) Parallel parking",
+            "c) 30 degrees parking",
+            "d) Right-angle parking",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 363,
+        "Question": "What are the parking requirements for residential plot area from 500 to 1000 sq. m?",
+        "Options": [
+            "a) Minimum one-fourth of the open area",
+            "b) Minimum one-fifth of the open area",
+            "c) Minimum one-third of the open area",
+            "d) Minimum one-sixth of the open area",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 364,
+        "Question": "The rate of use of a parking facility is known as _____",
+        "Options": [
+            "a) Parking turnover",
+            "b) Parking index",
+            "c) Parking load",
+            "d) Parking accumulation",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 365,
+        "Question": "Which of the following is not a type of Off street parking?",
+        "Options": [
+            "a) Surface car park",
+            "b) Multi-storey park",
+            "c) Roof parks",
+            "d) Parallel parking",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 366,
+        "Question": "Which of the following is not an objective of accident studies?",
+        "Options": [
+            "a) To evaluate existing design",
+            "b) To compute the financial losses incurred",
+            "c) To study the root cause of accidents and propose corrective measures at potential location",
+            "d) To collect data regarding parking demand",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 367,
+        "Question": "What is the first step in the accident study?",
+        "Options": [
+            "a) Accident data collection",
+            "b) Accident investigation",
+            "c) Accident data analysis",
+            "d) Accident reconstruction",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 368,
+        "Question": "Which of the following information does not require an accident data collection report?",
+        "Options": [
+            "a) Identification of spots at which unusually high number of accident happen",
+            "b) Development of a method that allows identification of risks before accidents occur",
+            "c) Comprehensive functional assessment of critical accident location to identify the causes of accidents",
+            "d) Development of parking areas",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 369,
+        "Question": "The development of different statistical measures of various accident-related factors gives insight into which of the following factors?",
+        "Options": [
+            "a) Causes of accidents",
+            "b) Location of points at which unusually high number of accident takes place",
+            "c) Identification of hazards",
+            "d) Driver profiles",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 370,
+        "Question": "Which of the following parameters given below is not required in accident data collection?",
+        "Options": [
+            "a) Registration number",
+            "b) Details of road geometry",
+            "c) Financial losses suffered due to property damage",
+            "d) Sight distance",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 371,
+        "Question": "Which of the following are the methods of reporting in accident studies?",
+        "Options": [
+            "a) Motorist accident report",
+            "b) Car accident report",
+            "c) Road accident report",
+            "d) Highway accident report",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 372,
+        "Question": "A police accident report is filed by _________",
+        "Options": [
+            "a) attendant police officer",
+            "b) motorist involved in the accident",
+            "c) witnesses of the accident",
+            "d) relatives of the motorists involved in the accident",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 373,
+        "Question": "Which of the following procedure of accident data collection involves obtaining information such as measurement of skid marks?",
+        "Options": [
+            "a) At Scene-Investigation",
+            "b) Reporting",
+            "c) Technical Preparation",
+            "d) Cause Analysis",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 374,
+        "Question": "In which procedure determination of critical and design speed for curves is done?",
+        "Options": [
+            "a) At Scene-Investigation",
+            "b) Reporting",
+            "c) Technical Preparation",
+            "d) Cause Analysis",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 375,
+        "Question": "In which of the following procedure accident reconstruction is involved?",
+        "Options": [
+            "a) At Scene-Investigation",
+            "b) Reporting",
+            "c) Technical Preparation",
+            "d) Professional Reconstruction",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 376,
+        "Question": "What is the purpose of Accident data analysis?",
+        "Options": [
+            "a) To find possible causes of accident-related to driver, vehicle, and roadway",
+            "b) To evaluate existing design",
+            "c) To compute the financial losses incurred",
+            "d) To collect data regarding parking demand",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 377,
+        "Question": "Why is it important to compute accident rates?",
+        "Options": [
+            "a) Because it reflects accident involvement by type of highway",
+            "b) Because it reflects accident involvement by type of drivers",
+            "c) Because it reflects accident involvement by type of pedestrians",
+            "d) Because it reflects accident involvement by type of design conditions",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 378,
+        "Question": "Which step in the accident investigation helps to determine how the accident occurs?",
+        "Options": [
+            "a) Professional Reconstruction",
+            "b) At Scene-Investigation",
+            "c) Technical Preparation",
+            "d) Cause Analysis",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 379,
+        "Question": "Analysis of accident reconstruction studies is done by which of the following step in the accident investigation?",
+        "Options": [
+            "a) Professional Reconstruction",
+            "b) At Scene-Investigation",
+            "c) Technical Preparation",
+            "d) Cause Analysis",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 380,
+        "Question": "The total accident hazard is expressed as ______",
+        "Options": [
+            "a) accident Rate per Kilometer",
+            "b) accident involvement Rate",
+            "c) death rate based on population",
+            "d) death rate based on registration",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 381,
+        "Question": "Numbers of drivers of vehicles with specific characteristics who were participants in accidents per 100 million vehicle-kms of travel is known as ______",
+        "Options": [
+            "a) Accident Rate per Kilometer",
+            "b) Accident involvement Rate",
+            "c) Death rate based on population",
+            "d) Death rate based on registration",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 382,
+        "Question": "The traffic hazard to life in a community is expressed as _____",
+        "Options": [
+            "a) accident Rate per Kilometer",
+            "b) accident involvement Rate",
+            "c) death rate based on population",
+            "d) death rate based on registration",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 383,
+        "Question": "Which rate reflects the accident exposure for an entire area?",
+        "Options": [
+            "a) Death rate based on population",
+            "b) Accident Rate per Kilometer",
+            "c) Accident Rate based on vehicle-kms of travel",
+            "d) Accident involvement Rate",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 384,
+        "Question": "The rate which reflects the accident exposure for the entire area and is similar to death rate based on population is _______",
+        "Options": [
+            "a) death rate based on population",
+            "b) death rate based on registration",
+            "c) accident Rate based on vehicle-kms of travel",
+            "d) accident involvement Rate",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 385,
+        "Question": "The accident hazard is expressed as ______",
+        "Options": [
+            "a) death rate based on population",
+            "b) death rate based on registration",
+            "c) accident Rate based on vehicle-kms of travel",
+            "d) accident involvement Rate",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 386,
+        "Question": "Accident reconstruction helps in ______",
+        "Options": [
+            "a) controlling or imposing rules to control or check movement of vehicles on road at high speed",
+            "b) to organize and interpret the study",
+            "c) to determine why the accident occurred",
+            "d) obtain information at the scene",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 387,
+        "Question": "The data which is not required to determine the pre-collision speed is ________",
+        "Options": [
+            "a) mass of the vehicle",
+            "b) velocities after collision",
+            "c) path of a vehicle as it proceeds towards collision point",
+            "d) road width",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 388,
+        "Question": "What is a collision diagram?",
+        "Options": [
+            "a) Schematic diagram of the collision of two vehicles that occur during turning movements",
+            "b) Schematic graph of collision of two vehicles",
+            "c) Schematic diagram of collision of three vehicles occur during turning movements",
+            "d) Schematic graph of collision at turning movements",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 389,
+        "Question": "Poisson impact theory divides impact into how many parts?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 4",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 390,
+        "Question": "What is an angular collision?",
+        "Options": [
+            "a) Collision when two vehicles coming at right angles collides with each other and bifurcates in a different direction",
+            "b) Collision when two vehicles coming at 60 degrees angles collides with each other and bifurcates in a different direction",
+            "c) Collision when two vehicles coming at 30 degrees angles collides with each other and bifurcates in a different direction",
+            "d) Collision when two vehicles coming at 180 degrees angles collides with each other and bifurcates in a different direction",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 391,
+        "Question": "The direction of vehicles after an angular collision depends on ______",
+        "Options": [
+            "a) initial speeds of the two vehicles and their weights",
+            "b) final speeds of the two vehicles and their weights",
+            "c) the angle at which they collide",
+            "d) the type of vehicle",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 392,
+        "Question": "What is a collision diagram?",
+        "Options": [
+            "a) A schematic diagram of collision of two vehicles that occur during turning movements",
+            "b) collision when two vehicles coming at right angles collides with each other and bifurcates in a different direction",
+            "c) A schematic diagram of collision of more than two vehicles",
+            "d) A schematic diagram of collision of two vehicles that occur after turning movements",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 393,
+        "Question": "Which of the following is one of the uses of a collision diagram?",
+        "Options": [
+            "a) Record of accident occurrence",
+            "b) Redesign of traffic lights",
+            "c) Demarcating area for parking",
+            "d) Interpreting traffic data",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 394,
+        "Question": "Inadequate shoulder on a road can result in which type of accident?",
+        "Options": [
+            "a) Overturn",
+            "b) Fixed object",
+            "c) Right-angle",
+            "d) Rear-end",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 395,
+        "Question": "Inadequate lighting and Inadequate pavement marking can result in which type of accident?",
+        "Options": [
+            "a) Overturn",
+            "b) Fixed object",
+            "c) Right-angle",
+            "d) Rear-end",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 396,
+        "Question": "Restricted sight distance and large total intersection volume can result in which type of accident?",
+        "Options": [
+            "a) Overturn",
+            "b) Fixed object",
+            "c) Right-angle",
+            "d) Rear-end",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 397,
+        "Question": "Accidents due to high approach speed can be fixed by _______",
+        "Options": [
+            "a) installing rumble strips",
+            "b) restricting parking near corners",
+            "c) installing reflectorized pavement lines",
+            "d) installing stop signs",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 398,
+        "Question": "Which of the following is the possible cause of rear end collision at unsignalised intersections?",
+        "Options": [
+            "a) Pedestrian crossing",
+            "b) High approach speed",
+            "c) Restricted sight distance",
+            "d) Poor visibility",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 399,
+        "Question": "Accidents due to inadequate channelisation can be fixed by _______",
+        "Options": [
+            "a) providing turning bays",
+            "b) restricting parking near corners",
+            "c) installing reflectorized pavement lines",
+            "d) installing stop signs",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 400,
+        "Question": "Inadequate barrier systems in bridges can lead to an accident. It can be avoided by which of the following safety measure?",
+        "Options": [
+            "a) Remove hazardous curb",
+            "b) Resurface decks",
+            "c) Installing signals",
+            "d) Installing reflectorized pavement lines",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 401,
+        "Question": "Which of the following is the possible cause of pedestrian/bicycle accidents?",
+        "Options": [
+            "a) Limited sight distance",
+            "b) Inadequate barrier system",
+            "c) Inadequate channelisation",
+            "d) Large total intersection volume",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 402,
+        "Question": "Poor delineation and poor visibility lead to which type of accidents?",
+        "Options": [
+            "a) Run-off-road",
+            "b) Fixed object",
+            "c) Right-angle",
+            "d) Rear-end",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 403,
+        "Question": "Inadequate road design or maintenance leads to which type of accident?",
+        "Options": [
+            "a) Sideswipe",
+            "b) Run-off-road",
+            "c) Fixed object",
+            "d) Right-angle",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 404,
+        "Question": "Rough crossing angle and sharp angle crossing are the causes of which type of accident?",
+        "Options": [
+            "a) Collision at railroad crossing",
+            "a) Sideswipe",
+            "b) Run-off-road",
+            "c) Fixed object",
+            ""
+        ],
+        "Answer": "Answer: a"
+    }
+]

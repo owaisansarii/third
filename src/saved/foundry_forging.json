@@ -1,0 +1,2858 @@
+[
+    {
+        "id": 1,
+        "Question": "_________________ is termed as a replica of the object to be made by the casting process.",
+        "Options": [
+            "a) Pattern",
+            "b) Core",
+            "c) Riser",
+            "d) Spruee",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 2,
+        "Question": "The final dimensions of the pattern are ______ the final dimensions of the casting required.",
+        "Options": [
+            "a) Similar to",
+            "b) Different from",
+            "c) Equal to",
+            "d) Approximate to",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 3,
+        "Question": "The contractions in the materials depend upon the metallurgical transformation taking place during which of the following process?",
+        "Options": [
+            "a) Solidification",
+            "b) Melting",
+            "c) Calcination",
+            "d) Smelting",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 4,
+        "Question": "The shrinkage value given to the pattern must be _________ for the outer dimensions which are to be restrained.",
+        "Options": [
+            "a) Lower",
+            "b) Higher",
+            "c) Equal",
+            "d) Does not alter anything",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 5,
+        "Question": "______________ is used to reduce the chances of damaging the mould cavity.",
+        "Options": [
+            "a) Draft Allowance",
+            "b) Shrinkage Allowance",
+            "c) Finish Allowance",
+            "d) Machining Allowance",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 6,
+        "Question": "______________ pattern is expected to be entirely in the drag.",
+        "Options": [
+            "a) Single piece pattern",
+            "b) Split piece pattern",
+            "c) Gated piece pattern",
+            "d) Match plate pattern",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 7,
+        "Question": "The split piece pattern is aligned perfectly using ________",
+        "Options": [
+            "a) Screw Pins",
+            "b) Dowel Pins",
+            "c) T-Pins",
+            "d) Straight pins",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 8,
+        "Question": "_________ is used for the pattern in the full mould process.",
+        "Options": [
+            "a) Polythene",
+            "b) Polysilicate foam",
+            "c) Polyurethane foam",
+            "d) Polystyrene foam",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 9,
+        "Question": "Hand cutting of runners and gates is eliminated in ______________",
+        "Options": [
+            "a) Split Pattern",
+            "b) Single piece pattern",
+            "c) Gated Pattern",
+            "d) Match Plate Pattern",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 10,
+        "Question": "__________ is a mould forming tool is the hand of Foundry men.",
+        "Options": [
+            "a) Pattern",
+            "b) Arch",
+            "c) Sand",
+            "d) Gating System",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 11,
+        "Question": "_______________ used in patterns as heat resistant materials.",
+        "Options": [
+            "a) Fluxes",
+            "b) Refractories",
+            "c) Resin",
+            "d) Acids",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 12,
+        "Question": "Which of the following types of Cast Iron is not included in the formation of castings?",
+        "Options": [
+            "a) Gray Cast Iron",
+            "b) Malleable Cast Iron",
+            "c) Hematite",
+            "d) White Cast Iron",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 13,
+        "Question": "Which of the following fluxes are not used for the melting of Magnesium alloys?",
+        "Options": [
+            "a) Magnesium Chloride",
+            "b) Magnesium Chloride",
+            "c) Barium Chloride",
+            "d) Chlorine",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 14,
+        "Question": "Which of the following is a drawback of the aluminum used in pattern making?",
+        "Options": [
+            "a) Thermal Conductivity",
+            "b) Mass Density",
+            "c) Tensile Strength",
+            "d) Melting Point",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 15,
+        "Question": "The strong anisotropy exhibited in _________ under deformed condition is a disadvantage when it comes to foundry applications.",
+        "Options": [
+            "a) Zinc",
+            "b) Iron",
+            "c) Aluminium",
+            "d) Steel",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 16,
+        "Question": "______________ is the most commonly used deoxidizer used in foundry.",
+        "Options": [
+            "a) Tungsten",
+            "b) Molybdenum",
+            "c) Silicon",
+            "d) Titanium",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 17,
+        "Question": "Which of the following has the highest carbide forming tendency of all alloying elements?",
+        "Options": [
+            "a) Titanium",
+            "b) Chromium",
+            "c) Vanadium",
+            "d) Cobalt",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 18,
+        "Question": "_________ patterns are free from knots and other common defects.",
+        "Options": [
+            "a) Wood",
+            "b) Metal",
+            "c) Plastic",
+            "d) Wax",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 19,
+        "Question": "____________ is considered as the best pattern and is widely used in foundry.",
+        "Options": [
+            "a) Aluminium",
+            "b) Steel",
+            "c) Zinc",
+            "d) Nickel",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 20,
+        "Question": "The pattern that has application in the investment casting process is __________",
+        "Options": [
+            "a) Plaster",
+            "b) Wax",
+            "c) Wood",
+            "d) Cast Iron",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 21,
+        "Question": "Which of the following is not a function of a Colour Pattern?",
+        "Options": [
+            "a) To show the location of the parting surface",
+            "b) To identify the parts of the castings",
+            "c) Indicate the type of metal to be cast",
+            "d) Identify the core prints",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 22,
+        "Question": "__________ colour indicated the seats of the loose pattern.",
+        "Options": [
+            "a) Yellow strip on Red",
+            "b) Black strip on Green",
+            "c) Purple strip on Pink",
+            "d) Red strip on Yellow",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 23,
+        "Question": "The American Colour Code scheme has its applications in ________",
+        "Options": [
+            "a) Foundry",
+            "b) Mines",
+            "c) Assembly Lines",
+            "d) Product Design",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 24,
+        "Question": "Purple colour is used for ________",
+        "Options": [
+            "a) Machineable parts",
+            "b) Non-machineable parts",
+            "c) Parting surface",
+            "d) Cannot be used on any surface",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 25,
+        "Question": "Black Colour is to be applied on the castings which are to be __________",
+        "Options": [
+            "a) Machined",
+            "b) Not to be machined",
+            "c) Filed",
+            "d) Stored",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 26,
+        "Question": "_________________ is a binder that becomes firm at room temperature.",
+        "Options": [
+            "a) Dextrin",
+            "b) Pitch",
+            "c) Rubber Latex",
+            "d) Molasses",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 27,
+        "Question": "__________ is a binder that becomes hard on baking.",
+        "Options": [
+            "a) Marine animal oil",
+            "b) Wood Resin",
+            "c) Oil Resin",
+            "d) Coal tar resin",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 28,
+        "Question": "Which of the following is not a protein binder?",
+        "Options": [
+            "a) Gelatin",
+            "b) Casein",
+            "c) Glues",
+            "d) Molasses",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 29,
+        "Question": "__________ is a binder made from starch.",
+        "Options": [
+            "a) Cereal Binder",
+            "b) Pitch",
+            "c) Limed wood resin",
+            "d) Dextrin",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 30,
+        "Question": "_________________ are not pure binders but they serve to improve the collapsibility of the core.",
+        "Options": [
+            "a) Clay Binders",
+            "b) Saw dust and Wood flour",
+            "c) Marine Animal Oil",
+            "d) Sulfate Binder",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 31,
+        "Question": "______________ is the mechanical binder used in Masonry.",
+        "Options": [
+            "a) Bond stones",
+            "b) Gypsum",
+            "c) Cement",
+            "d) Silicon Fluoride",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 32,
+        "Question": "_______________ is a binder that is used in the no-bake sand cores.",
+        "Options": [
+            "a) Gum Resin",
+            "b) Synthetic Resin",
+            "c) Coal tar Resin",
+            "d) Wood Resin",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 33,
+        "Question": "Which of the following is not a function of a core binder?",
+        "Options": [
+            "a) Hold the sand grains together",
+            "b) Give strength to the core",
+            "c) Not to impart collapsibility to core",
+            "d) Make cores to resist erosion and breaking",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 34,
+        "Question": "____________ is fine pulverized material used as a binder.",
+        "Options": [
+            "a) Water",
+            "b) Sodium Silicate",
+            "c) Iron Oxide",
+            "d) Silica Flour",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 35,
+        "Question": "___________ are polymerized to strong solids to be used as binders.",
+        "Options": [
+            "a) Bentonite",
+            "b) Fire Clay",
+            "c) Epoxy Resins",
+            "d) Phenol Formaldehyde",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 36,
+        "Question": "_________________ binders are used for large dry sand cores.",
+        "Options": [
+            "a) Sulfate Binders",
+            "b) Pitch",
+            "c) Dextrin",
+            "d) Gelatinalized Starch",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 37,
+        "Question": "__________ is a binder that resists molten metal.",
+        "Options": [
+            "a) Coal tar",
+            "b) Core oil",
+            "c) Pitch",
+            "d) Chamotte",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 38,
+        "Question": "______________ contributes towards the baked strength of molding sand.",
+        "Options": [
+            "a) Natural Resin",
+            "b) Carbon",
+            "c) Olivine",
+            "d) Core Oil",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 39,
+        "Question": "__________ is an excellent water soluble binder.",
+        "Options": [
+            "a) Cereal Binder",
+            "b) Zircon",
+            "c) Dextrin",
+            "d) Silica Sand",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 40,
+        "Question": "_________________ is used as the core coating medium.",
+        "Options": [
+            "a) Fire Clay",
+            "b) Plumbago",
+            "c) Bentonite",
+            "d) Cement",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 41,
+        "Question": "_________________ sands are best molding sands.",
+        "Options": [
+            "a) Refractory Sand",
+            "b) Loam Sand",
+            "c) Natural Sand",
+            "d) Synthetic Sand",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 42,
+        "Question": "__________ is refractory sand that can be molded to intricate shape.",
+        "Options": [
+            "a) Quartz",
+            "b) Olivine",
+            "c) Bentonite",
+            "d) Clays",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 43,
+        "Question": "Which of the following cannot be used repeatedly for making moulds?",
+        "Options": [
+            "a) Sillimanite",
+            "b) Dolomite",
+            "c) Natural Sand",
+            "d) Silica Sand",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 44,
+        "Question": "Which of the following is not included in the Natural Sand?",
+        "Options": [
+            "a) Organic Matter",
+            "b) Water",
+            "c) Clay",
+            "d) Graphite",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 45,
+        "Question": "____________ sand has higher clay content than ordinary sand.",
+        "Options": [
+            "a) Silica Sand",
+            "b) Loam Sand",
+            "c) Illite",
+            "d) Limonite",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 46,
+        "Question": "______________ requires less proportion of binders.",
+        "Options": [
+            "a) Natural Sand",
+            "b) Synthetic Sand",
+            "c) Loam Sand",
+            "d) Silica Sand",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 47,
+        "Question": "_________________ is a container which when poured with molten metal produce a casting of the shape of the mould.",
+        "Options": [
+            "a) Mould",
+            "b) Pattern",
+            "c) Core",
+            "d) Spruee",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 48,
+        "Question": "_____________ Binders are used to harden the skin dried moulds.",
+        "Options": [
+            "a) Linseed Oil",
+            "b) Marine Oil",
+            "c) Vegetable Oil",
+            "d) Synthetic Resins",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 49,
+        "Question": "______________ is made by assembling a number of cores made individually in separate core boxes and baked.",
+        "Options": [
+            "a) Dry Sand Mould",
+            "b) Air dried Mould",
+            "c) Skin dried Mould",
+            "d) Core Sand Mould",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 50,
+        "Question": "_____________ is used to make a metallic die in Investment mould.",
+        "Options": [
+            "a) Sweep Pattern",
+            "b) Master Pattern",
+            "c) Single Piece Pattern",
+            "d) Skeleton Pattern",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 51,
+        "Question": "_________ is produced with the help of heated iron/steel patterns.",
+        "Options": [
+            "a) Loam Mould",
+            "b) Shell Mould",
+            "c) Ceramic Mould",
+            "d) Metal Mould",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 52,
+        "Question": "IC Engine pistons are cast in ___________",
+        "Options": [
+            "a) Investment Moulds",
+            "b) Shell Moulds",
+            "c) Metal Moulds",
+            "d) Ceramic Moulds",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 53,
+        "Question": "Which of the following molding method is not used in foundries?",
+        "Options": [
+            "a) Bench",
+            "b) Floor",
+            "c) Machine",
+            "d) Injection",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 54,
+        "Question": "Non Ferrous castings are especially made on _______________",
+        "Options": [
+            "a) Floor Molding",
+            "b) Pit Molding",
+            "c) Bench Molding",
+            "d) Machine Molding",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 55,
+        "Question": "Castings that cannot be made floor molding can be made using ___________",
+        "Options": [
+            "a) Pit Molding",
+            "b) Injection Molding",
+            "c) Machine Molding",
+            "d) Bench Molding",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 56,
+        "Question": "The sides of the pit drag are lined with ____________",
+        "Options": [
+            "a) Binders",
+            "b) Bricks",
+            "c) Additives",
+            "d) Refractories",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 57,
+        "Question": "Gates, runners, pouring basin etc are made in ____________ in pit molding.",
+        "Options": [
+            "a) Cope",
+            "b) Drag",
+            "c) Pattern",
+            "d) Cores",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 58,
+        "Question": "Uniform and consistent castings can be obtained by __________ method in molding.",
+        "Options": [
+            "a) Injection Molding",
+            "b) Pit Molding",
+            "c) Machine Molding",
+            "d) Bench",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 59,
+        "Question": "Which of the following machines is not used in machine molding?",
+        "Options": [
+            "a) Jolting Machine",
+            "b) Sand Slinger",
+            "c) Squeezer Machine",
+            "d) Mill Hopper",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 60,
+        "Question": "__________ is also termed as an obstruction when positioned in the mould.",
+        "Options": [
+            "a) Gate",
+            "b) Riser",
+            "c) Core",
+            "d) Pattern",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 61,
+        "Question": "Cores are not made up of ___________",
+        "Options": [
+            "a) Sand",
+            "b) Wax",
+            "c) Plaster",
+            "d) Ceramics",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 62,
+        "Question": "Cores are required to create ________________",
+        "Options": [
+            "a) Gates",
+            "b) Spruees",
+            "c) Undercuts",
+            "d) Recesses",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 63,
+        "Question": "Which of the following is not a step in the core making process?",
+        "Options": [
+            "a) Sand Preparation",
+            "b) Machining",
+            "c) Setting",
+            "d) Finishing",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 64,
+        "Question": "________ cores are used to produce pipe bends.",
+        "Options": [
+            "a) Left and Right hand core box",
+            "b) Split box core box",
+            "c) Half core box",
+            "d) Pump core box",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 65,
+        "Question": "__________ core boxes cost the least of all the core boxes.",
+        "Options": [
+            "a) Loose piece core box",
+            "b) Strickle core box",
+            "c) Gang core box",
+            "d) Half core box",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 66,
+        "Question": "Core sand can be rammed in a dump type core box on a ______________",
+        "Options": [
+            "a) Jolt Machine",
+            "b) Sand Slinger",
+            "c) Core roll over machine",
+            "d) Core extrusion machine",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 67,
+        "Question": "____________ machine is similar to the mold roll over machine.",
+        "Options": [
+            "a) Core blowing machine",
+            "b) Squeezing machine",
+            "c) Core roll over machine",
+            "d) Core extrusion machine",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 68,
+        "Question": "Cores of which of the following shapes are not produced in core extrusion process:",
+        "Options": [
+            "a) Square",
+            "b) Hexagonal",
+            "c) Round",
+            "d) Random",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 69,
+        "Question": "Core boxes to be used on the core blowing machines are made up of ______________",
+        "Options": [
+            "a) Iron",
+            "b) Brass",
+            "c) Aluminum",
+            "d) Carbon",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 70,
+        "Question": "The core boxes are provided with wires perform a function of which of the following component?",
+        "Options": [
+            "a) Riser",
+            "b) Gates",
+            "c) Vents",
+            "d) Shell",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 71,
+        "Question": "____________ is the oldest binder used in making cores.",
+        "Options": [
+            "a) Coal tar",
+            "b) Dextrin",
+            "c) Molasses",
+            "d) Vegetable oil",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 72,
+        "Question": "The cores produced by the binder process called hot-box process is called _________",
+        "Options": [
+            "a) Shell core",
+            "b) Resin bond cores",
+            "c) No-bake cores",
+            "d) Dry sand cores",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 73,
+        "Question": "Which of the following gases is not used in the cold-box process?",
+        "Options": [
+            "a) Amine gas",
+            "b) Sulphur-di-oxide",
+            "c) Carbon-di-oxide",
+            "d) Marsh Gas",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 74,
+        "Question": "Which of the following is not a component of the gating system?",
+        "Options": [
+            "a) Pouring cups",
+            "b) Sprue",
+            "c) Pattern",
+            "d) Runners",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 75,
+        "Question": "____________ is responsible for the prevention of erosion and washing away from the sand.",
+        "Options": [
+            "a) Risers",
+            "b) Gates",
+            "c) Vents",
+            "d) Sprue Hole",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 76,
+        "Question": "6.______________ is also called as the feeder head.",
+        "Options": [
+            "a) Pouring basin",
+            "b) Chills",
+            "c) Riser",
+            "d) Gate",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 77,
+        "Question": "__________ vacuum in the riser leads to a shrinkage void.",
+        "Options": [
+            "a) Complete",
+            "b) Half",
+            "c) Partial",
+            "d) Approximately full",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 78,
+        "Question": "Which is the most common defect caused by the risers?",
+        "Options": [
+            "a) Blow holes",
+            "b) Shrinkage",
+            "c) Crush",
+            "d) Mould Shift",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 79,
+        "Question": "Which of the following is not an example for the gates?",
+        "Options": [
+            "a) Top",
+            "b) Bottom",
+            "c) Parting line side",
+            "d) Blind",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 80,
+        "Question": "________________ avoids the forceful impinging action of the molten metal stream into the mould cavity.",
+        "Options": [
+            "a) Top gate",
+            "b) Edge gate",
+            "c) Finger gate",
+            "d) Ring gate",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 81,
+        "Question": "__________ is used on stove plates castings and bath.",
+        "Options": [
+            "a) Ring gates",
+            "b) Finger gate",
+            "c) Pencil gate",
+            "d) Wedge gate",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 82,
+        "Question": "Which of the following is not an example of the top gate?",
+        "Options": [
+            "a) Finger gate",
+            "b) Wedge gate",
+            "c) Horn gate",
+            "d) Ring gate",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 83,
+        "Question": "Which of the following gates has the lowest consumption of the metal?",
+        "Options": [
+            "a) Top gates",
+            "b) Bottom gates",
+            "c) Parting line gates",
+            "d) All of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 84,
+        "Question": "Which of the following gates ensures cleaner castings?",
+        "Options": [
+            "a) Edge gate",
+            "b) Branch gate",
+            "c) Strainer gate",
+            "d) Horn gate",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 85,
+        "Question": "_________ is exposed to atmosphere in open riser.",
+        "Options": [
+            "a) Top end",
+            "b) Bottom end",
+            "c) Partial upper end",
+            "d) Partial bottom end",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 86,
+        "Question": "______________ is the only feeder force in the open riser.",
+        "Options": [
+            "a) Centrifugal force",
+            "b) Gravitation force",
+            "c) Centripetal force",
+            "d) Compression force",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 87,
+        "Question": "The shape of the open riser is _________",
+        "Options": [
+            "a) Circular",
+            "b) Cylindrical",
+            "c) Cubical",
+            "d) Rectangular",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 88,
+        "Question": "The cavity of the blind riser is  ______________",
+        "Options": [
+            "a) Square",
+            "b) Desired shape",
+            "c) Round",
+            "d) Rhombus",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 89,
+        "Question": "When a blind riser is used in making of casting, the molten metal cools ________________",
+        "Options": [
+            "a) Rapidly",
+            "b) Moderately",
+            "c) Slowly",
+            "d) Quickly",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 90,
+        "Question": "_________ is the name given to the removal of cores from the casting.",
+        "Options": [
+            "a) Fettling",
+            "b) Pouring",
+            "c) Molding",
+            "d) Machining",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 91,
+        "Question": "__________ portions sticking out of inside the castings are removed by poking and action of the metal rod.",
+        "Options": [
+            "a) Pattern",
+            "b) Cores",
+            "c) Sand",
+            "d) Gates",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 92,
+        "Question": "_____________ is used for removing adhering sand from the castings.",
+        "Options": [
+            "a) Rumbling",
+            "b) Air blasting",
+            "c) Wire brush",
+            "d) All of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 93,
+        "Question": "______________ is used as an abrasive in the shot blasting method.",
+        "Options": [
+            "a) Zircon",
+            "b) Coal tar",
+            "c) Chilled iron grit",
+            "d) Molasses",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 94,
+        "Question": "____________ force is responsible for cleaning in mechanical blast method.",
+        "Options": [
+            "a) Gravitation force",
+            "b) Tensile force",
+            "c) Centrifugal force",
+            "d) Shear force",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 95,
+        "Question": "____________ involves a danger of retaining acid in small interstices of castings.",
+        "Options": [
+            "a) Shot blasting method",
+            "b) Pickling",
+            "c) Hydrolysis",
+            "d) Hydro blasting",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 96,
+        "Question": " ____________ castings are pickled in hydrofluoric acids.",
+        "Options": [
+            "a) Iron",
+            "b) Brass",
+            "c) Steel",
+            "d) Aluminum",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 97,
+        "Question": "______________ is a defect caused by loose dowels.",
+        "Options": [
+            "a) Mould Shift",
+            "b) Scab",
+            "c) Drop",
+            "d) Blow holes",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 98,
+        "Question": "Variation in wall thickness occurs due to _________ core boxes.",
+        "Options": [
+            "a) Rigid",
+            "b) Flexible",
+            "c) Surface finished",
+            "d) Worn out",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 99,
+        "Question": "__________ usually occurs at the parting line and results in excess of metal.",
+        "Options": [
+            "a) Fins",
+            "b) Fash",
+            "c) Strain",
+            "d) All of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 100,
+        "Question": "Patterns having insufficient taper result in __________",
+        "Options": [
+            "a) Fins",
+            "b) Blow holes",
+            "c) Drop",
+            "d) Scab",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 101,
+        "Question": "_______________ occurs in the casting due to the quality variation.",
+        "Options": [
+            "a) Defects",
+            "b) Melting",
+            "c) Stress-reliving",
+            "d) Solidification",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 102,
+        "Question": "Defects by ____________ are discovered by mechanical testing.",
+        "Options": [
+            "a) Heat-treatment",
+            "b) Molding",
+            "c) Material",
+            "d) Pattern",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 103,
+        "Question": "________________ is the displacement of the mould while closing a mould.",
+        "Options": [
+            "a) Drop",
+            "b) Blowholes",
+            "c) Crush",
+            "d) Mould Shift",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 104,
+        "Question": "______________ machine is used to ram sand in the mould box.",
+        "Options": [
+            "a) Jolt Machine",
+            "b) Sand Slinger",
+            "c) Core making machine",
+            "d) Squeezing machine",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 105,
+        "Question": "In the sand slinger machine, the density of sand is a result of its ___________",
+        "Options": [
+            "a) Inertia",
+            "b) Acceleration",
+            "c) Velocity",
+            "d) Mass",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 106,
+        "Question": "_________ machines are used for shallow patterns.",
+        "Options": [
+            "a) Core making machine",
+            "b) Sand Slinger machine",
+            "c) Squeeze machine",
+            "d) Jolt machine",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 107,
+        "Question": "Which of the following mediums is not used for the power operated molding machines?",
+        "Options": [
+            "a) Electromagnets",
+            "b) Hydraulic power",
+            "c) Compressed air",
+            "d) Sand Inertia",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 108,
+        "Question": "___________ is used to obtain a uniform mold density in squeezer machine.",
+        "Options": [
+            "a) Sand paper",
+            "b) Flat plate",
+            "c) Rubber",
+            "d) Carbon",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 109,
+        "Question": "Which of the following is not a power operated machine?",
+        "Options": [
+            "a) Jolt machine",
+            "b) Sand Slinger",
+            "c) Pin lift machine",
+            "d) Jolt squeeze machine",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 110,
+        "Question": "____________ establishes the most suitable gating system, riser etc are mounted on the match plate pattern itself.",
+        "Options": [
+            "a) Machine molding",
+            "b) Hand molding",
+            "c) Sand molding",
+            "d) Core molding",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 111,
+        "Question": "In green sand molding, the sand id claimed to be green because it has _______",
+        "Options": [
+            "a) Additives",
+            "b) Moisture",
+            "c) Binders",
+            "d) Colours",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 112,
+        "Question": "The sand has to undergo ____________ process before it is called green and is ready for molding.",
+        "Options": [
+            "a) Mulling",
+            "b) Cooling",
+            "c) Heating",
+            "d) Drying",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 113,
+        "Question": "Which of the following is not used in the green sand?",
+        "Options": [
+            "a) Clay",
+            "b) Water",
+            "c) Oil",
+            "d) Chemicals",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 114,
+        "Question": "Green sand molding cannot be used for _________ moulds.",
+        "Options": [
+            "a) Simple",
+            "b) Small",
+            "c) Medium",
+            "d) Complex",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 115,
+        "Question": "Green sand molding methods can be used for ________ molding machines.",
+        "Options": [
+            "a) Manual",
+            "b) Semi-automatic",
+            "c) Fully automatic",
+            "d) All of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 116,
+        "Question": "Which of the following characteristic is not expected in the green sand in the green sand molding process?",
+        "Options": [
+            "a) Flowable nature",
+            "b) Plastic Nature",
+            "c) Reactivity",
+            "d) Permeability",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 117,
+        "Question": "_____________ is well known as the expendable molding process.",
+        "Options": [
+            "a) Core molding",
+            "b) Hand molding",
+            "c) Machine molding",
+            "d) Shell molding",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 118,
+        "Question": "The patterns can be __________ after the pattern is prepared from shell molding.",
+        "Options": [
+            "a) Scrapped",
+            "b) Non-reused",
+            "c) Reused",
+            "d) Recycled",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 119,
+        "Question": "Which of the following is not used in the shell molding?",
+        "Options": [
+            "a) Metal Pattern",
+            "b) Sand-resin",
+            "c) Dump box",
+            "d) Gating system",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 120,
+        "Question": "Which of the following cannot be made from the shell molding process?",
+        "Options": [
+            "a) Cylinder heads",
+            "b) Connecting rods",
+            "c) Engine blocks",
+            "d) Valves",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 121,
+        "Question": "The lead times in Shell molding is usually _____________",
+        "Options": [
+            "a) High",
+            "b) Rapid",
+            "c) Short",
+            "d) Medium",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 122,
+        "Question": "The binder used in the shell mold casting process is ___________",
+        "Options": [
+            "a) Thermoplastic",
+            "b) Thermosetting",
+            "c) Plastic",
+            "d) Elastic",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 123,
+        "Question": "________________ facilitates the removal of the shell.",
+        "Options": [
+            "a) Dextrin",
+            "b) Sand",
+            "c) Zircon",
+            "d) Silicone",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 124,
+        "Question": "Cores in permanent moulds used in gravity die casting are made up of ___________",
+        "Options": [
+            "a) Metals",
+            "b) Metal and Non-metals",
+            "c) Metals and sand",
+            "d) Only sand",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 125,
+        "Question": "The mold halves are clamped by ________ in gravity die casting.",
+        "Options": [
+            "a) Lathes",
+            "b) Pneumatic",
+            "c) Toggles",
+            "d) Lathes, Pneumatic and Toggles",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 126,
+        "Question": "For faster cooling, fins are provided __________ the permanent mould.",
+        "Options": [
+            "a) Inside",
+            "b) Outside",
+            "c) At the surface",
+            "d) Near the end",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 127,
+        "Question": "In gravity die casting, __________ the thickness of the mold walls, greater the amount of heat removal.",
+        "Options": [
+            "a) Lesser",
+            "b) Equal",
+            "c) Greater",
+            "d) Negligible",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 128,
+        "Question": "The thickness of the permanent mould is _______",
+        "Options": [
+            "a) High",
+            "b) Low",
+            "c) Negligible",
+            "d) Moderate",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 129,
+        "Question": "Molten metal is poured into the mould due to the effect of gravity with _______ external pressure in gravity die casting.",
+        "Options": [
+            "a) High",
+            "b) Low",
+            "c) Medium",
+            "d) No",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 130,
+        "Question": "The pressure is obtained by which of the following methods in pressure die castings?",
+        "Options": [
+            "a) Mechanical",
+            "b) Hydraulic",
+            "c) Pneumatic",
+            "d) Electromagnetic",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 131,
+        "Question": "Gooseneck injection type mechanism is ___________ chamber mechanism.",
+        "Options": [
+            "a) Hot",
+            "b) Cold",
+            "c) Temperature Independent",
+            "d) Room temperature",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 132,
+        "Question": "Air injection processes can be used for __________",
+        "Options": [
+            "a) Iron",
+            "b) Scandium",
+            "c) Zinc",
+            "d) Argon",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 133,
+        "Question": "__________ are useful in cold chamber machines.",
+        "Options": [
+            "a) Riser",
+            "b) Gates",
+            "c) Ladles",
+            "d) Shell",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 134,
+        "Question": "______________ pressure is recommended in the cold chamber process.",
+        "Options": [
+            "a) High",
+            "b) Low",
+            "c) Medium",
+            "d) Room temperature",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 135,
+        "Question": "Pressure die casting is used for high volume production because ____________",
+        "Options": [
+            "a) High maintenance",
+            "b) Costly machinery",
+            "c) Complex dies",
+            "d) All of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 136,
+        "Question": "In centrifugal castings, the molten metal is introduced into a ___________ mould.",
+        "Options": [
+            "a) Rotating",
+            "b) Static",
+            "c) Swinging",
+            "d) Heating",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 137,
+        "Question": "True centrifugal castings are __________ in shape.",
+        "Options": [
+            "a) Straight",
+            "b) Square",
+            "c) Round",
+            "d) Rectangular",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 138,
+        "Question": "In the De Lavaud casting process, the coolant used is ___________",
+        "Options": [
+            "a) Water",
+            "b) Resin",
+            "c) Aerated water",
+            "d) Inert gases",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 139,
+        "Question": "True centrifugal castings can be prepared in ___________ moulds.",
+        "Options": [
+            "a) Metal",
+            "b) Sand",
+            "c) Metal and sand",
+            "d) Sand and chemical",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 140,
+        "Question": "The  _____________ parts are cast in centrifuge castings.",
+        "Options": [
+            "a) Symmetrical",
+            "b) Asymmetrical",
+            "c) Identical",
+            "d) Non-Identical",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 141,
+        "Question": "_________ molding is used to produce valve bodies in centrifuge casting.",
+        "Options": [
+            "a) Stack",
+            "b) Straight",
+            "c) Hand",
+            "d) Machine",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 142,
+        "Question": "The use of CO2 was to __________ the sand mould.",
+        "Options": [
+            "a) Harden",
+            "b) Soften",
+            "c) Dry",
+            "d) Clean",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 143,
+        "Question": "________________ is the binder used in the CO2 moulding.",
+        "Options": [
+            "a) Silica sand",
+            "b) Sodium Silicate",
+            "c) Sodium Carbonate",
+            "d) Alumina",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 144,
+        "Question": "If gas is passed longer than required, the bond becomes ____________",
+        "Options": [
+            "a) Impaired",
+            "b) Stronger",
+            "c) Weaker",
+            "d) Does not affect much",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 145,
+        "Question": "_____________ increases SiO2-Na2O ratio that increases the bond.",
+        "Options": [
+            "a) Sulphuric acid",
+            "b) Acetic acid",
+            "c) Carbonic acid",
+            "d) Hydrochloric acid",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 146,
+        "Question": "The additives in sodium silicate are ____________",
+        "Options": [
+            "a) Sugar",
+            "b) Dextrin",
+            "c) Molasses",
+            "d) Zircon",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 147,
+        "Question": "The squeeze casting can result in an increase of _________ properties of the castings.",
+        "Options": [
+            "a) Thermal",
+            "b) Mechanical",
+            "c) Thermodynamic",
+            "d) Chemical",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 148,
+        "Question": "Squeeze casting is used for manufacturing of components of _________",
+        "Options": [
+            "a) Aluminum alloys",
+            "b) Iron alloys",
+            "c) Chromium alloys",
+            "d) Carbon alloys",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 149,
+        "Question": "Pressure incorporated in the direct die casting is _____________",
+        "Options": [
+            "a) High",
+            "b) Low",
+            "c) Not used",
+            "d) Room temperature",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 150,
+        "Question": "________ squeeze casting takes place in die casting equipment.",
+        "Options": [
+            "a) Direct",
+            "b) Indirect",
+            "c) Room temperature",
+            "d) None of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 151,
+        "Question": "_____________ is the advantage of the squeeze casting process.",
+        "Options": [
+            "a) Weld-able",
+            "b) No Blow Holes",
+            "c) Heat treatable",
+            "d) All of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 152,
+        "Question": "_________ is used for insulation in Pit furnaces.",
+        "Options": [
+            "a) Polymer fiber",
+            "b) Ceramic fiber",
+            "c) Metal matrix reinforced fiber",
+            "d) Plastic fiber",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 153,
+        "Question": "Pit Furnace is used in ___________",
+        "Options": [
+            "a) Permanent mould",
+            "b) Shell mould",
+            "c) Skin dried mould",
+            "d) Air dried mould",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 154,
+        "Question": "________ is used to fuel gas furnace.",
+        "Options": [
+            "a) Marsh gas",
+            "b) Carbon-dioxide",
+            "c) Ammonia gas",
+            "d) Natural gas",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 155,
+        "Question": "_____________ is used to accelerate the metal cooling in gas pit furnace.",
+        "Options": [
+            "a) Coolant",
+            "b) Fans",
+            "c) Blower",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 156,
+        "Question": "Induction _______ is the principle of Induction furnace",
+        "Options": [
+            "a) Current",
+            "b) Heating",
+            "c) Resistance",
+            "d) Melting",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 157,
+        "Question": "The currents induced in the electromagnetic induction principle for induction furnace is called _____",
+        "Options": [
+            "a) Direct current",
+            "b) Indirect current",
+            "c) Eddy currents",
+            "d) Electric current",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 158,
+        "Question": "Induction heating in Induction furnace relies on ______________ frequency.",
+        "Options": [
+            "a) Radio",
+            "b) X-Rays",
+            "c) Infrared",
+            "d) Ultrasonic",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 159,
+        "Question": "The crucible inside the furnace is cooled by __________",
+        "Options": [
+            "a) Coolant",
+            "b) Air",
+            "c) Water",
+            "d) Gas",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 160,
+        "Question": "Which of the following furnaces is the best to melt scrap?",
+        "Options": [
+            "a) Cupola",
+            "b) Electric arc",
+            "c) Induction",
+            "d) Blast",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 161,
+        "Question": "Coreless Induction Furnace operates on ___________",
+        "Options": [
+            "a) Transformer",
+            "b) Induction motor",
+            "c) Generator",
+            "d) Motor",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 162,
+        "Question": "Cupola is the best example for __________ furnace.",
+        "Options": [
+            "a) Top open",
+            "b) Bottom open",
+            "c) Left open",
+            "d) Right open",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 163,
+        "Question": "Air is supplied to cupola using ___________",
+        "Options": [
+            "a) Blowers",
+            "b) Coolers",
+            "c) Tuyeres",
+            "d) None of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 164,
+        "Question": "The ratio of iron to coke fed in cupola is ___________",
+        "Options": [
+            "a) 6:10",
+            "b) 1:10",
+            "c) 10:1",
+            "d) 12:16",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 165,
+        "Question": "_________ tuyeres increase the melting efficiency.",
+        "Options": [
+            "a) Single",
+            "b) Double",
+            "c) Auxiliary",
+            "d) Blast",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 166,
+        "Question": "The cupola has following as waste ____________",
+        "Options": [
+            "a) Slag",
+            "b) Iron",
+            "c) Coke",
+            "d) Slag, Iron and Coke",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 167,
+        "Question": "The refractory material is sticked inside the steel vessel using _______________",
+        "Options": [
+            "a) Binders",
+            "b) Blowers",
+            "c) Additives",
+            "d) Manual work",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 168,
+        "Question": "_____________ is a process of preparing a casting.",
+        "Options": [
+            "a) Founding",
+            "b) Forging",
+            "c) Melting",
+            "d) Pouring",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 169,
+        "Question": "Which of the following is prepared using pattern is foundry?",
+        "Options": [
+            "a) Mould",
+            "b) Sand",
+            "c) Core",
+            "d) Mould, Sand and Core",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 170,
+        "Question": "Which of the following metal castings are used to make casting in the foundry?",
+        "Options": [
+            "a) Brass",
+            "b) Aluminum",
+            "c) Iron",
+            "d) Brass, Aluminum and Iron",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 171,
+        "Question": "_________ tuyeres increase the melting efficiency.",
+        "Options": [
+            "a) Single",
+            "b) Double",
+            "c) Auxiliary",
+            "d) Blast",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 172,
+        "Question": "The foundry uses ___________ process to relieve stresses produced in castings.",
+        "Options": [
+            "a) Reforming",
+            "b) Heat treatment",
+            "c) Water treatment",
+            "d) Cooling",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 173,
+        "Question": "The product of the foundry process is ____________",
+        "Options": [
+            "a) Binders",
+            "b) Pattern",
+            "c) Casting",
+            "d) Metal",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 174,
+        "Question": "Ore is _________ to make it suitable for foundry processes.",
+        "Options": [
+            "a) Smelted",
+            "b) Melted",
+            "c) Extracted",
+            "d) Refined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 175,
+        "Question": "The metals that are used in foundries are obtained in which of the following sources?",
+        "Options": [
+            "a) Oxides",
+            "b) Sulphides",
+            "c) Carbonates",
+            "d) Aldehydes",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 176,
+        "Question": "The source of energy that keeps the furnace the cleanest is __________",
+        "Options": [
+            "a) Electricity",
+            "b) Water",
+            "c) Air",
+            "d) Sunlight",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 177,
+        "Question": "The flux used in the foundries to make castings of magnesium alloys are ________",
+        "Options": [
+            "a) Potassium Chloride",
+            "b) Barium Chloride",
+            "c) Magnesium Oxide",
+            "d) Potassium Chloride, Barium Chloride and Magnesium Oxide",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 178,
+        "Question": "The melting point of the flux is _________",
+        "Options": [
+            "a) Low",
+            "b) High",
+            "c) Room Temperature",
+            "d) Critical",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 179,
+        "Question": "_____________ protects molten metal from atmosphere in the foundry.",
+        "Options": [
+            "a) Pattern",
+            "b) Mould",
+            "c) Slag",
+            "d) Refractories",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 180,
+        "Question": "Scope of automation in foundry process is _____________",
+        "Options": [
+            "a) Low",
+            "b) High",
+            "c) Minimum",
+            "d) Maximum",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 181,
+        "Question": "Which of the following is an advantage of the Green sand molding process used in a foundry?",
+        "Options": [
+            "a) Appropriate for long production run",
+            "b) Very low cost process",
+            "c) Sand is reusable",
+            "d) All of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 182,
+        "Question": "The _______ energy consumption is a drawback of the foundry.",
+        "Options": [
+            "a) High",
+            "b) Optimum",
+            "c) Intensive",
+            "d) Low",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 183,
+        "Question": "______________ defects in castings cannot be identified easily.",
+        "Options": [
+            "a) Internal",
+            "b) External",
+            "c) Chemical",
+            "d) Metallic",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 184,
+        "Question": "Castings are usually designed for ________ distribution of loads.",
+        "Options": [
+            "a) Equal",
+            "b) Unequal",
+            "c) Maximum",
+            "d) Minimum",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 185,
+        "Question": "The _______ directional properties are imparted to the castings made in foundries.",
+        "Options": [
+            "a) Single",
+            "b) Double",
+            "c) Spherical",
+            "d) Multiple",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 186,
+        "Question": "___________ forms a seat in mold on which the sand core rests during pouring.",
+        "Options": [
+            "a) Pattern",
+            "b) Sand",
+            "c) Core",
+            "d) Core Print",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 187,
+        "Question": "Which of the following is a property of core material used in a foundry?",
+        "Options": [
+            "a) Appropriate for long production",
+            "b) Low Weight",
+            "c) Reusable",
+            "d) Core Print",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 188,
+        "Question": "The _______ is responsible for cavities in castings in the foundry.",
+        "Options": [
+            "a) Patterns",
+            "b) Sand",
+            "c) Cores",
+            "d) Riser",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 189,
+        "Question": "The number of cores to be used to form castings is _____________",
+        "Options": [
+            "a) One",
+            "b) Ten",
+            "c) Depends on the sand",
+            "d) Depends on the design",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 190,
+        "Question": "___________ cores cannot make long narrow features.",
+        "Options": [
+            "a) Green Sand",
+            "b) Dry-Sand",
+            "c) Metallic",
+            "d) Lost",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 191,
+        "Question": "Which of the following process is not used to remove the cores from the finished casting?",
+        "Options": [
+            "a) Blowing",
+            "b) Melting",
+            "c) Washing",
+            "d) Chemical Dipping",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 192,
+        "Question": "In order the get a smooth casting, the size of the sand particles should be _________",
+        "Options": [
+            "a) Coarse",
+            "b) Fine",
+            "c) Moderate",
+            "d) Large",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 193,
+        "Question": "Which of the following is not used for the formation of the molding sand?",
+        "Options": [
+            "a) Silica Sand",
+            "b) Binders",
+            "c) Additives",
+            "d) Coal",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 194,
+        "Question": "The _______ is responsible for the impact strength in the molding sand.",
+        "Options": [
+            "a) Aggregates",
+            "b) Refractoriness",
+            "c) Impurities",
+            "d) Permeability",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 195,
+        "Question": "The _______________ property ensures the removal of excess sand in the mould box.",
+        "Options": [
+            "a) Adhesiveness",
+            "b) Cohesiveness",
+            "c) Green strength",
+            "d) Compressive strength",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 196,
+        "Question": "Binding property of the sand increases because of the ____________ property.",
+        "Options": [
+            "a) Cohesiveness",
+            "b) Collapsibility",
+            "c) Flow ability",
+            "d) Permeability",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 197,
+        "Question": "Which of the following is the most important property of the molding sand in cores?",
+        "Options": [
+            "a) Dry Strength",
+            "b) Green strength",
+            "c) Collapsibility",
+            "d) Cohesiveness",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 198,
+        "Question": "_____________ is used to remove moisture content in the molding sand.",
+        "Options": [
+            "a) Moisture teller",
+            "b) Green Strength",
+            "c) Cone Jolt",
+            "d) Clay test",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 199,
+        "Question": "The molding sand is prepared by ______________method.",
+        "Options": [
+            "a) Sand Mueller",
+            "b) Manual work",
+            "c) Sand sieve",
+            "d) Rotator",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 200,
+        "Question": "The samples of the moisture test are prepared in _______ heater bulb.",
+        "Options": [
+            "a) Infrared",
+            "b) X-ray",
+            "c) Radio",
+            "d) Ultraviolet",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 201,
+        "Question": "The Sand Sieve Analysis is used for _____________",
+        "Options": [
+            "a) Grain Fitness test",
+            "b) Grain Size test",
+            "c) Green strength test",
+            "d) Compressive strength test",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 202,
+        "Question": "_________ measures air pressure in air permeability test.",
+        "Options": [
+            "a) Barometer",
+            "b) Manometer",
+            "c) Bell jar",
+            "d) Tube",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 203,
+        "Question": "Which of the following tests are done for molding sand strength?",
+        "Options": [
+            "a) Compression",
+            "b) Tension",
+            "c) Shear",
+            "d) Compression, Tension, Shear",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 204,
+        "Question": "_____________ is used as a pattern material for the easy handling of the equipment.",
+        "Options": [
+            "a) Wood",
+            "b) Charcoal",
+            "c) Steel",
+            "d) Lead",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 205,
+        "Question": "Which of the following is the most pattern materials are corrosion prone?",
+        "Options": [
+            "a) Grey Cast Iron",
+            "b) Steel",
+            "c) Brass",
+            "d) Lead",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 206,
+        "Question": "Which of the following types of wood are used to make patterns?",
+        "Options": [
+            "a) Pine",
+            "b) Walnut",
+            "c) Teak",
+            "d) Deodhar",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 207,
+        "Question": "The ____________ is used for making additional patterns with minimal double shrinkages.",
+        "Options": [
+            "a) Aluminium",
+            "b) White Metal",
+            "c) Steel",
+            "d) Grey Cast Iron",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 208,
+        "Question": "_________ patterns are useful for large castings in the foundry.",
+        "Options": [
+            "a) Steel",
+            "b) Lead alloys",
+            "c) Aluminium alloys",
+            "d) Wood",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 209,
+        "Question": "Which of the following plastic is used for making patterns?",
+        "Options": [
+            "a) Epoxy resins",
+            "b) Thermoplastics",
+            "c) Thermosetting plastics",
+            "d) Polyvinyl chloride",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 210,
+        "Question": "_____________ is the most often used method for making of the complex shapes that are uneconomical to manufacture by other methods.",
+        "Options": [
+            "a) Foundry",
+            "b) Machine Shop",
+            "c) Assembly Line",
+            "d) CNC",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 211,
+        "Question": "Which of the following is the furnace used for melting in foundries?",
+        "Options": [
+            "a) Cupola",
+            "b) Assembly Line",
+            "c) Pit Furnace",
+            "d) Electric Induction",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 212,
+        "Question": "Which of the following is not included in scrap used for melting?",
+        "Options": [
+            "a) Risers",
+            "b) Billets",
+            "c) Defective castings",
+            "d) Gates",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 213,
+        "Question": "The ____________ process is employed to remove gases.",
+        "Options": [
+            "a) melting",
+            "b) pouring",
+            "c) scrapping",
+            "d) refining",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 214,
+        "Question": "The pouring is accomplished by ______________ force.",
+        "Options": [
+            "a) electromagnetic",
+            "b) magnetic",
+            "c) gravitation",
+            "d) friction",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 215,
+        "Question": "Which of the following plastic is not obtained from degating?",
+        "Options": [
+            "a) Gates",
+            "b) Risers",
+            "c) Runners",
+            "d) Cores",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 216,
+        "Question": "_____________ is the mixture offering a very high stability to the mould.",
+        "Options": [
+            "a) Bentonite",
+            "b) Dextrin",
+            "c) Molasses",
+            "d) Lumber",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 217,
+        "Question": "Which of the following is the most basic binder used in the molding sand?",
+        "Options": [
+            "a) Clay",
+            "b) Zircon",
+            "c) Alumina",
+            "d) Manganese oxide",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 218,
+        "Question": "____________ sand is highly used for investment casting process.",
+        "Options": [
+            "a) Silica Sand",
+            "b) Zircon",
+            "c) Loam sand",
+            "d) Chromite sand",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 219,
+        "Question": "The ____________ sand is the most versatile sand.",
+        "Options": [
+            "a) Loam sand",
+            "b) Chromite sand",
+            "c) Kaolinite",
+            "d) Olivine sand",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 220,
+        "Question": "The ________ is used to activate the clay binders to perform its functions.",
+        "Options": [
+            "a) Water",
+            "b) Helium gas",
+            "c) Nitrogen gas",
+            "d) Alkali metals",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 221,
+        "Question": "Which of the following binder immediately increases the binding properties?",
+        "Options": [
+            "a) Cereal binder",
+            "b) Clay",
+            "c) Pitch",
+            "d) Silica",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 222,
+        "Question": "The rate of flow of air passing through a standard specimen under a standard pressure is termed as _____________",
+        "Options": [
+            "a) Green Strength",
+            "b) Dry Strength",
+            "c) Mould Hardness Number",
+            "d) Permeability number",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 223,
+        "Question": "Permeability is greatly dependent upon ________________",
+        "Options": [
+            "a) Ramming of sand",
+            "b) Sand Particle size",
+            "c) Sand grade",
+            "d) Moisture content",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 224,
+        "Question": "The strength of the sand ____________ on drying.",
+        "Options": [
+            "a) Remains same",
+            "b) Increases",
+            "c) Decreases",
+            "d) Depends on the sand",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 225,
+        "Question": "The mould hardness measuring test is similar to _________",
+        "Options": [
+            "a) Brinells Hardness test",
+            "b) Vikers hardness test",
+            "c) Rockwell Hardness test",
+            "d) Sand Grain analysis",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 226,
+        "Question": "Which of the following binder immediately increases the binding properties?",
+        "Options": [
+            "a) Cereal binder",
+            "b) Clay",
+            "c) Pitch",
+            "d) Silica",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 227,
+        "Question": "In the molding sands, which of the following are the major properties?",
+        "Options": [
+            "a) Permeability",
+            "b) Sand Grains",
+            "c) Size of the grains",
+            "d) Permeability, sand grains and size of the grains",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 228,
+        "Question": "The rate at which the casting is removed from the green sand mould is __________",
+        "Options": [
+            "a) Immediately",
+            "b) Min 2-3 hours later",
+            "c) More than 6 hours",
+            "d) Around 2 days",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 229,
+        "Question": "Hot tearing of the casting is least observed in  _______________",
+        "Options": [
+            "a) Green sand moulds",
+            "b) Dry sand moulds",
+            "c) Skin dried sand moulds",
+            "d) Size of the grain",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 230,
+        "Question": "The permeability _________ with the grain size.",
+        "Options": [
+            "a) Remains same",
+            "b) Increases",
+            "c) Decreases",
+            "d) Depends on the sand",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 231,
+        "Question": "Uncontrolled permeability in the green sand mould leads to ___________",
+        "Options": [
+            "a) Blow Holes",
+            "b) Chills",
+            "c) Shrinkage",
+            "d) Tearing",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 232,
+        "Question": "The strength of the dry sand mould depends on ________",
+        "Options": [
+            "a) Sand Quality",
+            "b) Sand grain",
+            "c) Binders",
+            "d) Additives",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 233,
+        "Question": "____________ pattern could fit entirely in the cope or in the drag.",
+        "Options": [
+            "a) Single piece",
+            "b) Match plate",
+            "c) Two piece",
+            "d) Gated Pattern",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 234,
+        "Question": "The ________ pattern could have the entire assembly of runner and gates integrated in it.",
+        "Options": [
+            "a) Single piece",
+            "b) Match plate",
+            "c) Two piece",
+            "d) Gated Pattern",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 235,
+        "Question": "Dowel pins, Jigs and fixtures are all used to join which of the following patterns.",
+        "Options": [
+            "a) Single piece",
+            "b) Match plate",
+            "c) Two piece",
+            "d) Gated Pattern",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 236,
+        "Question": "Manual or Machine cutting of runners and gates is eliminated in ______________",
+        "Options": [
+            "a) Split Pattern",
+            "b) Single piece pattern",
+            "c) Gated Pattern",
+            "d) Match Plate Pattern",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 237,
+        "Question": "Structurally weak castings are made using _____________",
+        "Options": [
+            "a) Loose piece pattern",
+            "b) Sweep Pattern",
+            "c) Skeleton Pattern",
+            "d) Follow board pattern",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 238,
+        "Question": "________ is used to make the large castings of axi-symmetrical shapes.",
+        "Options": [
+            "a) Loose piece pattern",
+            "b) Skeleton pattern",
+            "c) Sweep pattern",
+            "d) Match plate pattern",
+            ""
+        ],
+        "Answer": "Answer: c"
+    }
+]

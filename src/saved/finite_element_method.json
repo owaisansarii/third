@@ -1,0 +1,5366 @@
+[
+    {
+        "id": 1,
+        "Question": "What is a matrix?",
+        "Options": [
+            "a) Group of elements",
+            "b) Array of elements",
+            "c) Group of columns and rows",
+            "d) Array of numbers",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 2,
+        "Question": "Which of the following is a row vector?",
+        "Options": [
+            "a) \\(\\left[ \\begin{array}{c c r } 0 & 1 & 2 \\end{array}\\right]\\) ",
+            "b) \\(\\left[ \\begin{array}{c c r r}  0\\\\   1  \\\\  2\\end{array}\\right]\\) ",
+            "c) \\(\\left[ \\begin{array}{c  r}  0 & 1\\\\ 1 &  2\\end{array}\\right]\\) ",
+            "d) \\(\\left[ \\begin{array}{c c r r} 0 & 3 & 6 \\\\  1 & 8 & 4  \\\\  0 & 5 & 7\\end{array}\\right]\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 3,
+        "Question": "(A B C)T = _______",
+        "Options": [
+            "a) (C B A)T",
+            "b) BT CT AT",
+            "c) CT BT AT",
+            "d) AT BT CT",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 4,
+        "Question": "The derivative of Ax with respect to variable xp is given by __________",
+        "Options": [
+            "a) \\(\\frac{d}{dx}\\)(A x)=xp",
+            "b) \\(\\frac{d}{dx}\\)(xp)=A x",
+            "c) ∫ A x=xp",
+            "d) ∫xp=Ax",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 5,
+        "Question": "A symmetric matrix is called ____________, if all its Eigen values are strictly positive i.e., greater than zero.",
+        "Options": [
+            "a) Negative definite",
+            "b) Positive definite",
+            "c) Co- definite",
+            "d) Alternative definite",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 6,
+        "Question": "A A-1=A-1A is a condition for ________",
+        "Options": [
+            "a) Singular matrix",
+            "b) Nonsingular matrix",
+            "c) Matrix inversion",
+            "d) Ad joint of matrix",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 7,
+        "Question": "A positive definite symmetric matrix A can be decomposed into form A=LLT this decomposition is called ________",
+        "Options": [
+            "a) Cholesky",
+            "b) Rayleighs",
+            "c) Galerkins",
+            "d) Potential energy",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 8,
+        "Question": "Det(A-λI)=0 is a ________",
+        "Options": [
+            "a) Characteristic equation",
+            "b) Matrix equation",
+            "c) Inversion of matrix",
+            "d) Cholesky’s equation",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 9,
+        "Question": "Gaussian elimination is a name given to a well known method of solving simultaneous equation by successively eliminating _________",
+        "Options": [
+            "a) Variables",
+            "b) Equations",
+            "c) Unknown",
+            "d) Algorithms",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 10,
+        "Question": "Step number in Gaussian elimination is denoted as ___________",
+        "Options": [
+            "a) Superscript",
+            "b) Subscript",
+            "c) Unknown",
+            "d) Elimination",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 11,
+        "Question": "In Gaussian elimination, A is defined as symmetric matrix then its multiplier is defined as ____",
+        "Options": [
+            "a) C = akk/aik",
+            "b) C = aki/akk",
+            "c) C = aik/akk",
+            "d) C = akk/aki",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 12,
+        "Question": "A banded matrix is defined as ____________",
+        "Options": [
+            "a) Non zero elements are contained in band",
+            "b) Zero elements are contained in a band",
+            "c) Non zero elements are contained out of a band",
+            "d) Both Non zero elements and Zero elements",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 13,
+        "Question": "In a symmetric banded matrix __________",
+        "Options": [
+            "a) aij=aji",
+            "b) aji*aij",
+            "c) aij≠aji",
+            "d) aii=ajj",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 14,
+        "Question": "The line separating from the top zeros from the first non-zero element is called ____",
+        "Options": [
+            "a) Equation",
+            "b) Gaussian solution",
+            "c) Skyline solution",
+            "d) Both Gaussian and skyline solutions",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 15,
+        "Question": "Frontal method is a _______ of Gaussian elimination method that uses the structure of finite element problem.",
+        "Options": [
+            "a) Structure",
+            "b) Variation",
+            "c) Algorithm",
+            "d) Data",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 16,
+        "Question": "Frontal method is implemented for ________",
+        "Options": [
+            "a) Hexahedral element",
+            "b) Polyhedral element",
+            "c) Octahedral element",
+            "d) Both Hexahedral and Polyhedral",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 17,
+        "Question": "Frontal method involves __________",
+        "Options": [
+            "a) Computer programming",
+            "b) Manual programming",
+            "c) C- programming",
+            "d) Computing",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 18,
+        "Question": "Conjugate gradient method is a ________",
+        "Options": [
+            "a) Standard method",
+            "b) Equation method",
+            "c) Iterative method",
+            "d) Elimination method",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 19,
+        "Question": "Conjugate gradient method is for only _________",
+        "Options": [
+            "a) Non symmetric matrix",
+            "b) Symmetric matrix",
+            "c) Symmetric and Non symmetric matrix",
+            "d) Identity matrix",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 20,
+        "Question": "Which version is used to solve conjugate gradient method of the algorithm of symmetric matrices?",
+        "Options": [
+            "a) Rayleighs version",
+            "b) Fletcher-Reeves version",
+            "c) Frontal method",
+            "d) Galerkins method",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 21,
+        "Question": "The iterations are continued until gkTgx reaches a ________ (here k=0 1 2 3……)",
+        "Options": [
+            "a) Small value",
+            "b) Infinite value",
+            "c) Large value",
+            "d) Negative value",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 22,
+        "Question": "This method is robust and has  ________ n iterations.",
+        "Options": [
+            "a) Diverges",
+            "b) Converges",
+            "c) Converge and diverge",
+            "d) Symmetric",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 23,
+        "Question": "Conjugate gradient method is implemented in _________",
+        "Options": [
+            "a) Algorithm solving",
+            "b) Iterative solving",
+            "c) Program solving",
+            "d) Program CG solving",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 24,
+        "Question": "Conjugate gradient method includes several ______",
+        "Options": [
+            "a) Computer codes",
+            "b) Programs",
+            "c) Algorithms",
+            "d) Matrices",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 25,
+        "Question": "Conjugate gradient algorithm can be accelerated by using _________",
+        "Options": [
+            "a) Algorithm strategies",
+            "b) Preconditioning strategies",
+            "c) Conditioning strategies",
+            "d) Computer strategies",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 26,
+        "Question": "If the structure is divided into discrete areas or volumes then it is called an _______",
+        "Options": [
+            "a) Structure",
+            "b) Element",
+            "c) Matrix",
+            "d) Boundaries",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 27,
+        "Question": "In finite element modeling nodal points are connected by unique ________",
+        "Options": [
+            "a) Surface",
+            "b) Shape",
+            "c) Eigen values",
+            "d) Matrix",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 28,
+        "Question": "In finite element modeling every element connects to _______",
+        "Options": [
+            "a) 4 nodes",
+            "b) 3 nodes",
+            "c) 2 nodes",
+            "d) Infinite no of nodes",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 29,
+        "Question": "In one dimensional problem, each node has _________ degrees of freedom.",
+        "Options": [
+            "a) 2 degrees of freedom",
+            "b) 3 degrees of freedom",
+            "c) No degrees of freedom",
+            "d) 1 degree of freedom",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 30,
+        "Question": "Which relations are used in one dimensional finite element modeling?",
+        "Options": [
+            "a) Stress-strain relation",
+            "b) Strain-displacement relation",
+            "c) Total potential energy",
+            "d) Total potential energy; Stress-strain relation; Strain-displacement relation.",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 31,
+        "Question": "One dimensional element is the linear segments which are used to model ________",
+        "Options": [
+            "a) Bars and trusses",
+            "b) Plates and beams",
+            "c) Structures",
+            "d) Solids",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 32,
+        "Question": "Modeling is defined as ________________",
+        "Options": [
+            "a) Elemental area with uniform cross section",
+            "b) Elemental area with non uniform cross section",
+            "c) Structural area with uniform cross section",
+            "d) Non structural area with non uniform cross section",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 33,
+        "Question": "Discretization includes __________ numbering.",
+        "Options": [
+            "a) Element and node",
+            "b) Only nodal",
+            "c) Only elemental",
+            "d) Either nodal or elemental",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 34,
+        "Question": "The loading on an element includes _______",
+        "Options": [
+            "a) Body force",
+            "b) Traction force",
+            "c) Point load",
+            "d) Body force, Traction force & Point load",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 35,
+        "Question": "Global nodes corresponds to _______",
+        "Options": [
+            "a) Entire body",
+            "b) On surface",
+            "c) On interface",
+            "d) On element",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 36,
+        "Question": "Local node number corresponds to ______________",
+        "Options": [
+            "a) Entire body",
+            "b) On element",
+            "c) On interface",
+            "d) On surface",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 37,
+        "Question": "Natural or intrinsic coordinate system is used to define ___________",
+        "Options": [
+            "a) Co-ordinates",
+            "b) Shape functions",
+            "c) Displacement functions",
+            "d) Both shape functions and co-ordinate functions",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 38,
+        "Question": "In q=[q1,q2]T  is defined as __________",
+        "Options": [
+            "a) Element displacement vector",
+            "b) Element vector",
+            "c) Displacement vector",
+            "d) Shape function vector",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 39,
+        "Question": "Shape function is just a ___________",
+        "Options": [
+            "a) Displacement function",
+            "b) Equation",
+            "c) Interpolation function",
+            "d) Matrix function",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 40,
+        "Question": "Isoparametric formula is ______________",
+        "Options": [
+            "a) x=N1x1+N2x2",
+            "b) x=N2x1+N1x2",
+            "c) x=N1x1-N2x2",
+            "d) x=N2x1-N1x2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 41,
+        "Question": "B=\\(\\frac{1}{x_2-x_1}\\)[-1 1]  is an ___________",
+        "Options": [
+            "a) Strain matrix",
+            "b) Element-strain displacement matrix",
+            "c) Displacement matrix",
+            "d) Elemental matrix",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 42,
+        "Question": "Deformation at the end of elements are called _____________",
+        "Options": [
+            "a) Load",
+            "b) Displacement functions",
+            "c) Co-ordinates",
+            "d) Nodes",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 43,
+        "Question": "In shape functions, first derivatives must be _______ within an element.",
+        "Options": [
+            "a) Infinite",
+            "b) Finite",
+            "c) Natural",
+            "d) Integer",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 44,
+        "Question": "In shape functions, _________ must be continuous across the element boundary.",
+        "Options": [
+            "a) Derivatives",
+            "b) Nodes",
+            "c) Displacement",
+            "d) Shape function",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 45,
+        "Question": "Stresses due to rigid body motion are _______________",
+        "Options": [
+            "a) Zero",
+            "b) Considered",
+            "c) Not considered",
+            "d) Infinite",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 46,
+        "Question": "The expressions u=Nq; ε=Bq; σ=EBq relate ____________",
+        "Options": [
+            "a) Displacement, Strain and Stress",
+            "b) Strain and stress",
+            "c) Strain and displacement",
+            "d) Stress and displacement",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 47,
+        "Question": "Continuum is discretized into_______ elements.",
+        "Options": [
+            "a) Infinite",
+            "b) Finite",
+            "c) Unique",
+            "d) Equal",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 48,
+        "Question": "Ue=\\(\\frac{1}{2}\\int\\) σT εA  dx is a _____________",
+        "Options": [
+            "a) Potential equation",
+            "b) Element strain energy",
+            "c) Load",
+            "d) Element equation",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 49,
+        "Question": "Body force vector  fe = _____________",
+        "Options": [
+            "a) \\(\\frac{A_el_ef}{2}\\begin{Bmatrix}1 \\\\ 1 \\end{Bmatrix}\\) ",
+            "b) \\(\\frac{A_el_e}{2}\\begin{Bmatrix}1 \\\\ 1 \\end{Bmatrix}\\) ",
+            "c) Aele\\(\\begin{Bmatrix}1 \\\\ 1 \\end{Bmatrix}\\) ",
+            "d) Aelef \\(\\begin{Bmatrix}1 \\\\ 1 \\end{Bmatrix}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 50,
+        "Question": "Between wheel and ground how much of traction force is required?",
+        "Options": [
+            "a) High traction force",
+            "b) Low traction force",
+            "c) Infinite traction force",
+            "d) No traction force",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 51,
+        "Question": "Element traction force is given by ___",
+        "Options": [
+            "a) Te=Tle\\(\\begin{Bmatrix}1 \\\\ 1 \\end{Bmatrix}\\) ",
+            "b) Te=Tle ",
+            "c) Te=\\(\\frac{Tl_e}{2}\\begin{Bmatrix}1 \\\\ 1 \\end{Bmatrix}\\) ",
+            "d) Undefined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 52,
+        "Question": "∏ = \\(\\frac{1}{2}\\) QTKQ-QT F  In this equation F is defined as _________",
+        "Options": [
+            "a) Global displacement vector",
+            "b) Global load vector",
+            "c) Global stiffness matrix",
+            "d) Local displacement vector",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 53,
+        "Question": "What are the basic unknowns on stiffness matrix method?",
+        "Options": [
+            "a) Nodal displacements",
+            "b) Vector displacements",
+            "c) Load displacements",
+            "d) Stress displacements",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 54,
+        "Question": "Write the element stiffness for a truss element.",
+        "Options": [
+            "a) K=\\(\\frac{A}{l}\\) ",
+            "b) K=\\(\\frac{AE}{l}\\) ",
+            "c) K=\\(\\frac{E}{l}\\) ",
+            "d) K=AE ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 55,
+        "Question": "Formula for global stiffness matrix is ____________",
+        "Options": [
+            "a) No. of nodes*Degrees of freedom per node",
+            "b) No. of nodes",
+            "c) Degrees of freedom per node",
+            "d) No. of elements",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 56,
+        "Question": "Galerkin technique is also called as _____________",
+        "Options": [
+            "a) Variational functional approach",
+            "b) Direct approach",
+            "c) Weighted residual technique",
+            "d) Variational technique",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 57,
+        "Question": "In the equation, \\(\\int_{L} \\sigma^T  \\epsilon(\\phi)Adx -\\int_{L} \\phi^T f Adx -\\int_{L}\\phi^Tdx – \\sum_{i}\\phi_i P_i=0\\) First term represents _______",
+        "Options": [
+            "a) External virtual work",
+            "b) Virtual work",
+            "c) Internal virtual work",
+            "d) Total virtual work",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 58,
+        "Question": "Considering element connectivity, for example  for element ψ=[ψ1, ψ2]n for element n, then the variational form is ______________",
+        "Options": [
+            "a) ψT(KQ–F)=0",
+            "b) ψ(KQ-F)=0",
+            "c) ψ(KQ)=F",
+            "d) ψ(F)=0",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 59,
+        "Question": "Write the element stiffness matrix for a beam element.",
+        "Options": [
+            "a) K=\\(\\frac{2EI}{l}\\) ",
+            "b) K=\\(\\frac{2EI}{l}\\begin{bmatrix}2 & 1 \\\\  1  &  2 \\end{bmatrix}\\) ",
+            "c) K=\\(\\frac{2E}{l}\\begin{bmatrix}2 \\\\  1  \\end{bmatrix}\\) ",
+            "d) K=\\(\\frac{2E}{l}\\begin{bmatrix}1 & 1 \\\\  1  &  1 \\end{bmatrix}\\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 60,
+        "Question": "Element connectivities are used for _____",
+        "Options": [
+            "a) Traction force",
+            "b) Assembling",
+            "c) Stiffness matrix",
+            "d) Virtual work",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 61,
+        "Question": "Virtual displacement field is _____________",
+        "Options": [
+            "a) K=\\(\\frac{EA}{l}\\) ",
+            "b) F=ma",
+            "c) f(x)=y",
+            "d) ф=ф(x)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 62,
+        "Question": "Virtual strain is ____________",
+        "Options": [
+            "a) ε(ф)=\\(\\frac{dx}{d\\phi}\\) ",
+            "b) ε(ф)=\\(\\frac{d\\phi}{dx}\\) ",
+            "c) ε(ф)=\\(\\frac{dx}{d\\varepsilon}\\) ",
+            "d) ф(ε)=\\(\\frac{d\\varepsilon}{d\\phi}\\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 63,
+        "Question": "To solve a galerkin method of approach equation must be in  ___________",
+        "Options": [
+            "a) Equation",
+            "b) Vector equation",
+            "c) Matrix equation",
+            "d) Differential equation",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 64,
+        "Question": "By the Galerkin approach equation can be written as __________",
+        "Options": [
+            "a) {P}-{K}{Δ}=0",
+            "b) {K}-{P}{Δ}=0",
+            "c) {Δ}-{p}{K}=0",
+            "d) Undefined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 65,
+        "Question": "In basic equation Lu=f, L is a ____________",
+        "Options": [
+            "a) Matrix function",
+            "b) Differential operator",
+            "c) Degrees of freedom",
+            "d) No. of elements",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 66,
+        "Question": "How is Assembly of stiffness matrix symbolically denoted?",
+        "Options": [
+            "a) K={k}e",
+            "b) K←∑eKe",
+            "c) K←∑Ke",
+            "d) Undefined",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 67,
+        "Question": "What is the Strain energy equation?",
+        "Options": [
+            "a) Ue=\\(\\frac{1}{2}\\)qTkeq ",
+            "b) Ue=\\(\\frac{1}{2}\\)qekeq ",
+            "c) Ue=\\(\\frac{1}{2}\\)qke ",
+            "d) Ue=\\(\\frac{1}{2}\\)qTke ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 68,
+        "Question": "What is the actual equation of stiffness matrix?",
+        "Options": [
+            "a) K=\\(\\begin{bmatrix}1 & -1 \\\\   -1  &  1 \\end{bmatrix}\\) ",
+            "b) K=\\(\\frac{AE}{l}\\begin{bmatrix}1 \\\\   -1   \\end{bmatrix}\\) ",
+            "c) K=\\(\\frac{AE}{l}\\) ",
+            "d) K=\\(\\frac{AE}{l}\\begin{bmatrix}1 & -1 \\\\   -1  &  1 \\end{bmatrix}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 69,
+        "Question": "From where does the global load vector F is assembled?",
+        "Options": [
+            "a) Element force vectors only",
+            "b) Point loads only",
+            "c) Both element force vectors and point loads",
+            "d) Undefined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 70,
+        "Question": "Principal of minimum potential energy follows directly from the principal of ________",
+        "Options": [
+            "a) Elastic energy",
+            "b) Virtual work energy",
+            "c) Kinetic energy",
+            "d) Potential energy",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 71,
+        "Question": "The points at where kinetic energy increases dramatically then those points are called _______",
+        "Options": [
+            "a) Stable equilibrium points",
+            "b) Unstable equilibrium points",
+            "c) Equilibrium points",
+            "d) Unique points",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 72,
+        "Question": "We can obtain same assembly procedure by Stiffness matrix method and _______",
+        "Options": [
+            "a) Potential energy method",
+            "b) Rayleigh method",
+            "c) Galerkin approach",
+            "d) Vector method",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 73,
+        "Question": "By element stiffness matrix we can get relation of members in an object in _____",
+        "Options": [
+            "a) Different matrices",
+            "b) One matrix",
+            "c) Identity matrix",
+            "d) Singular matrix",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 74,
+        "Question": "What is the Global stiffness method called?",
+        "Options": [
+            "a) Multiple matrix",
+            "b) Direct stiffness matrix",
+            "c) Unique matrix",
+            "d) Vector matrix",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 75,
+        "Question": "Which technique do traditional workloads use?",
+        "Options": [
+            "a) Scale out technique",
+            "b) Scale up technique",
+            "c) Building technique",
+            "d) Shrinking technique",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 76,
+        "Question": "Dimension of global stiffness matrix is _______",
+        "Options": [
+            "a) N X N, where N is no of nodes",
+            "b) M X N, where M is no of rows and N is no of columns",
+            "c) Linear",
+            "d) Eliminated",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 77,
+        "Question": "Each node has only _______",
+        "Options": [
+            "a) Two degrees of freedom",
+            "b) One degree of freedom",
+            "c) Six degrees of freedom",
+            "d) Three degrees of freedom",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 78,
+        "Question": "Global stiffness K is a______ matrix.",
+        "Options": [
+            "a) Identity matrix",
+            "b) Upper triangular matrix",
+            "c) Lower triangular matrix",
+            "d) Banded matrix",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 79,
+        "Question": "The dimension of Kbanded   is _____ (Here NBW is half bandwidth)",
+        "Options": [
+            "a) [N X NBW ] ",
+            "b) [NBW X N] ",
+            "c) [N X N] ",
+            "d) [NBW X NBW] ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 80,
+        "Question": "In many one-dimensional problems, the banded matrix has only two columns. Here NBW=____",
+        "Options": [
+            "a) 6",
+            "b) 3",
+            "c) 7",
+            "d) 2",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 81,
+        "Question": "Stiffness matrix represents a system of  ________",
+        "Options": [
+            "a) Programming equations",
+            "b) Iterative equations",
+            "c) Linear equations",
+            "d) Program CG SOLVING equations",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 82,
+        "Question": "Stiffness matrix is _____",
+        "Options": [
+            "a) Non symmetric and square",
+            "b) Symmetric and square",
+            "c) Non symmetric and rectangular",
+            "d) Symmetric and rectangular",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 83,
+        "Question": "In stiffness matrix, all the _____ elements are positive.",
+        "Options": [
+            "a) Linear",
+            "b) Zigzag",
+            "c) Diagonal",
+            "d) Rectangular",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 84,
+        "Question": "The size of global stiffness matrix will be equal to the total ______ of the structure.",
+        "Options": [
+            "a) Nodes",
+            "b) Degrees of freedom",
+            "c) Elements",
+            "d) Structure",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 85,
+        "Question": "Element stiffness is obtained with respect to its ___",
+        "Options": [
+            "a) Degrees of freedom",
+            "b) Nodes",
+            "c) Axes",
+            "d) Elements",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 86,
+        "Question": "Types of Boundary conditions are ______",
+        "Options": [
+            "a) Potential- Energy approach",
+            "b) Penalty approach",
+            "c) Elimination approach",
+            "d) Both penalty approach and elimination approach",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 87,
+        "Question": "Potential energy, π = _________",
+        "Options": [
+            "a) \\(\\frac{1}{2}\\)QTKQ-QTF",
+            "b) QKQ-QF",
+            "c) \\(\\frac{1}{2}\\)KQ-QF",
+            "d) \\(\\frac{1}{2}\\)QF",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 88,
+        "Question": "Equilibrium conditions are obtained by minimizing ______",
+        "Options": [
+            "a) Kinetic energy",
+            "b) Force",
+            "c) Potential energy",
+            "d) Load",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 89,
+        "Question": "In elimination approach, which elements are eliminated from a matrix ____",
+        "Options": [
+            "a) Force",
+            "b) Load",
+            "c) Rows and columns",
+            "d) Undefined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 90,
+        "Question": "In elimination approach method, extract the displacement vector q from the Q vector. By using ___",
+        "Options": [
+            "a) Potential energy",
+            "b) Load",
+            "c) Force",
+            "d) Element connectivity",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 91,
+        "Question": "Penalty approach method is easy to implement in a ______",
+        "Options": [
+            "a) Stiffness matrix",
+            "b) Iterative equations",
+            "c) Computer program",
+            "d) Cg solving",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 92,
+        "Question": "If Q1=a1 then a1is _________",
+        "Options": [
+            "a) Displacement",
+            "b) Symmetric",
+            "c) Non symmetric",
+            "d) Specified displacement",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 93,
+        "Question": "The first step of penalty approach is, adding a number C to the diagonal elements of the stiffness matrix. Here C is a __________",
+        "Options": [
+            "a) Large number",
+            "b) Positive number",
+            "c) Real number",
+            "d) Zero",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 94,
+        "Question": "In penalty approach evaluate _______ at each support.",
+        "Options": [
+            "a) Load vector",
+            "b) Degrees of freedom",
+            "c) Force vector",
+            "d) Reaction force",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 95,
+        "Question": "For modeling of inclined roller or rigid connections, the method used is ___",
+        "Options": [
+            "a) Elimination approach",
+            "b) Multiple constraints",
+            "c) Penalty approach",
+            "d) Minimum potential energy theorem",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 96,
+        "Question": "What is a shape function?",
+        "Options": [
+            "a) Interpolation function",
+            "b) Displacement function",
+            "c) Iterative function",
+            "d) Both interpolation and displacement function",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 97,
+        "Question": "Quadratic shape functions give much more _______",
+        "Options": [
+            "a) Precision",
+            "b) Accuracy",
+            "c) Both Precision and accuracy",
+            "d) Identity",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 98,
+        "Question": "Strain displacement relation ______",
+        "Options": [
+            "a) ε=\\(\\frac{du}{dx}\\) ",
+            "b) ε=\\(\\frac{du}{d\\epsilon}\\) ",
+            "c) x=\\(\\frac{d\\epsilon}{du}\\) ",
+            "d) Cannot be determined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 99,
+        "Question": "The _____ and ______ can vary linearly.",
+        "Options": [
+            "a) Force and load",
+            "b) Precision and accuracy",
+            "c) Strain and stress",
+            "d) Distance and displacement",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 100,
+        "Question": "By Hooke’s law, stress is ______",
+        "Options": [
+            "a) σ=Bq",
+            "b) σ=EB",
+            "c) B=σq",
+            "d) σ=EBq",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 101,
+        "Question": "Nodal displacement as _____",
+        "Options": [
+            "a) u=Nq",
+            "b) N=uq",
+            "c) q=Nu",
+            "d) Program SOLVING",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 102,
+        "Question": "At the condition,  at , N1=1 at ξ=-1 which yields c=\\(\\frac{-1}{2}\\). Then these shape functions are called ____",
+        "Options": [
+            "a) Computer functions",
+            "b) Programming functions",
+            "c) Galerkin function",
+            "d) Lagrange shape functions",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 103,
+        "Question": "Element body force vector is given by ______",
+        "Options": [
+            "a) fe=\\(\\frac{A_el_ef}{2} \\int_{-1}^{1}\\) NT dξ",
+            "b) fe= \\(\\frac{A_el_e}{2}\\int_{}^{1}\\) NT dξ",
+            "c) Conditioning strategies",
+            "d) fe=∫ NT dξ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 104,
+        "Question": "Element traction force is given by ___",
+        "Options": [
+            "a) Te=\\(\\frac{l_e}{2}\\int_{-1}^{1}\\)NT dξ",
+            "b) Te=\\(\\frac{l_eT}{2}\\int_{-1}^{1}\\)NT dξ",
+            "c) Te=\\(\\frac{l_eT}{2}\\int_{-1}^{1}\\)NT",
+            "d) Undefined",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 105,
+        "Question": "With temperature effect which will vary linearly?",
+        "Options": [
+            "a) Horizontal stress load",
+            "b) Potential energy",
+            "c) Vertical stress load",
+            "d) Kinematic energy",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 106,
+        "Question": "α means ____",
+        "Options": [
+            "a) Co-efficient of thermal expansion",
+            "b) Co-efficient of linear expansion",
+            "c) Thermal expansion",
+            "d) Thermal effect",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 107,
+        "Question": "In temperature effect, initial strain,  ε0= ____",
+        "Options": [
+            "a) α ΔT",
+            "b) α+ΔT",
+            "c) α-ΔT",
+            "d) Load",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 108,
+        "Question": "In a structure, a crack is formed as a result of ______",
+        "Options": [
+            "a) Thermal expansion",
+            "b) Thermo couple",
+            "c) Thermal strain",
+            "d) Thermal stress",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 109,
+        "Question": "Stress – strain relation is given as _____",
+        "Options": [
+            "a) σ=E",
+            "b) σ=Eε",
+            "c) σ=E(ε-ε0)",
+            "d) Undefined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 110,
+        "Question": "Strain energy per unit volume is ___",
+        "Options": [
+            "a) u0=E(ε-ε0)",
+            "b) u0=\\(\\frac{1}{2}\\)E(ε-ε0)",
+            "c) Non symmetric",
+            "d) Specified displacement",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 111,
+        "Question": "Temperature change is denoted as_____",
+        "Options": [
+            "a) ΔT=(T2-T1)",
+            "b) θe",
+            "c) le",
+            "d) Ae",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 112,
+        "Question": "Stress in each element is ____",
+        "Options": [
+            "a) Eliminated",
+            "b) σ=EBq",
+            "c) σ=αΔT",
+            "d) σ=E(Bq-αΔT)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 113,
+        "Question": "Plane trusses are also known as _____",
+        "Options": [
+            "a) One–dimensional trusses",
+            "b) Two-dimensional trusses",
+            "c) Three-dimensional trusses",
+            "d) Poly dimensional trusses",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 114,
+        "Question": "A truss structure consists only ___ force members.",
+        "Options": [
+            "a) Only one",
+            "b) Two",
+            "c) Three",
+            "d) Poly",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 115,
+        "Question": "Plane truss element can be shown in _____",
+        "Options": [
+            "a) Local coordinate system",
+            "b) Global coordinate system",
+            "c) Local and global coordinate systems",
+            "d) Dimensional structure",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 116,
+        "Question": "The truss element is a _____ when we see it in a local co-ordinate system.",
+        "Options": [
+            "a) Three dimensional",
+            "b) One dimensional",
+            "c) Two dimensional",
+            "d) Thermal component",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 117,
+        "Question": "Where l and m are direct cosines, then transformation matrix L is given by ___",
+        "Options": [
+            "a) \\(\\begin{bmatrix}l & 0 \\\\ m & 0\\\\0 & l\\\\0 & m \\end{bmatrix}\\) ",
+            "b) \\(\\begin{bmatrix}l & 0 \\\\0 & m \\end{bmatrix}\\) ",
+            "c) \\(\\begin{bmatrix}l & m \\end{bmatrix}\\) ",
+            "d) \\(\\begin{bmatrix}l & m & 0  & 0\\\\0 & 0 & l & m \\end{bmatrix}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 118,
+        "Question": "Formula for direct cosine l=cosθ= ______",
+        "Options": [
+            "a) x2-x1",
+            "b) \\(\\frac{x_2}{l_e}\\) ",
+            "c) \\(\\frac{x_1}{l_e}\\) ",
+            "d) \\(\\frac{x_2-x_1}{l_e}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 119,
+        "Question": "The direct cosine m is given by formula cosф= ____",
+        "Options": [
+            "a) \\(\\frac{x_2-x_1}{l_e}\\) ",
+            "b) \\(\\frac{y_2-y_1}{l_e}\\) ",
+            "c) \\(\\frac{x_1-y_1}{l_e}\\) ",
+            "d) \\(\\frac{x_2-y_2}{l_e}\\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 120,
+        "Question": "Strain energy (U) in global co-ordinates can be written as ____",
+        "Options": [
+            "a) q’ T k’q’",
+            "b) q’ T k’",
+            "c) k’ q’",
+            "d) \\(\\frac{1}{2}\\) q’ T k’q’  ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 121,
+        "Question": "The stress σ in a truss element is given by ____",
+        "Options": [
+            "a) σ=E",
+            "b) σ=ε",
+            "c) σ=Eeε",
+            "d) σ=α",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 122,
+        "Question": "In a truss element, element temperature load is ___",
+        "Options": [
+            "a) θe=EeAe",
+            "b) θe=EeAeε0",
+            "c) θe=EeAeε0\\(\\begin{Bmatrix}l \\\\ m \\end{Bmatrix}\\) ",
+            "d) θe=EeAeε0\\(\\begin{Bmatrix}-l \\\\  -m \\\\l\\\\m\\end{Bmatrix}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 123,
+        "Question": "In a 3-D truss element nodal displacement vector in a local co-ordinate is q’= ___",
+        "Options": [
+            "a) [q1‘] ",
+            "b) [q2‘] ",
+            "c) [q1‘,q2‘,q3‘]T ",
+            "d) [q1‘,q2‘]T ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 124,
+        "Question": "Transformation between local and global co-ordinates is _____",
+        "Options": [
+            "a) q‘=Lq",
+            "b) q‘=L",
+            "c) q‘=L+q",
+            "d) q‘=\\(\\frac{L}{q}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 125,
+        "Question": "For a 3D truss element, transformation matrix L between local and global co-ordinates is given by ___",
+        "Options": [
+            "a) \\( \\begin{bmatrix}l &0&0 \\\\ 0&m&0\\\\0&0&n\\end{bmatrix}\\) ",
+            "b) \\( \\begin{bmatrix}l &m&n \\end{bmatrix}\\) ",
+            "c) \\( \\begin{bmatrix}l&0&n \\\\ 0&m&0 \\end{bmatrix}\\) ",
+            "d) \\( \\begin{bmatrix}l&m&n&0&0&0\\\\ 0&0&0&l&m&n\\end{bmatrix}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 126,
+        "Question": "The direct cosines l, m, n are of local _____",
+        "Options": [
+            "a) z’- axes",
+            "b) x’- axes",
+            "c) y’- axes",
+            "d) None of the above",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 127,
+        "Question": "The direction cosines l, m, n with respect to ____ x-, y-, z- axes respectively.",
+        "Options": [
+            "a) Local",
+            "b) Local and global",
+            "c) Global",
+            "d) Transformation",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 128,
+        "Question": "In 3D truss, formula for direct cosine l = _____",
+        "Options": [
+            "a) x2-x1",
+            "b) \\(\\frac{x_2}{l_e}\\) ",
+            "c) \\(\\frac{x_1}{l_e}\\) ",
+            "d) \\(\\frac{x_2-x_1}{l_e}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 129,
+        "Question": "The direct cosine m is given by formula ____",
+        "Options": [
+            "a) \\(\\frac{x_2-x_1}{l_e}\\) ",
+            "b) \\(\\frac{y_2-y_1}{l_e}\\) ",
+            "c) \\(\\frac{x_1-y_1}{l_e}\\) ",
+            "d) \\(\\frac{x_2-y_2}{l_e}\\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 130,
+        "Question": "The direction cosine n is given by formula _____",
+        "Options": [
+            "a) \\(\\frac{x_2-x_1}{l_e}\\) ",
+            "b) \\(\\frac{y_2-y_1}{l_e}\\) ",
+            "c) \\(\\frac{z_2-z_1}{l_e}\\) ",
+            "d) Undefined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 131,
+        "Question": "In 3D truss element, the nodal displacement vector in global co-ordinates is  _____",
+        "Options": [
+            "a) q‘= [q1,q2] ",
+            "b) q‘= [q1,q2,q3] ",
+            "c) q‘= [q1,q2,q3,q4,q5,q6] ",
+            "d) Undefined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 132,
+        "Question": "In a truss element, element temperature load is ___",
+        "Options": [
+            "a) θe=EeAe",
+            "b) θe=EeAeε0",
+            "c) θe=EeAeε0\\(\\begin{Bmatrix}l \\\\ m \\end{Bmatrix}\\) ",
+            "d) θe=EeAeε0\\(\\begin{Bmatrix}-l \\\\  -m \\\\l\\\\m\\end{Bmatrix}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 133,
+        "Question": "What is a banded matrix?",
+        "Options": [
+            "a) Sparse matrix",
+            "b) Rectangular matrix",
+            "c) Unit matrix",
+            "d) Square matrix",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 134,
+        "Question": "Skyline matrix storage is in the form of ______",
+        "Options": [
+            "a) Banded matrix",
+            "b) Sparse matrix",
+            "c) Singular matrix",
+            "d) Identity matrix",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 135,
+        "Question": "Symmetry and sparsity of the global stiffness matrix can be approached by _____ methods.",
+        "Options": [
+            "a) One",
+            "b) Three",
+            "c) Two",
+            "d) Four",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 136,
+        "Question": "Which of these was one of the methods for determining assembly of global stiffness matrix?",
+        "Options": [
+            "a) Galerkin approach",
+            "b) Skyline approach",
+            "c) Rayleigh method",
+            "d) Assembly method",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 137,
+        "Question": "In banded matrix, elements are _____ placed in stiffness matrix.",
+        "Options": [
+            "a) Singular",
+            "b) Determinant values",
+            "c) Directly",
+            "d) Indirectly",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 138,
+        "Question": "In Skyline matrix, the elements in a stiffness matrix can be placed in _______",
+        "Options": [
+            "a) Direct values",
+            "b) Determinant values",
+            "c) Load values",
+            "d) Vector form",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 139,
+        "Question": "Formula for maximum span or half band width in banded approach is _____",
+        "Options": [
+            "a) me=[|i-j|+1] ",
+            "b) \\(\\frac{y_2-y_1}{l_e}\\) ",
+            "c) q‘=lq",
+            "d) me=[2|i-j|+1] ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 140,
+        "Question": "The first step of skyline assembly matrix involves evaluation of ____",
+        "Options": [
+            "a) Column height",
+            "b) Row height",
+            "c) Matrix height",
+            "d) Undefined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 141,
+        "Question": "The second step in skyline approach is assembling the element stiffness values into _____",
+        "Options": [
+            "a) Row vector",
+            "b) Identity vector",
+            "c) Column vector",
+            "d) Determinant vector",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 142,
+        "Question": "The details of a skyline assembly matrix are implemented in a program called ____",
+        "Options": [
+            "a) Boolean program",
+            "b) Cholesky program",
+            "c) Truss program",
+            "d) Trussky program",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 143,
+        "Question": "In 2D elements. Discretization can be done. The points where triangular elements meet are called ____",
+        "Options": [
+            "a) Displacement",
+            "b) Nodes",
+            "c) Vector displacements",
+            "d) Co-ordinates",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 144,
+        "Question": "Each triangle formed by three nodes and three sides is called a ______",
+        "Options": [
+            "a) Node",
+            "b) Force matrix",
+            "c) Displacement vector",
+            "d) Element",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 145,
+        "Question": "The finite element method is used to solve the problem ______",
+        "Options": [
+            "a) Uniformly",
+            "b) Vigorously",
+            "c) Approximately",
+            "d) Identically",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 146,
+        "Question": "In two dimensional modeling each node has ____ degrees of freedom.",
+        "Options": [
+            "a) One",
+            "b) Infinity",
+            "c) Finite",
+            "d) Two",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 147,
+        "Question": "For a triangular element,element displacement vector can be denoted as ___",
+        "Options": [
+            "a) q=[q1,q2,q3]T",
+            "b) q=[q1,q2]T",
+            "c) q=[q1,q2,……q6]T",
+            "d) Load vector",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 148,
+        "Question": "In two dimensional analysis, stresses and strains are related as ___",
+        "Options": [
+            "a) σ=Dε",
+            "b) σ=ε",
+            "c) Load values",
+            "d) ε=Dσ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 149,
+        "Question": "In two dimensional modeling, body force is denoted as ___",
+        "Options": [
+            "a) f=[fx,fy]T",
+            "b) σ=Dε",
+            "c) q‘=lq",
+            "d) f=[2|i-j|+1] ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 150,
+        "Question": "The information of array of size and number of elements and nodes per element can be seen in ___",
+        "Options": [
+            "a) Column height",
+            "b) Element connectivity table",
+            "c) Matrix form",
+            "d) Undefined",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 151,
+        "Question": "In two dimensional modeling, traction force is denoted as ____",
+        "Options": [
+            "a) Row vector",
+            "b) T=[Tx,Ty]T",
+            "c) f=[fx,fy]T",
+            "d) σ=Dε",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 152,
+        "Question": "In two dimensional modeling, elemental volume is given by ____",
+        "Options": [
+            "a) dV=tdA",
+            "b) dV=dA",
+            "c) f=[fx,fy]T",
+            "d) Trussky program",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 153,
+        "Question": "Finite element method uses the concept of _____",
+        "Options": [
+            "a) Nodes and elements",
+            "b) Nodal displacement",
+            "c) Shape functions",
+            "d) Assembling",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 154,
+        "Question": "For constant strain elements the shape functions are ____",
+        "Options": [
+            "a) Spherical",
+            "b) Quadratical",
+            "c) Polynomial",
+            "d) Linear",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 155,
+        "Question": "Linear combination of these shape functions represents a ______",
+        "Options": [
+            "a) Square surface",
+            "b) Linear surface",
+            "c) Plane surface",
+            "d) Combinational surface",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 156,
+        "Question": "In particular, N1+N2+N3 represent a plane at a height of one at nodes ______",
+        "Options": [
+            "a) One",
+            "b) Two",
+            "c) Three",
+            "d) One, two and three",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 157,
+        "Question": "If N3 is dependent shape function, It is represented as ____",
+        "Options": [
+            "a) N3=ξ",
+            "b) N3=1-ξ",
+            "c) N3=1-η",
+            "d) N3=1-ξ-η",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 158,
+        "Question": "In two dimensional problems x-, y- co-ordinates are mapped onto ____",
+        "Options": [
+            "a) x-, y- co-ordinates",
+            "b) x-, ξ – co-ordinates",
+            "c) η-, y- co-ordinates",
+            "d) ξ-η-Co-ordinates",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 159,
+        "Question": "The shape functions are physically represented by _____",
+        "Options": [
+            "a) Triangular co-ordinates",
+            "b) ξ-,η-Co-ordinates",
+            "c) Area co-ordinates",
+            "d) Surface co-ordinates",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 160,
+        "Question": "A1 is the first area and N1 is its shape function then shape function N1= ___",
+        "Options": [
+            "a) A1/A",
+            "b) A-A1",
+            "c) A1+A",
+            "d) A1",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 161,
+        "Question": "The equation u=Nq is a _____ representation.",
+        "Options": [
+            "a) Nodal",
+            "b) Isoparametric",
+            "c) Uniparametric",
+            "d) Co-ordinate",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 162,
+        "Question": "For plane stress or plane strain, the element stiffness matrix can be obtained by taking _____",
+        "Options": [
+            "a) Shape functions, N",
+            "b) Material property matrix, D",
+            "c) Iso parametric representation, u",
+            "d) Degrees of freedom, DoF",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 163,
+        "Question": "In a constant strain triangle, element body force is given as ____",
+        "Options": [
+            "a) fe=[fx,fy,fx,fy,fx,fy]T",
+            "b) fe=\\(\\frac{t_eA_e}{3}\\) ",
+            "c) fe=\\(\\frac{t_eA_e}{3}\\)[fx,fy,fx,fy,fx,fy]T",
+            "d) fe=\\(\\frac{t_eA_e}{3}\\)[fx,fy]T",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 164,
+        "Question": "Traction force term represented as ___",
+        "Options": [
+            "a) ∫uT Tl",
+            "b) ∫uTT",
+            "c) ∫uT",
+            "d) uTTl",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 165,
+        "Question": "In the equation KQ=F, K is called as ____",
+        "Options": [
+            "a) Stiffness matrix",
+            "b) Modified stiffness matrix",
+            "c) Singular stiffness matrix",
+            "d) Uniform stiffness matrix",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 166,
+        "Question": "Principal stresses and their directions are calculated by using ____",
+        "Options": [
+            "a) Galerkin approach",
+            "b) Rayleigh method",
+            "c) Potential energy method",
+            "d) Mohr’s circle method",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 167,
+        "Question": "I the distribution of the change in temperature ΔT, the strain due to this change is ____",
+        "Options": [
+            "a) Constant strain",
+            "b) Stress",
+            "c) Initial strain",
+            "d) Uniform strain",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 168,
+        "Question": "Finite element method is used for computing _____ and _____",
+        "Options": [
+            "a) Stress and strain",
+            "b) Nodes and displacement",
+            "c) Nodes and elements",
+            "d) Displacement and strain",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 169,
+        "Question": "In deformation of the body, the symmetry of ______ and symmetry of ____ can be used effectively.",
+        "Options": [
+            "a) Stress and strain",
+            "b) Nodes and displacement",
+            "c) Geometry and strain",
+            "d) Geometry and loading",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 170,
+        "Question": "For a circular pipe under internal or external pressure, by symmetry all points move _____",
+        "Options": [
+            "a) Radially",
+            "b) Linearly",
+            "c) Circularly",
+            "d) Along the pipe",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 171,
+        "Question": "Boundary conditions can be easily considered by using _______",
+        "Options": [
+            "a) Rayleigh method",
+            "b) Penalty approach method",
+            "c) Galerkin approach",
+            "d) Potential energy approach",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 172,
+        "Question": "When dividing an area into triangles, avoid large _____",
+        "Options": [
+            "a) Dimensions",
+            "b) Loading",
+            "c) Aspect ratios",
+            "d) Boundary conditions",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 173,
+        "Question": "In dividing the elements a good practice may be to choose corner angles in the range of ____",
+        "Options": [
+            "a) 30-120°",
+            "b) 90-180°",
+            "c) 25-75°",
+            "d) 45-180°",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 174,
+        "Question": "Stresses can be change widely at ____",
+        "Options": [
+            "a) Large circular sections",
+            "b) Notches and fillets",
+            "c) Corners",
+            "d) Crystals",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 175,
+        "Question": "The Constant strain triangle can give____ stresses on elements.",
+        "Options": [
+            "a) Linear",
+            "b) Constant",
+            "c) Uniform",
+            "d) Parallel",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 176,
+        "Question": "The _____ can be obtained even with coarser meshes by plotting and extrapolating.",
+        "Options": [
+            "a) Minimum stresses",
+            "b) Minimum strain",
+            "c) Maximum stresses",
+            "d) Maximum strain",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 177,
+        "Question": "Coarser meshes are recommended for _____",
+        "Options": [
+            "a) Loading",
+            "b) Notches and fillets",
+            "c) Crystals",
+            "d) Initial trails",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 178,
+        "Question": "Increasing the number of nodes in coarse mesh regions where stress variations are high, should give better results. This method is called _____",
+        "Options": [
+            "a) Divergence",
+            "b) Convergence",
+            "c) Convergent- divergent",
+            "d) Un defined",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 179,
+        "Question": "Give an example of orthotropic material?",
+        "Options": [
+            "a) Topaz",
+            "b) Aluminum",
+            "c) Barium",
+            "d) Sodium",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 180,
+        "Question": "Unidirectional fiber- reinforced composites also exhibit _______ behavior.",
+        "Options": [
+            "a) Isotropic",
+            "b) Orthotropic",
+            "c) Material",
+            "d) Unidirection composite",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 181,
+        "Question": "Orthotropic planes have ____ mutually perpendicular planes of elastic symmetry.",
+        "Options": [
+            "a) One",
+            "b) Two",
+            "c) Three",
+            "d) Four",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 182,
+        "Question": "The principal material axes that are normal to the _______",
+        "Options": [
+            "a) Co-ordinates",
+            "b) Number of nodes",
+            "c) Principal axes",
+            "d) Plane of symmetry",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 183,
+        "Question": "v12 indicates that the poisson’s ratio that characterizes the decrease in ______ during tension applied in ______",
+        "Options": [
+            "a) 2- direction and 1- direction",
+            "b) 2- direction and 3- direction",
+            "c) 1- direction and 2- direction",
+            "d) 2- direction and 4- direction",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 184,
+        "Question": " Unidirectional composites are stacked at different fiber orientations to form a ______",
+        "Options": [
+            "a) Laminate",
+            "b) Orthotropic material",
+            "c) Isotropic material",
+            "d) Anisotropic material",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 185,
+        "Question": "When an orthotropic plate is loaded parallel to its material axes, it results only _____",
+        "Options": [
+            "a) Shear strains",
+            "b) Normal strains",
+            "c) Parallel strains",
+            "d) Uniform strains",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 186,
+        "Question": "When the stresses are determined in an orthotropic material, then they are used to determine ____",
+        "Options": [
+            "a) Strains",
+            "b) Deformation",
+            "c) Factor of safety",
+            "d) Loads",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 187,
+        "Question": "Stress- strain law defined as ______",
+        "Options": [
+            "a)  σ=D(ε-ε0)",
+            "b)  σ=D",
+            "c)  σ=Dε",
+            "d)  σ=Dε0",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 188,
+        "Question": "E1 value of Balsa wood is ___",
+        "Options": [
+            "a) 0.125*106psi",
+            "b) 12.04*106psi",
+            "c) 23.06*106psi",
+            "d) 7.50*106psi",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 189,
+        "Question": "Consider an Axisymmetric problem of which is having a radius of r, rotational angle θ and length l. Then r dl dθ is known as ____",
+        "Options": [
+            "a) Elemental volume",
+            "b) Element",
+            "c) Elemental surface area",
+            "d) Elemental surface",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 190,
+        "Question": "The stress vector is correspondingly defined as ___________",
+        "Options": [
+            "a) σ=[σy,σz,τyz,σθ]T",
+            "b) σ=[σy,σz]T",
+            "c) u=[u, w]T",
+            "d) T=[Ty,Tz]T",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 191,
+        "Question": "Problems involving three- dimensional axisymmetric solids or solids of revolution, subjected to _____ loading.",
+        "Options": [
+            "a) Rotational",
+            "b) Two-dimensional",
+            "c) Three-dimensional",
+            "d) Axisymmetric loading",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 192,
+        "Question": "All deformations and stresses are independent of _______",
+        "Options": [
+            "a) Co-ordinates",
+            "b) Number of nodes",
+            "c) Rotational angle, θ",
+            "d) Area",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 193,
+        "Question": "Revolving bodies like fly wheels can be analyzed by introducing _______ in body force term.",
+        "Options": [
+            "a) Gravitational force",
+            "b) Revolving force",
+            "c) Centrifugal force",
+            "d) Centripetal force",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 194,
+        "Question": "The stress- strain relation is given as ___________",
+        "Options": [
+            "a) σ=D",
+            "b) σ=Dε",
+            "c) σ=ε",
+            "d) ε=Dσ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 195,
+        "Question": "Axisymmetric problems are totally defined in ______",
+        "Options": [
+            "a) xy planes",
+            "b) yz planes",
+            "c) rz planes",
+            "d) rθ planes",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 196,
+        "Question": "For axisymmetry solids gravity forces can be considered if deformation and stresses act on _____",
+        "Options": [
+            "a) X direction",
+            "b) Z direction",
+            "c) Y direction",
+            "d) Parallel to plane",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 197,
+        "Question": "In axisymmetric solids, stress- strain law can be defined as ______",
+        "Options": [
+            "a) σ=D(ε-ε0)",
+            "b) σ=D",
+            "c) σ=Dε",
+            "d) σ=Dε0",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 198,
+        "Question": "The transformation relationships into strain displacement relations. Then the equation can be written as ____",
+        "Options": [
+            "a) ε=Bq",
+            "b) ε=Dq",
+            "c) ε=q",
+            "d) Elemental surface",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 199,
+        "Question": "In the equation Ue=\\(\\frac{1}{2}\\)2qT(2∏ ∫ BTDBrdA)q the quantity inside the paranthesis is _____",
+        "Options": [
+            "a) Axisymmentric",
+            "b) Strain displacement relationships",
+            "c) Stiffness matrix",
+            "d) Symmetric matrix",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 200,
+        "Question": "The volume of ring shaped element is _____",
+        "Options": [
+            "a) Ae=\\(\\frac{1}{2}\\mid detJ \\mid\\) ",
+            "b) Ae=detJ",
+            "c) 2πr",
+            "d) 4πr2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 201,
+        "Question": "The element body force vector fe is given by _____",
+        "Options": [
+            "a) Co-ordinates",
+            "b) fe=\\(\\frac{2Πr̅A_e}{3}\\)[f̅r,f̅z,f̅r,f̅z,f̅r,f̅z]T",
+            "c) fe=\\(\\frac{2Πr̅A_e}{3}\\)[f̅x,f̅y]T",
+            "d) fe=\\(\\frac{2Πr̅A_e}{3}\\)  ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 202,
+        "Question": "A rotating flywheel with its axis in the z direction. We consider the flywheel to be stationary and apply the equivalent radial centrifugal (inertial) force per unit volume is _____",
+        "Options": [
+            "a) 2Πr",
+            "b) 4Πr2",
+            "c) ρrω2",
+            "d) ρω2",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 203,
+        "Question": "Surface traction of a uniformly distributed load with components T1 and T2 is _____",
+        "Options": [
+            "a) qTTe=2Π∫euTTrdl",
+            "b) qTTe=2Π",
+            "c) σ=ε",
+            "d) ε=Dσ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 204,
+        "Question": "On summing up the strain energy and force terms over all the elements and modifying for the boundary conditions while minimizing the total potential energy. We get ______",
+        "Options": [
+            "a) σ=D",
+            "b) Kinematic energy",
+            "c) ε=Dσ",
+            "d) KQ=F",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 205,
+        "Question": "Using the connectivity of the elements, the internal virtual work can be expressed in the form _____",
+        "Options": [
+            "a) ΨT=KQ",
+            "b) ΨT=K",
+            "c) KQ=F",
+            "d) σ=Dε",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 206,
+        "Question": "In axisymmetric problems, by using stress strain relation and strain displacement relation we can obtain an equation that is ____",
+        "Options": [
+            "a) σ=DB̅q",
+            "b) σ=D",
+            "c) σ=Dε",
+            "d) σ=Dε0",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 207,
+        "Question": "The temperature effect on axisymmetric formulation. The vector ε̅0\t is the initial strain evaluated at the centroid, representing the average temperature rise of the element is _____",
+        "Options": [
+            "a) θe=2Πr̅",
+            "b) θe=2Πr̅AeB̅TDε̅0",
+            "c) K=QF",
+            "d) σ=Dε0",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 208,
+        "Question": "Uniform increase in temperature of, ΔT introduces initial _____",
+        "Options": [
+            "a) Normal strain",
+            "b) Strain",
+            "c) Stresses",
+            "d) Kinetic energy",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 209,
+        "Question": "Axisymmetry implies that points lying on the z- axis remains _____ fixed.",
+        "Options": [
+            "a) Tangentially",
+            "b) Spherically",
+            "c) Radially",
+            "d) Circularly",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 210,
+        "Question": "Modeling of a cylinder of infinite length subjected to external pressure. The length dimensions are assumed to be _____",
+        "Options": [
+            "a) Finite",
+            "b) Non uniform",
+            "c) Perpendicular",
+            "d) Constant",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 211,
+        "Question": "Press fit of a ring of length L and internal radius rj onto a rigid shaft of radius r1+δ is considered. When symmetry is assumed about the mid plane, this plane is restrained in the _____",
+        "Options": [
+            "a) X direction",
+            "b) Y direction",
+            "c) Z direction",
+            "d) Undefined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 212,
+        "Question": "The condition that nodes at the internal radius have to displace radially by δ , a large stiffness C is added to the _____",
+        "Options": [
+            "a) Co-ordinates",
+            "b) Length",
+            "c) Diagonal locations",
+            "d) Radius",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 213,
+        "Question": "Press fit on elastic shaft, may define pairs of nodes on the contacting boundary, each pair consisting of one node on the _____ and one on the ______",
+        "Options": [
+            "a) Shaft and couple",
+            "b) Sleeve and shaft",
+            "c) Shaft and sleeve",
+            "d) Sleeve and couple",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 214,
+        "Question": "For a Belleville spring the load is applied on _____",
+        "Options": [
+            "a) Shaft",
+            "b) Hole",
+            "c) Periphery of the circle",
+            "d) Coupling",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 215,
+        "Question": "On Belleville spring the load is applied in ______",
+        "Options": [
+            "a) X direction",
+            "b) Z direction",
+            "c) Y direction",
+            "d) Axial direction",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 216,
+        "Question": "In the Belleville spring, the load-deflection curve is _____",
+        "Options": [
+            "a) Linear",
+            "b) Curved",
+            "c)  Non linear",
+            "d) Parabolic",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 217,
+        "Question": "A steel sleeve inserted into a rigid insulated wall. The sleeve fits snugly, and then the temperature is raised by _____",
+        "Options": [
+            "a) Uniform",
+            "b) Non uniform",
+            "c) σ",
+            "d) ΔT",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 218,
+        "Question": "In a Belleville spring, load-deflection characteristics and stress distribution can be obtained by dividing the area into ____",
+        "Options": [
+            "a) Surfaces",
+            "b) Nodes",
+            "c) Elements",
+            "d) Loads",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 219,
+        "Question": "In two dimensional isoparametric elements, we can generate element stiffness matrix by using ____",
+        "Options": [
+            "a) Numerical integration",
+            "b) Differential equations",
+            "c) Partial derivatives",
+            "d) Undefined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 220,
+        "Question": "The vector q=[q1,q2………q8]T of a four noded quadrilateral denotes ____",
+        "Options": [
+            "a) Load vector",
+            "b) Transition matrix",
+            "c) Element displacement vector",
+            "d) Constant matrix",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 221,
+        "Question": "For a four noded quadrilateral, we define shape functions on _____",
+        "Options": [
+            "a) X direction",
+            "b) Y direction",
+            "c) Load vector",
+            "d) Master element",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 222,
+        "Question": "The master element is defined in ______",
+        "Options": [
+            "a) Co-ordinates",
+            "b) Natural co-ordinates",
+            "c) Universal co-ordinates",
+            "d) Radius",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 223,
+        "Question": "Shape function can be written as _____",
+        "Options": [
+            "a)  Nt=(1-ξ)(1-η)",
+            "b)  Nt=(1-ξ)",
+            "c)  Nt=(1-η)",
+            "d)  Nt=\\(\\frac{1}{4}\\)(1-ξ)(1-η)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 224,
+        "Question": " For a four noded element while implementing a computer program, the compact representation of shape function is ____",
+        "Options": [
+            "a) Nt=\\(\\frac{1}{4}\\)(1-ξ)(1-η)",
+            "b) Nt=(1-ξ)(1-η)",
+            "c) Nt=\\(\\frac{1}{4}\\)(1+ξξi)(1+ηηi)",
+            "d) Undefined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 225,
+        "Question": "The stiffness matrix from the quadrilateral element can be derived from _____",
+        "Options": [
+            "a) Uniform energy",
+            "b) Strain energy",
+            "c) Stress",
+            "d) Displacement",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 226,
+        "Question": "For four noded quadrilateral element, the global load vector can be determined by considering the body force term in _____",
+        "Options": [
+            "a) Kinetic energy",
+            "b) Potential energy",
+            "c) Kinematic energy",
+            "d) Temperature",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 227,
+        "Question": "Shape functions are linear functions along the _____",
+        "Options": [
+            "a) Surfaces",
+            "b) Edges",
+            "c) Elements",
+            "d) Planes",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 228,
+        "Question": "Which method of approach is useful for evaluating four noded quadratic elements?",
+        "Options": [
+            "a) Numerical integration",
+            "b) Penality approach method",
+            "c) Gaussian quadrature approach",
+            "d) Rayleighs method",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 229,
+        "Question": "One point formula in quadratic approach is ____",
+        "Options": [
+            "a) w1f(ξ1)",
+            "b) σ=εD",
+            "c) Nt=(1-ξ)(1-η)",
+            "d) Constant matrix",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 230,
+        "Question": "Two point formula of a quadratic approach is _____",
+        "Options": [
+            "a) X direction",
+            "b) w1f(ξ1)+w2f(ξ2)",
+            "c) Nt=(1-ξ)(1-η)",
+            "d) σ=D",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 231,
+        "Question": "The extension of Gaussian quadrature to two-dimensional integrals of the form of _____",
+        "Options": [
+            "a) I≈\\(\\sum_{i=1}^{n}\\sum_{j=1}^{n}\\)wiwjf(ξi,ηj)",
+            "b) Natural co-ordinates",
+            "c) w1f(ξ1)+w2f(ξ2)",
+            "d) w1f(ξ1)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 232,
+        "Question": "Stiffness integration for quadratic element for 2*2 matrix is ____",
+        "Options": [
+            "a) Nt=(1-ξ)(1-η)",
+            "b) kij=\\(\\sum_{IP=1}^{4}\\)WIP∅IP",
+            "c) Nt=(1-η)",
+            "d) Nt=\\(\\frac{1}{4}\\)(1-ξ)(1-η)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 233,
+        "Question": "The stresses in the quadratic element are not ______",
+        "Options": [
+            "a) Linear",
+            "b) Uniform",
+            "c) Constant",
+            "d) Undefined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 234,
+        "Question": "The stresses are evaluated at the __________",
+        "Options": [
+            "a) Nodal points",
+            "b) Nodal displacements",
+            "c) Gauss points",
+            "d) Elements",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 235,
+        "Question": "For quadrilateral with  2X2 integration gives _____ sets of stress values.",
+        "Options": [
+            "a) One",
+            "b) Two",
+            "c) Three",
+            "d) Four",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 236,
+        "Question": "For degenerate four noded quadrilateral element the errors are _____",
+        "Options": [
+            "a) Constant",
+            "b) Uniform",
+            "c) Higher",
+            "d) Lesser",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 237,
+        "Question": "Gauss points are also the points used for numerical evaluation of _____",
+        "Options": [
+            "a) Surfaces",
+            "b) ke",
+            "c) Elements",
+            "d) Planes",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 238,
+        "Question": "In the four-node quadrilateral element, the shape functions contained terms _________",
+        "Options": [
+            "a) ξ",
+            "b) σ",
+            "c) ∅",
+            "d) Undefined",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 239,
+        "Question": "A _________ element by using nine-node shape function.",
+        "Options": [
+            "a) Load vector",
+            "b) Sub parametric",
+            "c) Element displacement vector",
+            "d) Constant matrix",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 240,
+        "Question": "Eight-Node Quadrilateral. This element belongs to the ________ family of elements.",
+        "Options": [
+            "a) Serendipity",
+            "b) Constant matrix",
+            "c) Load vector",
+            "d) Master element",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 241,
+        "Question": "N1, is of the form ____",
+        "Options": [
+            "a) Co-ordinates",
+            "b) N1=c(1-ξ)(1-η)(1+ξ+η)",
+            "c) N1=(1-ξ)(1-η)",
+            "d) N1=(1-ξ)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 242,
+        "Question": "Six node triangular elements is also known as _____",
+        "Options": [
+            "a) Triangle",
+            "b) Quadratic triangle",
+            "c) Interpolation",
+            "d) Shape function",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 243,
+        "Question": "In six node triangular element, the gauss points of a triangular element can be defined by ____",
+        "Options": [
+            "a) Two point rule",
+            "b) Three point rule",
+            "c) One point rule",
+            "d) Undefined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 244,
+        "Question": "The mid node should not be outside of the triangular element this condition should ensures that det J does not attain a value ____",
+        "Options": [
+            "a) Constant",
+            "b) Zero",
+            "c) Unity",
+            "d) Infinite",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 245,
+        "Question": "The nodal temperature load can be evaluated by using _____",
+        "Options": [
+            "a) Uniform energy",
+            "b) Strain energy",
+            "c) Numerical integration",
+            "d) Displacement",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 246,
+        "Question": "The gauss points for a triangular region differ from the _____ region.",
+        "Options": [
+            "a) Rectangular",
+            "b) Triangular",
+            "c) Square",
+            "d) Temperature",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 247,
+        "Question": "In a nine node quadrilateral, the shape functions can be defined as _______",
+        "Options": [
+            "a) Shape functions",
+            "b) Generic shape functions",
+            "c) Elements",
+            "d) Planes",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 248,
+        "Question": "Which of the following elements are used for structural and fatigue analysis?",
+        "Options": [
+            "a) Triangular Elements",
+            "b) Quadrilateral Elements",
+            "c) Shell type Elements",
+            "d) Pentagonal Elements",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 249,
+        "Question": "The total number of dofs in quadrilateral element is ______",
+        "Options": [
+            "a) thirty six",
+            "b) eighteen",
+            "c) twenty four",
+            "d) forty two",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 250,
+        "Question": "Which of the following statement is false?",
+        "Options": [
+            "a) Linear quad element is more accurate than linear tria element",
+            "b) Linear tria element is more accurate than linear quad element",
+            "c) Parabolic elements are better than linear elements",
+            "d) Parabolic quad element has eight codes",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 251,
+        "Question": "Which of the following statements about warp angle is not true?",
+        "Options": [
+            "a) It is a not applicable for tria elements",
+            "b) It is an angle formed between two normal of planes formed by splitting quad element along diagonal",
+            "c) Its value should be less than 10°",
+            "d) It is the minimum angle between the planes of diagonally split quad element",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 252,
+        "Question": "Which of the following is the correct expression for calculating skew of quadrilateral element?",
+        "Options": [
+            "a) Skew=90°+minimum angle formed by joining opposite mid sides of quad element",
+            "b) Skew=90°-minimum angle formed by joining opposite mid sides of quad element",
+            "c) Skew=90°*minimum angle formed by joining opposite mid sides of quad element",
+            "d) Skew=90°/minimum angle formed by joining opposite mid sides of quad element",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 253,
+        "Question": "During finite element formulation of beam each node has _______ degrees of freedom.",
+        "Options": [
+            "a) three",
+            "b) two",
+            "c) one",
+            "d) six",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 254,
+        "Question": "The total number of degrees of freedom in a beam with four nodes is ______",
+        "Options": [
+            "a) four",
+            "b) eight",
+            "c) sixteen",
+            "d) thirty two",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 255,
+        "Question": "The displacements in beam elements are interpolated using _______",
+        "Options": [
+            "a) shape elements",
+            "b) shape functions",
+            "c) shape parameters",
+            "d) shape factors",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 256,
+        "Question": "The shape functions for interpolation on beam elements are defined on the range of ________",
+        "Options": [
+            "a) 0 to +1",
+            "b) -1 to 0",
+            "c) 0 to +2",
+            "d) -1 to +1",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 257,
+        "Question": "Which of the following statements is correct?",
+        "Options": [
+            "a) Stiffness coefficient value for numerical solution is less than the value of exact solution",
+            "b) Stiffness coefficient value for numerical solution is greater than the value of exact solution",
+            "c) Stiffness coefficient value for numerical solutions is equal to the value of exact solution",
+            "d) Stiffness coefficient value for numerical solutions is twice the value of exact solution",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 258,
+        "Question": "The element stiffness matrix (k) for beam element is given by which of the following expressions?",
+        "Options": [
+            "a)\\(\\frac{EI}{l^3}\\begin{bmatrix}12&6l&-12&6l\\\\6l&4l^2&-6l&2l^2\\\\-12&-6l&12&-6l\\\\6l&2l^2&-6l&4l^2\\end{bmatrix}\\) ",
+            "b) \\(\\frac{EI}{l^2}\\begin{bmatrix}12&-6l&-12&6l\\\\-6l&4l^2&6l&2l^2\\\\-12&6l&12&6l\\\\6l&2l^2&6l&4l^2\\end{bmatrix}\\) ",
+            "c)\\(\\frac{EI}{l^3}\\begin{bmatrix}12&-6l&-12&6l\\\\-6l&4l^2&6l&2l^2\\\\-12&6l&12&6l\\\\6l&2l^2&6l&4l^2\\end{bmatrix}\\) ",
+            "d)\\(\\frac{EI}{l^2}\\begin{bmatrix}12&6l&-12&6l\\\\6l&4l^2&-6l&2l^2\\\\-12&-6l&12&-6l\\\\6l&2l^2&-6l&4l^2\\end{bmatrix}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 259,
+        "Question": "On a simply supported beam with uniformly distributed load (p) over length (l) the value of reaction force at one support is _______",
+        "Options": [
+            "a) p*l",
+            "b) (p*l)/2",
+            "c) (p*l)2",
+            "d) (p*l)/3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 260,
+        "Question": "Which of the following is not a one dimensional element?",
+        "Options": [
+            "a) bar",
+            "b) brick",
+            "c) beam",
+            "d) rod",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 261,
+        "Question": "Three geometrically identical beams made out of steel, aluminum, and titanium are axially loaded. Which of the following statements is correct?",
+        "Options": [
+            "a) Stress in titanium is the least",
+            "b) Stress in cast iron is the highest",
+            "c) Stress in steel is the least",
+            "d) Stress in all three beams is the same",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 262,
+        "Question": "The application of force at which of the following point on a beam will nullify the effect of torsion?",
+        "Options": [
+            "a) Centroid",
+            "b) Center of mass",
+            "c) Extreme fiber",
+            "d) Shear centre",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 263,
+        "Question": "Which of the following statements is correct?",
+        "Options": [
+            "a) Beam elements are recommended for unsymmetrical cross sections",
+            "b) Bar elements are recommended for unsymmetrical cross sections",
+            "c) Beam and bar elements can both be used for unsymmetrical cross sections",
+            "d) Neither beam nor bar elements can be used for unsymmetrical cross sections",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 264,
+        "Question": "The equivalent load (f) acting on a simply supported beam element loaded with uniformly distributed load (p) over an element of length (l) is given by which of the following expressions?",
+        "Options": [
+            "a) f=\\([\\frac{pl}{2},\\frac{pl^2}{12},\\frac{pl}{2},-\\frac{pl^2}{12}]\\) ",
+            "b) f=\\([\\frac{pl}{2},\\frac{pl^2}{12},\\frac{pl}{2},\\frac{pl^2}{12}]\\) ",
+            "c) f=\\([\\frac{pl}{2},-\\frac{pl^2}{12},\\frac{pl}{2},-\\frac{pl^2}{12}]\\) ",
+            "d) f=\\([\\frac{pl}{2},\\frac{pl^2}{12},\\frac{-pl}{2},-\\frac{pl^2}{12}]\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 265,
+        "Question": "Symmetry in application of boundary conditions should be avoided in which of the following type of analysis?",
+        "Options": [
+            "a) Linear static analysis",
+            "b) Modal analysis",
+            "c) Thermal analysis",
+            "d) Nonlinear static analysis",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 266,
+        "Question": "Which of the following is the correct equation for stiffness (K) of an element given value of force (F) and displacement (Q)?",
+        "Options": [
+            "a) FQ=K",
+            "b) KQ=F",
+            "c) KF=Q",
+            "d) KFQ=1",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 267,
+        "Question": "Which of the following conditions must be fulfilled to apply symmetry in a finite element model?",
+        "Options": [
+            "a) Geometry of the model is symmetric",
+            "b) Boundary conditions to be applied are symmetric",
+            "c) Geometry model has large number of nodes",
+            "d) Geometry of the model is symmetric and boundary conditions to be applied are symmetric",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 268,
+        "Question": "Which of the following boundary conditions cannot be directly applied on solid elements?",
+        "Options": [
+            "a) Force",
+            "b) Pressure",
+            "c) Support",
+            "d) Torque",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 269,
+        "Question": "Which of the following statements is correct?",
+        "Options": [
+            "a) Reaction force at supports is equal to the sum of the product of stiffness and displacement",
+            "b) Reaction force at supports is equal to the product of sum of stiffness and displacement",
+            "c) Reaction force at supports is equal to the sum of stiffness’s",
+            "d) Reaction force at supports is equal to the sum of displacements",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 270,
+        "Question": "Which of the following equations give the relation between material properties like modulus of elasticity (E), modulus of rigidity (G), and Poisson’s ratio (u)?",
+        "Options": [
+            "a) E = 2*G*(1+u)",
+            "b) E = 3*G*(1+u)",
+            "c) E = 2*G*(1-u)",
+            "d) E = 3*G*(1-u)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 271,
+        "Question": "Which of the following statements are correct about a cantilevered beam with point load acting on the extreme end of the beam?",
+        "Options": [
+            "a) Bending stresses induced in the beam are constant throughout the length of the beam",
+            "b) Bending stresses induced in the beam decreases linearly from fixed end to free end",
+            "c) Bending stresses induced in the beam increases linearly from fixed end to free end",
+            "d) Bending stresses induced in the beam decreases exponentially from fixed end to free end",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 272,
+        "Question": "Which of the following is the correct equation for bending moment (M) of an element given value of young’s modulus (E), moment of inertia (I), and radius of curvature (R)?",
+        "Options": [
+            "a) M= EIR",
+            "b) M= EI/R",
+            "c) M=(EI)2R",
+            "d) M=(EI)2/R",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 273,
+        "Question": "Which of the following statements are correct about a cantilevered beam with point load acting on the extreme end of the beam?",
+        "Options": [
+            "a) Shear stress along the length of the beam increases linearly",
+            "b) Shear stress along the length of the beam deceases linearly",
+            "c) Shear stress along the length of the beam decreases exponentially",
+            "d) Shear stress along the length of the beam remains constant",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 274,
+        "Question": "Which of the following statements are correct regarding shear stress distribution across the cross section in a cantilevered beam with point load acting on the extreme end of the beam?",
+        "Options": [
+            "a) Shear stress distribution across the cross section of beam is constant",
+            "b) Shear stress distribution across the cross section of beam is zero",
+            "c) Shear stress distribution across the cross section of beam is zero at center and maximum at extreme ends",
+            "d) Shear stress distribution across the cross section of beam is zero at extreme ends and maximum at center",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 275,
+        "Question": "Which of the following equations is the correct expression for shear force (V) in an element, given the modulus of elasticity (E), moment of inertia (I), element length (le), displacement (q) in a uniformly distributed load on a simply supported beam?",
+        "Options": [
+            "a) V=\\(\\frac{EI}{(le)^3}\\)(2q1+leq2-2q3+leq4)",
+            "b) V=\\(\\frac{EI}{(le)^2}\\)(2q1+leq2-2q3+leq4)",
+            "c) V=\\(\\frac{EI}{(le)^2}\\)(2q1+leq2+2q3+leq4)",
+            "d) V=\\(\\frac{EI}{(le)^3}\\)(2q1+leq2+2q3+leq4)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 276,
+        "Question": "Which of the following equations is the correct expression for bending moment (M) in an element, given the modulus of elasticity (E), moment of inertia (I), element length (le), shape function (ξ) and displacement (q) in a uniformly distributed load on a simply supported beam?",
+        "Options": [
+            "a) M=\\(\\frac{EI}{(le)^2}\\)[6ξq1+(3ξ-1)leq2-6ξq3+(3ξ+1)leq4] ",
+            "b) M=\\(\\frac{EI}{(le)^3}\\)[6ξq1-(3ξ-1)leq2-6ξq3-(3ξ+1)leq4] ",
+            "c) M=\\(\\frac{EI}{(le)^2}\\)[6ξq1+(3ξ-1)leq2-6ξq3-(3ξ+1)leq4] ",
+            "d) M=\\(\\frac{EI}{(le)^3}\\)[6ξq1+(3ξ-1)leq2-6ξq3+(3ξ+1)leq4] ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 277,
+        "Question": "Which of the following is a class of applications formed by beams supported on soil?",
+        "Options": [
+            "a) Soil foundation",
+            "b) Winkler foundation",
+            "c) Elastic Beam foundation",
+            "d) Reinforced foundation",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 278,
+        "Question": "Which of the following statements is not correct about beams on elastic supports?",
+        "Options": [
+            "a) Rotational stiffness has to be considered for journal bearings",
+            "b) Single row bearings can be considered by a node at each bearing location",
+            "c) In wide journal bearing stiffness per unit length has to be considered",
+            "d) Rotational stiffness need not be considered for roller bearings",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 279,
+        "Question": "Which of the following statements are correct regarding beam elements?",
+        "Options": [
+            "a) Beam elements can resist force and moment about x and y axis",
+            "b) Beam elements can resist only force about x and y axis",
+            "c) Beam elements can resist only force about x, y, and z axis",
+            "d) Beam elements can resist force and moment about x, y, and z axis",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 280,
+        "Question": "Which of the following expressions must be added to the element stiffness matrix for beams supported on elastic supports, where l is length of beam element, and s is the stiffness per unit length of element?",
+        "Options": [
+            "a) \\(\\frac{sl}{420}\\begin{bmatrix}156&22l&54&-13l\\\\22l&4l^2&13l&-3l^2\\\\54&13l&156&-22l\\\\-13l&-3l^2&-22l&4l^2\\end{bmatrix}\\)  ",
+            "b) \\(\\frac{EI}{l^2}\\begin{bmatrix}12&-6l&-12&6l\\\\-6l&4l^2&6l&2l^2\\\\-12&6l&12&6l\\\\6l&2l^2&6l&4l^2\\end{bmatrix}\\) ",
+            "c) \\(\\frac{EI}{l^3}\\begin{bmatrix}12&-6l&-12&6l\\\\-6l&4l^2&6l&2l^2\\\\-12&6l&12&6l\\\\6l&2l^2&6l&4l^2\\end{bmatrix}\\) ",
+            "d) \\(\\frac{EI}{420}\\begin{bmatrix}156&22l&54&-13l\\\\22l&4l^2&13l&-3l^2\\\\54&13l&156&-22l\\\\-13l&-3l^2&-22l&4l^2\\end{bmatrix}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 281,
+        "Question": "In Finite Element Methods (FEM), a boundary value problem is a set of differential equations with a solution, which also satisfies some additional constraints, known as ___",
+        "Options": [
+            "a) boundary conditions",
+            "b) nodal values",
+            "c) equilibrium equations",
+            "d) energy minimum",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 282,
+        "Question": "u=u[x(e,n),y(e,n)] and v=v[x(e,n),y(e,n)] Using the chain rule of partial derivatives, we get Jacobian of the transformation, J. The relation between area (A) of 2D three noded triangular element and Jacobian is given by _____",
+        "Options": [
+            "a) A=1*|detJ|",
+            "b) A=(1/3)*|detJ|",
+            "c) A=0.5*|detJ|",
+            "d) A=2*|detJ|",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 283,
+        "Question": "In a two-dimensional static structural problem, the various non-zero stresses are ____",
+        "Options": [
+            "a) σ=[σxσyσz] ",
+            "b) σ=[σxσyσx+σy] ",
+            "c) σ=[σxσyσx-σy] ",
+            "d) σ=[σxσyτxy] ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 284,
+        "Question": "In a solid of revolution, if the geometry, support conditions, loads, and material properties are all symmetric about the axis and are independent of θ, then the problem can be treated as a ____",
+        "Options": [
+            "a) two-dimensional one",
+            "b) one-dimensional one",
+            "c) three-dimensional one",
+            "d) plane strain",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 285,
+        "Question": "In a static structural type Boundary Value Problem, at any fixed support, How many non-zero Degrees Of Freedom exist?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 2",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 286,
+        "Question": "In a static structural type Boundary Value Problem, at any roller support, How many non-zero Degrees Of Freedom exist?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 2",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 287,
+        "Question": "In a static structural type Boundary Value Problem, at any hinged support, How many non-zero Degrees Of Freedom exist?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 2",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 288,
+        "Question": "For a linear triangular element with (xi, yi) as the coordinates of the ith node of the element, which option denotes twice the Area of the triangle?",
+        "Options": [
+            "a) (x1y2 − x2y1) + (x2y3 − x3y2) + (x3y1 − x1y3)",
+            "b) (x1y2 – x3y1) + (x2y3 – x1y2) + (x3y1 – x2y3)",
+            "c) (x1y2 − x2y1) + (x2y3 − x3y2)",
+            "d) (x1y1 − x2y2) + (x2y2 − x3y3) + (x3y3 − x1y1)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 289,
+        "Question": "For a linear triangular element with (xi, yi) as the coordinates of the ith node of the element the area=10units, the value of ∑αi from the standard relation αi+βiX+γiY=(2/3)*Area where X=∑xi, Y=∑yi is ___",
+        "Options": [
+            "a) 10",
+            "b) 20",
+            "c) 30",
+            "d) 40",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 290,
+        "Question": "For a linear triangular element with (xi, yi) as the coordinates of the ith node of the element the area=10units, the value of ∑βi from the standard relation αi+βiX+γiY=(2/3)*Area where X=∑xi, Y=∑yi is ___",
+        "Options": [
+            "a) 0",
+            "b) 10",
+            "c) 20",
+            "d) 30",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 291,
+        "Question": "In a 3D axisymmetric solid, because of symmetry about the longitudinal axis, the stresses do not vary along ___ coordinate.",
+        "Options": [
+            "a) x",
+            "b) y",
+            "c) z",
+            "d) θ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 292,
+        "Question": "For a linear triangular element with (xi, yi) as the coordinates of the ith node of the element the area=10units, the value of ∑γi from the standard relation αi+βiX+γiY=(2/3)*Area where X=∑xi, Y=∑yi is ___",
+        "Options": [
+            "a) 0",
+            "b) 10",
+            "c) 20",
+            "d) 30",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 293,
+        "Question": "In Finite Element Method (FEM), which option is not correct with respect to discretization or mesh generation?",
+        "Options": [
+            "a) Density of elements depends on the degree of accuracy desired",
+            "b) Choice of element type may depend on the geometry of domain",
+            "c) For better accuracy correct formulae has to be applied",
+            "d) Some general rules govern mesh generation",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 294,
+        "Question": "In Finite Element Method (FEM), Mesh convergence is a measure of the number of _____ required in a model to ensure that the results of an analysis are not affected by changing the size of the _____",
+        "Options": [
+            "a) elements, mesh",
+            "b) nodes, mesh",
+            "c) nodes, element",
+            "d) degrees of freedom, element",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 295,
+        "Question": "In Finite Element Method (FEM), While domain discretization, at which of the following geometrical cases a node is not required?",
+        "Options": [
+            "a) Change in cross-section area only",
+            "b) Change in cross-section only",
+            "c) Change in cross section area as well as change in cross-section",
+            "d) No change",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 296,
+        "Question": "In Finite Element Method (FEM), for discretization purpose in general, which 2D element is an undesired one?",
+        "Options": [
+            "a) An equilateral triangle of side 5 units",
+            "b) A quadrilateral",
+            "c) A rhombus of side 10 units",
+            "d) A rectangle of dimensions 100×1",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 297,
+        "Question": "In Finite Element Method (FEM), for discretization purpose in general, which optionis not true for mesh refinement?",
+        "Options": [
+            "a) Previous meshes should be contained in the refined mesh",
+            "b) Any point in the body can be included within an arbitrarily small element at any stage of the mesh refinement",
+            "c) The same order of approximation for the solution may be preserved through all stages of the refinement process",
+            "d) Elements with very large aspect ratios are desired",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 298,
+        "Question": "To discretize a domain using rectangular elements, if the aspect ratio is to be limited to 10, which dimension (mm) of rectangular element gives finest mesh?",
+        "Options": [
+            "a) 1×0.5",
+            "b) 1.1×0.1",
+            "c) 0.11×0.01",
+            "d) 0.1×0.05",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 299,
+        "Question": "In Finite Element Method (FEM), choose the incorrect option regarding to the dimensions (mm) of elements in a finite element mesh?",
+        "Options": [
+            "a) Elements with very large aspect ratios are avoided",
+            "b) Elements with small angles are undesired",
+            "c) The coefficient matrices in finite element equations depend on dimensions of elements",
+            "d) Rectangular elements with high aspect ratio are preferred",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 300,
+        "Question": "In steady state heat transfer finite element model [K+H]*{T}={Q}*{P} if convective boundary conditions are neglected then which option is applicable?",
+        "Options": [
+            "a) K=0",
+            "b) H=0",
+            "c) Q=0",
+            "d) T=0",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 301,
+        "Question": "The velocity field of a fluid flow is denoted by v=2xi+3j. Which option exactly describes the flow?",
+        "Options": [
+            "a) Ideal",
+            "b) Compressible",
+            "c) Irrational",
+            "d) Inviscid",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 302,
+        "Question": "In a Heat Transfer problem, which option is used for interpolation of temperature inside a finite element?",
+        "Options": [
+            "a) Natural coordinates",
+            "b) Global coordinates",
+            "c) Temperature gradients",
+            "d) Shape functions",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 303,
+        "Question": "Consider a system where a wall of a tank containing a hot liquid at a temperature T0,  with an air stream of temperature T∞ flows on the outside of the tank, maintaining the outside wall temperature of TL. What is the expression for boundary condition of the system?",
+        "Options": [
+            "a) q=h(TL-T∞)",
+            "b) T=T∞",
+            "c) T=TL",
+            "d) TL-T∞",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 304,
+        "Question": "In a thermodynamics process, what is the correct term for the series of states through which a system passes?",
+        "Options": [
+            "a) Path",
+            "b) Phase",
+            "c) Cycle",
+            "d) Direction",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 305,
+        "Question": "In which thermodynamics process the temperature remains constant?",
+        "Options": [
+            "a) Isobaric",
+            "b) Isentropic",
+            "c) Isothermal",
+            "d) Isochoric",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 306,
+        "Question": "If ψ=2x+3y represents stream function then what is the magnitude of velocity?",
+        "Options": [
+            "a) 3",
+            "b) 5",
+            "c) 6.3",
+            "d) 3.6",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 307,
+        "Question": "In which process does a thermodynamic system remains infinitesimally closed to an equilibrium state at all times?",
+        "Options": [
+            "a) Path equilibrium process",
+            "b) Cycle equilibrium process",
+            "c) Phase equilibrium process",
+            "d) Quasi-state or quasi-equilibrium process",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 308,
+        "Question": "In analysis of mechanical stresses, which of the following is the correct form of the 3D equation of stress equilibrium?",
+        "Options": [
+            "a) \\(\\frac{\\partial \\sigma x}{\\partial x}+\\frac{\\partial \\tau xy}{\\partial y}+\\frac{\\partial \\tau xz}{\\partial z}\\)=0 ",
+            "b) \\( \\frac{\\partial \\tau xy}{\\partial x}+\\frac{\\partial \\sigma y}{\\partial y}+\\frac{\\partial \\tau yz}{\\partial z}\\)=0 ",
+            "c)\\( \\frac{\\partial \\tau xz}{\\partial x}+\\frac{\\partial \\tau yz}{\\partial y}+\\frac{\\partial \\sigma z}{\\partial x}\\)=0 ",
+            "d) No such equation exists",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 309,
+        "Question": "In thermodynamics, what does the term open system refer to?",
+        "Options": [
+            "a) Control mass",
+            "b) Control volume",
+            "c) Control energy",
+            "d) Control temperature",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 310,
+        "Question": "In thermodynamics, what is the name of a process with identical end states?",
+        "Options": [
+            "a) Cycle",
+            "b) Path",
+            "c) Phase",
+            "d) Either Path or phase",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 311,
+        "Question": "A system is said to be in thermodynamic equilibrium if it maintains which of the following equilibriums?",
+        "Options": [
+            "a) Mechanical and phase",
+            "b) Thermal and chemical",
+            "c) Thermal, mechanical and chemical",
+            "d) Thermal, phase, mechanical and chemical",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 312,
+        "Question": "Which option is not correct about direct methods for solving system of linear equations?",
+        "Options": [
+            "a) In the absence of errors it yields exact solution",
+            "b) Errors arising from round off and truncation may give useless results",
+            "c) Gaussian elimination method is an example",
+            "d) Starts with an initial approximation",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 313,
+        "Question": "Which option is not correct about iterative methods for solving system of linear equations?",
+        "Options": [
+            "a) Convergence yields a good approximate solution",
+            "b) Insensitive to the growth of round-off errors",
+            "c) Gaussian elimination method is an example",
+            "d) Starts with an initial approximation",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 314,
+        "Question": "In structural mechanics, which option is not correct about linear analysis?",
+        "Options": [
+            "a) Displacements are infinitesimally small",
+            "b) Material is linearly elastic",
+            "c) Externally applied loads are a function of time",
+            "d) Applied loads are not a function of time",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 315,
+        "Question": "A generalized Eigen value problem [K- ω2M]X=0 has a non-zero solution for X. What can be the value of determinant of the matrix [K- ω2M]?",
+        "Options": [
+            "a) Any integer",
+            "b) 0",
+            "c) +1",
+            "d) Positive integer",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 316,
+        "Question": "In FEM, the forced vibrations equation after Finite Element discretization of a structure can be expressed as which option?",
+        "Options": [
+            "a) Mẍ+Kẋ=F",
+            "b) Mẍ+Kẋ=0",
+            "c) Mẍ+Kx=F",
+            "d) Mẍ+Kx=0",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 317,
+        "Question": "The free vibrations equation after Finite Element discretization of a structure is expressed as Mẍ+Kx=0. Which option is not correct about the free vibration case?",
+        "Options": [
+            "a) Displacements are harmonic",
+            "b) x=Xeiωt where X is amplitude",
+            "c) [K-ω2M]X=0",
+            "d) KX=Mω2",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 318,
+        "Question": "Which option is not correct about free vibration analysis problem KX= λMX, where X represents the amplitude of displacement x?",
+        "Options": [
+            "a) The displacements are harmonic",
+            "b) X represent mode shapes or Eigen vectors",
+            "c) λ represent Eigen value",
+            "d) ω represents Eigen value",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 319,
+        "Question": "After Finite Element discretization of a structure, which option expresses the free vibrations equation?",
+        "Options": [
+            "a) Mẍ+Kẋ=F",
+            "b) Mẍ+Kẋ=0",
+            "c) Mẍ+Kx=F",
+            "d) Mẍ+Kx=0",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 320,
+        "Question": "The generalized Eigen value problem [K- λM]X=0 has a non-zero solution for X. What is the value of λ if K=\\(\\begin{pmatrix}1&1&1\\\\1&1&1\\\\1&1&1\\end{pmatrix}\\), M=\\(\\begin{pmatrix}4&4&4\\\\4&4&4\\\\4&4&4\\end{pmatrix}\\)?",
+        "Options": [
+            "a) 1",
+            "b) \\(\\frac{1}{2}\\) ",
+            "c) 4",
+            "d) \\(\\frac{1}{4}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 321,
+        "Question": "A plane wall of length L units and Cross-section area A units was initially maintained at a temperature of T units. It is subjected to an ambient temperature of T∞ units at one surface. If the heat transfer coefficient at the surface of the wall is assumed to be h units, then what is the temperature gradient developed at the surface?",
+        "Options": [
+            "a)(T∞-T)\\(\\frac{h}{k}\\) ",
+            "b)(T∞-T)\\(\\frac{1}{L} \\) ",
+            "c) T∞-T",
+            "d) T-T∞",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 322,
+        "Question": "A plane wall of thermal conductivity of 45\\(\\frac{W}{mK}\\) was initially maintained at a temperature of 35°C. It is subjected to an ambient temperature of 45°C at one surface. If the heat transfer coefficient at the surface of the wall is 9\\(\\frac{W}{m^2K}\\), then what is the temperature gradient developed at the surface?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 323,
+        "Question": "A plane wall was maintained initially at a temperature of T units. It is subjected to an ambient temperature of T∞ units at one surface. If the heat transfer coefficient at the surfaces of the wall is assumed to be infinite, then what is the new temperature at the wall?",
+        "Options": [
+            "a) T",
+            "b) T∞",
+            "c) T∞-T",
+            "d) T-T∞",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 324,
+        "Question": "A plane wall was maintained initially at a temperature of 35°C. It is subjected to an ambient temperature of 45°C at one surface. If the heat transfer coefficient at the surfaces of the wall is assumed to be infinite, then what is the new temperature at the wall surface?",
+        "Options": [
+            "a) 35°C",
+            "b) 45°C",
+            "c) 40°C",
+            "d) 50°C",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 325,
+        "Question": "The unsteady natural axial oscillations of a bar are periodic, and they are determined by assuming a solution u(x, t) = U(x) e-iwt. Which option is not correct about the solution equation?",
+        "Options": [
+            "a) w denotes the natural frequency",
+            "b) w2 denotes eigenvalue",
+            "c) U(x) denotes mode shape",
+            "d) u(x, t) denotes transverse displacements",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 326,
+        "Question": "In matrix algebra, which option is not correct about an eigenvalue problem of the type Ax = Lx?",
+        "Options": [
+            "a) It has a discrete solution",
+            "b) It has solution only if A non-singular",
+            "c) x is called eigenvector",
+            "d) L is called eigenvalue",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 327,
+        "Question": "The dynamic equation of motion of a structure contains M, C and K as mass, damping and stiffness matrices of the structure, respectively. If F is an external load vector, then which option is correct about the equation?",
+        "Options": [
+            "a) M\\(\\ddot{x}\\) + K\\(\\dot{x}\\) + Cx = F",
+            "b) M\\(\\ddot{x}\\) is time-dependent",
+            "c) All the forces are time-independent",
+            "d) The equation is of 3rd order",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 328,
+        "Question": "In matrix algebra, a matrix K equals \\(\\begin{pmatrix} 1&0&0 \\\\ 0&1&0 \\\\ 0&0&3 \\end{pmatrix}\\). What is the value of a, if K7 = \\(\\begin{pmatrix} c&0&0\\\\ 0&b&0 \\\\ 0&0&a \\end{pmatrix}\\)?",
+        "Options": [
+            "a) 2187",
+            "b) 729",
+            "c) 6561",
+            "d) 57",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 329,
+        "Question": "In matrix algebra, what is the eigenvalue of the matrix \\(\\begin{pmatrix} 1&1&1 \\\\ 1&1&1 \\\\ 1&1&1 \\end{pmatrix}\\)?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 330,
+        "Question": "In matrix algebra, what is the value of a-b if the eigenvector of \\(\\begin{pmatrix}1&1&1 \\\\ 1&1&1 \\\\ 1&1&1 \\end{pmatrix}\\)  corresponding to eigenvalue three is \\(\\begin{pmatrix}a \\\\ b \\\\ a \\end{pmatrix}\\)?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 2",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 331,
+        "Question": "From the Euler-Bernoulli beam theory of natural vibrations, using cubic Hermite polynomials approximation, what is the 1st element of the stiffness matrix?",
+        "Options": [
+            "a) \\(\\frac{12EI}{h^3}\\) ",
+            "b) \\(\\frac{12EA}{h^3}\\) ",
+            "c) \\(\\frac{12EA}{h}\\) ",
+            "d) \\(\\frac{12AI}{h^3}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 332,
+        "Question": "From the Timoshenko beam theory of natural vibrations, using cubic Hermite polynomials approximation, what is the 1st element of the mass matrix?",
+        "Options": [
+            "a) \\(\\frac{\\rho A}{3}\\) ",
+            "b) \\(\\frac{\\rho A}{6}\\) ",
+            "c) 0",
+            "d) \\(\\frac{\\rho I}{3}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 333,
+        "Question": "Which option is not correct about the three-noded triangular plane stress (linear) element used in FEM?",
+        "Options": [
+            "a) It has six degrees of freedom",
+            "b) It belongs to both the isoparametric and superparametric element families",
+            "c) It can be improved by the addition of internal degrees of freedom",
+            "d) Delaunay triangulation can be used for its mesh generation",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 334,
+        "Question": "In FEM, which option is used to develop the Higher-order triangular elements (i.e. triangular elements with interpolation functions of higher degree) systematically?",
+        "Options": [
+            "a) Pascal’s triangle",
+            "b) Galerkin method",
+            "c) Jacobi method",
+            "d) Delaunaytriangulation",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 335,
+        "Question": "In FEM, What is the number of displacement polynomials necessary for finding displacements in a linear triangular element?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 336,
+        "Question": "Concerning triangular elements in FEM, which option is not correct about the mathematical formula of Pascal’s triangle?",
+        "Options": [
+            "a) It contains the terms in two coordinates only",
+            "b) The position of the terms can be viewed as the nodes of a triangular element",
+            "c) The position of the first and last terms of a row is at the vertices of a triangular element",
+            "d) A triangular element of order 2 corresponds to the second row",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 337,
+        "Question": "Which option is not correct about the four-noded rectangular plane stress element used in FEM?",
+        "Options": [
+            "a) It has eight degrees of freedom",
+            "b) Shape functions N1, N2, N3 and N4 are bilinear functions of x and y",
+            "c) The displacement field is continuous across elements",
+            "d) Its Delaunay triangulation is unique",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 338,
+        "Question": "In the FEM element library, what is the other name of a higher-order element?",
+        "Options": [
+            "a) Complex element",
+            "b) Simplex element",
+            "c) Linear element",
+            "d) Nonlinear element",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 339,
+        "Question": "In the FEM element library, an eight noded quadrilateral element belongs to which family?",
+        "Options": [
+            "a) Serendipity",
+            "b) Linear",
+            "c) Simplex",
+            "d) Quadratic",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 340,
+        "Question": "In FEM, which option is not correct about the Lagrange family of triangular elements?",
+        "Options": [
+            "a) The nodes are uniformly spaced",
+            "b) Pascal’s triangle can be viewed as a triangular element",
+            "c) Dependent variables and their derivatives are continuous at inter-element boundaries",
+            "d) 2nddegree polynomial corresponds to 6 noded triangle",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 341,
+        "Question": "What is the displacement function for one-dimensional, two noded linear elements in terms of its shape functions N1 and N2?",
+        "Options": [
+            "a) N1u1+N2u2",
+            "b) N1u2+N2u1",
+            "c) N1u1-N2u2",
+            "d) N1u2-N2u1",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 342,
+        "Question": "In the FEM element library, what is the correct name for a six noded triangular element?",
+        "Options": [
+            "a) Linear strain triangular element",
+            "b) Constant strain triangular element",
+            "c) Variable strain triangular element",
+            "d) Higher-order triangular element",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 343,
+        "Question": "In the FEM element library, what is the correct name for a three noded triangular element?",
+        "Options": [
+            "a) Linear strain triangular element",
+            "b) Constant strain triangular element",
+            "c) Variable strain triangular element",
+            "d) Higher-order triangular element",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 344,
+        "Question": "In FEM, what is the name of the element specified by a polynomial of order two or more?",
+        "Options": [
+            "a) Nonlinear element",
+            "b) Higher-order element",
+            "c) Linear element",
+            "d) Master element",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 345,
+        "Question": "In FEM, what is the name of the shape function of an Euler-Bernoulli beam element?",
+        "Options": [
+            "a) Hermite cubic interpolation function",
+            "b) Lagrange cubic interpolation function",
+            "c) Consistent element functions",
+            "d) Quadratic interpolation functions",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 346,
+        "Question": "In FEM, which option is used to develop the Higher-order rectangular elements (i.e., rectangular elements with interpolation functions of higher degree) systematically?",
+        "Options": [
+            "a) A rectangular array of binomial coefficients",
+            "b) Galerkin method",
+            "c) Jacobi method",
+            "d) Delaunay triangulation",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 347,
+        "Question": "In FEM, what are the elements in which the same shape functions describe the geometry and field displacement variables?",
+        "Options": [
+            "a) Iso-parametric",
+            "b) Axi-Symmetric",
+            "c) Super-parametric",
+            "d) Sub-parametric",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 348,
+        "Question": "Which option is not correct about the Lagrange rectangular element used in FEM?",
+        "Options": [
+            "a) Second-order Lagrange element has nine nodes",
+            "b) Zero-order Lagrange element has one node",
+            "c) First-order Lagrange element has four nodes",
+            "d) Third-order Lagrange element has fifteen nodes",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 349,
+        "Question": "Which option is not correct about the Lagrange family of triangular elements used in FEM?",
+        "Options": [
+            "a) 2nd-degree polynomial corresponds to 6 noded triangle",
+            "b) 0th-degree polynomial corresponds to 1 noded triangle",
+            "c) 1st-degree polynomial corresponds to 3 noded triangle",
+            "d) 3rd-degree polynomial corresponds to 9 noded triangle",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 350,
+        "Question": "What is the number of nodes present on the boundary of the Lagrange quadratic rectangular element used in FEM?",
+        "Options": [
+            "a) 1",
+            "b) 4",
+            "c) 8",
+            "d) 9",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 351,
+        "Question": "Which nodes of the higher-order elements of the Lagrange family do not contribute to the inter-element connectivity?",
+        "Options": [
+            "a) Interior nodes",
+            "b) All nodes",
+            "c) Corner nodes",
+            "d) Intermediate nodes",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 352,
+        "Question": "What is the reason for an element in the Serendipity family to have a smaller size of stiffness matrix compare to a similar element in the Lagrange family?",
+        "Options": [
+            "a) Absence of interior nodes",
+            "b) Modified element connectivity",
+            "c) Lesser interpolation functions",
+            "d) Irregular arrangements of nodes",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 353,
+        "Question": "In mathematical modeling of a process, which option is not a characteristic of an analytical solution?",
+        "Options": [
+            "a) Mathematical equations are used to describe a process",
+            "b) Most practical problems cannot be solved",
+            "c) Exact information on the quantities of interest is obtained",
+            "d) Finite element method is used",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 354,
+        "Question": "In mathematical modeling of a process, which option is not a characteristic of a numerical solution method?",
+        "Options": [
+            "a) It does not give exact information on the quantities of interest",
+            "b) A set of assumptions are made about the process",
+            "c) Applicable to simple problems only",
+            "d) Finite element method is used",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 355,
+        "Question": "In FEM, which option is not correct with respect to the generation of element geometries?",
+        "Options": [
+            "a) It involves coordinate transformation",
+            "b) It is based on a one-to-many mapping",
+            "c) A point in actual element maps uniquely to master element",
+            "d) Tiny interior angles are avoided",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 356,
+        "Question": "In the generation of element geometries, if dx dy represents an area element in the real element and dεdη represents the corresponding area element in the master element, then what is the expression for Jacobian je?",
+        "Options": [
+            "a) (dx dy) (dεdη)",
+            "b) \\(\\frac{dx}{d\\epsilon} \\frac{dy}{d\\eta}\\) ",
+            "c) \\(\\frac{d\\epsilon}{dx} \\frac{d\\eta}{dy}\\) ",
+            "d) \\(\\frac{1}{(dx dy) (d\\epsilon d\\eta)}\\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 357,
+        "Question": "In the generation of element geometries, for what value of je, the element geometries lie within the limits of acceptable distortion?",
+        "Options": [
+            "a) je>0",
+            "b) je<0",
+            "c) je=0",
+            "d) Any real value of je",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 358,
+        "Question": "For a finite element mesh to be valid, which option is not true regarding the elements used?",
+        "Options": [
+            "a) The number of elements used is not exact",
+            "b) Elements can be of different orders",
+            "c) Elements can be of different types",
+            "d) The choice of elements and mesh is problem-independent",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 359,
+        "Question": "A finite element mesh is refined by subdividing existing elements into two or more elements of the same type, what is the name of such a refinement?",
+        "Options": [
+            "a) h-version mesh refinement",
+            "b) p-version mesh refinement",
+            "c) h, p-version mesh refinement",
+            "d) p, h-version mesh refinement",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 360,
+        "Question": "In FEM, which option is the most realistic representation of the actual force between deformable bodies?",
+        "Options": [
+            "a) Point load",
+            "b) Uniformly varying load",
+            "c) Sine distribution",
+            "d) Uniformly distributed load",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 361,
+        "Question": "In solid mechanics, what does linearized elasticity deal with?",
+        "Options": [
+            "a) Small deformations in linear elastic solids",
+            "b) Large deformations in linear elastic solids",
+            "c) Large deformations in non-Hookean solids",
+            "d) Small deformations in non-Hookean solids",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 362,
+        "Question": "For plane elasticity problems in three dimensions, which option is not responsible for making the solutions independent of one of the dimensions?",
+        "Options": [
+            "a) Geometry",
+            "b) Boundary conditions",
+            "c) Externally applied loads",
+            "d) Material",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 363,
+        "Question": "For a plane strain problem, which strain value is correct if the problem is characterized by the displacement field ux=ux(x,y), uy=uy(x,y) and uz=0?",
+        "Options": [
+            "a) εxy=0",
+            "b) εxz=0",
+            "c) εyz≠0",
+            "d) εxz≠0",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 364,
+        "Question": "Underplane strain condition, what is the value of εyy if the problem is characterized by the displacement field ux=2x+3y, uy=5y2, and uz=0?",
+        "Options": [
+            "a) 10y",
+            "b) 5y",
+            "c) 3",
+            "d) 0",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 365,
+        "Question": "5.For a plane strain problem, the relation between stress and strain components for an orthotropic material is σ=Cε. Which option is the correct structure of the matrix C?",
+        "Options": [
+            "a) \\(\\begin{pmatrix}\\bar{c}_{11} & \\bar{c}_{12} & 0 \\\\\\bar{c}_{12} & \\bar{c}_{22} & 0 \\\\0 & 0 & \\bar{c}_{66} \\end{pmatrix}\\) ",
+            "b) \\(\\begin{pmatrix}\\bar{c}_{11} & 0 & \\bar{c}_{13} \\\\\\bar{c}_{12} & \\bar{c}_{22} & 0 \\\\0 & 0 & \\bar{c}_{66} \\end{pmatrix}\\) ",
+            "c) \\(\\begin{pmatrix}\\bar{c}_{11} & \\bar{c}_{12} & 0 \\\\-\\bar{c}_{12} & \\bar{c}_{22} & 0 \\\\0 & 0 & \\bar{c}_{66} \\end{pmatrix}\\) ",
+            "d) \\(\\begin{pmatrix}\\bar{c}_{11} & -\\bar{c}_{12} & 0 \\\\\\bar{c}_{12} & \\bar{c}_{22} & 0 \\\\0 & 0 & \\bar{c}_{66} \\end{pmatrix}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 366,
+        "Question": "For an orthotropic material, if E and v represent Young’s modulus and the poisons ratio, respectively, then what is the value of v12 if E1=200 Gpa, E2=160 Gpa and v21=0.25?",
+        "Options": [
+            "a) 0.3125",
+            "b) 0.05",
+            "c) 0.2125",
+            "d) 0.3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 367,
+        "Question": "Under plane stress condition in the XYZ Cartesian system, which stress value is correct if a problem is characterized by the stress field σxx=σxx(x,y), σyy=σyy(x,y) and σzz=0?",
+        "Options": [
+            "a) σxy=0",
+            "b) σyx≠0",
+            "c) σzx≠0",
+            "d) σyz≠0",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 368,
+        "Question": "For theplane stress problem in XYZ Cartesian system, σxx=σxx(x,y), σyy=σyy(x,y) and σzz=0, which option is correct regarding the associated strain field?",
+        "Options": [
+            "a) εxx=0",
+            "b) εyx=0",
+            "c)  εzx=0",
+            "d)  εyy=0",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 369,
+        "Question": "In solid mechanics, which option is not a characteristic of a plane stress problem in the XYZ Cartesian system?",
+        "Options": [
+            "a) One dimension is very small compared to the other two dimensions",
+            "b) All external loads are coplanar",
+            "c) Strain along any one direction is zero",
+            "d) Stress along any one direction is zero",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 370,
+        "Question": "In solid mechanics, what is the correct vector form of the equations of motion for a plane elasticity problem?",
+        "Options": [
+            "a) D*σ+f=ρü",
+            "b) D*σ+f=ρu̇",
+            "c) D2*σ+f=ρü",
+            "d) D*σ+f=ρu",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 371,
+        "Question": "For plane elasticity problems, which type of boundary condition is represented by the equation tx≡σxxnx+σxyny, where tx is surface traction force and n is direction cosine?",
+        "Options": [
+            "a) Essential boundary condition",
+            "b) Natural boundary condition",
+            "c) Both Essential and natural boundary conditions",
+            "d) Dirichlet boundary condition",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 372,
+        "Question": "In FEM, which method is not used to construct the weak forms and associated finite element model of the plane elasticity equations?",
+        "Options": [
+            "a) Principle of virtual displacements",
+            "b) The principle of minimum total potential energy",
+            "c) Weak form of governing differential equations",
+            "d) Hamiltonian principle",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 373,
+        "Question": "In constructing the weak forms of plane elasticity problems, which option is not related to the principle of virtual displacements?",
+        "Options": [
+            "a) Displacements to strains",
+            "b) Strains to stresses",
+            "c) The equations of motion",
+            "d) Body forces",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 374,
+        "Question": "What is the correct form of the principle of virtual displacements applied to plane finite elastic element If Ve is the volume of element and se is its surface?",
+        "Options": [
+            "a) 0=\\(\\int_{V_e}\\)(σijδεij+ρüiδui)dV-\\(\\int_{V_e}\\)fiδuidV-∮se\\(\\hat{t_i}\\)δuids",
+            "b) 0=\\(\\int_{V_e}\\)(σijδεij+ρu̇iδui)dV-\\(\\int_{V_e}\\)fiδuidV-∮se \\(\\hat{t_i}\\)δuids",
+            "c) 0=\\(\\int_{V_e}\\)(σijδεij+ρüiδui)dV+\\(\\int_{V_e}\\)fiδuidV-∮se \\(\\hat{t_i}\\)δuids",
+            "d) 0=\\(\\int_{V_e}\\)(σijδεij+ρu̇iδui)dV\\(\\int_{V_e}\\)fiδuidV+∮se \\(\\hat{t_i}\\)δuids",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 375,
+        "Question": "In the weak form of the principle of virtual displacements, 0=\\(\\int_{V_e}\\)(σijδεij+ρüiδui)dV-\\(\\int_{V_e}\\)fiδuidV-∮set̂iδuids , applied to plane finite elastic element,which term corresponds to virtual strain energy stored in the body?",
+        "Options": [
+            "a) \\(\\int_{V_e}\\)(σijδεij)dV",
+            "b) ∮set̂ iδuids",
+            "c) \\(\\int_{V_e}\\)(ρü iδui)dV",
+            "d) \\(\\int_{V_e}\\)fiδuidV",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 376,
+        "Question": "In the weak form of the principle of virtual displacements applied to a plane elastic finite element, what does the term \\(\\int_{V_e}\\)(ρü iδui)dV correspond to?",
+        "Options": [
+            "a) Virtual strain energy",
+            "b) Kinetic energy",
+            "c) Virtual work done by the body force",
+            "d) Virtual work done by the surface traction",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 377,
+        "Question": "Under plane elasticity, which force is responsible for doing the virtual work \\(\\int_{V_e}\\)fiδuidV in the weak form of the principle of virtual displacements?",
+        "Options": [
+            "a) Body force",
+            "b) Concentrated loads",
+            "c) Surface traction force",
+            "d) Pressure force",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 378,
+        "Question": "For a plane elasticity problem, which term in the weak form of the principle of virtual displacements is affected by a change in the applied surface traction forces?",
+        "Options": [
+            "a) \\(\\int_{V_e}\\)(σijδεij)dV",
+            "b) ∮set̂ iδuids",
+            "c) \\(\\int_{V_e}\\)(ρü iδui)dV",
+            "d) \\(\\int_{V_e}\\)fiδuidV",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 379,
+        "Question": "For plane elasticity problems, which option represents the essential boundary conditions among the governing equations?",
+        "Options": [
+            "a) Displacements, ux and uy  at the boundary",
+            "b) Surface traction at the boundary",
+            "c) The displacements (ux and uy) and surface traction at the boundary",
+            "d) Stresses in the element",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 380,
+        "Question": "What can one conclude about the displacement components ux and uy in the finite element model of the plane elasticity equations?",
+        "Options": [
+            "a) They are primary variables and must be carried as primary nodal degrees of freedom",
+            "b) They are secondary variables and must be carried as primary nodal degrees of freedom",
+            "c) They are primary variables and must be carried as secondary nodal degrees of freedom",
+            "d) They are secondary variables and must be carried as secondary nodal degrees of freedom",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 381,
+        "Question": "Which interpolation functions must be used for the primary variables in weak forms of plane elasticity equations?",
+        "Options": [
+            "a) Hermite family interpolation function",
+            "b) Lagrange family interpolation function",
+            "c) Hierarchical interpolation function",
+            "d) Quadratic interpolation function",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 382,
+        "Question": "What are the simplest elements that fit for the finite element model of the plane elasticity equations?",
+        "Options": [
+            "a) Linear triangular and quadratic quadrilateral elements",
+            "b) Quadratic triangular and linear quadrilateral elements",
+            "c) Linear triangular and linear quadrilateral elements",
+            "d) Quadratic triangular and quadratic quadrilateral elements",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 383,
+        "Question": "What is the correct statement regarding the shape function S of a linear triangular element?",
+        "Options": [
+            "a) The first derivatives of S and hence, all the strains are element-wise constant",
+            "b) The first derivatives of S are linear, but the strains are element-wise constant",
+            "c) The first derivatives of S and hence the strains are linear functions",
+            "d) The first derivatives of S are element-wise constant, but the strains are linear",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 384,
+        "Question": "What is the other name of a linear triangular element for plane elasticity problems?",
+        "Options": [
+            "a) Constant-strain triangle",
+            "b) Linear-strain triangle",
+            "c) Quadratic-strain triangle",
+            "d) Variable-strain triangle",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 385,
+        "Question": "What is the function on   \\(\\frac{\\partial s}{\\partial n}\\) if S (n, e) denotes the shape function of a linear quadrilateral element?",
+        "Options": [
+            "a) Linear in e and constant in n",
+            "b) Constant in e and Linear in n",
+            "c) Linear in both e and n",
+            "d) Constant in both e and n",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 386,
+        "Question": "For a linear triangular element, what is the order of matrix B in the strain-displacement relation ε=BD, where D denotes the displacement matrix?",
+        "Options": [
+            "a) 6×3",
+            "b) 3×6",
+            "c) 3×8",
+            "d) 8×3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 387,
+        "Question": "For a linear quadrilateral element, what is the order of matrix B in the strain-displacement relation ε=BD, where D denotes the displacement matrix?",
+        "Options": [
+            "a) 6×3",
+            "b) 3×6",
+            "c) 3×8",
+            "d) 8×3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 388,
+        "Question": "Which form of a periodic solution is sought for the natural vibration study of plane elastic bodies?",
+        "Options": [
+            "a) {Δ}={Δ0}eiωt",
+            "b) {Δ}={Δ0}e-iω",
+            "c) {Δ}={Δ0}e-iωt",
+            "d) {Δ}={Δ0}e-iω/t",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 389,
+        "Question": "Which option is correct for the first derivative of the shape function S in the study of plane elasticity problems?",
+        "Options": [
+            "a) It is element-wise constant for triangular element whereas not a constant for quadrilateral element",
+            "b) It is element-wise constant for both the triangular element as well as a quadrilateral element",
+            "c) It is not a constant for triangular element whereas element-wise constant for quadrilateral element",
+            "d) It is a combination of a linear function and constant for both the triangular element and a quadrilateral element",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 390,
+        "Question": "In the Finite Element Method, which expression is correct for a linear triangular element if S is the shape function, Ae is its area, and K is a constant?",
+        "Options": [
+            "a) \\(\\frac{\\partial S}{\\partial x}=\\frac{K}{A_e}\\) ",
+            "b) \\(\\frac{\\partial S}{\\partial y}=\\frac{K}{A_e^2}\\) ",
+            "c) \\(\\frac{\\partial S}{\\partial x}\\)=KAe",
+            "d) \\(\\frac{\\partial S}{\\partial y}\\)=KAe2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 391,
+        "Question": "In Finite Element Analysis, what is the correct load vector for a linear triangular element with area Ae, thickness he and uniform body force vector f?",
+        "Options": [
+            "a) \\(\\frac{A_e h_e}{4}\\)f ",
+            "b) \\(\\frac{A_e h_e}{3}\\)f ",
+            "c) \\(\\frac{h_e}{3A_e}\\)f ",
+            "d) \\(\\frac{h_e}{4A_e}\\)f ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 392,
+        "Question": "In Finite Element Analysis, what is the correct load vector for the linear quadrilateral element with area Ae, thickness he and uniform body force vector f?",
+        "Options": [
+            "a) \\(\\frac{A_e h_e}{4} \\)f ",
+            "b) \\(\\frac{A_e h_e}{3}\\)f ",
+            "c) \\(\\frac{h_e}{3A_e}\\)f ",
+            "d) \\(\\frac{h_e}{4A_e}\\)f ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 393,
+        "Question": "Which option is not correct concerning the internal load vector in the finite element model of plane elasticity problems?",
+        "Options": [
+            "a) It is computed at all the nodes interior of the element",
+            "b) It is computed only when the element falls on the boundary of the domain on which tractions are known",
+            "c) Its computation doesn’t involve evaluation of line integrals for any type of element",
+            "d) It is evaluated in global coordinates but not in element coordinates",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 394,
+        "Question": "In Finite Element Analysis, which option is correct for computation of load due to specified boundary stress?",
+        "Options": [
+            "a) Can be computed using a local coordinate system and one-dimensional interpolation functions",
+            "b) Can be computed using a local coordinate system but not one-dimensional interpolation functions",
+            "c) Cannot be computed using a local coordinate system but one-dimensional interpolation functions can be used",
+            "d) Neither a local coordinate system nor one-dimensional interpolation functions can be used",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 395,
+        "Question": "In the Finite Element Method, which element is known for the slowest convergence?",
+        "Options": [
+            "a) Linear triangular element",
+            "b) Quadratic triangular element",
+            "c) Linear rectangular elements",
+            "d) Quadratic rectangular elements",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 396,
+        "Question": "What is the total size of the assembled stiffness matrix of a plane elastic structure such that its finite element mesh has eight nodes and two degrees of freedom at each node?",
+        "Options": [
+            "a) 16×16",
+            "b) 8×8",
+            "c) 2×2",
+            "d) 4×4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 397,
+        "Question": "For time-dependent problems in FEA, which variables must be specified for each component of the displacement field problems?",
+        "Options": [
+            "a) The initial displacement and velocity",
+            "b) The initial displacement only",
+            "c) The final velocity",
+            "d) The initial displacement and final velocity",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 398,
+        "Question": "For fluid flows, which expression does not characterize the slow flow of a viscous and incompressible fluid in a closed domain?",
+        "Options": [
+            "a) v.∇v=0",
+            "b) μ≠0",
+            "c) =0",
+            "d) =0",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 399,
+        "Question": "In mathematical modeling, for which option, a fluid flow can be approximated by a two-dimensional model?",
+        "Options": [
+            "a) One of the dimensions is very small, and there is some flow along with it",
+            "b) One of the dimensions is very long, and there is no flow along with it",
+            "c) One of the dimensions is very long, and there is some flow along with it",
+            "d) The velocity components in two directions vary along the third direction",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 400,
+        "Question": "For fluid flows obeying conservation of mass, what is the value of k if v=4x+ky denotes the velocity at any point in the flow?",
+        "Options": [
+            "a) -4",
+            "b) 4",
+            "c) -2",
+            "d) 2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 401,
+        "Question": "In the formulation of the finite element model for fluids flows, which option is not correct about the penalty formulation?",
+        "Options": [
+            "a) The continuity equation is an additional relation among the velocity components",
+            "b) The constraint is satisfied in an approximate sense",
+            "c) Uses the penalty function method",
+            "d) Involves natural and direct formulation of momentum and continuity equations",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 402,
+        "Question": "Which statement is not true regarding the variables present in the viscous ﬂow problems?",
+        "Options": [
+            "a) Velocity components are zero on ﬁxed walls",
+            "b) Shear stress is zero along the line of symmetry",
+            "c) Vertical velocity component vy and horizontal stress tx must be zero along the horizontal line of symmetry",
+            "d) Shear stress is non zero along the line of symmetry",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 403,
+        "Question": "In velocity-pressure formulation in FEM, which step is not used in the development of a weak form?",
+        "Options": [
+            "a) Multiply governing equations with weight functions",
+            "b) Integrating over the element domain",
+            "c) Integrating by parts",
+            "d) Performing coordinate transformation",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 404,
+        "Question": "In the formulation of governing equations, which option does not signify the characteristics of a weight function?",
+        "Options": [
+            "a) Weight functions are multiplied to governing equations to obtain weak forms",
+            "b) Weight functions are interpreted from the physical setup of the problem",
+            "c) Weight function must denote a non-dimensional quantity",
+            "d) Weight function can be interpreted as a velocity",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 405,
+        "Question": "For a governing equation, what does one conclude from the weak formulation if it does not contain boundary integral involving weight function?",
+        "Options": [
+            "a) Integration by parts is used",
+            "b) Integration by parts is not used",
+            "c) The weight function is as a primary variable",
+            "d) The weight function is to be made continuous across inter-element boundaries",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 406,
+        "Question": "Using constitutive relations, what is the value of τxxif μ=0.3 and v=4x?",
+        "Options": [
+            "a) 0.24",
+            "b) 2.4",
+            "c) 0.12",
+            "d) 1.2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 407,
+        "Question": "Using constitutive relations, what is the value of τxyif μ=0.3 and v=4xy-6y?",
+        "Options": [
+            "a) 0.24x",
+            "b) 2.4x",
+            "c) 0.12x",
+            "d) 1.2x",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 408,
+        "Question": "Which option is not correct concerning the pressure variable, P in the weak form of the momentum and continuity equation?",
+        "Options": [
+            "a) P is a primary variable",
+            "b) P is a part of the secondary variables",
+            "c) P=constant is the minimum continuity requirement for interpolation",
+            "d) It is discontinuous across inter-element boundaries",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 409,
+        "Question": "Which option is not correct concerning the velocity variables, vx and vy in the weak form of the momentum and continuity equation?",
+        "Options": [
+            "a) They are primary variables",
+            "b) The minimum continuity requirement for interpolation is that they are linear in x and y",
+            "c) The minimum continuity requirement for interpolation is that they are constant",
+            "d) They are continuous across the inter-element boundary",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 410,
+        "Question": "Which equation is the correct vector form of the finite element model of momentum and continuity equations in the flow domain?",
+        "Options": [
+            "a) MΔ+K11Δ+K12P=0",
+            "b) MΔ+K11Δ+K22P=F1",
+            "c) MΔ+K22Δ+K12P=F1",
+            "d) MΔ+K11Δ+K12P=F1",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 411,
+        "Question": "For the vector form of the finite element model of momentum and continuity equations MΔ+K11Δ+K12P=0, what is the correct expression for mass matrix M?",
+        "Options": [
+            "a) M=∫ΩcρψTψdx",
+            "b) M=∫ΩcfψTψdx",
+            "c) M=∫ΩctψTψdx",
+            "d) M=∫ΩcPψTψdx",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 412,
+        "Question": "For the vector form of the finite element model of momentum and continuity equations MΔ+K11Δ+K12P=0 what is the order of matrix F if the order of M is 2n x 2n?",
+        "Options": [
+            "a) 2n x 1",
+            "b) 1 x 2n",
+            "c) m x 2n",
+            "d) 2n x m",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 413,
+        "Question": "Which type of problem can be obtained by reformulating a problem with differential constraints by using the penalty method?",
+        "Options": [
+            "a) A problem with no constraints",
+            "b) A problem with variable constraints",
+            "c) A problem with fixed constraints",
+            "d) A problem with structural constraints",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 414,
+        "Question": "In the interest of the simple formulation of viscous flows, which case does not involve time derivative terms?",
+        "Options": [
+            "a) Static case",
+            "b) Transient case",
+            "c) Unsteady case",
+            "d) Non-periodic",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 415,
+        "Question": "In the weak forms of the fluid flow model, as the weight functions (w1, w2) are virtual variations of the velocity components(vx, vy ),respectively, which relation is satisfied by the weight functions?",
+        "Options": [
+            "a) \\(\\frac{\\partial w1}{\\partial x}+\\frac{\\partial w2}{\\partial y}\\)=0",
+            "b) \\(\\frac{\\partial w2}{\\partial x}+\\frac{\\partial w1}{\\partial y}\\)=0",
+            "c) \\(\\frac{\\partial w1}{\\partial x}-\\frac{\\partial w2}{\\partial y}\\)=0",
+            "d) \\(\\frac{\\partial w2}{\\partial x}-\\frac{\\partial w1}{\\partial y}\\)=0",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 416,
+        "Question": "In finite element modeling, which formulation introduces constraints on variables and satisfies them in an approximate sense?",
+        "Options": [
+            "a) Velocity-pressure formulation",
+            "b) Penalty formulation",
+            "c) Mixed formulation",
+            "d) Lagrange multiplier formulation",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 417,
+        "Question": "In the formulation of the finite element model, which option is the complete restated form of the weak forms of viscous fluids flow equations?",
+        "Options": [
+            "a) Only Bt(w,v)+Bv(w,v)-B̅p(w,P)=l(w)",
+            "b) Bt(w,v)+Bv(w,v)-B̅p(w,P)=l(w) and –Bp(w3, v)=0",
+            "c) Only –Bp(w3, v)=0",
+            "d) Bt(w,v)+Bv(w,v)-B̅p(w,P)=0",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 418,
+        "Question": "Which option is not correct concerning the bilinear term B(v,w) in the variational problem of the viscous fluid flow equation?",
+        "Options": [
+            "a) It is symmetric",
+            "b) It contains the viscosity matrix",
+            "c) Bv(w,v)= Bv(v,w)",
+            "d) It is bilinear in both w and v",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 419,
+        "Question": "In the variational problem of fluid flow, what is the correct matrix form of C in the bilinear form Bv(w,v)=∫Ωe(Dw)TC(Dv)dx?",
+        "Options": [
+            "a) \\(\\begin{pmatrix}2&0&0\\\\0&2&0\\\\0&0&1\\end{pmatrix}\\) ",
+            "b) μ\\(\\begin{pmatrix}2&0&0\\\\0&1&0\\\\0&0&2\\end{pmatrix}\\) ",
+            "c) μ\\(\\begin{pmatrix}2&0&0\\\\0&2&0\\\\0&0&1\\end{pmatrix}\\) ",
+            "d) μ\\(\\begin{pmatrix}1&0&0\\\\0&2&0\\\\0&0&2\\end{pmatrix}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 420,
+        "Question": "For the given weight functions [2x 3y] and applied pressure of 3pa, what is the value of K if B̅p(w,P)=∫ΩeKdx denotes the bilinear term in the variational problem of fluid flow?",
+        "Options": [
+            "a) 5",
+            "b) 10",
+            "c) 15",
+            "d) 20",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 421,
+        "Question": "Which option is correct regarding constraints in the viscous flow problems governed by the continuity and momentum equation?",
+        "Options": [
+            "a) Constrains are readily available",
+            "b) Constraints are created by the elimination of pressure",
+            "c) Constraints are created by the elimination of velocity",
+            "d) No constraints are dealt with in penalty formulation",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 422,
+        "Question": "In the finite element method, which option is not a natural and direct formulation of momentum and continuity equations?",
+        "Options": [
+            "a) Velocity-pressure formulation",
+            "b) Penalty formulation",
+            "c) Mixed formulation",
+            "d) Lagrange multiplier formulation",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 423,
+        "Question": "For the functional Iv(v)=\\(\\frac{1}{2}\\)Bv(v,v)-l(v), which option is equivalent to the equations governing steady flows of viscous incompressible fluids?",
+        "Options": [
+            "a) Minimize   lv",
+            "b) Maximize  lv",
+            "c) Stationary   lv",
+            "d) Derivative of     lv",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 424,
+        "Question": "In FEM, what is the characteristic of the problem with the functional Iv(v) representing governing equations of steady viscous incompressible flows?",
+        "Options": [
+            "a) It is subjected to constraint  \\(\\frac{\\partial v_x}{\\partial x}+\\frac{\\partial v_y}{\\partial y}\\)=0 ",
+            "b) It is an unconstrained problem",
+            "c) It can be reformulated as a constrained one, by using the penalty method",
+            "d) It cannot be reformulated as an unconstrained one, by using the penalty method",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 425,
+        "Question": "For the functional  IL(v,λ)≡Iv(v)+∫ΩcλG(v)dxdy, what is the necessary condition for IL to have a stationary value?",
+        "Options": [
+            "a) δvxIL+δvyIL+δλIL=0",
+            "b) δvxIL-δvyIL-δλIL=0",
+            "c)  δvxIL-δvyIL+δλIL=0",
+            "d)  δvxIL+δvyIL-δλIL=0",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 426,
+        "Question": "In FEM, which option is a negative aspect of the mixed formulation?",
+        "Options": [
+            "a) Presence of zeros on matrix diagonals corresponding to pressure variable",
+            "b) Involves a natural and direct formulation",
+            "c) It is a velocity-pressure formulation",
+            "d) It is similar to the Lagrange multiplier method",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 427,
+        "Question": "In FEM, what does the simple two-dimensional plate theories account for?",
+        "Options": [
+            "a) The kinematics of bending deformation of thin bodies without to transverse loads",
+            "b) The kinematics of bending deformation of thin bodies subjected to transverse loads",
+            "c) Thin bodies subjected to transverse loads without bending deformation",
+            "d) Thin plates subjected to transverse loads with bending deformation",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 428,
+        "Question": "Which option is correct about an analog of a plate in simple plate theory used in FEM?",
+        "Options": [
+            "a) A plate is a one-dimensional analog of a beam",
+            "b) A plate is a two-dimensional analog of a beam",
+            "c) A plate is a three-dimensional analog of a beam",
+            "d) A plate is not analogous to beam",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 429,
+        "Question": "In FEM, which principle is used to derive the governing equations of displacement-based plate theories?",
+        "Options": [
+            "a) The principle of virtual forces",
+            "b) The principle of virtual work",
+            "c) The principle of virtual displacements",
+            "d) The principle of least energy",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 430,
+        "Question": "In FEM, which theory is an extension of the Euler-Bernoulli beam theory?",
+        "Options": [
+            "a) Classical Plate Theory",
+            "b) Shear Deformation Theory",
+            "c) Hencky-Mindlin plate theory",
+            "d) Shell theory",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 431,
+        "Question": "In displacement-based plate theories, which option is not an assumption of Classical Plate Theory (CPT)?",
+        "Options": [
+            "a) A straight line perpendicular to the plane of the plate is inextensible",
+            "b) A straight line perpendicular to the plane of the plate remains straight",
+            "c) A straight line perpendicular to the plane of the plate remains straight and does not rotate",
+            "d) A straight line perpendicular to the plane of the plate rotates such that it remains perpendicular to the tangent to the deformed surface",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 432,
+        "Question": "Which option specifiesan assumption made in Classical Plate Theory for a plate lying in the plane XY?",
+        "Options": [
+            "a) εzz=0",
+            "b) εxz≠0",
+            "c) εyz≠0",
+            "d) εxy=0",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 433,
+        "Question": "In FEM, what are the primary variables in the Classical Plate Theory of plate deformation (w)?",
+        "Options": [
+            "a) The transverse deflection w only",
+            "b) The transverse deflection w and the normal derivative of w",
+            "c) The normal derivative of w only",
+            "d) The normal and the time derivative of w",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 434,
+        "Question": "12.How many termpolynomial is used in the approximation of w for a three noded triangular element with three DOF at each node?",
+        "Options": [
+            "a) 9-term",
+            "b) 18-term",
+            "c) 6-term",
+            "d) 12-term",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 435,
+        "Question": "In Classical Plate Theory, what is the correct comment for the polynomial w=a1+a2x+a3y+a4xy+a5x2+a6y2+a7(x2y+xy2)+a8x3+a9y3?",
+        "Options": [
+            "a) It is used in the approximation of deflection for a rectangular element",
+            "b) It is a complete third order polynomial",
+            "c) It’s an incomplete third order polynomial",
+            "d) w varies as a quadratic along any line x=constant",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 436,
+        "Question": "In Classical Plate Theory, how many triangles assemble to give a conforming triangular element with DOF w, \\(\\frac{dw}{dy}\\) and \\(\\frac{dw}{dy}\\) at each vertex?",
+        "Options": [
+            "a) 1",
+            "b) 3",
+            "c) 4",
+            "d) 12",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 437,
+        "Question": "In FEM, which theory is an extension of the Timoshenko beam theory?",
+        "Options": [
+            "a) Classical Plate Theory",
+            "b) Hencky-Mindlin plate theory",
+            "c) Kirchhoff plate theory",
+            "d) Shell theory",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 438,
+        "Question": "In FEM, what are the primary variables in the Shear Deformation Theory of plate deformation (w)?",
+        "Options": [
+            "a) The transverse deflection w only",
+            "b) The transverse deflection w and the normal derivative of w",
+            "c) The transverse deflection w and the angles of rotation of the transverse normal about in-plane axes",
+            "d) The angles of rotation of the transverse normal about in-plane axes only",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 439,
+        "Question": "Which equation correctly describes Hamilton’s principle used in FEM?",
+        "Options": [
+            "a) 0=\\(\\int_{t_1}^{t_2}\\)[δK-(δU+δV)]dt",
+            "b) 0=\\(\\int_{t_1}^{t_2}\\)t[δK-(δU+δV)]dt",
+            "c) 0=\\(\\int_{t_1}^{t_2}\\)[δK+(δU+δV)]dt",
+            "d) 0=\\(\\int_{t_1}^{t_2}\\)t[-δK+(δU+δV)]dt",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 440,
+        "Question": "In displacement-based plate theories, which option is correct about Shear Deformation Theory (SDT)?",
+        "Options": [
+            "a) It is also called Kirchhoff plate theory",
+            "b) It is an extension of Euler-Bernoulli beam theory from one dimension to two dimensions",
+            "c) It does not involve Timoshenko beam theory",
+            "d) It is often known as Hencky-Mindlin plate theory",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 441,
+        "Question": "In displacement-based plate theories, which assumption of Classical Plate Theory is relaxed in Shear Deformation Theory?",
+        "Options": [
+            "a) A straight-line perpendicular to the plane of the plate is inextensible",
+            "b) A straight line perpendicular to the plane of the plate remains straight",
+            "c) A straight line perpendicular to the plane of the plate rotates such that it remains perpendicular to the tangent to the deformed surface",
+            "d) A straight line perpendicular to the plane of the plate rotates",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 442,
+        "Question": "Which option specifies an assumption made in Shear Deformation Theory for a plate lying in the plane XY?",
+        "Options": [
+            "a) εzz≠0",
+            "b) εxz=0",
+            "c) εyz≠0",
+            "d) εxy=0",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 443,
+        "Question": "In SDT, what are the boundary conditions for a plate that is clamped if ф represents the rotation of the transverse normal about an in-plane axis and w is the transverse deflection?",
+        "Options": [
+            "a) w=0,\\(\\frac{\\partial w}{\\partial n}\\)=0",
+            "b) w=0,ф=0",
+            "c) w=0,\\(\\frac{\\partial w}{\\partial n}\\)≠0 ",
+            "d) w=0, Mnn=0",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 444,
+        "Question": "In SDT, what are the boundary conditions for a plate that is simply supported if ф represents the rotation of the transverse normal about an in-plane axis and w is the transverse deflection?",
+        "Options": [
+            "a) w=0,\\(\\frac{\\partial w}{\\partial n}\\)=0",
+            "b) w=0,ф=0",
+            "c) w=0,\\(\\frac{\\partial w}{\\partial n}\\)≠0 ",
+            "d) w=0, Mnn=0",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 445,
+        "Question": "In FEM, which option is correct for a linear plate theory based on infinitesimal strains and orthotropic material properties?",
+        "Options": [
+            "a) The plane elasticity equations govern the transverse deflections",
+            "b) The transverse deflections are coupled with in-plane displacements",
+            "c) The in-plane displacements are zero in the absence of in-plane forces",
+            "d) The transverse deflections are zero in the absence of in-plane forces",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 446,
+        "Question": "In the Shear Deformation plate theory, when does the transverse shear strains in the element equations present computational difficulties?",
+        "Options": [
+            "a) If the plate is thick",
+            "b) If the side to thickness ratio of the plate is large",
+            "c) If the side to thickness ratio of the plate is small",
+            "d) If higher-order finite elements are used",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 447,
+        "Question": "In the Shear Deformation plate theory, what characteristic contributes to shear locking?",
+        "Options": [
+            "a) Transverse shear strains in thick plates present computational difficulties",
+            "b) Transverse shear strains in thin plates present computational efficiency",
+            "c) For thick plates, the element stiffness matrix yields erroneous results for the generalized displacements",
+            "d) For thin plates, the element stiffness matrix becomes stiff and yields erroneous results",
+            ""
+        ],
+        "Answer": "Answer: b"
+    }
+]

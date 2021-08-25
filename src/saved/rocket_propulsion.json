@@ -1,0 +1,5714 @@
+[
+    {
+        "id": 1,
+        "Question": "Which of the following is not an air-breathing engine?",
+        "Options": [
+            "a) Turbojet",
+            "b) Turbofan",
+            "c) Rocket",
+            "d) Scramjet",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 2,
+        "Question": "Which of the following is not a valid classification of rocket engines based on their energy source?",
+        "Options": [
+            "a) Chemical",
+            "b) Geothermal",
+            "c) Solar",
+            "d) Nuclear",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 3,
+        "Question": "What is the range of temperature of reaction product gases in a rocket engine?",
+        "Options": [
+            "a) 500 to 1700 °C",
+            "b) 1700 to 2500 °C",
+            "c) 2500 to 4100 °C",
+            "d) 4100 to 6900 °C",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 4,
+        "Question": "Which of the following pressure feed systems is mostly used in attitude control of liquid propellant rocket engine with more than one thrust chamber per engine?",
+        "Options": [
+            "a) The Gas pressure feed system",
+            "b) Pump-fed system",
+            "c) Gravity assisted feed system",
+            "d) No feed system is used",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 5,
+        "Question": "What is the typical liquid propellant feed system used in space launch vehicles?",
+        "Options": [
+            "a) The Gas pressure feed system",
+            "b) Pump-fed system",
+            "c) Gravity assisted feed system",
+            "d) No feed system is used",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 6,
+        "Question": "For a constant thrust of 6000 N, find the total impulse for the burning time of 3s.",
+        "Options": [
+            "a) 36000 Ns",
+            "b) 18000 Ns",
+            "c) 9000 Ns",
+            "d) 0 Ns",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 7,
+        "Question": "Suppose the thrust force of a rocket varies with time t as F = 250(3t2 + 2t). Then find out the total impulse for a burn duration of 4s.",
+        "Options": [
+            "a) 10000 Ns",
+            "b) 20000 Ns",
+            "c) 40000 Ns",
+            "d) 80000 Ns",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 8,
+        "Question": "For a rocket, the specific impulse was found to be 250s. Given that the thrust force is constant and assuming gravity-free and drag-free conditions, what will the thrust force be for a mass flow rate of the form (4t2-3t) kg/s and a burn duration of 3s?",
+        "Options": [
+            "a) 18375 N",
+            "b) 12426 N",
+            "c) 25234 N",
+            "d) 15595 N",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 9,
+        "Question": "Given that the total impulse is 25000 Ns and specific impulse is 300s, find out the effective propellant mass for a burn duration of 8s.",
+        "Options": [
+            "a) 17 kg",
+            "b) 8.5 kg",
+            "c) 34 kg",
+            "d) 68 kg",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 10,
+        "Question": "Consider two rocket engines A and B with A having a specific impulse of 242s and B having a specific impulse of 150s. What can be said about their efficiency?",
+        "Options": [
+            "a) Both A and B are equally efficient",
+            "b) A is more efficient than B",
+            "c) B is more efficient than A",
+            "d) Efficiency doesn’t depend on specific impulse",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 11,
+        "Question": "If the exit pressure is thrice the atmospheric pressure for a rocket A and if it is twice for rocket B, what will be the ratio of pressure thrust of rocket A to that of B?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 12,
+        "Question": "In the expression of pressure thrust, what does the area (A) represent?",
+        "Options": [
+            "a) The cross-sectional area of the throat",
+            "b) The total surface area of the rocket casing",
+            "c) The cross-sectional area of the nozzle exit",
+            "d) The total surface area of the combustion chamber",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 13,
+        "Question": "If Pe represents exit pressure and Pa represents the atmospheric pressure, what is the condition for a nozzle to be overexpanded?",
+        "Options": [
+            "a) Pe < Pa",
+            "b) Pe > Pa",
+            "c) Pe = Pa",
+            "d) Pe = 0.5*Pa",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 14,
+        "Question": "What will happen to thrust and specific impulse as the rocket is propelled to higher altitudes?",
+        "Options": [
+            "a) Thrust decreases, specific impulse increases",
+            "b) Thrust increases, specific impulse increases",
+            "c) Thrust decreases, specific impulse decreases",
+            "d) Thrust increases, specific impulse decreases",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 15,
+        "Question": "The rocket nozzle is usually so designed such that the exhaust pressure is ____ the ambient fluid pressure.",
+        "Options": [
+            "a) greater than",
+            "b) less than",
+            "c) equal to",
+            "d) equal to or slightly higher than",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 16,
+        "Question": "How does the total thrust vary with an extendable nozzle?",
+        "Options": [
+            "a) First increases, then decrease",
+            "b) First decreases, then increase",
+            "c) Keeps on increasing",
+            "d) Keeps on decreasing",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 17,
+        "Question": "A rocket has a throat area of 10 mm2 and nozzle exit area of 25 mm2. If the mass flow rate of its propellants is 2 kg/s, exit velocity is 30 m/s, and if exit pressure is twice the standard atmospheric pressure at sea level, what will be the total thrust?",
+        "Options": [
+            "a) 60 N",
+            "b) 62.53 N",
+            "c) 61.26 N",
+            "d) 65.06 N",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 18,
+        "Question": "Rocket A has twice the pressure thrust of rocket B while it has half the momentum thrust as that of B. If the momentum thrust of B is 5 times its pressure thrust, find the ratio of total thrust of A to B.",
+        "Options": [
+            "a) 0.5",
+            "b) 0.75",
+            "c) 1",
+            "d) 0.25",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 19,
+        "Question": "Consider a rocket engine A and a jet engine B. Which of them will have higher specific impulse?",
+        "Options": [
+            "a) A",
+            "b) B",
+            "c) B doesn’t have a specific impulse",
+            "d) A doesn’t have a specific impulse",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 20,
+        "Question": "If exhaust pressure is Pe and surrounding fluid pressure is Pa, what is the condition for the optimum expansion ratio of a rocket nozzle?",
+        "Options": [
+            "a) Pe=Pa",
+            "b) Pe<Pa",
+            "c) Pe>Pa",
+            "d) Pe=0.5*Pa",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 21,
+        "Question": "A rocket produces a total thrust of 20,000 N. If the mass flow rate of propellants is 16 kg/s, what will be effective exhaust velocity?",
+        "Options": [
+            "a) 1250 m/s",
+            "b) 2500 m/s",
+            "c) 625 m/s",
+            "d) 5000 m/s",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 22,
+        "Question": "What is the characteristic velocity of a rocket if the chamber pressure is 5 MPa, the nozzle throat diameter is 75 mm and the mass flow rate is 25 kg/s?",
+        "Options": [
+            "a) 884 m/s",
+            "b) 1768 m/s",
+            "c) 3536 m/s",
+            "d) 442 m/s",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 23,
+        "Question": "Characteristic velocity is a performance parameter that relates to the efficiency of _____",
+        "Options": [
+            "a) nozzle",
+            "b) combustion chamber",
+            "c) injector",
+            "d) casing",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 24,
+        "Question": "Which of the following variables is not useful in the determination of rocket effective exhaust velocity?",
+        "Options": [
+            "a) Mass flow rate",
+            "b) Exhaust velocity",
+            "c) Rocket velocity",
+            "d) Exit area",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 25,
+        "Question": "If C denotes effective exhaust velocity and Isp is specific impulse, then which of them is a better performance parameter?",
+        "Options": [
+            "a) C",
+            "b) Isp",
+            "c) Both of them are equal",
+            "d) Both of them are equivalent",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 26,
+        "Question": "If mo denotes initial mass, mb denotes burnout mass, then what is the expression for mass ratio?",
+        "Options": [
+            "a) (mo-mb)/mb",
+            "b) (mo-mb)/mo",
+            "c) mb/(mo-mb)",
+            "d) mb/mo",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 27,
+        "Question": "For a rocket traveling at 700 m/s having an exhaust velocity of 1.4 km/s, exhaust gas density of 0.3 kg/m3, nozzle throat diameter of 0.14 cm and nozzle exit diameter of 25 cm, find the total mass flow rate of the propellants.",
+        "Options": [
+            "a) 6.46 kg/s",
+            "b) 103.1 kg/s",
+            "c) 20.62 kg/s",
+            "d) 32.33 kg/s",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 28,
+        "Question": "What constitutes the exhaust gas at the nozzle exit of a chemical rocket engine?",
+        "Options": [
+            "a) combustion products of the propellants",
+            "b) A mixture of combustion products and surrounding air",
+            "c) Surrounding air",
+            "d) Propellants",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 29,
+        "Question": "Which of the following is not part of a rocket nozzle?",
+        "Options": [
+            "a) Convergent section",
+            "b) Divergent section",
+            "c) Throat section",
+            "d) Staggering section",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 30,
+        "Question": "What is the nozzle throat diameter of a rocket having chamber pressure (Pc) of 3 MPa, mass flow rate (m) of 20 kg/s and characteristic velocity (c*) of 1500 m/s?",
+        "Options": [
+            "a) 10 cm",
+            "b) 11.3 cm",
+            "c) 12.8 cm",
+            "d) 25 cm",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 31,
+        "Question": "Which form of energy is most useful for propulsion?",
+        "Options": [
+            "a) The kinetic energy of ejected matter",
+            "b) The chemical energy of combustion of propellants",
+            "c) The potential energy of the rocket at some altitude",
+            "d) The electrical energy of the rocket control system",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 32,
+        "Question": "For a constant gas ejection velocity (v) of 1440 m/s and a mass flow rate (m) of 15 kg/s, find the power of the jet (Pjet).",
+        "Options": [
+            "a) 7.78 MW",
+            "b) 15.55 MW",
+            "c) 31.10 MW",
+            "d) 62.21 MW",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 33,
+        "Question": "If the power of the jet is given to be 25 MW for a chemical rocket having a weight flow rate of 147 N/s, find out the vehicle’s specific impulse.",
+        "Options": [
+            "a) 98.2 s",
+            "b) 372.6 s",
+            "c) 186.3 s",
+            "d) 243.5 s",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 34,
+        "Question": "If a chemical rocket has a jet power of 18 MW, inert mass of 50 kg, a propellant mass of 1000 kg, then what is its specific power?",
+        "Options": [
+            "a) 34.28 kW/kg",
+            "b) 17.14 kW/kg",
+            "c) 8.91 kW/kg",
+            "d) 25.43 kW/kg",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 35,
+        "Question": "What is the way of production of energy in a chemical rocket?",
+        "Options": [
+            "a) Ionization of propellants",
+            "b) Combustion of propellants",
+            "c) Expulsion of propellants",
+            "d) Atomization of propellants",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 36,
+        "Question": "Which of the following Is the maximum energy available per unit mass of chemical propellants?",
+        "Options": [
+            "a) heat of combustion",
+            "b) enthalpy of vaporization",
+            "c) enthalpy of atomization",
+            "d) enthalpy of fusion",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 37,
+        "Question": "For a propulsive device, if power available is denoted by P1, power input by P2, combustion efficiency by e, then which of the following expression is correct?",
+        "Options": [
+            "a) P1=P2*e",
+            "b) P1=P2/e",
+            "c) P1=P2/e2",
+            "d) P1=P2*e2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 38,
+        "Question": "If a propulsion system produces a thrust of 5 kN, exhaust velocity of 4500 m/s, and vehicle velocity of 3000 m/s, what is the power transmitted to the vehicle?",
+        "Options": [
+            "a) 225 MW",
+            "b) 75 MW",
+            "c) 10 MW",
+            "d) 15 MW",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 39,
+        "Question": "Which of the following is not a way of losing energy in a chemical rocket?",
+        "Options": [
+            "a) Poor mixing",
+            "b) Incomplete burning",
+            "c) Heat loss to the walls",
+            "d) Radial combustion propagation",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 40,
+        "Question": "For a rocket having 95% combustion efficiency, total chemical power of 17MW, a mass flow rate of propellants of 15 kg/s, and effective jet exhaust velocity of 1443 m/s, find the internal efficiency of rocket propulsion.",
+        "Options": [
+            "a) 97%",
+            "b) 95%",
+            "c) 93%",
+            "d) 91%",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 41,
+        "Question": "Which of the following is not true about chemical rockets?",
+        "Options": [
+            "a) Relatively low values of specific impulse",
+            "b) Relatively light machinery",
+            "c) Very high thrust capability",
+            "d) Very low specific power",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 42,
+        "Question": "Which of the following vehicles is used where the flight time is long?",
+        "Options": [
+            "a) Electrical propulsion unit",
+            "b) Solid propulsion system",
+            "c) Liquid propulsion system",
+            "d) Hybrid propulsion system",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 43,
+        "Question": "What is a sensible specific impulse value for a nuclear fission type rocket engine among the given options?",
+        "Options": [
+            "a) 300 s",
+            "b) 600 s",
+            "c) 800 s",
+            "d) 2000 s",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 44,
+        "Question": "What is the typical order of magnitude of mass flow rate (in kg/s) for a chemical rocket engine?",
+        "Options": [
+            "a) 10",
+            "b) 0.1",
+            "c) 0.01",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 45,
+        "Question": "Which of the following engines can achieve the maximum specific impulse of 5000 s?",
+        "Options": [
+            "a) Ion-electrostatic",
+            "b) Nuclear fission",
+            "c) Hall effect",
+            "d) Solar heating",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 46,
+        "Question": "What is the propulsion duration of resistojets?",
+        "Options": [
+            "a) Few seconds",
+            "b) Few minutes",
+            "c) Few days",
+            "d) Few weeks",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 47,
+        "Question": "In which of the propulsion systems is the maximum temperature achieved?",
+        "Options": [
+            "a) Chemical",
+            "b) Nuclear",
+            "c) Arc heating",
+            "d) Solar heating",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 48,
+        "Question": "Which of the following types of engines use Xe as a typical working fluid?",
+        "Options": [
+            "a) Resistojets",
+            "b) Electro thermal",
+            "c) Hall effect",
+            "d) Nuclear fission",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 49,
+        "Question": "Which of the following can typically achieve maximum effective exhaust velocity?",
+        "Options": [
+            "a) Electrostatic and electromagnetic",
+            "b) Arcjet",
+            "c) Solar heated H2",
+            "d) Nuclear fission",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 50,
+        "Question": "A rocket engine moving at 500 m/s produces a total thrust of 9563 N, consuming propellants at the rate of 4.55 kg/s. The energy content of the propellants is 5.35 MJ/kg. Find the effective exhaust velocity.",
+        "Options": [
+            "a) 2100 m/s",
+            "b) 3936 m/s",
+            "c) 1555 m/s",
+            "d) 1400 m/s",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 51,
+        "Question": "For an ideal rocket, what should be the nature of the working substance?",
+        "Options": [
+            "a) Homogeneous",
+            "b) Heterogeneous",
+            "c) Anisotropic",
+            "d) Amorphous",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 52,
+        "Question": "What is the allowable amount of heat (in % of total available energy) that can be transferred across the walls of an ideal rocket?",
+        "Options": [
+            "a) 0%",
+            "b) 10%",
+            "c) 15%",
+            "d) 5%",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 53,
+        "Question": "An ideal rocket has a chamber pressure of 1 MPa and a temperature of 1600 K. Determine the density of the combustion product if its molecular mass is 24 kg/kmol.",
+        "Options": [
+            "a) 1.2 kg/m3",
+            "b) 2.4 kg/m3",
+            "c) 1.8 kg/m3",
+            "d) 3.6 kg/m3",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 54,
+        "Question": "Which of the following statements is correct for an ideal rocket?",
+        "Options": [
+            "a) All kinds of frictional effects are not present, but the boundary layer cannot be neglected",
+            "b) All discontinuities are not present, but shock waves are allowable",
+            "c) Propellant flow is steady but constant",
+            "d) The expansion of the working fluid is steady, but need not be uniform",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 55,
+        "Question": "Select the correct option for an ideal rocket engine.",
+        "Options": [
+            "a) The exhaust gases leaving the rocket need not be axially directed",
+            "b) Across any cross-section normal to the nozzle axis, gas velocity need not be uniform",
+            "c) The gas composition can vary across the nozzle",
+            "d) Cryogenic propellants need to be stored at their boiling points",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 56,
+        "Question": "Which of the following relations won’t hold in an ideal rocket engine’s nozzle?",
+        "Options": [
+            "a) Isentropic expansion relations",
+            "b) Conductive heat transfer relations",
+            "c) Homogeneous flow relations",
+            "d) Ideal gas law relations",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 57,
+        "Question": "For typical real rocket engines, what is the approximate amount of energy lost (from the available energy pool) due to heat transfer to the walls of the rocket?",
+        "Options": [
+            "a) 1%",
+            "b) 10%",
+            "c) 5%",
+            "d) 15%",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 58,
+        "Question": "Which of the following is a reasonable depiction of the mass distribution in practical chemical rockets?",
+        "Options": [
+            "a) 50% propellants, 50% inert mass",
+            "b) 10% propellants 90% inert mass",
+            "c) 90% propellants 10% inert mass",
+            "d) 40% propellants 60% inert mass",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 59,
+        "Question": "Find the propellant mass fraction for a rocket having a structural mass of 150 kg, a payload mass of 20 kg and propellant mass of 1000 kg.",
+        "Options": [
+            "a) 0.65",
+            "b) 0.85",
+            "c) 0.95",
+            "d) 0.45",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 60,
+        "Question": "Which of the following is not a feature of the combustion chamber in an ideal chemical rocket engine?",
+        "Options": [
+            "a) High pressure",
+            "b) High temperature",
+            "c) Low flow velocity",
+            "d) Higher transient time",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 61,
+        "Question": "Which of the following comprises of internal thermal energy and flow work?",
+        "Options": [
+            "a) Entropy",
+            "b) Enthalpy",
+            "c) Kinetic energy",
+            "d) Potential energy",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 62,
+        "Question": "In which of the following cases can enthalpy be expressed as a function of constant Cp and absolute temperature T?",
+        "Options": [
+            "a) Ideal gas",
+            "b) Calorically perfect gas",
+            "c) Real gas",
+            "d) Thermally perfect gas",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 63,
+        "Question": "Find the stagnation enthalpy of a calorically perfect gas having a flow velocity of 94 m/s and static temperature of 315 K. (Cp=1005 J/kg/K)",
+        "Options": [
+            "a) 321 kJ/kg",
+            "b) 234 kJ/kg",
+            "c) 456 kJ/kg",
+            "d) 543 kJ/kg",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 64,
+        "Question": "For an incompressible subsonic flow over a nozzle, at a typical location A along the nozzle, the diameter of the cross-section was found to be 30 cm. What will be the diameter of the cross section at a point B where the flow velocity was determined to be twice the value at A?",
+        "Options": [
+            "a) 21.21 cm",
+            "b) 42.42 cm",
+            "c) 15 cm",
+            "d) 60 cm",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 65,
+        "Question": "For an isentropic flow along a nozzle, at location A, the static temperature and pressure were measured to be 320 K and 5 bar. What will be the static pressure at the location where the static temperature is 500 K? (Given η = 1.4)",
+        "Options": [
+            "a) 23.8 bar",
+            "b) 32.4 bar",
+            "c) 12.4 bar",
+            "d) 7.4 bar",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 66,
+        "Question": "An isentropic flow at section x has a velocity of 200 m/s and static enthalpy of 360 kJ/kg. Determine the flow velocity at a location y where the static enthalpy is half the value at x.",
+        "Options": [
+            "a) 447.2 m/s",
+            "b) 385.9 m/s",
+            "c) 515.4 m/s",
+            "d) 408.2 m/s",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 67,
+        "Question": "Which of the following is not a unit of gas constant?",
+        "Options": [
+            "a) J/(mol.K)",
+            "b) kcal/(K.mol)",
+            "c) m3atm/(K.mol)",
+            "d) amu.m2s2/K",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 68,
+        "Question": "For an isentropic flow of air through a pipe from a large chamber having a pressure of 5 MPa and temperature of 290 K, determine the temperature at a point along the length of the pipe where the pressure is 3 MPa.",
+        "Options": [
+            "a) 250 K",
+            "b) 277 K",
+            "c) 219 K",
+            "d) 300 K",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 69,
+        "Question": "Which of the following doesn’t happen during a subsonic and isentropic nozzle expansion?",
+        "Options": [
+            "a) Increase in the specific volume",
+            "b) Decrease in absolute fluid static temperature",
+            "c) Decrease in static pressure",
+            "d) Decrease in stagnation temperature",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 70,
+        "Question": "Acoustic velocity in ideal gases is independent of _____________",
+        "Options": [
+            "a) nature of the gas",
+            "b) gas temperature",
+            "c) gas pressure",
+            "d) the molecular mass of the gas",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 71,
+        "Question": "Which of the following will happen if there is a flow obstruction in the nozzle inner wall?",
+        "Options": [
+            "a) Local conversion of kinetic to thermal energy",
+            "b) Local drop in pressure around the region of obstruction",
+            "c) Formation of normal shock waves at the point of obstruction",
+            "d) Rapid decrease in mass flow rate",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 72,
+        "Question": "If at a  point along the isentropic rocket nozzle, the temperature of the gas is 718 K, and the flow velocity is 150 m/s, determine the nozzle exit velocity, given the exhaust gas temperature is 460 K (Assume Cp = 1005 J/kg K)",
+        "Options": [
+            "a) 840.25 m/s",
+            "b) 735.58 m/s",
+            "c) 913.07 m/s",
+            "d) 374.95 m/s",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 73,
+        "Question": "If the rocket exhaust gases are calorically perfect and have a mean molecular mass of 28 kg/kmol, and a constant specific heat ratio (γ) of 1.33, determine the nozzle exit velocity. Assume the nozzle inlet conditions to be the following: P1 = 5 MPa, V1 = 240 m/s, T1 = 750 K and exit pressure (Pe) to be 1 MPa.",
+        "Options": [
+            "a) 204 m/s",
+            "b) 699.21 m/s",
+            "c) 712.32 m/s",
+            "d) 805.56 m/s",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 74,
+        "Question": "What is the correct definition of the nozzle area expansion ratio?",
+        "Options": [
+            "a) The ratio of nozzle exit area to the throat area",
+            "b) The ratio of the nozzle area at the inflection point to the throat area",
+            "c) The ratio of throat area to the nozzle inlet area",
+            "d) The ratio of throat area to the area at the point of inflection",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 75,
+        "Question": "Which of the following will improve the performance of a rocket engine?",
+        "Options": [
+            "a) Decrease in gas temperature",
+            "b) Increase in the molecular mass of the propellant",
+            "c) Decrease in the pressure ratio",
+            "d) Increase in the chamber pressure",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 76,
+        "Question": "What are the standardized chamber pressure and exit pressure values used for comparing the specific impulse values or various design parameters of different rocket engines?",
+        "Options": [
+            "a) 1000 psia, 1 atm",
+            "b)1000 atm, 1 psia",
+            "c) 100 psia, 1 atm",
+            "d)100 atm, 1 psia",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 77,
+        "Question": "What is the expression for the maximum theoretical value of the nozzle outlet velocity (ve) with an infinite expansion, if γ represents the ratio of specific heats, To represents the chamber temperature, R is the gas constant?",
+        "Options": [
+            "a) ve = \\(\\sqrt{(2\\gamma RT_o(\\gamma-1))}\\) ",
+            "b) ve = \\(\\sqrt{(2\\gamma RT_o/(\\gamma-1))}\\) ",
+            "c) ve = \\(\\sqrt{(2(\\gamma+1)RT_o/(\\gamma-1))}\\) ",
+            "d) ve = \\(\\sqrt{(2(\\gamma-1)RT_o(\\gamma+1))}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 78,
+        "Question": "What is the pressure ratio for the maximum theoretical value of nozzle outlet velocity?",
+        "Options": [
+            "a) Infinite",
+            "b) Zero",
+            "c) Finite value < 1",
+            "d) Finite value > 1",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 79,
+        "Question": "What will happen if the maximum theoretical nozzle exhaust velocity tends to a very large value?",
+        "Options": [
+            "a) Working fluid ceases to be a gas",
+            "b) The temperature of the working fluid increases exponentially",
+            "c) The thermal energy content of the fluid becomes infinite",
+            "d) The flow undergoes rapid compression",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 80,
+        "Question": "Which of the following is not a reason why the wall surface throughout the nozzle is smooth?",
+        "Options": [
+            "a) Minimize friction",
+            "b) Minimize radiation absorption",
+            "c) Minimize convective heat transfer",
+            "d) Minimize flow velocity",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 81,
+        "Question": "Which of the following is permissible in a rocket nozzle?",
+        "Options": [
+            "a) Gaps",
+            "b) Smooth edges",
+            "c) Holes",
+            "d) Protrusions",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 82,
+        "Question": "Which of the following is not an objective of a good nozzle configuration?",
+        "Options": [
+            "a) Decrease nozzle inert mass",
+            "b) Increase nozzle length",
+            "c) Obtain the highest practical specific impulse",
+            "d) Decrease nozzle diameter",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 83,
+        "Question": "What is the nozzle correction factor for a conical nozzle angle of 200?",
+        "Options": [
+            "a) 0.992",
+            "b) 0.969",
+            "c) 1.939",
+            "d) 0.939",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 84,
+        "Question": "What happens to the theoretical nozzle correction factor as the nozzle angle decreases?",
+        "Options": [
+            "a) Increases",
+            "b) Decreases",
+            "c) Increases first and then decreases",
+            "d) Decreases first and then increases",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 85,
+        "Question": "To which of the following terms can we multiply the nozzle correction factor with?",
+        "Options": [
+            "a) Total thrust",
+            "b) Momentum thrust",
+            "c) Pressure thrust",
+            "d) Pressure ratio",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 86,
+        "Question": "Which of the following is a typical optimum divergence angle for a conical nozzle?",
+        "Options": [
+            "a) 10°",
+            "b) 30°",
+            "c) 40°",
+            "d) 60°",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 87,
+        "Question": "How does the divergence angle vary along a bell-shaped nozzle?",
+        "Options": [
+            "a) Sharply increases, then decrease",
+            "b) Sharply decreases, then increase",
+            "c) Remains constant for a while and then increases",
+            "d) Remains constant for a while and then decreases",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 88,
+        "Question": "Which of the following is not a reason why large divergence angles are allowed in bell-shaped nozzles immediately behind the throat?",
+        "Options": [
+            "a) High relative pressure",
+            "b) Large pressure gradient",
+            "c) Rapid expansion of the working fluid",
+            "d) Supersonic flow",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 89,
+        "Question": "What is the difference between the angle at the nozzle inflection point and the angle at the exit called?",
+        "Options": [
+            "a) Contour angle",
+            "b) Divergence angle",
+            "c) Semi-divergence angle",
+            "d) Turn-back angle",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 90,
+        "Question": "If the divergence angle for a conical nozzle is 30°, nozzle exit diameter is 30 cm, exit pressure is 10% more than the ambient pressure, mass flow rate is 14 kg/s and the jet exhaust velocity is 700 m/s, determine the total thrust of the engine under standard sea level operating conditions.",
+        "Options": [
+            "a) 11.2 kN",
+            "b) 12.9 kN",
+            "c) 10.3 kN",
+            "d) 9.8 kN",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 91,
+        "Question": "If for a bell-shaped nozzle, the divergence angle immediately after the throat is 40°, contour angle at the inflection point is 32° and the nozzle full-angle at its exit is 10°, determine the turn-back angle.",
+        "Options": [
+            "a) 8°",
+            "b) 35°",
+            "c) 27°",
+            "d) 22°",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 92,
+        "Question": "For an asymmetric nozzle section of diameter 12 cm, determine the average value of flow velocity if the velocity distribution is of the form v2 = (2r – 3r2) x 104 m/s, where r denotes the radial location in the cross-section plane.",
+        "Options": [
+            "a) 1104.4 m/s",
+            "b) 765.4 m/s",
+            "c) 891.4 m/s",
+            "d) 404 m/s",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 93,
+        "Question": "In a boundary layer flow along with the nozzle, why is the layer closest to the wall cooler?",
+        "Options": [
+            "a) Flow velocity is minimum; Low energy flow leads to less temperature",
+            "b) Heat transfer to the walls",
+            "c) Radial heat propagation from the nozzle axis is a very slow process",
+            "d) Mass flow rate closer to the nozzle axis is maximum",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 94,
+        "Question": "In which of the following cases is the effect of the boundary layer more pronounced?",
+        "Options": [
+            "a) Longer nozzles with high area ratios",
+            "b) Shorter nozzles with high area ratios",
+            "c) Longer nozzles with low area ratios",
+            "d) Shorter nozzles with low area ratios",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 95,
+        "Question": "What happens to the solid particles in multiphase flow at the nozzle exit when the size of the particles increases?",
+        "Options": [
+            "a) Lower momentum and lower thermal energy",
+            "b) Higher momentum and lower thermal energy",
+            "c) Lower momentum and higher thermal energy",
+            "d) Higher momentum and higher thermal energy",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 96,
+        "Question": "Which of the following is the correct expression for particle fraction β? Given: Total mass = mT, mass of the particles = mp.",
+        "Options": [
+            "a) mT/mp + mT",
+            "b) mp/mp + mT",
+            "c) mp/mT",
+            "d) mT/mp",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 97,
+        "Question": "How do the characteristic velocity (c) and the specific impulse (Isp) vary as particle fraction β is increased?",
+        "Options": [
+            "a) Both Isp and c decreases",
+            "b) Both Isp and c increases",
+            "c) Isp decreases, c increases",
+            "d) Isp increases, c decreases",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 98,
+        "Question": "Which of the following is not correct for transient periods when compared to steady periods of rocket operation?",
+        "Options": [
+            "a) Lower average thrust",
+            "b) Higher chamber pressure",
+            "c) Lower specific impulse",
+            "d) Higher velocity variations",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 99,
+        "Question": "Which of the following terms denote the ratio of kinetic energy per unit flow of the actual jet leaving the nozzle to that of a hypothetical ideal one with the same working substance, initial state and exit pressure as that of the actual exhaust jet?",
+        "Options": [
+            "a) Velocity correction factor (ζv)",
+            "b) Discharge correction factor (ζd)",
+            "c) Thrust correlation factor (ζF)",
+            "d) Energy efficiency factor (e)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 100,
+        "Question": "Determine the velocity correction factor (ζv) if the energy conversion efficiency is 0.94.",
+        "Options": [
+            "a) 0.97",
+            "b) 0.85",
+            "c) 0.92",
+            "d) 0.99",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 101,
+        "Question": "Find the actual mass flow rate for a discharge correction factor (ζd) of 1.15. For an ideal nozzle of same design and initial state, the following information is given: Volume flow rate (Q) = 0.53 m3/s; static temperature (T) = 590 K; static pressure (P) = 0.15 MPa; R = 287 J/kg/K.",
+        "Options": [
+            "a) 0.47",
+            "b) 0.88",
+            "c) 0.28",
+            "d) 0.54",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 102,
+        "Question": "How are delivered performance values estimated for a propulsion system?",
+        "Options": [
+            "a) Static tests or flight tests of full-scale models",
+            "b) Dimensional analysis and similitude of models",
+            "c) A theoretical analysis using the known relations",
+            "d) Using computational simulation",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 103,
+        "Question": "What is another name for the nozzle area ratio?",
+        "Options": [
+            "a) Nozzle expansion ratio",
+            "b) Nozzle contraction ratio",
+            "c) Nozzle convergence ratio",
+            "d) Nozzle divergence ratio",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 104,
+        "Question": "If isentropic efficiency for expansion in a nozzle having a mass flow rate of 90 kg/s is 0.95, find the exit area. Given the low speed entrance pressure is 250 kPa, temperature is 375 °C and outside atmospheric pressure is 101 kPa. Assume Cp = 1005 J/(kgK) and γ = 1.33.",
+        "Options": [
+            "a) 0.133 m2",
+            "b) 0.210 m2",
+            "c) 0.295 m2",
+            "d) 0.225 m2",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 105,
+        "Question": "Find the critical pressure ratio for a nozzle flow from a chamber of pressure 300 kPa to the atmospheric pressure of 100 kPa. Assume γ = 1.4.",
+        "Options": [
+            "a) 0.637",
+            "b) 0.528",
+            "c) 0.981",
+            "d) 0.243",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 106,
+        "Question": "Determine the acoustic speed in chamber conditions if the chamber pressure is 500 kPa, density is 0.8 kg/m3 and γ=1.4.",
+        "Options": [
+            "a) 900.2 m/s",
+            "b) 879.5 m/s",
+            "c) 935.4 m/s",
+            "d) 1014.2 m/s",
+            ""
+        ],
+        "Answer": "Answer:"
+    },
+    {
+        "id": 107,
+        "Question": "For a slightly over-expanded supersonic exhaust from a nozzle with exit area of 0.110 m2, flow pressure of 180 kPa and an atmospheric pressure of 100 kPa, determine the approximate distance between the nozzle and the first shock diamond.",
+        "Options": [
+            "a) 30.2 cm",
+            "b) 25.9 cm",
+            "c) 28.5 cm",
+            "d) 33.6 cm",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 108,
+        "Question": "If a nozzle has an optimum expansion ratio of 9, determine the nozzle cone exit diameter for a throat diameter of 15 mm.",
+        "Options": [
+            "a) 30 mm",
+            "b) 135 mm",
+            "c) 45 mm",
+            "d) 90 mm",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 109,
+        "Question": "Determine the rocket thrust coefficient for a total thrust of 20 kN, chamber pressure of 500 kPa and a throat diameter of 10 cm.",
+        "Options": [
+            "a) 2.39",
+            "b) 6.51",
+            "c) 4.97",
+            "d) 5.09",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 110,
+        "Question": "Determine the jet exhaust velocity, if the flow has an exit Mach number of 3 and temperature of 700 K. (Assume γ= 1.4 and Cp = 1005 J/kgK)",
+        "Options": [
+            "a) 1591 m/s",
+            "b) 2041 m/s",
+            "c) 991 m/s",
+            "d) 781 m/s",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 111,
+        "Question": "What will happen when the thrust line doesn’t intersect the center of mass of a flying vehicle?",
+        "Options": [
+            "a) The vehicle experiences a centripetal acceleration",
+            "b) The vehicle drops in altitude",
+            "c) The vehicle trajectory becomes zigzag",
+            "d) The vehicle tries to rotate in flight",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 112,
+        "Question": "Which among the following is the most necessary for controlled turning and attitude control?",
+        "Options": [
+            "a) Turning moments",
+            "b) High exhaust velocity",
+            "c) Vortex generators",
+            "d) Dorsal fins",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 113,
+        "Question": "What will not help in generating a turning moment in a flying vehicle?",
+        "Options": [
+            "a) Thrust vector deflection",
+            "b) Aerodynamic fins",
+            "c) Using separate engines for attitude control",
+            "d) Altering the nozzle exit area by using nozzle extensions",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 114,
+        "Question": "In general, the rocket nozzle exits surface’s geometric axis is taken to be the __________",
+        "Options": [
+            "a) gimbal axis",
+            "b) roll axis",
+            "c) thrust axis",
+            "d) lift axis",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 115,
+        "Question": "Which of the following doesn’t belong to misalignment due to irregularities in nozzle geometry?",
+        "Options": [
+            "a) Out of round",
+            "b) Unsymmetrical roughness",
+            "c) Protuberances",
+            "d) Nozzle extensions",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 116,
+        "Question": "Conventional axisymmetric conical nozzle with a cylindrical extension is called as ______",
+        "Options": [
+            "a) cant nozzle",
+            "b) bell-shaped nozzle",
+            "c) scarfed nozzle",
+            "d) aerospike nozzle",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 117,
+        "Question": "Motor axial specific impulse _____ with the scarf angle.",
+        "Options": [
+            "a) increases",
+            "b) decreases",
+            "c) increases and then decreases",
+            "d) decreases and then increases",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 118,
+        "Question": "If the motor axial specific impulse of a given nozzle is 340s for propellant ‘A’ and its characteristic velocity is 1400 m/s, determine the specific impulse for the same nozzle using a propellant ‘B’ with a characteristic velocity of 980 m/s. Assume both propellants ‘A’ and ‘B’  have the same specific heat ratio.",
+        "Options": [
+            "a) 259 s",
+            "b) 286 s",
+            "c) 277 s",
+            "d) 238 s",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 119,
+        "Question": "Thrust is a weak function of ______________",
+        "Options": [
+            "a) throat area",
+            "b) chamber pressure",
+            "c) mass flow rate",
+            "d) thrust coefficient",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 120,
+        "Question": "A two-to-one thrust decrease can be achieved using _________ in a liquid propellant rocket engine.",
+        "Options": [
+            "a) throttle valves",
+            "b) gas pressure feed system",
+            "c) spark ignitor",
+            "d) using BATES grain",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 121,
+        "Question": "Attitude and maneuvering corrections require impulses with _________ pulse width.",
+        "Options": [
+            "a) extremely short",
+            "b) extremely large",
+            "c) moderately short",
+            "d) moderately large",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 122,
+        "Question": "Which of the following is not a way for thrust modulation?",
+        "Options": [
+            "a) Controlling the propellant flow rate to the injector",
+            "b) Controlling injection orifices",
+            "c) Varying chamber pressure",
+            "d) Deploying control surfaces like fins",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 123,
+        "Question": "Which of the following thrust modulation technique makes use of symmetric injection for jet area control?",
+        "Options": [
+            "a) Throat Shifting Thrust Modulation",
+            "b) Shock Thrust Modulation",
+            "c) Shock Vectoring Control",
+            "d) Scarfed Nozzle Thrust Modulation",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 124,
+        "Question": "Which of the following thrust modulation techniques uses a normal shock to reduce total thrust?",
+        "Options": [
+            "a) Throat Shifting Thrust Modulation",
+            "b) Scarfed Nozzle Thrust Modulation",
+            "c) Shock Thrust Modulation",
+            "d) Fluidic Thrust modulation",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 125,
+        "Question": "For a conical nozzle of throat diameter 0.007 m, exit cross-section diameter 0.02 m, and divergent section length of 0.038 m, determine the nozzle semi-divergence angle.",
+        "Options": [
+            "a) 10.5°",
+            "b) 12.6°",
+            "c) 7.3°",
+            "d) 9.7°",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 126,
+        "Question": "Which of the following cannot be the nature of the actuation system for thrust vector control?",
+        "Options": [
+            "a) Mechanical",
+            "b) Fluidic",
+            "c) Either mechanical or fluidic",
+            "d) Neither mechanical and fluidic",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 127,
+        "Question": "What is the nature of the trajectory of rockets in gravity-free, drag-free environment?",
+        "Options": [
+            "a) Two-dimensional, curved path",
+            "b) One dimensional, curved path",
+            "c) Two-dimensional, straight line path",
+            "d) One dimensional, straight line path",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 128,
+        "Question": "How will propellant mass flow and thrust change with burn duration in a gravity-free, drag-free environment?",
+        "Options": [
+            "a) Mass flow and thrust remains constant",
+            "b) Mass flow increases, thrust decreases",
+            "c) Mass flow decreases, thrust increases",
+            "d) Mass flow decreases, thrust decreases",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 129,
+        "Question": "Where do we account for residual propellant mass in a rocket engine?",
+        "Options": [
+            "a) Propellant mass",
+            "b) Inert mass",
+            "c) Payload mass",
+            "d) Structural mass",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 130,
+        "Question": "What is the nature of the effect of the propellant mass fraction on the vehicle velocity?",
+        "Options": [
+            "a) Exponential",
+            "b) Logarithmic",
+            "c) Linear",
+            "d) Parabolic",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 131,
+        "Question": "Keeping the system inert mass constant, which of the following changes will not result in flight velocity increment?",
+        "Options": [
+            "a) Use of better propellants",
+            "b) A more favorable nozzle area ratio",
+            "c) Higher chamber pressure",
+            "d) Better nozzle cooling",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 132,
+        "Question": "For given average effective exhaust velocity(c), which of the following values of propellant mass fractions(ζ) gives maximum vehicle velocity (up)?",
+        "Options": [
+            "a) 0.6",
+            "b) 0.7",
+            "c) 0.8",
+            "d) 0.9",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 133,
+        "Question": "What is the effect of increasing mass ratio (mo/mb, where mo is the initial mass and mb is the burnout mass) on Isp?",
+        "Options": [
+            "a) Increases",
+            "b) Decreases",
+            "c) No effect",
+            "d) Increases only after a limit",
+            ""
+        ],
+        "Answer": "Answer:"
+    },
+    {
+        "id": 134,
+        "Question": "Which of the following will decrease the effective propellant fraction?",
+        "Options": [
+            "a) Higher system inert mass",
+            "b) More favorable nozzle area ratio",
+            "c) Higher chamber pressure",
+            "d) Higher temperature at the inlet of the nozzle",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 135,
+        "Question": "Which of these is a reasonable value of the mass ratio (Initial mass/inert mass) for single-stage vehicles for gravitation free drag-free space flight?",
+        "Options": [
+            "a) 100",
+            "b) 1000",
+            "c) 200",
+            "d) 20",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 136,
+        "Question": "Which of these is a reasonable value of the mass ratio (Initial mass/inert mass) for multistage vehicles for gravitation free drag-free space flight?",
+        "Options": [
+            "a) 100",
+            "b) 1000",
+            "c) 200",
+            "d) 20",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 137,
+        "Question": "Which of the following is not an external force acting on a vehicle flying in the earth’s atmosphere?",
+        "Options": [
+            "a) Thrust",
+            "b) Aerodynamic forces",
+            "c) Gravitational forces",
+            "d) Forces due to thermal stress",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 138,
+        "Question": "Which of the following is a reasonable factor of increase for effective exhaust velocity (c) as altitude is increased?",
+        "Options": [
+            "a) 1.5",
+            "b) 2.1",
+            "c) 3.2",
+            "d) 4.5",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 139,
+        "Question": "If L denotes the lift and ∅ denotes flight path angle, then what is the aerodynamic force acting normal to the flight path?",
+        "Options": [
+            "a) Lcos ∅",
+            "b) Lsin ∅",
+            "c) Lsec ∅",
+            "d) L",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 140,
+        "Question": "In writing the expressions for CL and CD for missiles and rockets, what does area A denote?",
+        "Options": [
+            "a) Sum of all the fin areas",
+            "b) The total surface area of the missile/rocket including the fins",
+            "c) Maximum cross-sectional area normal to the missile axis",
+            "d) Minimum cross-sectional area normal to the missile axis",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 141,
+        "Question": "What is the angle of attack for a missile?",
+        "Options": [
+            "a) The angle between the local horizon and the missile axis",
+            "b) The angle between the local horizon and the missile flight path",
+            "c) The angle between the missile axis and its flight path",
+            "d) The angle between the relative wind and the missile longitudinal axis",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 142,
+        "Question": "The lift and drag coefficients are not primarily a function of ____________",
+        "Options": [
+            "a) vehicle configuration",
+            "b) flight Mach number",
+            "c) angle of attack",
+            "d) vehicle mass",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 143,
+        "Question": "What is the loss of velocity increment experienced by a rocket as a result of drag in the atmosphere?",
+        "Options": [
+            "a) 5-10%",
+            "b) 15-20%",
+            "c) 25-30%",
+            "d) 35-40%",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 144,
+        "Question": "Which of the following is the correct expression for gravitational acceleration (g) at a height h, given go refers to gravitational acceleration on the earth’s surface and Ro refers to effective radius of earth?",
+        "Options": [
+            "a) g=go[Ro/(Ro+h)]2",
+            "b) g=go[Ro/(Ro-h)]2",
+            "c) g=go[(Ro+h)/2Ro]2",
+            "d) g=go[(Ro-h)/2Ro]2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 145,
+        "Question": "Dynamic pressure experienced by the rocket in the lower atmosphere is ______ compared to that experienced at higher altitudes.",
+        "Options": [
+            "a) more",
+            "b) less",
+            "c) equal",
+            "d) any random value",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 146,
+        "Question": "Which of the following can be non-zero for an airborne vehicle moving in rectilinear equilibrium flight?",
+        "Options": [
+            "a) Control forces",
+            "b) Lateral forces",
+            "c) Moments",
+            "d) Thrust",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 147,
+        "Question": "What is the trajectory of an airborne vehicle in rectilinear equilibrium flight?",
+        "Options": [
+            "a) One-dimensional",
+            "b) Two-dimensional",
+            "c) Three-dimensional",
+            "d) Four-dimensional",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 148,
+        "Question": "The angle at which the wings of the vehicle are inclined to the flight path is called as __________",
+        "Options": [
+            "a) angle of attack",
+            "b) flight path angle",
+            "c) pitch angle",
+            "d) roll angle",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 149,
+        "Question": "Lift is generated __________ to the flight path for an airborne vehicle in rectilinear equilibrium flight.",
+        "Options": [
+            "a) parallel",
+            "b) perpendicular",
+            "c) at an acute angle",
+            "d) at an obtuse angle",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 150,
+        "Question": "In the direction of the flight path, the product of mass and acceleration of the vehicle is not the sum of which of the following forces?",
+        "Options": [
+            "a) Propulsive",
+            "b) Aerodynamic",
+            "c) Gravitational",
+            "d) Electromagnetic",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 151,
+        "Question": "Which of the following is acceleration perpendicular to the flight path?",
+        "Options": [
+            "a) udθ/dt",
+            "b) θdu/dt",
+            "c) d(uθ)/dt",
+            "d) d(u/θ)/dt",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 152,
+        "Question": "Determine the acceleration perpendicular to flight path for constant value of flight speed u = 100 m/s and instantaneous radius R = 200 m.",
+        "Options": [
+            "a) 100 m/s2",
+            "b) 50 m/s2",
+            "c) 200 m/s2",
+            "d) 125 m/s2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 153,
+        "Question": "Determine the component of gravitational force in the direction of the flight path if the angle of the flight path with the horizontal is 30°, angle of direction of thrust with the horizontal is 20° and mass of the vehicle is 300 kg. Assume the acceleration due to gravity to be 9.8 m/s2.",
+        "Options": [
+            "a) 2250 N",
+            "b) 2980 N",
+            "c) 1470 N",
+            "d) 3343 N",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 154,
+        "Question": "For a propulsive force of 1500 N, determine the magnitude of its component in a direction normal to the flight velocity if the angle of flight path with the horizontal is 30° and the angle of direction of thrust with the horizontal is 10°. Assume g=9.8 m/s2.",
+        "Options": [
+            "a) 513 N",
+            "b) 1026 N",
+            "c) 279 N",
+            "d) 813 N",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 155,
+        "Question": "Vehicle’s final velocity increment can be increased by using a _________ propellant.",
+        "Options": [
+            "a) more energetic",
+            "b) less energetic",
+            "c) highly unstable",
+            "d) highly stable",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 156,
+        "Question": "The mass ratio has a/an ____________ effect on the final velocity increment of a rocket vehicle.",
+        "Options": [
+            "a) logarithmic",
+            "b) exponential",
+            "c) linear",
+            "d) parabolic",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 157,
+        "Question": "Which of the following is not a way of reducing final mass mf of a rocket?",
+        "Options": [
+            "a) Using a lesser portion of propellant for flight",
+            "b) Using lighter structures",
+            "c) Having smaller payloads",
+            "d) Using lighter guidance/ control devices",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 158,
+        "Question": "Which of the following is minimum for increasing the initial mass of the rocket?",
+        "Options": [
+            "a) Increasing the thrust",
+            "b) Adding more propellant",
+            "c) Increase in structure",
+            "d) Increase in specific impulse",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 159,
+        "Question": "The form drag depends on ___________",
+        "Options": [
+            "a) aeroelastic stresses",
+            "b) solid structures far downstream",
+            "c) solid structures far upstream",
+            "d) aerodynamic shape of the body",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 160,
+        "Question": "The rocket frontal area can be reduced by choosing a propellant with __________",
+        "Options": [
+            "a) higher propellant density",
+            "b) lower propellant density",
+            "c) higher propellant flammability",
+            "d) lower propellant flammability",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 161,
+        "Question": "Which drag is specifically caused by the friction of air flowing over the vehicle’s outer surface?",
+        "Options": [
+            "a) Form drag",
+            "b) Skin drag",
+            "c) Shock drag",
+            "d) Base drag",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 162,
+        "Question": "A shorter rocket length will help in _________",
+        "Options": [
+            "a) more vehicle structural mass",
+            "b) lighter vehicle structure",
+            "c) greater vehicle mass ratio",
+            "d) greater complexity of the vehicle design",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 163,
+        "Question": "If flight velocity is u and the vehicle exhaust velocity is c, when is the propulsive efficiency maximum?",
+        "Options": [
+            "a) u ≅ c",
+            "b) u ≫ c",
+            "c) u ≪ c",
+            "d) c → ∞",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 164,
+        "Question": "Determine the velocity of a satellite in a circular orbit around the earth at a height of 112 km.",
+        "Options": [
+            "a) 3219.28 m/s",
+            "b) 2472.76 m/s",
+            "c) 1591.98 m/s",
+            "d) 7834.95 m/s",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 165,
+        "Question": "Determine the time period of revolution of a satellite in a circular orbit around a planet of radius 6374 m at a height of 600 m. Assume the acceleration due to gravity at sea level to be 9.8 m/s2.",
+        "Options": [
+            "a) 30 mins",
+            "b) 25 mins",
+            "c) 35 mins",
+            "d) 40 mins",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 166,
+        "Question": "Determine the energy necessary to bring a unit mass into a circular orbit around the earth having a height of 170 km. Neglect the effects of drag.",
+        "Options": [
+            "a) 25 MJ",
+            "b) 16 MJ",
+            "c) 32 MJ",
+            "d) 19 MJ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 167,
+        "Question": "What is the typical altitude of LEO?",
+        "Options": [
+            "a) more than 500 km",
+            "b) Less than 800 km",
+            "c) Less than 500 km",
+            "d) More than 800 km",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 168,
+        "Question": "Why are the orbits of satellites outside of the earth’s atmosphere?",
+        "Options": [
+            "a) The orbit needs to be elliptical",
+            "b) The orbit needs to be circular",
+            "c) Within the atmosphere, the satellite spirals down to the earth",
+            "d) Drag losses are absent outside the atmosphere",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 169,
+        "Question": "For a circular trajectory of a satellite around the earth, the centrifugal forces must balance the ______",
+        "Options": [
+            "a) propulsive forces",
+            "b) gravitational forces",
+            "c) lift forces",
+            "d) drag forces",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 170,
+        "Question": "Find the altitude of a satellite in a circular orbit around earth with a velocity of 7000 m/s.",
+        "Options": [
+            "a) 1751.6 km",
+            "b) 2134.3 km",
+            "c) 9053.1 km",
+            "d) 899.5 km",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 171,
+        "Question": "At an instant of time, a satellite in an elliptical orbit is at a distance of 500 km from the surface of the earth. If the semi major axis of the orbit is 8500 km in length, determine the magnitude of the satellite velocity. Take μ = 3.986 x 1014 m3/sec2.",
+        "Options": [
+            "a) 8118.33 m/s",
+            "b) 8813.38 m/s",
+            "c) 8311.38 m/s",
+            "d) 8181.38 m/s",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 172,
+        "Question": "Satellite velocity is maximum at __________ for an elliptical orbit.",
+        "Options": [
+            "a) apogee",
+            "b) perigee",
+            "c) focal point",
+            "d) infinity",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 173,
+        "Question": "For an eccentricity of 0.92 and semi major axis length of 9500 km, determine the apogee velocity for a satellite in elliptical orbit. Take μ = 3.986 x 1014 m3/sec2.",
+        "Options": [
+            "a) 1349.54 m/s",
+            "b) 1439.45 m/s",
+            "c) 1233.33 m/s",
+            "d) 1322.21 m/s",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 174,
+        "Question": "Rocket propulsion thrust vector passes through the ___________ of the vehicle.",
+        "Options": [
+            "a) center of gravity",
+            "b) center of pressure",
+            "c) neutral point",
+            "d) maneuvering point",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 175,
+        "Question": "An example for an unpowered maneuvering is ___________",
+        "Options": [
+            "a) coasting",
+            "b) translational maneuver",
+            "c) cruising",
+            "d) freefall",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 176,
+        "Question": "What is the thrust required for a truly rotational maneuver?",
+        "Options": [
+            "a) Infinite",
+            "b) Zero",
+            "c) In the order of mega-Newtons",
+            "d) In the order of milli-Newtons",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 177,
+        "Question": "What kind of maneuvers are typically provided by the reaction control systems?",
+        "Options": [
+            "a) Misaligned thrust maneuvers",
+            "b) Translational maneuvers",
+            "c) Truly rotational maneuvers",
+            "d) Circular maneuvers",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 178,
+        "Question": "Which of the following processes requires accurately predetermined impulses for a rocket engine?",
+        "Options": [
+            "a) Launching",
+            "b) Re-entry",
+            "c) Orbit Injection",
+            "d) Coasting",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 179,
+        "Question": "Which of the following is not a property of inflight correction maneuver?",
+        "Options": [
+            "a) Low thrust",
+            "b) Pulsing",
+            "c) Long duration",
+            "d) Uses reaction control systems",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 180,
+        "Question": "Station keeping maneuvers are ___________",
+        "Options": [
+            "a) orbit maintenance maneuvers",
+            "b) velocity adjustment maneuvers",
+            "c) first stage propulsion control",
+            "d) orbit transfer maneuvers",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 181,
+        "Question": "Which of the following is the most effective way of slowing a rocket during reentry and landing maneuver into the moon?",
+        "Options": [
+            "a) The atmospheric drag",
+            "b) Deploying landing parachutes",
+            "c) Reverse thrust",
+            "d) Deploying heat shields",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 182,
+        "Question": "Which of the following terms doesn’t relate to docking?",
+        "Options": [
+            "a) Lock-on",
+            "b) Rendezvous maneuver",
+            "c) Spacecrafts",
+            "d) Heat shield",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 183,
+        "Question": "Depending on the mission profile, the most economical number of steps / expended stages for a multistage rocket is between _____ and ______",
+        "Options": [
+            "a) 2, 10",
+            "b) 4, 9",
+            "c) 2, 6",
+            "d) 4, 7",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 184,
+        "Question": "If the velocity increments of the first, second, and third stages are 1000 m/s, 500 m/s and 250 m/s respectively, determine the total velocity increment.",
+        "Options": [
+            "a) 2750 m/s",
+            "b) 1375 m/s",
+            "c) 1750 m/s",
+            "d) 3500 m/s",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 185,
+        "Question": "Determine the mass ratio (Initial mass/Burnout mass) for each stage for a 3-stage rocket, given the total velocity increment is 2000 m/s, mass ratio is constant for all stages and the exhaust velocity is constant for all stages with a value of 3000 m/s.",
+        "Options": [
+            "a) 2.51",
+            "b) 1.52",
+            "c) 2.15",
+            "d) 1.25",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 186,
+        "Question": "Strap-on booster stages are an example of ______ staging.",
+        "Options": [
+            "a) parallel",
+            "b) tandem",
+            "c) partial",
+            "d) piggyback",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 187,
+        "Question": "If the theoretical payload increases by the use of a third stage for an initially two stage rockets is 8-10%, which of the following values is a logical value for theoretical payload increase for the use of an additional fourth stage?",
+        "Options": [
+            "a) -4 to -6%",
+            "b) 3 to 5%",
+            "c) 8 to 10%",
+            "d) 12 to 14%",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 188,
+        "Question": "Usually, the thrusts required by a rocket system __________ from upper to lower stages.",
+        "Options": [
+            "a) increases",
+            "b) decreases",
+            "c) first increases and then decreases",
+            "d) first decreases and then increases",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 189,
+        "Question": "Which of the following terms are not related to a strap-on stage of a rocket engine?",
+        "Options": [
+            "a) Booster stage",
+            "b) Half stage",
+            "c) Zero stage",
+            "d) Sustainer stage",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 190,
+        "Question": "Which of the following operations does the small reaction control thrusters in Space Shuttle doesn’t serve?",
+        "Options": [
+            "a) Attitude control",
+            "b) Small trajectory corrections",
+            "c) Docking",
+            "d) Take-off",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 191,
+        "Question": "__________ is that part of a launch vehicle that carries the payload.",
+        "Options": [
+            "a) Spacecraft",
+            "b) Booster stage",
+            "c) Sustainer stage",
+            "d) Control and guidance system",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 192,
+        "Question": "In which of these following altitudes does a rocket exhibit narrow pencil shaped exhaust plume?",
+        "Options": [
+            "a) Low altitude",
+            "b) Above atmosphere",
+            "c) Outer space",
+            "d) During launch",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 193,
+        "Question": "What are the primary sources of radiation in a chemical rocket engine?",
+        "Options": [
+            "a) Excitation of molecules in the combustion chamber",
+            "b) De-excitation of internal modes of gas molecules",
+            "c) Rapid combustion of injector fuel",
+            "d) Shock layer at the nozzle exit",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 194,
+        "Question": "Determine the chamber pressure for a rocket engine if the thrust coefficient is 1.8, the throat area is 0.2 m2 and the total thrust is 20000 N.",
+        "Options": [
+            "a) 61.33 kPa",
+            "b) 67.98 kPa",
+            "c) 45.67 kPa",
+            "d) 55.56 kPa",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 195,
+        "Question": "Determine the mass ratio (Burnout mass/ Initial mass) of a vehicle in a gravitation less space if its velocity is boosted from 800 m/s to 1600 m/s and the effective rocket exhaust velocity is 2000 m/s.",
+        "Options": [
+            "a) 0.85",
+            "b) 0.33",
+            "c) 0.67",
+            "d) 0.25",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 196,
+        "Question": "Which of the following correspond to the spectral bands of CO2 and H2O respectively in the IR signature of rocket exhaust plumes?",
+        "Options": [
+            "a) 2.7μm and 4.3μm",
+            "b) 7.2 μm and 3.4μm",
+            "c) 4.3 μm and 2.7 μm",
+            "d) 3.4 μm and 7.2μm",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 197,
+        "Question": "If A is the pre-exponential factor, n is the temperature exponent, Ea is the activation energy, then the expression for forward rate constant according to Arrhenius law is ______",
+        "Options": [
+            "a) kf = ATn exp(-Ea/RT)",
+            "b) kf = T exp(-EaA/RTn)",
+            "c) kf = ATn exp(-Ea/RTn)",
+            "d) kf = AT exp(-Ea/nRT)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 198,
+        "Question": "Which of the following is the mixing layer of a nozzle core flow?",
+        "Options": [
+            "a) Inviscid inner core flow",
+            "b) Viscous outer core flow",
+            "c) Inviscid outer core flow",
+            "d) Viscous inner core flow",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 199,
+        "Question": "At which of the following altitudes does the infrared emissions from the mixing zone of the rocket exhaust higher?",
+        "Options": [
+            "a) near sea level",
+            "b) Stratospheric region",
+            "c) Just outside the atmosphere",
+            "d) Outer space",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 200,
+        "Question": "Stability of a flying vehicle cannot be ensured by __________",
+        "Options": [
+            "a) control surfaces",
+            "b) reaction control system",
+            "c) anti-sloshing setup",
+            "d) hinged multiple rocket nozzles",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 201,
+        "Question": "Suppose an aircraft trimmed at a 10° angle of attack faces a gust that changes the angle of attack to 15°. What is the nature of the moment required to bring it back to the trimmed condition?",
+        "Options": [
+            "a) Positive pitching moment",
+            "b) Positive yawing moment",
+            "c) Negative pitching moment",
+            "d) Negative yawing moment",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 202,
+        "Question": "Which of the following statements is true for the center of gravity (cog) and the center of pressure (cop) location along the axis of a fuel powered aircraft?",
+        "Options": [
+            "a) cog and cop both changes",
+            "b) cog remains fixed but cop changes",
+            "c) cog and cop both remain fixed",
+            "d) cog changes but cop remains fixed",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 203,
+        "Question": "Which of the following can be spin-stabilized?",
+        "Options": [
+            "a) Unguided rocket projectiles",
+            "b) Commercial aircrafts",
+            "c) Artificial satellites",
+            "d) Bullet trains",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 204,
+        "Question": "Determine the period of revolution of an artificial satellite in a circular orbit of altitude 350 km.",
+        "Options": [
+            "a) 1.738 hrs",
+            "b) 1.266 hrs",
+            "c) 1.395 hrs",
+            "d) 1.525 hrs",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 205,
+        "Question": "For a satellite revolving around the earth in a circular orbit at an altitude of 350 km, determine the orbital velocity.",
+        "Options": [
+            "a) 7691.3 m/s",
+            "b) 7606.9 m/s",
+            "c) 7532.3 m/s",
+            "d) 7797.2 m/s",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 206,
+        "Question": "For an airplane undergoing a steady pull-up maneuver along a curved flight path of the constant angle of attack, constant pitch rate of 20°/s, and having a radius of curvature of 150 m, determine the flight velocity.",
+        "Options": [
+            "a) 47.66 m/s",
+            "b) 52.36 m/s",
+            "c) 38.33 m/s",
+            "d) 69.42 m/s",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 207,
+        "Question": "The point on the rocket where all the aerodynamic forces balance is called as the ______________",
+        "Options": [
+            "a) center of pressure",
+            "b) neutral point",
+            "c) maneuvering point",
+            "d) center of gravity",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 208,
+        "Question": "Determine the normal force coefficient of a rocket having a maximum frontal area of 0.2 m2, flying at sea level with a velocity of 100 m/s. Consider the center of gravity to be ahead of the center of pressure by 0.5 m and the corrective moment coefficient to be 2.5.",
+        "Options": [
+            "a) 0.016",
+            "b) 0.012",
+            "c) 0.008",
+            "d) 0.004",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 209,
+        "Question": "Consider a mixture of three gases a, b and c at equilibrium. If the individual gas components have pressures equal to Pa, Pb and Pc, determine the total pressure P of the mixture of gases.",
+        "Options": [
+            "a) P = Pa + Pb + Pc",
+            "b) P = Pa x Pb x Pc /(Pa + Pb + Pc)",
+            "c) P = [(Pa x Pb) + (Pb x Pc) + (Pc x Pa)] / (Pa + Pb + Pc)",
+            "d) P = (Pa x Pb / Pc) + (Pb x Pc / Pa) + (Pc x Pa / Pb)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 210,
+        "Question": "Perfect gas equation applies very closely to ________ gases.",
+        "Options": [
+            "a) low temperature, low pressure",
+            "b) high temperature, high pressure",
+            "c) high temperature, low pressure",
+            "d) low temperature, high pressure",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 211,
+        "Question": "Consider two sets of mixture of gases A and B having the same specific volume of the mixture and having total pressures PA and PB respectively. If TA = 3TB and molecular mass of A MA = 1/2 MB, determine the ratio of PA/PB.",
+        "Options": [
+            "a) 0.75",
+            "b) 12",
+            "c) 1.5",
+            "d) 6",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 212,
+        "Question": "Consider two sets of mixture of gases X and Y having the same total temperature of the mixture and having total pressures PX and PY respectively. If PX = 1.4 PY and molecular mass of A MX = 2.3 x MY, determine the ratio of Vmix_X/Vmix_Y.",
+        "Options": [
+            "a) 0.26",
+            "b) 0.52",
+            "c) 0.62",
+            "d) 0.31",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 213,
+        "Question": "In a gaseous mixture, the number of moles and the molecular mass (in their respective units) of each component is given as follows: nA = 1, MA = 23; nB = 2, MB = 48; nC = 3, MC = 19. Find the average molecular mass of the mixture.",
+        "Options": [
+            "a) 28.67",
+            "b) 29.33",
+            "c) 31.25",
+            "d) 25.47",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 214,
+        "Question": "What is the number of condensed species in a gaseous mixture, if there are 8 possible species which enter into a relationship and out of these, only 5 are gases?",
+        "Options": [
+            "a) 3",
+            "b) 2",
+            "c) 9",
+            "d) 6",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 215,
+        "Question": "Determine the stoichiometric mixture mass ratio for the complete reaction: H2 + 1/2 O2 → H2O.",
+        "Options": [
+            "a) 2:1",
+            "b) 16:1",
+            "c) 4:1",
+            "d) 8:1",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 216,
+        "Question": "Rocket propulsion usually operates in ___________ mixture ratio.",
+        "Options": [
+            "a) fuel rich",
+            "b) oxidizer rich",
+            "c) stoichiometric",
+            "d) any",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 217,
+        "Question": "The decomposition of solid propellants to reaction mixture is a(n) ______________ chemical reaction.",
+        "Options": [
+            "a) reversible",
+            "b) irreversible",
+            "c) stoichiometric",
+            "d) ideal",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 218,
+        "Question": "What is the energy released (or absorbed), or the enthalpy change when one mole of a chemical compound is formed from its constituent atoms or elements at one bar and isothermally at 25°C?",
+        "Options": [
+            "a) Heat of formation",
+            "b) Heat of reaction",
+            "c) Gibbs free energy",
+            "d) Latent heat of vaporization",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 219,
+        "Question": "If the energy balance in the chemical reaction within the thrust chamber is thought of as a two-step process, what is the initial step in the process?",
+        "Options": [
+            "a) Isothermal chemical reaction at the reference temperature",
+            "b) Isentropic chemical reaction at the reference temperature",
+            "c) Adiabatic chemical reaction at the reference temperature",
+            "d) Heating of gases with the energy release from the chemical reaction",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 220,
+        "Question": "Out of the following products of the reaction of hydrogen and oxygen, which of them is unstable?",
+        "Options": [
+            "a) Hydrogen",
+            "b) Hydrogen peroxide",
+            "c) Hydroxyl",
+            "d) Water",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 221,
+        "Question": "Energy release efficiency is also called as ___________",
+        "Options": [
+            "a) isentropic efficiency",
+            "b) polytropic efficiency",
+            "c) propulsive efficiency",
+            "d) combustion efficiency",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 222,
+        "Question": "Combustion efficiency in liquid propellant rocket engines __________ with an increase in combustion temperature.",
+        "Options": [
+            "a) increases",
+            "b) decreases",
+            "c) doesn’t change",
+            "d) oscillates",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 223,
+        "Question": "What is the approximate number of species or compounds present in the exhaust for a solid propellant rocket engine?",
+        "Options": [
+            "a) 10",
+            "b) 50",
+            "c) 100",
+            "d) 200",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 224,
+        "Question": "Which of the following is not true for an ideal expansion in the nozzle?",
+        "Options": [
+            "a) Adiabatic, reversible expansion",
+            "b) Drop in static temperature and pressure",
+            "c) Drop in stagnation temperature and pressure",
+            "d) Conversion of thermal to kinetic energy",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 225,
+        "Question": "Which of the following effects are neglected for simple cases of nozzle expansion?",
+        "Options": [
+            "a) Heat exchange",
+            "b) Frictional effects",
+            "c) Divergence angle",
+            "d) Reversibility",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 226,
+        "Question": "What is the typical value of penalty incurred by assuming a frozen equilibrium rocket performance?",
+        "Options": [
+            "a) 1-4%",
+            "b) 0%",
+            "c) 12-15%",
+            "d) 25-30%",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 227,
+        "Question": "In which of the following cases is the chemical equilibrium maintained instantaneously, even though the gas composition varies through the nozzle due to temperature and pressure variations along the nozzle?",
+        "Options": [
+            "a) Frozen equilibrium",
+            "b) Non-equilibrium",
+            "c) Shifting equilibrium",
+            "d) Isothermal equilibrium",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 228,
+        "Question": "In which of the following modes of analysis does the temperature, velocity or pressure at any normal cross-section of an axisymmetric nozzle remain to be the same?",
+        "Options": [
+            "a) One dimensional",
+            "b) Two dimensional",
+            "c) Three dimensional",
+            "d) N-dimensional, where N can be 1,2,3,…",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 229,
+        "Question": "What is the average diameter of a solid particle in a nozzle flow above which there is a chance of occurrence of thermal lag?",
+        "Options": [
+            "a) 0.1 μm",
+            "b) 10 μm",
+            "c) 100 μm",
+            "d) 1 μm",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 230,
+        "Question": "Dissociation of the reaction products __________ with the rise in the chamber temperature and _________ with the rise in chamber pressure of a chemical rocket engine.",
+        "Options": [
+            "a) increases, increases",
+            "b) decreases, increases",
+            "c) decreases, decreases",
+            "d) increases, decreases",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 231,
+        "Question": "Which of the following is a highly refined form of kerosene used as rocket fuel?",
+        "Options": [
+            "a) RP-1",
+            "b) HMX",
+            "c) RDX",
+            "d) C-4",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 232,
+        "Question": "Which of the following fuels were used in the first stage of Titan I?",
+        "Options": [
+            "a) RP-1",
+            "b) RDX",
+            "c) HMX",
+            "d) LH2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 233,
+        "Question": "The fuel which releases the most energy per unit mass of combustion is ____________",
+        "Options": [
+            "a) LH2",
+            "b) RP-1",
+            "c) Kerosene",
+            "d) Methane",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 234,
+        "Question": "1-methyl-1, 2-dicyclopropyl cyclopropane is also called as ____________",
+        "Options": [
+            "a) Syntin",
+            "b) Kerosene",
+            "c) RP-1",
+            "d) Jet fuel",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 235,
+        "Question": "____________ is not a metallic additive in rocket propellants.",
+        "Options": [
+            "a) Beryllium",
+            "b) Aluminum",
+            "c) Nitroglycerine",
+            "d) Boron",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 236,
+        "Question": "Knocking in spark-ignition internal combustion engines is not the same as ____________",
+        "Options": [
+            "a) detonation",
+            "b) pinging",
+            "c) pinking",
+            "d) pre-ignition",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 237,
+        "Question": "What kind of propulsion is used for trajectory adjustments and attitude corrections?",
+        "Options": [
+            "a) Boosting propulsion",
+            "b) Auxiliary propulsion",
+            "c) Sustaining propulsion",
+            "d) Cryogenic propulsion",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 238,
+        "Question": "How are liquid rocket engines classified on the basis of their feed system?",
+        "Options": [
+            "a) Pressurized or turbopump",
+            "b) Restartable or single fired",
+            "c) Single flight or reusable",
+            "d) Boosting or auxiliary",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 239,
+        "Question": "The thruster is also called as _____________",
+        "Options": [
+            "a) combustion chamber",
+            "b) thrust chamber",
+            "c) nozzle",
+            "d) injector",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 240,
+        "Question": "Which of the following ways of thrust chamber cooling may use niobium metal?",
+        "Options": [
+            "a) Film cooling",
+            "b) Cooling jacket",
+            "c) Radiation cooling",
+            "d) Ablative cooling",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 241,
+        "Question": "At what temperature are the liquid oxygen and the liquid hydrogen kept in their storage tanks of the cryogenic rocket engine?",
+        "Options": [
+            "a) -253°C and -183°C",
+            "b) -183°C and -253°C",
+            "c) -253°C for both",
+            "d) -183°C for both",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 242,
+        "Question": "Determine the mixture ratio if mass flow rate of the oxidizer is 3/4 times the total mass flow rate of the combustion products.",
+        "Options": [
+            "a) 2.5",
+            "b) 3",
+            "c) 2",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 243,
+        "Question": "If the total propellant flow rate is 24 kg/s and the mixture ratio is 2.3, determine the mass flow rate of the oxidizer.",
+        "Options": [
+            "a) 19.67 kg/s",
+            "b) 15.33 kg/s",
+            "c) 12.94 kg/s",
+            "d) 16.73 kg/s",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 244,
+        "Question": "Which of the following is not a part of a simple pressurized feed system?",
+        "Options": [
+            "a) High pressure tank",
+            "b) Gas starting valve",
+            "c) Pressure regulator",
+            "d) Ignitor",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 245,
+        "Question": "_____ is used for separating liquids from the pressurizing gas.",
+        "Options": [
+            "a) Filters",
+            "b) Elastic bladder",
+            "c) Check valves",
+            "d) Draining provisions",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 246,
+        "Question": "To enhance reliability on the feed system, the number of components/ subassemblies should be ____________",
+        "Options": [
+            "a) higher",
+            "b) lower",
+            "c) non-existent",
+            "d) more than 100",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 247,
+        "Question": "When a section of the system has a leak or malfunction ____________ are used to shut it off.",
+        "Options": [
+            "a) isolation valves",
+            "b) auxiliary power unit",
+            "c) control valves",
+            "d) filters",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 248,
+        "Question": "____________ are used for preventing the propellant flow back into the tanks and avoiding inadvertent mixing of propellants in the flow passage.",
+        "Options": [
+            "a) Check valves",
+            "b) Isolation valves",
+            "c) Drainage valves",
+            "d) Filters",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 249,
+        "Question": "For effective propellant utilization, the rate at which tank can expulse the propellants should be ____________ and the amount of residual propellants should be ____________",
+        "Options": [
+            "a) high, Low",
+            "b) low, High",
+            "c) high, High",
+            "d) low, Low",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 250,
+        "Question": "Which of the following is not the function of an OMS?",
+        "Options": [
+            "a) Deorbit",
+            "b) Attitude control",
+            "c) Rendezvous",
+            "d) Orbit circularization",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 251,
+        "Question": "Which of the following statements is correct?",
+        "Options": [
+            "a) RCS operates only simultaneously with OMS",
+            "b) RCS operates separately from OMS",
+            "c) RCS can operate both simultaneously with and separate from OMS.",
+            "d) Both RCS and OMS both cannot operate together when one of them is under operation",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 252,
+        "Question": "Which of the following materials of the propellant tank requires a thin inner liner of metal to avoid leakage?",
+        "Options": [
+            "a) Titanium",
+            "b) Aluminum",
+            "c) Stainless steel",
+            "d) Fiber-reinforced plastics",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 253,
+        "Question": "What is ullage?",
+        "Options": [
+            "a) The volume of propellant stored inside a tank neglecting its empty volume",
+            "b) The extra volume of gas above the propellant in a tank",
+            "c) The ratio of the volume of extra gas to that of the propellant after 50% of the propellant has been consumed",
+            "d) The ratio of the volume of the propellant to that of the extra gas after 50% of the propellant has been consumed",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 254,
+        "Question": "Determine the amount of propellant trapped in pipe, fittings, and valve corners and lost by other means, if the initial mass of the propellant was M and it had an expulsion efficiency of 97%.",
+        "Options": [
+            "a) 0.97M",
+            "b) 0.03M",
+            "c) 0.06M",
+            "d) 0.48M",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 255,
+        "Question": "What happens to the vehicle mass ratio (Initial mass / Burnout mass) when the residual propellant is not available for combustion?",
+        "Options": [
+            "a) Decreases slightly",
+            "b) Increases slightly",
+            "c) Increases rapidly",
+            "d) Decreases rapidly",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 256,
+        "Question": "A good propellant tank must ensure that sloshing is ___________ and vortexing is ____________",
+        "Options": [
+            "a) minimized; maximized",
+            "b) maximized; minimized",
+            "c) maximized; maximized",
+            "d) minimized; minimized",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 257,
+        "Question": "When does the slosh-dynamics problem become useful?",
+        "Options": [
+            "a) When the liquid has a free surface",
+            "b) When the liquid has no free surface",
+            "c) When the liquid is non-Newtonian",
+            "d) When the material stored inside the tank is thixotropic",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 258,
+        "Question": "Who is the innovative rocket designer who created Atlas ICBM?",
+        "Options": [
+            "a) Stewart Powell",
+            "b) Karel Bossart",
+            "c) John von Neumann",
+            "d) Bernard A. Schriever",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 259,
+        "Question": "Which component of the external tank of Space Shuttle served the main purpose of distributing thrust loads from SRBs?",
+        "Options": [
+            "a) LOX tank",
+            "b) LH2 tank",
+            "c) Intertank",
+            "d) Contractor",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 260,
+        "Question": "Tank pressure for the pressure feed system is between ___________ and __________",
+        "Options": [
+            "a) 100 psi; 2000 psi",
+            "b) 200 psi; 1800 psi",
+            "c) 300 psi; 2400 psi",
+            "d) 800 psi; 3000 psi",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 261,
+        "Question": "Which of the following gases cannot be used for gas pressure feed systems?",
+        "Options": [
+            "a) Helium",
+            "b) Nitrogen",
+            "c) Argon",
+            "d) Ozone",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 262,
+        "Question": "Which of the following is not true about the pressurizing gas?",
+        "Options": [
+            "a) It shouldn’t be soluble in the liquid propellant",
+            "b) It shouldn’t condense in the presence of the liquid propellant",
+            "c) It should be inert",
+            "d) It should have at least 10% moisture content",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 263,
+        "Question": "Propellant tanks containing oxygen and nitrogen tetroxide can be pressurized using _________",
+        "Options": [
+            "a) helium and nitrogen respectively",
+            "b) nitrogen and helium respectively",
+            "c) helium alone",
+            "d) nitrogen alone",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 264,
+        "Question": "For pressurizing cryogenic propellant tanks, the amount of gas required is _________ compared to an equivalent tank containing a non-cryogenic propellant.",
+        "Options": [
+            "a) more",
+            "b) less",
+            "c) equal",
+            "d) not related in any way",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 265,
+        "Question": "Which of the following pressurization techniques involves combustion inside the propellant tank?",
+        "Options": [
+            "a) Chemical pressurization",
+            "b) Gas fed pressurization",
+            "c) This is not possible",
+            "d) Dynamic pressurization",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 266,
+        "Question": "Pressurizing gas cannot perform ___________",
+        "Options": [
+            "a) operation of valves",
+            "b) operation of controls",
+            "c) admission of propellants into the tank",
+            "d) expulsion of propellants away from the tank",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 267,
+        "Question": "In turbopump feed systems, the pressurization of the propellants is done by ____________ and they are driven by ____________",
+        "Options": [
+            "a) turbines; pumps",
+            "b) pumps; turbines",
+            "c) pumps; pumps",
+            "d) turbines; turbines",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 268,
+        "Question": "In turbopump feed systems, the turbines derive their power from _______________",
+        "Options": [
+            "a) expansion of hot gases",
+            "b) expansion of cold gases",
+            "c) compression of hot gases",
+            "d) compression of cold gases",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 269,
+        "Question": "Closed cycles in turbopump feed systems are also called as  ____________",
+        "Options": [
+            "a) open cycle",
+            "b) engine cycle",
+            "c) topping cycle",
+            "d) bottoming cycle",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 270,
+        "Question": "Which of the following cycles is used in RL10 hydrogen/oxygen rocket engine?",
+        "Options": [
+            "a) Expander cycle",
+            "b) Gas generator cycle",
+            "c) Staged-combustion cycle",
+            "d) Combustion tap-off cycle",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 271,
+        "Question": "Which of the following engines uses a staged combustion cycle?",
+        "Options": [
+            "a) Vinci",
+            "b) Pratt & Whitney RL10",
+            "c) Ariane 6",
+            "d) SpaceX Raptor",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 272,
+        "Question": "Which of the following is not a characteristic of staged combustion cycle compared to other cycles?",
+        "Options": [
+            "a) High fuel efficiency",
+            "b) High engine specific impulse",
+            "c) Engineering simplicity",
+            "d) Use of preburners",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 273,
+        "Question": "The oxidiser flow (mo) through the gas generator is ____________ if its flow rate through the pump is 10 kg/s and through the thrust chamber is 5 kg/s.",
+        "Options": [
+            "a) 5 kg/s",
+            "b) 15 kg/s",
+            "c) 20 kg/s",
+            "d) 25 kg/s",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 274,
+        "Question": "The fuel flow (mf) through the gas generator is ____________ if its flow rate through the pump is 18 kg/s and through the thrust chamber is 10 kg/s.",
+        "Options": [
+            "a) 18 kg/s",
+            "b) 10 kg/s",
+            "c) 8 kg/s",
+            "d) 28 kg/s",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 275,
+        "Question": "What is the total mass flow rate through the gas generator if the oxidizer flow through it is 15 kg/s and fuel flow is 18 kg/s?",
+        "Options": [
+            "a) 3 kg/s",
+            "b) 48 kg/s",
+            "c) 53 kg/s",
+            "d) 33 kg/s",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 276,
+        "Question": "In a turbopump, what are are the gear ratios for ao and af (for oxidizer pump and fuel pump respectively) if no gears are used?",
+        "Options": [
+            "a) 0 for both",
+            "b) 1 for both",
+            "c) 0 for ao and 1 for af",
+            "d) 0 for af and 1 for ao",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 277,
+        "Question": "If the gear ratio for fuel pump is thrice that of the oxidizer pump, the shaft speed of fuel pump is ____________ the oxidizer pump.",
+        "Options": [
+            "a) half",
+            "b) twice",
+            "c) thrice",
+            "d) one-third",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 278,
+        "Question": "If power of turbines equals PT, power consumed by pumps is PP and the power consumed by auxiliaries is PA, what is the expression for auxiliary power?",
+        "Options": [
+            "a) PA = PP – PT",
+            "b) PA = PP + PT",
+            "c) PA = PT – PP",
+            "d) PA = PT x PP",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 279,
+        "Question": "The power is expressed as the product of torque and ____________",
+        "Options": [
+            "a) vehicle speed",
+            "b) shaft speed",
+            "c) exhaust velocity",
+            "d) volume flow rate per unit cross-sectional area",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 280,
+        "Question": "Which of the following expressions is true when there are no gears in a particular turbopump?",
+        "Options": [
+            "a) NT = No ≠ Nf",
+            "b) NT ≠ No = Nf",
+            "c) NT ≠ No ≠ Nf",
+            "d) NT = No = Nf",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 281,
+        "Question": "If L represents torque, and the subscripts T, o, f, b denotes the turbopump, oxidizer pump, fuel pump and bearings respectively, then which of the following expressions is true when there are no gears in a particular turbopump?",
+        "Options": [
+            "a) LT = Lo + Lf + Lb",
+            "b) LT = Lo x Lf x Lb",
+            "c) LT = Lo = Lf = Lb",
+            "d) LT = Lo = Lf ≠ Lb",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 282,
+        "Question": "If the pressure rise ΔP across a pump is half the discharge pressure, then which of the following relates the suction pressure Ps to discharge pressure pd?",
+        "Options": [
+            "a) Ps = pd",
+            "b) Ps = 2 x Pd",
+            "c) 2 x Ps = Pd",
+            "d) Ps = 4 x Pd",
+            ""
+        ],
+        "Answer": "Answer:  c"
+    },
+    {
+        "id": 283,
+        "Question": "What is the nature of thrusters and feed system for attitude control rocket engines?",
+        "Options": [
+            "a) small; common pressurized feed system",
+            "b) large; separate turbopump feed system",
+            "c) small; separate pressurized feed system",
+            "d) large; common turbopump feed system",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 284,
+        "Question": "Rocket engines used for orbital adjustments are also called as _____________",
+        "Options": [
+            "a) boost propulsion system",
+            "b) primary propulsion system",
+            "c) auxiliary rockets",
+            "d) strap-on motors",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 285,
+        "Question": "For the application of pure torques in three directions, it requires ______ thrusters.",
+        "Options": [
+            "a) 6",
+            "b) 3",
+            "c) 12",
+            "d) 9",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 286,
+        "Question": "Which of the following modes of firing thrusters leads to pure modulation?",
+        "Options": [
+            "a) Pulsing mode",
+            "b) Step input mode",
+            "c) Ramp input mode",
+            "d) Sinusoidal mode",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 287,
+        "Question": "A thruster firing repeatedly for 0.010 seconds each time followed by a pause of 0.020 seconds or 0.150 seconds is an example for __________",
+        "Options": [
+            "a) step input mode",
+            "b) pulsing mode",
+            "c) sinusoidal mode",
+            "d) ramp input mode",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 288,
+        "Question": "___________ system determines the maneuver to be performed and _________ system sends command signals to specific thrusters for number of signals required.",
+        "Options": [
+            "a) Control; control",
+            "b) Guidance; guidance",
+            "c) Control; guidance",
+            "d) Guidance; control",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 289,
+        "Question": "What is range of side force required by a ballistic missile during its final closing maneuver just before nearing in on the target?",
+        "Options": [
+            "a) 100-4500 N",
+            "b) 200-6000 N",
+            "c) 800-8000 N",
+            "d) 1000-18000 N",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 290,
+        "Question": "For very short pulse duration of the thruster firing, the specific impulse is degraded by __________",
+        "Options": [
+            "a) 1-5%",
+            "b) 0.5-1%",
+            "c) 5-25%",
+            "d) 1-5%",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 291,
+        "Question": "Reaction control of the Space Shuttle is achieved using ________ thrusters.",
+        "Options": [
+            "a) 24",
+            "b) 48",
+            "c) 38",
+            "d) 34",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 292,
+        "Question": "When these valves are shut, it shuts off a portion of the propulsion system _________",
+        "Options": [
+            "a) burst diaphragm",
+            "b) isolation valves",
+            "c) control valves",
+            "d) drainage valves",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 293,
+        "Question": "Two valves commonly used in pressurized feed systems are _________ and _________",
+        "Options": [
+            "a) burst diaphragm and latch valves",
+            "b) latch valves and drainage valves",
+            "c) burst diaphragm and drainage valves",
+            "d) latch valves and Isolation valves",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 294,
+        "Question": "Which of these is a very simple and light valve?",
+        "Options": [
+            "a) Isolation valves",
+            "b) Latch valves",
+            "c) Drainage valves",
+            "d) Burst diaphragm",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 295,
+        "Question": "German antiaircraft missile Wasserfall used four of which of the following valves?",
+        "Options": [
+            "a) Burst diaphragm",
+            "b) Latch valves",
+            "c) Isolation valves",
+            "d) Drainage valves",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 296,
+        "Question": "Which of the following is not a property of the main liquid oxygen valve?",
+        "Options": [
+            "a) Low pressure",
+            "b) High pressure",
+            "c) Reusable ball valve",
+            "d) Cryogenic",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 297,
+        "Question": "Which of the following valves help in controlling gas pressures?",
+        "Options": [
+            "a) Pressure regulator",
+            "b) Burst diaphragm",
+            "c) Latch valves",
+            "d) Isolation valves",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 298,
+        "Question": "Fluids in a rocket engine are conveyed through __________",
+        "Options": [
+            "a) pipes",
+            "b) channels",
+            "c) ducts",
+            "d) contractions",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 299,
+        "Question": "Which of the following is the correct function of pipes and lines in a rocket engine?",
+        "Options": [
+            "a) Allow thermal expansion and maximize vibrational effects",
+            "b) Minimize thermal expansion and minimize vibrational effects",
+            "c) Allow thermal expansion and minimize vibrational effects",
+            "d) Minimize thermal expansion and maximize vibrational effects",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 300,
+        "Question": "Maximum pressure in pipelines is reduced by _________",
+        "Options": [
+            "a) friction and branching of the pipe",
+            "b) friction of the pipe but not its branching",
+            "c) branching of the pipe but not its friction",
+            "d) neither friction nor branching of the pipe",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 301,
+        "Question": "Water hammer phenomenon in pipelines can help in the determination of __________",
+        "Options": [
+            "a) maximum pressure",
+            "b) minimum pressure",
+            "c) maximum temperature",
+            "d) minimum temperature",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 302,
+        "Question": "Which of the following propellants were used in the Titan mission?",
+        "Options": [
+            "a) 50% UDMH + 50% hydrazine",
+            "b) RP1",
+            "c) RDX",
+            "d) Aviation gasoline",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 303,
+        "Question": "Which of the following is not a factor considered in the selection of liquid propellant for a rocket engine?",
+        "Options": [
+            "a) Economic",
+            "b) Performance",
+            "c) Safety",
+            "d) Injector pattern",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 304,
+        "Question": "Which of the following chemical particles cannot be suspended in liquid fuel to increase specific impulse?",
+        "Options": [
+            "a) Boron",
+            "b) Beryllium",
+            "c) Aluminium",
+            "d) Fluorine",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 305,
+        "Question": "Which among the following propellants is not corrosive?",
+        "Options": [
+            "a) Liquid oxygen",
+            "b) Nitric acid",
+            "c) Nitrogen tetroxide",
+            "d) Liquid Fluorine",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 306,
+        "Question": "What is O-ring in a chemical rocket engine?",
+        "Options": [
+            "a) A kind of seal",
+            "b) A type of injector",
+            "c) A type of pipe network",
+            "d) A kind of control system",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 307,
+        "Question": "Which of the following is not a desirable property of a liquid propellant?",
+        "Options": [
+            "a) Low freezing point",
+            "b) Low specific gravity",
+            "c) Stability",
+            "d) High specific heat",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 308,
+        "Question": "What is the average specific gravity(δav) if the specific gravity of the fuel (δf) is 0.792, the specific gravity of the oxidizer is (δo) is 1.02 and the mixture ratio (r) is 4?",
+        "Options": [
+            "a) 0.96",
+            "b) 0.94",
+            "c) 1.01",
+            "d) 0.98",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 309,
+        "Question": "Determine the density specific impulse (Id) if the specific impulse is 315 s and the average density of the propellants is 840 kg/m3. Take the reference density to be the maximum density of water.",
+        "Options": [
+            "a) 264.6 s",
+            "b 251.3 s",
+            "c) 279.5 s",
+            "d) 304.4 s",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 310,
+        "Question": "A good liquid propellant will have ___________",
+        "Options": [
+            "a) easy deterioration",
+            "b) resistance to deterioration",
+            "c) absorption of moisture",
+            "d) small amount of impurities",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 311,
+        "Question": "Evaporation is a major concern for __________",
+        "Options": [
+            "a) cryogenic propellants",
+            "b) monopropellants",
+            "c) bipropellants",
+            "d) solid propellants",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 312,
+        "Question": "__________ are not liquid oxidizers.",
+        "Options": [
+            "a) Nitrogen-fluorine formulations",
+            "b) Oxygen-fluorine compounds",
+            "c) Fluorinated hydrocarbons",
+            "d) Borohydrides",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 313,
+        "Question": "___________ is a commonly used liquid oxidizer.",
+        "Options": [
+            "a) ClF3",
+            "b) OF2",
+            "c) ClF5",
+            "d) H2O2",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 314,
+        "Question": "LOX boils at _______ atmospheric pressure.",
+        "Options": [
+            "a) 909C",
+            "b) 90 K",
+            "c) 90 F",
+            "d) 90 R",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 315,
+        "Question": "Which of the following is the specific gravity and heat of vaporization of LOX at atmospheric pressure?",
+        "Options": [
+            "a) 1.14; 213 kJ/kg",
+            "b) 1.08; 253 kJ/kg",
+            "c) 1.80; 235 kJ/kg",
+            "d) 1.41; 231 kJ/kg",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 316,
+        "Question": "What is the decrease in specific gravity of LOX if the tank pressure is increased from atmospheric pressure to 8 atm? (At 8 atm, specific gravity of LOX is 0.88)",
+        "Options": [
+            "a) 32.3%",
+            "b) 28.2 %",
+            "c) 22.8%",
+            "d) 25.3%",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 317,
+        "Question": "When are the tanks with cryogenic propellants pressurized?",
+        "Options": [
+            "a) Just before the engine start",
+            "b) After the engine start",
+            "c) 10 sec after the engine start",
+            "d) 10 sec before the engine start",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 318,
+        "Question": "Which of the following percentages of concentration of hydrogen peroxide is used for rocket applications?",
+        "Options": [
+            "a) 80 %",
+            "b) 60 %",
+            "c) 30 %",
+            "d) 10 %",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 319,
+        "Question": "In the combustion chamber, hydrogen peroxide decomposes to give __________",
+        "Options": [
+            "a) hydrogen and oxygen",
+            "b) hydrogen and water",
+            "c) oxygen and water",
+            "d) water",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 320,
+        "Question": "Which of the following is not a catalyst used for H2O2 decomposition?",
+        "Options": [
+            "a) Platinum",
+            "b) Iron oxide",
+            "c) Manganese dioxide",
+            "d) Aluminium",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 321,
+        "Question": "Theoretical specific impulse of 90% H2O2 is _______",
+        "Options": [
+            "a) 204 s",
+            "b) 154 s",
+            "c) 321 s",
+            "d) 114 s",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 322,
+        "Question": "__________ is not liquid fuel.",
+        "Options": [
+            "a) Xylidine",
+            "b) Furfuryl alcohol",
+            "c) Hydrazine hydrate",
+            "d) Nitric acid",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 323,
+        "Question": "Which of the following is not a liquid fuel?",
+        "Options": [
+            "a) Ammonia",
+            "b) Ethyl alcohol",
+            "c) Borohydrides",
+            "d) Hydrogen peroxide",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 324,
+        "Question": "Petroleum derivatives are mainly ___________ chemicals.",
+        "Options": [
+            "a) hydrocarbon",
+            "b) gasoline",
+            "c) alcoholic",
+            "d) aldehydic",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 325,
+        "Question": "Which of the following is not a hydrocarbon fuel?",
+        "Options": [
+            "a) Kerosene",
+            "b) Diesel",
+            "c) Turbojet fuel",
+            "d) Ethyl alcohol",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 326,
+        "Question": "Petroleum fuels form ________ radiating flames.",
+        "Options": [
+            "a) blue-green",
+            "b) orange-red",
+            "c) yellow-white",
+            "d) orange-yellow",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 327,
+        "Question": "Carbon deposits on the inside of cooling passage can lead to __________",
+        "Options": [
+            "a) decrease in heat transfer and decrease in wall temperature",
+            "b) increase in heat transfer and decrease in wall temperature",
+            "c) decrease in heat transfer and increase in wall temperature",
+            "d) increase in heat transfer and increase in wall temperature",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 328,
+        "Question": "Atlas, Delta and Thor rocket engines use __________ fuel along with liquid oxygen.",
+        "Options": [
+            "a) RP-1",
+            "b) RDX",
+            "c) HMX",
+            "d) H2O2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 329,
+        "Question": "Methane is a __________ fuel.",
+        "Options": [
+            "a) cryogenic hydrocarbon",
+            "b) monopropellant",
+            "c) bipropellant",
+            "d) hypergolic hydrocarbon",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 330,
+        "Question": "RP-1 specific gravity at 15°C is __________",
+        "Options": [
+            "a) 0.80",
+            "b) 0.75",
+            "c) 0.70",
+            "d) 0.65",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 331,
+        "Question": "H2 burns with oxygen with a ________ flame.",
+        "Options": [
+            "a) yellow-orange",
+            "b) yellow-white",
+            "c) colorless",
+            "d) blue-yellow",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 332,
+        "Question": "Which of the following is a monopropellant?",
+        "Options": [
+            "a) H2",
+            "b) Diluted H2O2",
+            "c) Hydrazine",
+            "d) Monomethyl hydrazine",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 333,
+        "Question": "___________ is not a method of monopropellant ignition.",
+        "Options": [
+            "a) Flame heat",
+            "b) Electrical",
+            "c) Catalytic material",
+            "d) Pulverization",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 334,
+        "Question": "___________ is an excellent catalyst for hydrazine at room temperature.",
+        "Options": [
+            "a) Zeolite",
+            "b) Iridium",
+            "c) Antimony trioxide",
+            "d) Cobalt",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 335,
+        "Question": "Iron, nickel and cobalt can decompose hydrazine at ________ temperature.",
+        "Options": [
+            "a) 273 K",
+            "b) 289 K",
+            "c) 400 K",
+            "d) 450 K",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 336,
+        "Question": "In catalytic decomposition of hydrazine, it decomposes into ________ and _______",
+        "Options": [
+            "a) ammonia; nitrogen",
+            "b) hydrogen; nitrogen",
+            "c) ammonium; nitrogen",
+            "d) ammonia; hydrogen",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 337,
+        "Question": "The catalytic decomposition of hydrazine is an __________ reaction.",
+        "Options": [
+            "a) endothermic",
+            "b) exothermic",
+            "c) endergonic",
+            "d) exergonic",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 338,
+        "Question": "Ammonia decomposition into nitrogen and hydrogen gases is an _________ reaction.",
+        "Options": [
+            "a) Endothermic",
+            "b) Exothermic",
+            "c) Endergonic",
+            "d) Exergonic",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 339,
+        "Question": "Hydroxylammonium nitrate has a specific impulse of ___________",
+        "Options": [
+            "a) 300-365s",
+            "b) 10-65s",
+            "c) 200-265s",
+            "d) 100-165s",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 340,
+        "Question": "Standard commercial hydrazine has less than ________% aniline.",
+        "Options": [
+            "a) 0.5",
+            "b) 1.0",
+            "c) 0.8",
+            "d) 0.6",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 341,
+        "Question": "UDMH stands for _________",
+        "Options": [
+            "a) Unsymmetrical Dimethyl Hydrazine",
+            "b) Unsaturated Dimethyl Hydrazine",
+            "c) Unsymmetrical Diethyl Hydrazine",
+            "d) Unsaturated Diethyl Hydrazine",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 342,
+        "Question": "Which of the following is not a gold gas propellant?",
+        "Options": [
+            "a) Nitrogen",
+            "b) Argon",
+            "c) Freon 14",
+            "d) Hydrazine",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 343,
+        "Question": "For cold gas propellants, tank pressure is typically between __________ and __________",
+        "Options": [
+            "a) 300 Mpa; 1000 Mpa",
+            "b) 100 Mpa; 500 Mpa",
+            "c) 200 Mpa; 1000 Mpa",
+            "d) 300 Mpa; 500 Mpa",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 344,
+        "Question": "Selection of propellant, storage tank, and RCS design depends on?",
+        "Options": [
+            "a) Mass and volume of storage tanks, maximum thrust and total impulse",
+            "b) Maximum thrust and total impulse but not the storage tank mass or volume",
+            "c) Maximum thrust and storage tank mass and volume but not total impulse",
+            "d) None of maximum thrust, total impulse or storage tank properties",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 345,
+        "Question": "Total impulses of cold gas systems are about _______ N-sec.",
+        "Options": [
+            "a) 400",
+            "b) 800",
+            "c) 1200",
+            "d) 1600",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 346,
+        "Question": "For a short period of operation (lasting few minutes), the gas expansion in cold gas systems is ________",
+        "Options": [
+            "a) isothermal",
+            "b) adiabatic",
+            "c) homogenous",
+            "d) heterogeneous",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 347,
+        "Question": "Thrust in RCS is produced by the momentum exchange between exhaust and the ________",
+        "Options": [
+            "a) payload",
+            "b) injector",
+            "c) spacecraft",
+            "d) pump",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 348,
+        "Question": "Which of the following gives a rough estimate of specific impulse provided by cold gas systems?",
+        "Options": [
+            "a) 30-70 s",
+            "b) 80-150 s",
+            "c) 10-50 s",
+            "d) 200-300 s",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 349,
+        "Question": "How are forces from a cold gas thruster measured in a testing environment?",
+        "Options": [
+            "a) Using strain gage",
+            "b) Using load cells",
+            "c) Using force balance",
+            "d) Using accelerometers",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 350,
+        "Question": "Use of stainless steel thruster helps in _________",
+        "Options": [
+            "a) elimination of reaction between propellants and thrusters",
+            "b) increase in specific impulse",
+            "c) reduction of total power consumption",
+            "d) providing better orbital correction",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 351,
+        "Question": "Burning of the propellants take place in __________",
+        "Options": [
+            "a) nozzle",
+            "b) injector",
+            "c) combustion chamber",
+            "d) engine casing",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 352,
+        "Question": "The volume of the combustion chamber is selected on the basis of which of these factors?",
+        "Options": [
+            "a) Mixing, evaporation and complete combustion of the propellants",
+            "b) Mixing and complete combustion of the propellants, but not its evaporation",
+            "c) Evaporation and complete combustion of the propellants, but not mixing",
+            "d) Mixing and evaporation but not the complete combustion of the propellants",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 353,
+        "Question": "Which of the following will aid in the selection of smaller combustion chamber volume during its design?",
+        "Options": [
+            "a) Slightly reactive propellants",
+            "b) Low chamber pressure",
+            "c) Injectors with moderate mixing",
+            "d) Possibility for complete combustion",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 354,
+        "Question": "Which of the following is true for combustion chambers with large volume and diameter?",
+        "Options": [
+            "a) High heat transfer rates to the walls",
+            "b) Smaller total area exposed to the heat",
+            "c) Thinner walls",
+            "d) Lower wall temperature",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 355,
+        "Question": "The combustion chamber mass is not a function of __________",
+        "Options": [
+            "a) payload mass",
+            "b) method of cooling",
+            "c) chamber pressure",
+            "d) nozzle area ratio",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 356,
+        "Question": "For increased operating chamber pressure, the length of the combustion chamber ________ and the nozzle throat area _________ if the diameter of the combustion chamber (assume the shape to be cylindrical) is fixed and the thrust remains constant.",
+        "Options": [
+            "a) increases; decreases",
+            "b) decreases; increases",
+            "c) decreases; decreases",
+            "d) increases; increases",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 357,
+        "Question": "What is characteristic chamber length?",
+        "Options": [
+            "a) Thrust chamber length without the length of the nozzle",
+            "b) Length of the thrust chamber as if it were a straight tube with no converging section",
+            "c) Total length of the nozzle",
+            "d) Total length of the rocket engine",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 358,
+        "Question": "Determine the chamber volume if the characteristic length of a thrust chamber is 150 cm and nozzle throat area is 0.25m2.",
+        "Options": [
+            "a) 0.573 m3",
+            "b) 0.735 m3",
+            "c) 0.375 m3",
+            "d) 0.753 m3",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 359,
+        "Question": "Typical values of L* for several bipropellants lie between __________",
+        "Options": [
+            "a) 0.8 and 3 m",
+            "b) 1 and 2 m",
+            "c) 1.5 and 5.5 m",
+            "d) 3.2 and 6.4 m",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 360,
+        "Question": "What is stay time?",
+        "Options": [
+            "a) Average time spent by each molecule or atom within the combustion chamber volume",
+            "b) Average time spent by each molecule or atom within the thrust chamber volume",
+            "c) Average time spent by each molecule or atom within the propellant tank after rocket take off",
+            "d) Average time spent by each molecule or atom within the injector manifold",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 361,
+        "Question": "The carburetor of an internal combustion engine has a similar function as __________",
+        "Options": [
+            "a) injector",
+            "b) thrust chamber",
+            "c) nozzle",
+            "d) propellant tank",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 362,
+        "Question": "The process by which liquids are broken into small droplets is called __________",
+        "Options": [
+            "a) atomization",
+            "b) vaporization",
+            "c) disintegrator",
+            "d) pulverization",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 363,
+        "Question": "_________ helps in the distribution of propellant from the injector inlet.",
+        "Options": [
+            "a) Injector hole pattern",
+            "b) Turbopump",
+            "c) Preburner",
+            "d) Gas generator cycle",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 364,
+        "Question": "A large complex manifold of an injector allows ________ and ________",
+        "Options": [
+            "a) high flow velocities; good distribution of flow over the chamber cross-section",
+            "b) low flow velocities; good distribution of flow over the chamber cross-section",
+            "c) high flow velocities; poor distribution of flow over the chamber cross-section",
+            "d) low flow velocities; poor distribution of flow over the chamber cross-section",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 365,
+        "Question": "A small manifold volume of an injector results in ________ and ________",
+        "Options": [
+            "a) less dribble; heavier injector",
+            "b) more dribble; heavier injector",
+            "c) less dribble; lighter injector",
+            "d) more dribble; lighter injector",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 366,
+        "Question": "The flow through injector manifold after the main valves are shut is called as ______",
+        "Options": [
+            "a) dribble flow",
+            "b) main flow",
+            "c) bleed flow",
+            "d) pipe flow",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 367,
+        "Question": "To make a sharp, abrupt start to fuel injection _________ is used.",
+        "Options": [
+            "a) pop valve",
+            "b) check valve",
+            "c) safety valve",
+            "d) anti-dribble valve",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 368,
+        "Question": "Which of the following can cause afterburning?",
+        "Options": [
+            "a) Complete combustion",
+            "b) Dribbling flow",
+            "c) Sloshing in propellant tank",
+            "d) Use of cold gas propellant system",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 369,
+        "Question": "Non-impinging injector is also called as _________ injector.",
+        "Options": [
+            "a) showerhead",
+            "b) multiple-hole",
+            "c) doublet",
+            "d) like-on-like",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 370,
+        "Question": "Which of the following injectors requires large chamber volume for good combustion?",
+        "Options": [
+            "a) Sheet injector",
+            "b) Showerhead injector",
+            "c) Impinging-stream-type injector",
+            "d) Multiple-hole injector",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 371,
+        "Question": "If dT/dL denotes temperature gradient with respect to thickness L at the surface A, k denotes the thermal conductivity, then the heat transferred per unit area is given by __________",
+        "Options": [
+            "a) Q/A = -k dT/dL",
+            "b) Q/A = -(1/k) dT/dL",
+            "c) Q/A = k dT/dL",
+            "d) Q/A = (1/k) kdT/dL",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 372,
+        "Question": "Steady state heat transfer through a liquid-cooled rocket chamber wall can be considered as ___________",
+        "Options": [
+            "a) series type with strong temperature gradient",
+            "b) parallel type with weak temperature gradient",
+            "c) series type with weak temperature gradient",
+            "d) parallel type with strong temperature gradient",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 373,
+        "Question": "The whole process of heat transfer through the chamber wall is a combination of ________ through the chamber wall and ________ through the flowing fluids.",
+        "Options": [
+            "a) conduction; convection",
+            "b) convection; radiation",
+            "c) radiation; conduction",
+            "d) conduction; conduction",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 374,
+        "Question": "For absolute chamber gas temperature Tg, absolute liquid temperature Tl, overall film coefficient h, gas film coefficient hg and liquid film coefficient hl, determine the expression for heat transferred per unit area q.",
+        "Options": [
+            "a) q = h/(hg hl) x (Tg – Tl)",
+            "b) q = hg (Tg – Tl)",
+            "c) q = hghl/h x (Tg – Tl)",
+            "d) q = h (Tg – Tl)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 375,
+        "Question": " For absolute chamber gas temperature Tg, absolute liquid temperature Tl, absolute wall temperature on the gas side of the wall Twg,  overall film coefficient h, gas film coefficient hg and liquid film coefficient hl, determine the expression for heat transferred per unit area q.",
+        "Options": [
+            "a) q = hl (To – Twg)",
+            "b) q = h (To – Twg)",
+            "c) q = hg (To – Twg)",
+            "d) q = hg/h (Twg – To)",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 376,
+        "Question": "_____ largely determines the numerical heat transfer rate and __________ largely determines the value of wall temperatures.",
+        "Options": [
+            "a) Gas film coefficient; liquid film coefficient",
+            "b) Gas film coefficient; thermal conductivity",
+            "c) Thermal conductivity; liquid film coefficient",
+            "d) Liquid film coefficient; gas film coefficient",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 377,
+        "Question": "Which of the following might simplify the determination of film coefficient?",
+        "Options": [
+            "a) Combustion oscillations",
+            "b) Boundary layer behavior",
+            "c) Uniform velocity profile",
+            "d) Complex geometry",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 378,
+        "Question": "The quantity hgD/k, where hg is the gas film coefficient, D is the diameter of the chamber and k denotes the gas conductivity is __________",
+        "Options": [
+            "a) Bartz number",
+            "b) Froude number",
+            "c) Nusselt number",
+            "d) Prandtl number",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 379,
+        "Question": "The quantity μCp/k, where μ is the absolute gas viscosity, Cp is the specific heat of gas at constant pressure and k is the thermal conductivity is called as _________",
+        "Options": [
+            "a) Nusselt number",
+            "b) Bartz number",
+            "c) Prandtl number",
+            "d) Froude number",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 380,
+        "Question": "Determine the Prandtl number for a liquid having thermal conductivity of 4.6 W/mK, Cp of 8 kJ/kgK. Assume the viscosity to be 1.25 Cp.",
+        "Options": [
+            "a) 1.59",
+            "b) 7.21",
+            "c) 5.91",
+            "d) 2.17",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 381,
+        "Question": "Determine the propellant mass flow rate for a TSFC of 3200 kg/Ns and a total thrust of 50 kN.",
+        "Options": [
+            "a) 21.65 kg/s",
+            "b) 12.56 kg/s",
+            "c) 16.52 kg/s",
+            "d) 15.62 kg/s",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 382,
+        "Question": "Find the fuel flow rate for a total propellant flow of 10 kg/s and a mixture ratio of 2.3.",
+        "Options": [
+            "a) 4.71 kg/s",
+            "b) 7.41 kg/s",
+            "c) 1.47 kg/s",
+            "d) 4.17 kg/s",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 383,
+        "Question": "Calculate the flow rate of LOX to the combustion chamber in a LOX-H2 rocket engine if the total propellant flow rate is 17 kg/s and mixture ratio is 3.2.",
+        "Options": [
+            "a) 11.33 kg/s",
+            "b) 15.92 kg/s",
+            "c) 12.95 kg/s",
+            "d) 13.67 kg/s",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 384,
+        "Question": "Determine the nozzle throat area for a rocket engine producing a total thrust of 10 kN, chamber pressure of 5.2 MPa and thrust coefficient of 1.9.",
+        "Options": [
+            "a) 10.12 cm2",
+            "b) 12.10 cm2",
+            "c) 11.20 cm2",
+            "d) 21.10 cm2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 385,
+        "Question": "If the semi-divergence angle of a conical nozzle is 15°, throat diameter is 8.326 cm and exit area is 0.54 m2, determine the nozzle length.",
+        "Options": [
+            "a) 139.2 cm",
+            "b) 239.1 cm",
+            "c) 312.9 cm",
+            "d) 231.9 cm",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 386,
+        "Question": "The pressure drop across injector is usually set between _________ of the chamber pressure.",
+        "Options": [
+            "a) 45 and 65%",
+            "b) 30 and 45%",
+            "c) 15 and 25%",
+            "d) 5 and 15%",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 387,
+        "Question": "Which of the following is a realistic value of the discharge coefficient?",
+        "Options": [
+            "a) 0.5",
+            "b) 1.5",
+            "c) 5.5",
+            "d) 10.5",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 388,
+        "Question": "In which of the following ignition techniques does the system use a solid propellant squib or grain of few seconds of burning duration?",
+        "Options": [
+            "a) Spark plug ignition",
+            "b) Pyrotechnic ignition",
+            "c) Ignition by electrically heated wires",
+            "d) Precombustion chamber ignition",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 389,
+        "Question": "Which of the following is the correct expression for energy radiated by a body (Assume ε to be emissivity, A to be surface area, T to be temperature, f to be geometric factor)",
+        "Options": [
+            "a) E = (1/f)εσAT4",
+            "b) E = fεσAT4",
+            "c) E = (1/f)εσAT2",
+            "d) E = fεσAT2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 390,
+        "Question": "Which of the following gases show a strong emission band in the region of radiant heat transfer?",
+        "Options": [
+            "a) Ammonia",
+            "b) Hydrogen",
+            "c) Oxygen",
+            "d) Nitrogen",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 391,
+        "Question": "Which of the following zones is not a part of the thrust chamber?",
+        "Options": [
+            "a) Atomization zone",
+            "b) Rapid-combustion zone",
+            "c) Stream tube combustion zone",
+            "d) Transonic flow zone",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 392,
+        "Question": "The boundaries between the discrete combustion zones inside the combustion chamber is not ________",
+        "Options": [
+            "a) undulating",
+            "b) immovable",
+            "c) irregular",
+            "d) local variations",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 393,
+        "Question": "Which of the following with regards to mixing and reaction in the combustion chamber is incorrect?",
+        "Options": [
+            "a) Turbulent mixing",
+            "b) Multiple chemical reactions",
+            "c) Temperature rise increases densities",
+            "d) Local mixture ratio variations",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 394,
+        "Question": "In which of the zones does any remaining liquid droplets of the propellants get vaporized by convective heating?",
+        "Options": [
+            "a) Rapid combustion zone",
+            "b) Stream tube combustion zone",
+            "c) Transonic-flow zone",
+            "d) Supersonic expansion zone",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 395,
+        "Question": "The mixing in rapid combustion zone is not aided by ___________",
+        "Options": [
+            "a) local turbulence",
+            "b) diffusion of the gas species",
+            "c) supersonic compression waves",
+            "d) vaporization of the liquid propellants",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 396,
+        "Question": "Propellants injected through the injector orifices travel at velocities between _______",
+        "Options": [
+            "a) 0 and 22 m/s",
+            "b) 7 and 60 m/s",
+            "c) 23 and 98 m/s",
+            "d) 105 and 320 m/s",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 397,
+        "Question": "Evaporation of the atomized droplets can happen due to heat transferred by ________",
+        "Options": [
+            "a) radiation from rapid combustion zone, but not by convection from moderately hot gases in the first zone",
+            "b) radiation from rapid combustion zone and by convection from moderately hot gases in the first zone",
+            "c) convection from moderately hot gases in the first zone, but not by radiation from rapid combustion zone",
+            "d) neither radiation from rapid combustion zone nor by convection from moderately hot gases in the first zone",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 398,
+        "Question": "The atomization region before the rapid combustion zone is _______",
+        "Options": [
+            "a) homogenous",
+            "b) heterogeneous",
+            "c) isentropic",
+            "d) isothermal",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 399,
+        "Question": "Heat generation in the first zone of the atomization region is relatively low because of ________",
+        "Options": [
+            "a) liquids and gases are relatively hot",
+            "b) vaporization causing a cooling effect",
+            "c) vaporization causing fuel-rich and fuel-lean regions",
+            "d) low flow velocity in the injector zone",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 400,
+        "Question": "Which of the following terms best describes the combustion when the pressure fluctuation during steady operation is 4% of the mean chamber pressure?",
+        "Options": [
+            "a) Smooth combustion",
+            "b) Rough combustion",
+            "c) Combustion instability",
+            "d) Complete combustion",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 401,
+        "Question": "Which of the following terms best describe the combustion when the pressure fluctuations during steady operation is 12% of the mean chamber pressure?",
+        "Options": [
+            "a) Complete combustion",
+            "b) Incomplete combustion",
+            "c) Smooth combustion",
+            "d) Rough combustion",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 402,
+        "Question": "low-frequency combustion instability is called ________",
+        "Options": [
+            "a) chugging",
+            "b) buzzing",
+            "c) squealing",
+            "d) screaming",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 403,
+        "Question": "Intermediate frequency combustion instability is called ________",
+        "Options": [
+            "a) squealing",
+            "b) chugging",
+            "c) screaming",
+            "d) buzzing",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 404,
+        "Question": "high-frequency combustion instability is called ________",
+        "Options": [
+            "a) squealing",
+            "b) buzzing",
+            "c) chugging",
+            "d) entropy waves",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 405,
+        "Question": "Which of the following combustion instabilities occur due to propellant pump cavitation?",
+        "Options": [
+            "a) Buzzing",
+            "b) Chugging",
+            "c) Pogo",
+            "d) Screaming",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 406,
+        "Question": "Which of the following combustion instabilities happen due to propellant flow rate disturbances?",
+        "Options": [
+            "a) Screeching",
+            "b) Entropy waves",
+            "c) Screaming",
+            "d) Pogo",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 407,
+        "Question": "Transverse mode of high-frequency instability propagation can be broken into ___________",
+        "Options": [
+            "a) longitudinal and radial modes",
+            "b) longitudinal and tangential modes",
+            "c) radial, tangential and longitudinal modes",
+            "d) tangential and radial modes",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 408,
+        "Question": "Tangential mode of instability has the following modes ____________",
+        "Options": [
+            "a) standing and travelling waves",
+            "b) travelling and spinning waves",
+            "c) travelling and longitudinal waves",
+            "d) spinning and radial waves",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 409,
+        "Question": "Acoustically stimulated variations in droplet mixing and/or vaporization can cause ___________",
+        "Options": [
+            "a) screeching",
+            "b) spinning wave",
+            "c) traveling wave",
+            "d) pogo",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 410,
+        "Question": "Which of the following is the term used to denote a turbine with one or more pumps?",
+        "Options": [
+            "a) Turboshaft",
+            "b) Turbopump",
+            "c) Turboprop",
+            "d) Turbojet",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 411,
+        "Question": "Main purpose of a turbopump is to ____________",
+        "Options": [
+            "a) decrease the temperature of flowing propellant",
+            "b) increase the temperature of flowing propellant",
+            "c) decrease the pressure of flowing propellant",
+            "d) increase the pressure of flowing propellant",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 412,
+        "Question": "The propellant enters the pump through __________",
+        "Options": [
+            "a) duct",
+            "b) pipe",
+            "c) injector",
+            "d) inducer",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 413,
+        "Question": "Majority of the kinetic energy imparted by the impeller to the flow is converted to ___________ in diffuser.",
+        "Options": [
+            "a) potential energy",
+            "b) hydrostatic pressure",
+            "c) frictional losses",
+            "d) internal energy",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 414,
+        "Question": "The bearings and shaft seals are cooled using ____________",
+        "Options": [
+            "a) part of the propellant flow",
+            "b) radiation cooling",
+            "c) part of the Exhaust Flow from the nozzle",
+            "d) lubricants",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 415,
+        "Question": "A geared turbopump has ___________ efficiency for the turbine and ____________ efficiency for the pump.",
+        "Options": [
+            "a) lower; lower",
+            "b) lower; higher",
+            "c) higher; lower",
+            "d) higher; higher",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 416,
+        "Question": "Which of these will lead to lower reliability from design perspective of turbopumps?",
+        "Options": [
+            "a) Lower efficiency and higher mass",
+            "b) Higher efficiency and lower mass",
+            "c) Higher efficiency and higher mass",
+            "d) Lower efficiency and lower mass",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 417,
+        "Question": "The total propellant flow at the pump outlet is ____________ the flow in combustion chamber and the discharge pressure is __________ chamber pressure plus the other insignificant pressure losses in the system.",
+        "Options": [
+            "a) more than; less than",
+            "b) more than; more than",
+            "c) less than; more than",
+            "d) equal to; equal to",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 418,
+        "Question": "If the densities of the propellants are very different from one another, the pump head raise is ___________ for the lower-density propellant compared to higher-density propellant.",
+        "Options": [
+            "a) higher",
+            "b) lower",
+            "c) equal for both the propellants",
+            "d) 0",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 419,
+        "Question": "____________ is limited by the possibility of excessive cavitation.",
+        "Options": [
+            "a) Maximum shaft speed",
+            "b) Minimum shaft speed",
+            "c) Maximum pump gear ratio",
+            "d) Minimum pump gear ratio",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 420,
+        "Question": "For a rocket with an initial mass of 15,000 kg and carrying a payload of 1000 kg, determine the velocity change if it was ground launched and has an equivalent exhaust velocity of 3000 m/s. Assume the structural mass coefficient to be 0.24.",
+        "Options": [
+            "a) 3533 m/s",
+            "b) 3967 m/s",
+            "c) 3706 m/s",
+            "d) 4295 m/s",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 421,
+        "Question": "If δ denotes inert mass fraction and λ denotes the payload fraction, what is the formula for parametric mass ratio (r)?",
+        "Options": [
+            "a) r = δ/λ",
+            "b) r = λ/δ",
+            "c) r = λ – δ",
+            "d) r = λ + δ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 422,
+        "Question": "Overall engine specific impulse is influenced by ____________",
+        "Options": [
+            "a) nozzle area ratio and chamber pressure",
+            "b) nozzle area ratio only",
+            "c) chamber pressure only",
+            "d) neither nozzle area ratio nor chamber pressure",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 423,
+        "Question": "Which of the following ranges describes the typical value of mixture ratio in the engines: SSME, RS-68, LE-5A and Vulcan?",
+        "Options": [
+            "a) 4-7",
+            "b) 12-15",
+            "c) 1-4",
+            "d) 15-20",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 424,
+        "Question": "Which of the following engines were used in Ariane 5 vehicle?",
+        "Options": [
+            "a) RS-68",
+            "b) Vulcain",
+            "c) HM7(A)",
+            "d) RL 10-B2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 425,
+        "Question": "YF 73 engine was used by which of these vehicles?",
+        "Options": [
+            "a) Space Shuttle",
+            "b) HII",
+            "c) Long March",
+            "d) Ariane 2",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 426,
+        "Question": "Which of the following describes the typical range of specific impulse in vacuum produced by the major LOX and LH propellant driven engines?",
+        "Options": [
+            "a) 400-500 s",
+            "b) 300-400 s",
+            "c) 150-300 s",
+            "d) 0-150 s",
+            ""
+        ],
+        "Answer": "Answer:  a"
+    },
+    {
+        "id": 427,
+        "Question": "LE-5A rocket engine and its derivatives were designed by ____________",
+        "Options": [
+            "a) France",
+            "b) India",
+            "c) China",
+            "d) Japan",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 428,
+        "Question": "The kind of ignition system that allows multiple restarts for an engine is ____________",
+        "Options": [
+            "a) pyrotechnic igniter",
+            "b) spark igniter",
+            "c) hypergolic igniter",
+            "d) pyrotechnic initiator",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 429,
+        "Question": "Which of the following has metal oxide pyrotechnic composition?",
+        "Options": [
+            "a) ZPP",
+            "b) Ni-Al laminate",
+            "c) ZHPP",
+            "d) HMTD",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 430,
+        "Question": "What is the typical amount of propellant (in percentage) used for a spacecraft propulsion system with a pressurized monopropellant feed system for contingency?",
+        "Options": [
+            "a) 2-10% of the total load",
+            "b) 0.5-2% of the total load",
+            "c) 70-90% of the total load",
+            "d) 5-15% of the total load",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 431,
+        "Question": "How much amount of propellants is allowed in the propellant budget for off-nominal operations in a spacecraft propulsion system with a pressurized monopropellant feed system?",
+        "Options": [
+            "a) 0.5-1% of the total load",
+            "b) 0.5% of the total load",
+            "c) 0.5-2% of the total load",
+            "d) 0.25-1% of the total load",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 432,
+        "Question": "For a spacecraft propulsion system using pressurized monopropellant feed system, what is the allocated amount of propellants to be used for the main thrust chamber?",
+        "Options": [
+            "a) 70-90%",
+            "b) 10-50%",
+            "c) 50-70%",
+            "d) 95-99%",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 433,
+        "Question": "In a turbopump system using a gas generator cycle, the flame temperature in the separate gas generator where a small portion of overall propellant is burned is _________ compared to the main gas generator and its mixture ratio is _________ compared to that of the main gas generator.",
+        "Options": [
+            "a) same, lower",
+            "b) lower, different",
+            "c) lower, higher",
+            "d) higher, different",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 434,
+        "Question": "The extra propellant required to compensate for the thrust decrease due to the operation of TVC’s component operating against the vehicle velocity direction is _________ of the amount of total propellants.",
+        "Options": [
+            "a) 0.1 to 4%",
+            "b) 4 to 6%",
+            "c) 0.8 to 10%",
+            "d) 1 to 5%",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 435,
+        "Question": "What is the amount of propellants estimated to be that of the residual propellant that clings to the tank walls or remains trapped in valves, injector passages, pipes or cooling passages?",
+        "Options": [
+            "a) 0.1-0.2% of the total load",
+            "b) 0.25-0.5% of the total load",
+            "c) 0.5-2% of the total load",
+            "d) 5-10% of the total load",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 436,
+        "Question": "Which of the following occurs due to the variations in the manufacture of hardware from one engine to another?",
+        "Options": [
+            "a) Thrust vectoring",
+            "b) Loading uncertainty",
+            "c) Off-nominal performance",
+            "d) Operational factors",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 437,
+        "Question": "In order to meet a minimum total impulse requirement for a rocket engine displaying off-nominal performance and showing variations in mixture ratio, what has to be done?",
+        "Options": [
+            "a) Extra propellant to be used to allow for mixture ratio variations",
+            "b) Suppress the required propellant injection and attempt the mixture ratio correction",
+            "c) Halt the operation and replace the necessary component",
+            "d) Change the mission trajectory accordingly",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 438,
+        "Question": "Which of the following comes under the category of operational factors in a propellant budget?",
+        "Options": [
+            "a) Variation in tank volume",
+            "b) Attempting a complex maneuver",
+            "c) Filling more propellant than needed into a tank",
+            "d) Pressurizing cryogenic propellant tanks",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 439,
+        "Question": "Which of the following studies usually result in a small improvement in vehicle performance?",
+        "Options": [
+            "a) Optimization studies",
+            "b) Mission analysis",
+            "c) Trajectory design",
+            "d) Launch site selection",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 440,
+        "Question": "Which of the following is not optimized in the optimization studies?",
+        "Options": [
+            "a) Mission duration",
+            "b) Chamber pressure",
+            "c) Nozzle area ratio",
+            "d) Thrust",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 441,
+        "Question": "Which of the following primarily involves obtaining data from prior similar engines?",
+        "Options": [
+            "a) Preliminary engine performance estimates",
+            "b) Optimization studies",
+            "c) Testing of full scale models",
+            "d) Small scale modeling",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 442,
+        "Question": "Which of the following is not a recommended source for arriving at a tentative decision about the engine to be made?",
+        "Options": [
+            "a) Mission requirements",
+            "b) Customer preferences",
+            "c) Past experiences",
+            "d) Full-fledged simulations",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 443,
+        "Question": "__________ generally do not take technical decisions on behalf of the rocket engine design.",
+        "Options": [
+            "a) Manufacturing experts",
+            "b) Field service experts",
+            "c) Stress analysis experts",
+            "d) Consultancy experts",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 444,
+        "Question": "Key engine selection decisions are validated later in ___________ process by __________",
+        "Options": [
+            "a) deployment; testing new components and engines",
+            "b) development; testing new components and engines",
+            "c) preliminary stage; proposing new components and engines based on existing knowledge",
+            "d) mission analysis; proposing new components and engines based on existing knowledge",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 445,
+        "Question": "Which of the following are key parameters of interest for the vehicle designer?",
+        "Options": [
+            "a) Both Inert mass and center of gravity",
+            "b) Inert mass, but not center of gravity",
+            "c) Center of gravity, but not inert mass",
+            "d) Neither center of gravity nor inert mass",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 446,
+        "Question": "_________ balances the pressure drops in fuel, oxidizer and pressurizing gas flow systems.",
+        "Options": [
+            "a) Performance balance program",
+            "b) Engine balance program",
+            "c) Optimization program",
+            "d) Fuel balance program",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 447,
+        "Question": "_________ is not a type of engine by the degree of novelty.",
+        "Options": [
+            "a) New engine with new major components and new design",
+            "b) New engine with major components from existing engines.",
+            "c) Updated or improved version of a proven engine",
+            "d) Reuse of a decommissioned engine",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 448,
+        "Question": "What is the simulation of the steady-state, internal conditions and functioning of the engine called?",
+        "Options": [
+            "a) Power balance",
+            "b) Optimization",
+            "c) Engine balance",
+            "d) Engine equilibrium",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 449,
+        "Question": "The complexity of the control elements of the engine systems depend mostly on _________",
+        "Options": [
+            "a) capital",
+            "b) launching site",
+            "c) mission",
+            "d) trajectory",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 450,
+        "Question": "Single-shot devices are _________",
+        "Options": [
+            "a) devices with a single-engine",
+            "b) devices which are deployed only once",
+            "c) devices which can fire a single missile",
+            "d) colloquial term for missiles",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 451,
+        "Question": "Valves, regulators and pressure switches come into picture while considering _________",
+        "Options": [
+            "a) solid rocket engines",
+            "b) liquid rocket engines",
+            "c) both solid and liquid rocket engines",
+            "d) neither solid nor liquid rocket engines",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 452,
+        "Question": "_________ are used to protect personnel and equipment in case of malfunction.",
+        "Options": [
+            "a) Ejection seats",
+            "b) Parachute system",
+            "c) Rocket casing",
+            "d) Safety controls",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 453,
+        "Question": "In which of the following cases does the electrical valves automatically return to their normal positions?",
+        "Options": [
+            "a) Nonhazardous shutdown",
+            "b) Hazardous shutdown",
+            "c) Cold start",
+            "d) Warm start",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 454,
+        "Question": "_________ permits the simulation of operation of critical control components without the actual hot operation of the rocket unit.",
+        "Options": [
+            "a) Checkout controls",
+            "b) Safety controls",
+            "c) Thrust vectoring control",
+            "d) Operating control",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 455,
+        "Question": "How is the stable operation of liquid propellant flows achieved?",
+        "Options": [
+            "a) By means of some kind of a pressure feed system",
+            "b) By utilizing the gravitational force on the liquids to the rocket’s advantage",
+            "c) By using suitable pipes and valves which can minimize vibrations",
+            "d) Liquid flow system in general are inherently stable",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 456,
+        "Question": "Start delay includes the time taken to _________",
+        "Options": [
+            "a) close valves",
+            "b) terminate combustion",
+            "c) lower the flow",
+            "d) raise chamber pressure",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 457,
+        "Question": "Which of the following pressurization systems take more time to start for similar engines?",
+        "Options": [
+            "a) Turbopump system",
+            "b) Gas pressure feed system",
+            "c) Both requires the same time",
+            "d) Start time is independent of such systems",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 458,
+        "Question": "How much time does it generally take to start a small thruster with a pressurized feed system?",
+        "Options": [
+            "a) 3-15 ms",
+            "b) 1-5 s",
+            "c) 3-15 s",
+            "d) 1-5 ms",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 459,
+        "Question": "The calibration procedure for the turbopump system is ________ complex compared to gas pressure fed systems.",
+        "Options": [
+            "a) equally",
+            "b) less",
+            "c) more",
+            "d) unrelated",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 460,
+        "Question": "The process of balancing the pressure available to the engine against the pressure drop plus the chamber pressure is called as __________",
+        "Options": [
+            "a) chamber balance",
+            "b) engine balance",
+            "c) pressure balance",
+            "d) overall balance",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 461,
+        "Question": "Which of the following forces on a rocket engine is more significant than the rest of them?",
+        "Options": [
+            "a) Actuator forces",
+            "b) Maneuver forces",
+            "c) Vibration forces",
+            "d) Thrust load",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 462,
+        "Question": "Under ideal conditions, the ratio of the rated flows has to be _________ desired mixture ratio.",
+        "Options": [
+            "a) Equal to",
+            "b) less than",
+            "c) more than",
+            "d) unrelated to",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 463,
+        "Question": "The operating mixture ratio is usually ________",
+        "Options": [
+            "a) fuel-rich",
+            "b) fuel-lean",
+            "c) oxidizer-rich",
+            "d) doesn’t matter",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 464,
+        "Question": "The calibration procedure for turbopump system is ___________ complex compared to gas pressure fed systems.",
+        "Options": [
+            "a) equally",
+            "b) less",
+            "c) more",
+            "d) unrelated",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 465,
+        "Question": "In a pressurized feed system, the pressurizing gas is supplied from its high-pressure tank through ____ for the pressurization of both fuel and oxidizer.",
+        "Options": [
+            "a) regulator",
+            "b) passage valves",
+            "c) expansion joints",
+            "d) combustion chamber",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 466,
+        "Question": "The gas pressure in the propellant tank is _________",
+        "Options": [
+            "a) unregulated pressure",
+            "b) sea level pressure",
+            "c) ambient pressure",
+            "d) regulated pressure",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 467,
+        "Question": "Precise control of engine performance parameters via the use of an automatic feedback system employing a digital computer for control purposes is _________ compared to static calibration of the engine design.",
+        "Options": [
+            "a) simpler",
+            "b) complex",
+            "c) equally difficult",
+            "d) unachievable",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 468,
+        "Question": "Which of the following is not a method of achieving a variable thrust?",
+        "Options": [
+            "a) Injecting liquid into the gas streams before injection",
+            "b) Varying injection element area",
+            "c) Varying the nozzle throat area",
+            "d) Varying feed system pressure drops",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 469,
+        "Question": "Which of the following can’t happen if a chemical rocket engine were to use gelled propellants?",
+        "Options": [
+            "a) Increase in specific impulse",
+            "b) Increase in density impulse",
+            "c) Possibility of short-duration pulsing",
+            "d) Much less likely to have explosions",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 470,
+        "Question": "Which of the following will not happen if small aluminum particles are suspended in the fuel or if small inert solid particles are suspended in the oxidizer?",
+        "Options": [
+            "a) Increase in propellant density",
+            "b) Reduction in tank and vehicle size",
+            "c) Decrease in density impulse",
+            "d) Increase in speed and range of atmospheric rockets or missiles",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 471,
+        "Question": "Propellants that are thick or viscous under static conditions, but flow through valves, injectors, pipes or pumps when adequate shear stress is applied are called __________ propellants.",
+        "Options": [
+            "a) Thixotropic",
+            "b) Dilatant",
+            "c) Newtonian fluid",
+            "d) Non-Newtonian fluid",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 472,
+        "Question": "For a missile weighing 60 kg cruising with constant velocity 110 m/s, with lift-to-drag ratio of 8 and Isp of 200, determine the range if the final mass of the missile is 25 kg.",
+        "Options": [
+            "a) 119 km",
+            "b) 132 km",
+            "c) 154 km",
+            "d) 198 km",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 473,
+        "Question": "A tactical missile is not used for _________",
+        "Options": [
+            "a) attacking ground troops",
+            "b) defending ground troops",
+            "c) attacking military aircrafts",
+            "d) decoy flare",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 474,
+        "Question": "Military missiles generally use ___________ rocket engines.",
+        "Options": [
+            "a) ion-electric",
+            "b) chemical",
+            "c) nuclear",
+            "d) solar",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 475,
+        "Question": "Verification of initial burning or ignition is done via ________ for visual detection and ________ for heat detection in some rocket engines.",
+        "Options": [
+            "a) photocell; pyrometer",
+            "b) pyrometer; photocell",
+            "c) bolometer; pyrometer",
+            "d) load cell; pyrometer",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 476,
+        "Question": "Which of the following doesn’t happen if the starting controls are improperly designed?",
+        "Options": [
+            "a) Accumulation of unburned propellants in the combustion chamber",
+            "b) Explosion upon ignition",
+            "c) Eventual damage to rocket engine",
+            "d) Increase in dripping flow",
+            ""
+        ],
+        "Answer": "Answer: d"
+    }
+]

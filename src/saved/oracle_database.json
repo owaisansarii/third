@@ -1,0 +1,1730 @@
+[
+    {
+        "id": 1,
+        "Question": "What is the use of Library cache?",
+        "Options": [
+            "a) Contains User information, such as user privileges",
+            "b) Used to store shared SQL",
+            "c) Log of changes made to the database",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 2,
+        "Question": "Which processes is an instance made of Oracle?",
+        "Options": [
+            "a) Oracle background processes",
+            "b) Memory processes",
+            "c) Data processes",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 3,
+        "Question": "Which of the following segment is destroyed when the SQL statement is finished?",
+        "Options": [
+            "a) Data Segment",
+            "b) Object Segment",
+            "c) Temporary Segment",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 4,
+        "Question": "What is the use of an index?",
+        "Options": [
+            "a) Retrieve data more quickly and efficiently",
+            "b) Related data requires much less I/O overhead if accessed simultaneously",
+            "c) Simplify the user’s perception of data access",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 5,
+        "Question": "Which of the following components comprise an Oracle architecture?",
+        "Options": [
+            "a) Database related background processes",
+            "b) Tablespaces",
+            "c) Datafiles",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 6,
+        "Question": "What is the use of extent in Oracle?",
+        "Options": [
+            "a) Stores user data within the database",
+            "b) Stores rollback information used when data must be rolled back",
+            "c) Minimize the amount of wasted (empty) storage",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 7,
+        "Question": "Which area of PGA stores binding variables and run-time buffers information?",
+        "Options": [
+            "a) SQL area",
+            "b) Private SQL area",
+            "c) Stack space",
+            "d) Session area",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 8,
+        "Question": "The ____________ contains a set of tables and views that Oracle uses as a reference to the database.",
+        "Options": [
+            "a) PGA",
+            "b) Library cache",
+            "c) Data dictionary",
+            "d) SGA",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 9,
+        "Question": "In Oracle, which of below are types of segments?",
+        "Options": [
+            "a) Permanent Segment",
+            "b) Object Segment",
+            "c) Data Segment",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 10,
+        "Question": "The redo log buffer and Shared pool are elements of?",
+        "Options": [
+            "a) PGA",
+            "b) Buffer cache",
+            "c) PGA and Buffer cache",
+            "d) SGA",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 11,
+        "Question": "The Oracle environment of database is called as ___________",
+        "Options": [
+            "a) Database Schema",
+            "b) Database Instances",
+            "c) Data Structure",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 12,
+        "Question": "Which is the smallest unit of storage in an Oracle database?",
+        "Options": [
+            "a) Data Block",
+            "b) Segment",
+            "c) Extent",
+            "d) Data File",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 13,
+        "Question": "Collection of information stored in database at particular instance of time is called as ____________",
+        "Options": [
+            "a) Instance of Database",
+            "b) Objects in Databases",
+            "c) Data structure",
+            "d) Database Schema",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 14,
+        "Question": "Oracle database’s design is also called as_____________",
+        "Options": [
+            "a) Database Abstraction",
+            "b) Database Instance",
+            "c) Database Schema",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 15,
+        "Question": "What are the valid Oracle database schemas?",
+        "Options": [
+            "a) Logical Schema",
+            "b) Physical Schema",
+            "c) Logical and Physical Schema",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 16,
+        "Question": "What do the schema objects comprise of?",
+        "Options": [
+            "a) Table",
+            "b) Index",
+            "c) Cluster",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 17,
+        "Question": "Map entities, attributes and relations in Oracle is represented by___________",
+        "Options": [
+            "a) Conceptual Schema",
+            "b) Logical Schema",
+            "c) Physical Schema",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 18,
+        "Question": "Modification schema of oracle database in one level without affecting the schema in high level is called as _______",
+        "Options": [
+            "a) Data Migration",
+            "b) Data Isolation",
+            "c) Data Independence",
+            "d) Data Abstraction",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 19,
+        "Question": "A _______________ is used to logically group data together",
+        "Options": [
+            "a) Database",
+            "b) Tablespace",
+            "c) Datafiles",
+            "d) Object",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 20,
+        "Question": "A _____________ is a set of tables physically stored together as one table that shares a common column",
+        "Options": [
+            "a) Index",
+            "b) Object",
+            "c) Datafiles",
+            "d) Cluster",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 21,
+        "Question": "Where is data dictionary kept?",
+        "Options": [
+            "a) SYSTEM Tablespace",
+            "b) Stack Space",
+            "c) Data File",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 22,
+        "Question": "Which schema object instructs Oracle to connect to remotely access an object of a database?",
+        "Options": [
+            "a) Sequence",
+            "b) Remote Link",
+            "c) Database Link",
+            "d) Data Link",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 23,
+        "Question": "Which of the following object types below cannot be replicated?",
+        "Options": [
+            "a) Data",
+            "b) Trigger",
+            "c) View",
+            "d) Sequence",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 24,
+        "Question": "How we can force a log switch?",
+        "Options": [
+            "a) By using ALTER SYSTEM LOG",
+            "b) By using ALTER SYSTEM SWITCH LOGFILE",
+            "c) By using ALTER SYSTEM SWITCH LOGS",
+            "d) By using ALTER SYS LOGFILES",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 25,
+        "Question": "The ORDER BY clause can only be used in ___________",
+        "Options": [
+            "a) SELECT queries",
+            "b) INSERT queries",
+            "c) GROUP BY queries",
+            "d) HAVING queries",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 26,
+        "Question": "Which of the following rule below are categories of index?",
+        "Options": [
+            "a) Column and Functional",
+            "b) Multiple Column and Functional",
+            "c) To create an index in another schema",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 27,
+        "Question": "What is the purpose of SMON (System Monitor Process) background process?",
+        "Options": [
+            "a) Performs crash recovery when a failed instance starts up again",
+            "b) Performs recovery when a user process fails",
+            "c) Writes redo log entries to disk",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 28,
+        "Question": "Recycle bin can be turned on or off this. This parameter is stored in which of the below file?",
+        "Options": [
+            "a) PARAMETER FILE",
+            "b) PARFILE",
+            "c) DATAFILES",
+            "d) PFILE",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 29,
+        "Question": "When a transaction modifies the database, Oracle copies the original data before modifying it. The original copy of the modified data is called",
+        "Options": [
+            "a) Undone Data",
+            "b) Archive Data",
+            "c) Redo Data",
+            "d) Undo Data",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 30,
+        "Question": "What does DLL stand for ?",
+        "Options": [
+            "a) Dynamic Link Library",
+            "b) Dynamic Language Library",
+            "c) Dynamic Load Library",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 31,
+        "Question": "POST-BLOCK trigger is also a ?",
+        "Options": [
+            "a) Navigational Trigger",
+            "b) Key Trigger",
+            "c) Transaction Trigger",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 32,
+        "Question": "The system variable that records the select statement that SQL * FORMS most recently used to populate a block is __________",
+        "Options": [
+            "a) SYSTEM.LAST_RECORD",
+            "b) SYSTEM.CURSOR_RECORD",
+            "c) SYSTEM.CURSOR_FIELD",
+            "d) SYSTEM.LAST_QUERY",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 33,
+        "Question": "In Oracle, which of the following package procedure is UNRESTRICTED ?",
+        "Options": [
+            "a) CALL_INPUT",
+            "b) CLEAR_BLOCK",
+            "c) EXECUTE_QUERY",
+            "d) USER_EXIT",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 34,
+        "Question": "What is SQL * FORMS ?",
+        "Options": [
+            "a) SQL * FORMS is a 4GL tool for developing and executing Oracle based interactive based application",
+            "b) SQL * FORMS is a 3GL tool for connecting to a Database",
+            "c) SQL * FORMS is a reporting tool",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 35,
+        "Question": "Which of the following statement is false ?",
+        "Options": [
+            "a) Any procedure can raise a error and return an user message and error number",
+            "b) Error number is ranging from 20000 to 20999 are reserved for user defined messages",
+            "c) Oracle checks Uniqueness of User defined errors",
+            "d) Raise_Application_error is used for raising an user defined error",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 36,
+        "Question": "What is the result of the following  ‘PAN’NULL’KAJ’?",
+        "Options": [
+            "a) Error",
+            "b) PAN KAJ",
+            "c) PANKAJ",
+            "d) NULL",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 37,
+        "Question": "Select count(SALARY) from EMP; will result in",
+        "Options": [
+            "a) 1",
+            "b) 0",
+            "c) 3",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 38,
+        "Question": "What will be the value of svar after execution?",
+        "Options": [
+            "a) Error",
+            "b) 10",
+            "c) 5",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 39,
+        "Question": "Which of the following queries displays the sum of all employee salaries for those employees not making commission, for each job, including only those sums greater than 2500?",
+        "Options": [
+            "a) select job, sum(Sal) from Emp where sum(Sal) > 2500 and comm is null;",
+            "b) select job, sum(Sal) from Emp where comm is null group by job having sum(Sal) > 2500;",
+            "c) select job, sum(Sal) from Emp where sum(Sal) > 2500 and comm is null group by job;",
+            "d) select job, sum(Sal) from Emp group by job having sum(Sal) > 2500 and comm is not null;",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 40,
+        "Question": "Oracle server configuration is dedicated for",
+        "Options": [
+            "a) One server process – Many user processes",
+            "b) Many server processes – One user process",
+            "c) One server process – One user process",
+            "d) Many server processes – Many user processes",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 41,
+        "Question": "What SYSTEM VARIABLE is used to refer DATABASE TIME ?",
+        "Options": [
+            "a) $$dbtime$$",
+            "b) $$time$$",
+            "c) $$datetime$$",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 42,
+        "Question": "You notice that the database instance takes a long time to start up after the instance crash. How will you resolve the problem?",
+        "Options": [
+            "a) Increase the size of the redo log files",
+            "b) Decrease the number of redo log members",
+            "c) Set LOG_CHECKPOINT_TO_ALERT to TRUE",
+            "d) Decrease the value for the FAST_START_MTTR_TARGET initialization parameter",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 43,
+        "Question": "Which statement is correct regarding undo management?",
+        "Options": [
+            "a) The database can have more than one undo tablespaces",
+            "b) The undo data must be purged manually when the transaction is over",
+            "c) The UNDO_TABLESPACE parameter is valid only if the UNDO_MANAGEMENT parameter is set AUTO OFF",
+            "d) Undo management is automatic by default even if the UNDO_MANAGEMENT initialization parameter is set to NULL",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 44,
+        "Question": "Which operations can be performed using the Data Recovery Ad-visor?",
+        "Options": [
+            "a) Diagnosing data failure",
+            "b) It is a percentage of rows in which the statistics are collected incrementally for partitions",
+            "c) Presenting appropriate repair options",
+            "d) Generating reports for possible causes of failure",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 45,
+        "Question": "You want to be warned automatically when more than 100 sessions are opened with your database instance.Identify the action that would help you achieve this.",
+        "Options": [
+            "a) Set the TRACE_ENABLED parameter to TRUE",
+            "b) Set the threshold for the Current Logons Count metric",
+            "c) Set the LOG_CHECKPOINT_TO_ALERT parameter to TRUE",
+            "d) Set the SESSIONS_PER_USER limit in the profiles used by users",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 46,
+        "Question": "Which of the following is true in this scenario?",
+        "Options": [
+            "a) The user can not create tables",
+            "b) The user can create tables",
+            "c) The user cannot query any tables",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 47,
+        "Question": "Which statement is true about the memory management for the newly started database instance?",
+        "Options": [
+            "a) MEMORY_TARGET defines the maximum limit for SGA_TARGET",
+            "b) SGA_TARGET and PGA_AGGREGATE_TARGET combined will never grow beyond 500M",
+            "c) The value for MEMORY_MAX_TARGET is the sum of SGA_TARGET and PGA_AGGREGATE_TARGET",
+            "d) SGA_TARGET and PGA_AGGREGATE_TARGET will keep growing till a maximum of 300M and 70M, respectively",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 48,
+        "Question": "Database management systems are intended to _____________",
+        "Options": [
+            "a) Eliminate data redundancy",
+            "b) Establish relationship among records in different files",
+            "c) Manage file access",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 49,
+        "Question": "One approach to standardization storing of data ?",
+        "Options": [
+            "a) MIS",
+            "b) Structured programming",
+            "c) CODASYL specification",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 50,
+        "Question": "The language used application programs to request data from the DBMS is referred to as the",
+        "Options": [
+            "a) DML",
+            "b) DDL",
+            "c) Query language",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 51,
+        "Question": "Report generators are used to",
+        "Options": [
+            "a) Store data input by a user",
+            "b) Retrieve information from files",
+            "c) Answer queries",
+            "d) Retrieve information from files and Answer queries",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 52,
+        "Question": "The management information system (MIS) structure with one main computer system is called a",
+        "Options": [
+            "a) Hierarchical MIS structure",
+            "b) Distributed MIS structure",
+            "c) Centralized MIS structure",
+            "d) Decentralized MIS structure",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 53,
+        "Question": "Which of the following is not true of the traditional approach to information processing",
+        "Options": [
+            "a) There is common sharing of data among the various applications",
+            "b) It is file oriented",
+            "c) Programs are dependent on the file",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 54,
+        "Question": "Choose the RDBMS which supports full fledged client server application development",
+        "Options": [
+            "a) dBase V",
+            "b) Oracle 7.1",
+            "c) FoxPro 2.1",
+            "d) Ingress",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 55,
+        "Question": "Which of the following situation requires the use of ID-dependent entities ?",
+        "Options": [
+            "a) Association relationships only",
+            "b) Multivalued attributes only",
+            "c) Instance relationships only",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 56,
+        "Question": "Which of the following statements concerning business rules is true?",
+        "Options": [
+            "a) It should be complex.",
+            "b) It should not be convertible to computer code.",
+            "c) It may include restrictions.",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 57,
+        "Question": "In order to use a record management system",
+        "Options": [
+            "a) you need to understand the low level details of how information is stored",
+            "b) you need to understand the model the record management system uses",
+            "c) you need to understand  both information storage and the model of record management system",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 58,
+        "Question": "A collection of data designed to be used by different people is called a/an",
+        "Options": [
+            "a) Organization",
+            "b) Database",
+            "c) Relationship",
+            "d) Schema",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 59,
+        "Question": "Which of the following is the oldest database model?",
+        "Options": [
+            "a) Relational",
+            "b) Deductive",
+            "c) Physical",
+            "d) Network",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 60,
+        "Question": "Which of the following is the process of selecting the data storage and data access characteristics of the database?",
+        "Options": [
+            "a) Logical database design",
+            "b) Physical database design",
+            "c) Testing and performance tuning",
+            "d) Evaluation and selecting",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 61,
+        "Question": "The relationship between DEPARTMENT and EMPLOYEE is a",
+        "Options": [
+            "a) One-to-one relationship",
+            "b) One-to-many relationship",
+            "c) Many-to-many relationship",
+            "d) Many-to-one relationship",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 62,
+        "Question": "If the state of the database no longer reflects a real state of the world that the database is supposed to capture, then such a state is called",
+        "Options": [
+            "a) Consistent state",
+            "b) Inconsistent state",
+            "c) Durable state",
+            "d) Atomic state",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 63,
+        "Question": "When an entity instance must be a member of only one sub-type, it is which of the following?",
+        "Options": [
+            "a) Disjoint with total specialization",
+            "b) Disjoint with partial specialization",
+            "c) Overlap with total specialization",
+            "d) Overlap with partial specialization",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 64,
+        "Question": "A supertype/subtype hierarchy is which of the following?",
+        "Options": [
+            "a) Each subtype has only one attribute",
+            "b) Each supertype has only one attribute",
+            "c) Each subtype has only one supertype",
+            "d) Each supertype has only one subtype",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 65,
+        "Question": "Which of the following statements concerning business rules is true?",
+        "Options": [
+            "a) It should be complex",
+            "b) It should not be convertible to computer code",
+            "c) It may include restrictions",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 66,
+        "Question": "Use of a supertype/subtype relationship is necessary when which of the following exists?",
+        "Options": [
+            "a) An instance of a subtype participates in a relationship that is unique to that subtype",
+            "b) An instance of a subtype participates in a relationship that is the same as the other subtypes",
+            "c) Attributes apply to all of the instances of an entity type",
+            "d) No attributes apply to any of the instances of an entity type",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 67,
+        "Question": "Which of the following is not one of the three ways to classify an action assertion?",
+        "Options": [
+            "a) Condition",
+            "b) Integrity Control",
+            "c) Authorization",
+            "d) Enabler",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 68,
+        "Question": "A BI reporting system does not _____________",
+        "Options": [
+            "a) Create meaningful information",
+            "b) Deliver information to users on a timely basis",
+            "c) Use statistical procedures to predict future events",
+            "d) Use disparate data sources",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 69,
+        "Question": "The “curse of dimensionality” relates to which problem of using operational data for BI reporting?",
+        "Options": [
+            "a) Dirty data",
+            "b) Inconsistent data",
+            "c) Too much data",
+            "d) Non-integrated data",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 70,
+        "Question": "A report generated by a reporting system is delivered to the appropriate users via a user-accessed Web site. This system uses which of the following report modes?",
+        "Options": [
+            "a) Push",
+            "b) Pull",
+            "c) RFM",
+            "d) OLAP",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 71,
+        "Question": "Business Intelligence (BI) reporting systems cannot do which of the following operations?",
+        "Options": [
+            "a) Filter data",
+            "b) Group data",
+            "c) Modify data",
+            "d) Both filter and group data",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 72,
+        "Question": "Which of the following is not a component of a data warehouse?",
+        "Options": [
+            "a) Data extraction/cleaning/preparation programs",
+            "b) Data warehouse data",
+            "c) Data metadata",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 73,
+        "Question": "Each answer below shows example data from a table. Which answer is an example of the general-purpose remarks column problem?",
+        "Options": [
+            "a) Three columns have the values 534-2435, 534-7867, and 546-2356 in the same row",
+            "b) Three rows have the values Brown Small Chair, Small Chair Brown, and Small Brown Chair in the same column",
+            "c) Three rows have the values Brown, NULL, and Blue in the same column",
+            "d) One row has the value “He is interested in a Silver Porsche from the years 1978-1988” in a column",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 74,
+        "Question": "The wildcard in a WHERE clause is useful when?",
+        "Options": [
+            "a) An exact match is necessary in a SELECT statement",
+            "b) An exact match is not possible in a SELECT statement",
+            "c) An exact match is necessary in a CREATE statement",
+            "d) An exact match is not possible in a CREATE statement",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 75,
+        "Question": "The benefits of a standard relational language include which of the following ?",
+        "Options": [
+            "a) Reduced training costs",
+            "b) Increased dependence on a single vendor",
+            "c) Applications are not needed",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 76,
+        "Question": "Find the SQL statement below that is equal to the following: SELECT NAME FROM CUSTOMER WHERE STATE = ‘VA’;",
+        "Options": [
+            "a) SELECT NAME IN CUSTOMER WHERE STATE IN (‘VA’);",
+            "b) SELECT NAME IN CUSTOMER WHERE STATE = ‘VA’;",
+            "c) SELECT NAME IN CUSTOMER WHERE STATE = ‘V’;",
+            "d) SELECT NAME FROM CUSTOMER WHERE STATE IN (‘VA’);",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 77,
+        "Question": "Which action would you perform to avoid waiting in the first session ?",
+        "Options": [
+            "a) Drop any existing index on the EMP table",
+            "b) Drop any existing index on the DEPT table",
+            "c) Create an index on the deptno column of the EMP table",
+            "d) Create an index on the deptno column of the DEPT table",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 78,
+        "Question": "A table is in BCNF if it is in 3NF and if every determinant is a ___________ key.",
+        "Options": [
+            "a) Dependent",
+            "b) Normal",
+            "c) Candidate",
+            "d) Both Normal and Candidate",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 79,
+        "Question": "The ___________ normalization introduced by Chris Date, Hugh Darwen, and Nikos Lorentzos.",
+        "Options": [
+            "a) Third",
+            "b) Fourth",
+            "c) Fifth",
+            "d) Sixth",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 80,
+        "Question": "A table is in 3NF if it is in 2NF and if it has no ____________",
+        "Options": [
+            "a) Functional Dependencies",
+            "b) Transitive Dependencies",
+            "c) Trivial Functional Dependency",
+            "d) Multivalued Dependencies",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 81,
+        "Question": "Every constraint on the table is a logical consequence of the table’s",
+        "Options": [
+            "a) Fourth normal form",
+            "b) Fifth normal form",
+            "c) Domain/key normal form",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 82,
+        "Question": "A ___________ is an indirect functional dependency, one in which X->Z only by virtue of X->Y and Y->Z.",
+        "Options": [
+            "a) Multivalued Dependencies",
+            "b) Join Dependency",
+            "c) Trivial Functional Dependency",
+            "d) Transitive Dependencies",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 83,
+        "Question": "In a given relationship R, if an attribute A uniquely defines all other attributes, then the attribute A is a key attribute which is also known as the _________ key.",
+        "Options": [
+            "a) Candidate",
+            "b) Join",
+            "c) Functional",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 84,
+        "Question": "Anomalies are avoided by splitting the offending relation into multiple relations, is also known as",
+        "Options": [
+            "a) Accupressure",
+            "b) Decomposition",
+            "c) Precomposition",
+            "d) Both Decomposition and Precomposition",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 85,
+        "Question": "Every time attribute A appears, it is matched with the same value of attribute B, but not the same value of attribute C. Therefore, it is true that:",
+        "Options": [
+            "a) A -> B",
+            "b) A -> C",
+            "c) A -> (B,C)",
+            "d) (B,C) -> A",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 86,
+        "Question": "When the values in one or more attributes being used as a foreign key must exist in another set of one or more attributes in another table, we have created a(n):",
+        "Options": [
+            "a) Transitive Dependency",
+            "b) Insertion Anomaly",
+            "c) Referential Integrity Constraint",
+            "d) Normal Form",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 87,
+        "Question": "Which of the following is not a restriction for a table to be a relation?",
+        "Options": [
+            "a) The cells of the table must contain a single value",
+            "b) All of the entries in any column must be of the same kind",
+            "c) The columns must be ordered",
+            "d) No two rows in a table may be identical",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 88,
+        "Question": "How can a SQL developer add a key on a table?",
+        "Options": [
+            "a) While creating a table",
+            "b) With Alter table command",
+            "c) With SQL server Properties window",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 89,
+        "Question": "A _______________ key is a minimal super key",
+        "Options": [
+            "a) Primary",
+            "b) Foreign",
+            "c) Candidate",
+            "d) Non-Prime",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 90,
+        "Question": "Which of the following is not a Key in SQL Server?",
+        "Options": [
+            "a) Primary",
+            "b) Foreign",
+            "c) Alternate",
+            "d) Secondary",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 91,
+        "Question": "What is true about Unique and primary key?",
+        "Options": [
+            "a) Unique can have multiple NULL values but Primary can’t have.",
+            "b) Unique can have single NULL value but Primary can’t have even single.",
+            "c) Both can have duplicate values",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 92,
+        "Question": "By default, which key creates Clustered index?",
+        "Options": [
+            "a) Foreign Key",
+            "b) Unique Key",
+            "c) Primary Key",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 93,
+        "Question": "A Key which is a set of one or more columns that can identify a record uniquely is called?",
+        "Options": [
+            "a) Natural key",
+            "b) Candidate key",
+            "c) Not Null key",
+            "d) Alternate key",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 94,
+        "Question": "Which key accepts multiple NULL values?",
+        "Options": [
+            "a) Foreign Key",
+            "b) Unique Key",
+            "c) Primary Key",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 95,
+        "Question": "A Foreign key is combined with a foreign key creates",
+        "Options": [
+            "a) Parent child relationship between the tables that connect them",
+            "b) Many-Many relationship between the tables that connect them",
+            "c) Network model between the tables that connect them",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 96,
+        "Question": "Which of the following statements is not correct?",
+        "Options": [
+            "a) The primary key must be unique for a given table",
+            "b) Specifying a zero (0) for the lower bound for the association multiplicity on a class diagram indicates that the item is required",
+            "c) Specifying a one (1) for the lower bound for the association multiplicity on a class diagram indicates that the item is required",
+            "d) Most databases allow multiple records that are identical",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 97,
+        "Question": "In a database, a foreign key is ?",
+        "Options": [
+            "a) A data element/attribute within a data field of a data record that is not unique, and cannot be used to distinguish one data record in a database from another data record within a database table",
+            "b) A data element/attribute within a data field of a data record within a database table that is a secondary key in another database table",
+            "c) A data element/attribute within a data field of a data record within a database table that is a primary key in another database table",
+            "d) A data element/attribute within a data field of a data record that enables a database to uniquely distinguish one data record in a database from another data record within a database table",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 98,
+        "Question": "In an E-R diagram an entity set is represent by a",
+        "Options": [
+            "a) Rectangle",
+            "b) Ellipse",
+            "c) Diamond box",
+            "d) Circle",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 99,
+        "Question": "A relational database developer refers to a record as",
+        "Options": [
+            "a) A criteria",
+            "b) A relation",
+            "c) A tuple",
+            "d) An attribute",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 100,
+        "Question": "The relational model feature is that there",
+        "Options": [
+            "a) is no need for primary key data",
+            "b) is much more data independence than some other database models",
+            "c) are explicit relationships among records",
+            "d) are tables with many dimensions",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 101,
+        "Question": "E-R model uses this symbol to represent weak entity set ?",
+        "Options": [
+            "a) Dotted rectangle",
+            "b) Diamond",
+            "c) Doubly outlined rectangle",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 102,
+        "Question": "Which of the following is record based logical model?",
+        "Options": [
+            "a) Network Model",
+            "b) Object oriented model",
+            "c) E-R Model",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 103,
+        "Question": "A ___________ normal form normalization will be needed where all attributes in a relation tuple are not functionally dependent only on the key attribute.",
+        "Options": [
+            "a) First",
+            "b) Second",
+            "c) Third",
+            "d) Fourth",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 104,
+        "Question": "Identify the criteria for designing database from the point of view of user",
+        "Options": [
+            "a) No redundancy",
+            "b) No inapplicable attributes",
+            "c) Uniformity in naming & definitions of the data items",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 105,
+        "Question": "The relational model is based on the concept that data is organized and stored in two-dimensional tables called _____________",
+        "Options": [
+            "a) Fields",
+            "b) Records",
+            "c) Relations",
+            "d) Keys",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 106,
+        "Question": "An aggregation association is drawn using which symbol:",
+        "Options": [
+            "a) a line which loops back onto the same table",
+            "b) small closed diamond at the end of a line connecting two tables",
+            "c) small open diamond at the end of a line connecting two tables",
+            "d) small triangle at the end of a line connecting the aggregated item and multiple component items",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 107,
+        "Question": "An n-array relationship is drawn using which symbol:",
+        "Options": [
+            "a) A diamond",
+            "b) A line with arrows showing direction",
+            "c) A line without arrows showing direction",
+            "d) A rectangle",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 108,
+        "Question": "What is the full form of SQL?",
+        "Options": [
+            "a) Structured Query Language",
+            "b) Structured Query List",
+            "c) Simple Query Language",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 109,
+        "Question": "Which is the subset of SQL commands used to manipulate Oracle Database structures, including tables?",
+        "Options": [
+            "a) Data Definition Language(DDL)",
+            "b) Data Manipulation Language(DML)",
+            "c) DDL and DML",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 110,
+        "Question": "In SQL, which command is used to SELECT only one copy of each set of duplicable rows",
+        "Options": [
+            "a) SELECT DISTINCT",
+            "b) SELECT UNIQUE",
+            "c) SELECT DIFFERENT",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 111,
+        "Question": "A command that lets you change one or more fields in a record is",
+        "Options": [
+            "a) Insert",
+            "b) Modify",
+            "c) Look-up",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 112,
+        "Question": "Which of the SQL statements is correct?",
+        "Options": [
+            "a) SELECT Username AND Password FROM Users",
+            "b) SELECT Username, Password FROM Users",
+            "c) SELECT Username, Password WHERE Username = ‘user1’",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 113,
+        "Question": "prints",
+        "Options": [
+            "a) 10",
+            "b) 9",
+            "c) 5",
+            "d) 0",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 114,
+        "Question": "Find the temperature in increasing order of all cities",
+        "Options": [
+            "a) SELECT city FROM weather ORDER BY temperature;",
+            "b) SELECT city, temperature FROM weather;",
+            "c) SELECT city, temperature FROM weather ORDER BY temperature;",
+            "d) SELECT city, temperature FROM weather ORDER BY city;",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 115,
+        "Question": "Which of the following is illegal?",
+        "Options": [
+            "a) SELECT SYSDATE – SYSDATE FROM DUAL;",
+            "b) SELECT SYSDATE – (SYSDATE – 2) FROM DUAL;",
+            "c) SELECT SYSDATE – (SYSDATE + 2) FROM DUAL;",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 116,
+        "Question": "Which is the subset of SQL commands used to manipulate Oracle Database structures, including tables?",
+        "Options": [
+            "a) Data Definition Language(DDL)",
+            "b) Data Manipulation Language(DML)",
+            "c) DML and DDL",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 117,
+        "Question": "Which of the following is/are the DDL statements?",
+        "Options": [
+            "A) Create",
+            "B) Drop",
+            "C) Alter",
+            "D) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 118,
+        "Question": "In SQL, which command(s) is(are) used to change a table’s storage characteristics?",
+        "Options": [
+            "a) ALTER TABLE",
+            "b) MODIFY TABLE",
+            "c) CHANGE TABLE",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 119,
+        "Question": "In SQL, which of the following is not a data definition language commands?",
+        "Options": [
+            "a) RENAME",
+            "b) REVOKE",
+            "c) GRANT",
+            "d) UPDATE",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 120,
+        "Question": "________clause is an additional filter that is applied to the result.",
+        "Options": [
+            "a) Select",
+            "b) Group-by",
+            "c) Having",
+            "d) Order by",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 121,
+        "Question": "___________ defines rules regarding the values allowed in columns and is the standard mechanism for enforcing database integrity.",
+        "Options": [
+            "a) Column",
+            "b) Constraint",
+            "c) Index",
+            "d) Trigger",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 122,
+        "Question": "SQL has how many main commands for DDL:",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 123,
+        "Question": "Which command  defines its columns, integrity constraint in create table:",
+        "Options": [
+            "a) Create command",
+            "b) Drop table command",
+            "c) Alter table command",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 124,
+        "Question": "Which command is used for removing a table and all its data from the database:",
+        "Options": [
+            "a) Create command",
+            "b) Drop table command",
+            "c) Alter table command",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 125,
+        "Question": "Which command allows the removal of all rows from a table but flushes a table more efficiently since no rollback information is retained:",
+        "Options": [
+            "a) TRUNCATE command",
+            "b) Create command",
+            "c) Drop table command",
+            "d) Alter table command",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 126,
+        "Question": "The language used application programs to request data from the DBMS is referred to as __________",
+        "Options": [
+            "a) DML",
+            "b) DDL",
+            "c) Query language",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 127,
+        "Question": "In SQL, which of the following is not a data Manipulation Language Commands?",
+        "Options": [
+            "a) Delete",
+            "b) Truncate",
+            "c) Update",
+            "d) Create",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 128,
+        "Question": "Which of the following is not a type of SQL statement?",
+        "Options": [
+            "a) Data Manipulation Language (DML)",
+            "b) Data Definition Language (DDL)",
+            "c) Data Control Language (DCL)",
+            "d) Data Communication Language (DCL)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 129,
+        "Question": "Which of the following is not included in DML (Data Manipulation Language)",
+        "Options": [
+            "a) INSERT",
+            "b) UPDATE",
+            "c) DELETE",
+            "d) CREATE",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 130,
+        "Question": "TRUNCATE statement in SQL is a –",
+        "Options": [
+            "a) DML statement",
+            "b) DDL statement",
+            "c) DCL statement",
+            "d) TCL statement",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 131,
+        "Question": "In SQL, which command is used to add new rows to a table?",
+        "Options": [
+            "a) Alter Table",
+            "b) Add row",
+            "c) Insert",
+            "d) Append",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 132,
+        "Question": "Stack is also called __________",
+        "Options": [
+            "a) First In First Out (LIFO)",
+            "b) Last In First Out (FIFO)",
+            "c) First In Last Out (FILO)",
+            "d) First Come First Served (FCFS)",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 133,
+        "Question": "A table that displays data redundancies yields ____________ anomalies.",
+        "Options": [
+            "a) Update",
+            "b) Insertion",
+            "c) Deletion",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 134,
+        "Question": "A type of query that is placed within a WHERE or HAVING clause of another query is called",
+        "Options": [
+            "a) Master query",
+            "b) Sub query",
+            "c) Super query",
+            "d) Multi-query",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 135,
+        "Question": "DCL stands for :",
+        "Options": [
+            "a) Data Control Language",
+            "b) Data Console Language",
+            "c) Data Console Level",
+            "d) Data Control Level",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 136,
+        "Question": "TCL stands for:",
+        "Options": [
+            "a) Transaction control languages",
+            "b) Transaction command languages",
+            "c) Transaction connect languages",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 137,
+        "Question": "_________commands in SQL allow controlling access to data within database.",
+        "Options": [
+            "a) Database",
+            "b) Data",
+            "c) Data control",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 138,
+        "Question": "In an SQL statement, which of the following parts states the conditions for row selection?",
+        "Options": [
+            "a) Where",
+            "b) From",
+            "c) Order By",
+            "d) Group By",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 139,
+        "Question": "A transaction completes its execution is said to be",
+        "Options": [
+            "a) Committed",
+            "b) Aborted",
+            "c) Rolled back",
+            "d) Failed",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 140,
+        "Question": "Which of the following keyword is used with Data Control Language (DCL) statements?",
+        "Options": [
+            "a) SELECT",
+            "b) INSERT",
+            "c) DELETE",
+            "d) GRANT",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 141,
+        "Question": "DCL Provides Commands To Perform Actions Like _____________",
+        "Options": [
+            "a) Change The Structure Of Tables",
+            "b) Insert, Update Or Delete Records And Data Values",
+            "c) Authorizing Access And Other Control Over Database",
+            "d) None of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 142,
+        "Question": "The Database Language That Allows You To Access Or Maintain Data In A Database",
+        "Options": [
+            "a) DCL",
+            "b) DML",
+            "c) DDL",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 143,
+        "Question": "A Database Language Concerned With The Definition Of The Whole Database Structure And Schema Is ________",
+        "Options": [
+            "a) DCL",
+            "b) DML",
+            "c) DDL",
+            "d) All of the Mentioned",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 144,
+        "Question": "To obtain the structure of an Oracle table, the command to use is:",
+        "Options": [
+            "a) STRUCTURE [TableName].",
+            "b) DESCRIBE [TableName].",
+            "c) DESCRIBE STRUCTURE [TableName].",
+            "d) DESC TABLE [TableName].",
+            ""
+        ],
+        "Answer": "Answer: b"
+    }
+]

@@ -1,0 +1,2870 @@
+[
+    {
+        "id": 1,
+        "Question": "A and B are two events such that P(A) = 0.4 and P(A ∩ B) = 0.2 Then P(A ∩ B) is equal to ___________",
+        "Options": [
+            "a) 0.4",
+            "b) 0.2",
+            "c) 0.6",
+            "d) 0.8",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 2,
+        "Question": "A problem in mathematics is given to three students A, B and C. If the probability of A solving the problem is 1⁄2 and B not solving it is 1⁄4. The whole probability of the problem being solved is 63⁄64 then what is the probability of solving it?",
+        "Options": [
+            "a) 1⁄8",
+            "b) 1⁄64",
+            "c) 7⁄8",
+            "d) 1⁄2",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 3,
+        "Question": "Let A and B be two events such that P(A) = 1⁄5 While P(A or B) = 1⁄2. Let P(B) = P. For what values of P are A and B  independent?",
+        "Options": [
+            "a) 1⁄10 and 3⁄10",
+            "b) 3⁄10 and 4⁄5",
+            "c) 3⁄8 only",
+            "d) 3⁄10",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 4,
+        "Question": "If A and B are two mutually exclusive events with P(~A) = 5⁄6 and P(b) = 1⁄3 then P(A /~B) is equal to ___________",
+        "Options": [
+            "a) 1⁄4",
+            "b) 1⁄2",
+            "c) 0, since mutually exclusive",
+            "d)  5⁄18",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 5,
+        "Question": "If A and B are two events such that P(a) = 0.2, P(b) = 0.6 and P(A /B) = 0.2 then the value of P(A /~B) is ___________",
+        "Options": [
+            "a) 0.2",
+            "b) 0.5",
+            "c) 0.8",
+            "d) 1⁄3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 6,
+        "Question": "Let A and B be two events such that the occurrence of A implies occurrence of B, But not vice-versa, then the correct relation between P(a) and P(b) is?",
+        "Options": [
+            "a) P(A) < P(B)",
+            "b) P(B) ≥ P(A)",
+            "c) P(A) = P(B)",
+            "d) P(A) ≥ P(B)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 7,
+        "Question": "If A ⊂ B and B ⊂ A then,",
+        "Options": [
+            "a) P(A) > P(B)",
+            "b) P(A) < P(B)",
+            "c) P(A) = P(B)",
+            "d) P(A) < P(B)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 8,
+        "Question": "If A ⊂ B then?",
+        "Options": [
+            "a) P(a) > P(b)",
+            "b) P(A) ≥ P(B)",
+            "c) P(B) = P(A)",
+            "d) P(B) = P(B)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 9,
+        "Question": "If A is a perfect subset of B and P(a < Pb), then P(B – A) is equal to ____________",
+        "Options": [
+            "a) P(a) / P(b)",
+            "b) P(a)P(b)",
+            "c) P(a) + P(b)",
+            "d) P(b) – P(a)",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 10,
+        "Question": "What is the probability of an impossible event?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) Not defined",
+            "d) Insufficient data",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 11,
+        "Question": "If A = A1 ∪ A2……..∪ An, where A1…An are mutually exclusive events then?",
+        "Options": [
+            "a) \\(\\sum_{i=0}^n P(A_i)\\) ",
+            "b) \\(\\sum_{i=1}^n P(A_i)\\) ",
+            "c) \\(\\prod_{i=0}^n P(A_i)\\) ",
+            "d) Not defined",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 12,
+        "Question": "If P(B⁄A) = p(b), then P(A ∩ B) = ____________",
+        "Options": [
+            "a) p(b)",
+            "b) p(a)",
+            "c) p(b).p(a)",
+            "d) p(a) + p(b)",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 13,
+        "Question": "Two unbiased coins are tossed. What is the probability of getting at most one head?",
+        "Options": [
+            "a) 1⁄2",
+            "b) 1⁄3",
+            "c) 1⁄6",
+            "d) 3⁄4",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 14,
+        "Question": "If A and B are two events such that p(a) > 0 and p(b) is not a sure event, then P(A/B) = ?",
+        "Options": [
+            "a) 1 – P(A /B)",
+            "b) \\(P\\frac{(\\bar{A})}{(\\bar{B})}\\) ",
+            "c) Not Defined",
+            "d) \\(\\frac{1-P(A \\cup B)}{P(\\bar{B}}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 15,
+        "Question": "If A and B are two events, then the probability of exactly one of them occurs is given by ____________",
+        "Options": [
+            "a) P(A ∩ B) + P(A ∩ B)",
+            "b) P(A) + P(B) – 2P(A) P(B)",
+            "c) P(A) + P(B) – 2P(A) P(B)",
+            "d) P(A) + P(B) – P(A ∩ B)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 16,
+        "Question": "The probability that at least one of the events M and N occur is 0.6. If M and N have probability of occurring together as 0.2, then P(M) + P(N) is?",
+        "Options": [
+            "a) 0.4",
+            "b) 1.2",
+            "c) 0.8",
+            "d) Indeterminate",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 17,
+        "Question": "A jar contains ‘y’ blue colored balls and ‘x’ red colored balls. Two balls are pulled from the jar without replacing. What is the probability that the first ball Is blue and second one is red?",
+        "Options": [
+            "a) \\(\\frac{xy-y}{x^2+y^2+2xy-(x+y)}\\) ",
+            "b) \\(\\frac{xy}{x^2+y^2+2xy-(x+y)}\\) ",
+            "c) \\(\\frac{y^2-y}{x^2+y^2+2xy-(x+y)}\\) ",
+            "d) \\(\\frac{xy-y}{x^2+y^2+2xy-(x-y)}\\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 18,
+        "Question": "A survey determines that in a locality, 33% go to work by Bike, 42% go by Car, and 12% use both. The probability that a random person selected uses neither of them is?",
+        "Options": [
+            "a) 0.29",
+            "b) 0.37",
+            "c) 0.61",
+            "d) 0.75",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 19,
+        "Question": "A coin is biased so that its chances of landing Head is 2⁄3. If the coin is flipped 3 times, the probability that the first 2 flips are heads and the 3rd flip is a tail is?",
+        "Options": [
+            "a) 4⁄27",
+            "b) 8⁄27",
+            "c) 4⁄9",
+            "d) 2⁄9",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 20,
+        "Question": "Husband and wife apply for two vacant spots in a company. If the probability of wife getting selected and husband getting selected are 3/7 and 2/3 respectively, what is the probability that neither of them will be selected?",
+        "Options": [
+            "a) 2⁄7",
+            "b) 5⁄7",
+            "c) 4⁄21",
+            "d) 17⁄21",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 21,
+        "Question": "For two events A and B, if P (B) = 0.5 and P (A ∪ B) = 0.5, then P (A|B) = ?",
+        "Options": [
+            "a) 0.5",
+            "b) 0",
+            "c) 0.25",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 22,
+        "Question": "A fair coin is tossed thrice, what is the probability of getting all 3 same outcomes?",
+        "Options": [
+            "a) 3⁄4",
+            "b) 1⁄4",
+            "c) 1⁄2",
+            "d) 1⁄6",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 23,
+        "Question": "A bag contains 5 red and 3 yellow balls. Two balls are picked at random. What is the probability that both are of the same colour?",
+        "Options": [
+            "a) \\(\\frac{C_2^5}{C_2^8}+\\frac{C_2^3}{C_2^8}\\) ",
+            "b) \\(\\frac{C_2^5 * C_2^3}{C_2^8}\\) ",
+            "c) \\(\\frac{C_1^5 * C_1^3}{C_2^8}\\) ",
+            "d) 0.5",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 24,
+        "Question": "If 40% of boys opted for maths and 60%  of girls opted for maths, then what is the probability that maths is chosen if half of the class’s population is girls?",
+        "Options": [
+            "a) 0.5",
+            "b) 0.6",
+            "c) 0.7",
+            "d) 0.4",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 25,
+        "Question": "Company A produces 10% defective products, Company B produces 20% defective products and C produces 5% defective products. If choosing a company is an equally likely event, then find the probability that the product chosen is defective.",
+        "Options": [
+            "a) 0.22",
+            "b) 0.12",
+            "c) 0.11",
+            "d) 0.21",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 26,
+        "Question": "Suppose 5 men out of 100 men and 10 women out of 250 women are colour blind, then find the total probability of colour blind people. (Assume that both men and women are in equal numbers.)",
+        "Options": [
+            "a) 0.45",
+            "b) 0.045",
+            "c) 0.05",
+            "d) 0.5",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 27,
+        "Question": "A problem is given to 5 students P, Q, R, S, T. If the probability of solving the problem individually is 1/2, 1/3, 2/3, 1/5, 1/6 respectively, then find the probability that the problem is solved.",
+        "Options": [
+            "a) 0.47",
+            "b) 0.37",
+            "c) 0.57",
+            "d) 0.27",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 28,
+        "Question": "The probability that the political party A does a particular work is 30% and the political party B doing the same work is 40%. Then find the probability that the work is completed if the probability of choosing the political party A is 40% and that of B is 60%.",
+        "Options": [
+            "a) 0.12",
+            "b) 0.24",
+            "c) 0.36",
+            "d) 0.48",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 29,
+        "Question": "In badminton practice session, the probability that the player A serves properly is 0.8 and that he player B serves properly is 0.9. If there are only two players, then find the probability that it is serves properly.",
+        "Options": [
+            "a) 0.75",
+            "b) 0.85",
+            "c) 0.95",
+            "d) 0.55",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 30,
+        "Question": "The probability that person A completes all the tasks assigned is 50% and that of person B is 20%. Find the probability that all the tasks are completed.",
+        "Options": [
+            "a) 0.15",
+            "b) 0.25",
+            "c) 0.35",
+            "d) 0.45",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 31,
+        "Question": "Let there be two newly launched phones A and B. The probability that phone A has good  battery life is 0.7 and the probability that phone B has good battery life is 0.8. Then find the probability that a phone has a good battery life.",
+        "Options": [
+            "a) 0.65",
+            "b) 0.75",
+            "c) 0.85",
+            "d) 0.45",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 32,
+        "Question": "Three companies A, B and C supply 25%, 35% and 40% of the notebooks to a school. Past experience shows that 5%, 4% and 2% of the notebooks produced by these companies are defective. If a notebook was found to be defective, what is the probability that the notebook was supplied by A?",
+        "Options": [
+            "a) 44⁄69",
+            "b) 25⁄69",
+            "c) 13⁄24",
+            "d) 11⁄24",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 33,
+        "Question": "A box of cartridges contains 30 cartridges, of which 6 are defective. If 3 of the cartridges are removed from the box in succession without replacement, what is the probability that all the 3 cartridges are defective?",
+        "Options": [
+            "a) \\(\\frac{(6*5*4)}{(30*30*30)}\\) ",
+            "b) \\(\\frac{(6*5*4)}{(30*29*28)}\\) ",
+            "c) \\(\\frac{(6*5*3)}{(30*29*28)}\\) ",
+            "d) \\(\\frac{(6*6*6)}{(30*30*30)}\\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 34,
+        "Question": "Two boxes containing candies are placed on a table. The boxes are labelled B1 and B2. Box B1 contains 7 cinnamon candies and 4 ginger candies. Box B2 contains 3 cinnamon candies and 10 pepper candies. The boxes are arranged so that the probability of selecting box B1 is 1⁄3 and the probability of selecting box B2 is 2⁄3. Suresh is blindfolded and asked to select a candy. He will win a colour TV if he selects a cinnamon candy. What is the probability that Suresh will win the TV (that is, she will select a cinnamon candy)?",
+        "Options": [
+            "a) 7⁄33",
+            "b) 6⁄33",
+            "c) 13⁄33",
+            "d) 20⁄33",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 35,
+        "Question": "Two boxes containing candies are placed on a table. The boxes are labelled B1 and B2. Box B1 contains 7 cinnamon candies and 4 ginger candies. Box B2 contains 3 cinnamon candies and 10 pepper candies. The boxes are arranged so that the probability of selecting box B1 is 1⁄3 and the probability of selecting box B2 is 2⁄3. Suresh is blindfolded and asked to select a candy. He will win a colour TV if he selects a cinnamon candy. If he wins a colour TV, what is the probability that the marble was from the first box?",
+        "Options": [
+            "a) 7⁄13",
+            "b) 13⁄7",
+            "c) 7⁄33",
+            "d) 6⁄33",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 36,
+        "Question": "Suppose box A contains 4 red and 5 blue coins and box B contains 6 red and 3 blue coins. A coin is chosen at random from the box A and placed in box B. Finally, a coin is chosen at random from among those now in box B. What is the probability a blue coin was transferred from box A to box B given that the coin chosen from box B is red?",
+        "Options": [
+            "a) 15⁄29",
+            "b) 14⁄29",
+            "c) 1⁄2",
+            "d) 7⁄10",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 37,
+        "Question": "An urn B1 contains 2 white and 3 black chips and another urn B2 contains 3 white and 4 black chips. One urn is selected at random and a chip is drawn from it. If the chip drawn is found black, find the probability that the urn chosen was B1.",
+        "Options": [
+            "a) 4⁄7",
+            "b) 3⁄7",
+            "c) 20⁄41",
+            "d) 21⁄41",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 38,
+        "Question": "At a certain university, 4% of men are over 6 feet tall and 1% of women are over 6 feet tall. The total student population is divided in the ratio 3:2 in favour of women. If a student is selected at random from among all those over six feet tall, what is the probability that the student is a woman?",
+        "Options": [
+            "a) 2⁄5",
+            "b) 3⁄5",
+            "c) 3⁄11",
+            "d) 1⁄100",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 39,
+        "Question": "Previous probabilities in Bayes Theorem that are changed with help of new available information are classified as _________________",
+        "Options": [
+            "a) independent probabilities",
+            "b) posterior probabilities",
+            "c) interior probabilities",
+            "d) dependent probabilities",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 40,
+        "Question": "If 16Pr-1 : 15Pr-1 = 16 : 7 then find r.",
+        "Options": [
+            "a) 10",
+            "b) 12",
+            "c) 7",
+            "d) 8",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 41,
+        "Question": "In a colony, there are 55 members. Every member posts a greeting card to all the members. How many greeting cards were posted by them?",
+        "Options": [
+            "a) 990",
+            "b) 890",
+            "c) 2970",
+            "d) 1980",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 42,
+        "Question": "Find the number of ways of arranging the letters of the words DANGER, so that no vowel occupies odd place.",
+        "Options": [
+            "a) 36",
+            "b) 48",
+            "c) 144",
+            "d) 96",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 43,
+        "Question": "Find the sum of all four digit numbers that can be formed by the digits 1, 3, 5, 7, 9 without repetition.",
+        "Options": [
+            "a) 666700",
+            "b) 666600",
+            "c) 678860",
+            "d) 665500",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 44,
+        "Question": "If nPr = 3024 and nCr = 126 then find n and r.",
+        "Options": [
+            "a) 9, 4",
+            "b) 10, 3",
+            "c) 12, 4",
+            "d) 11, 4",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 45,
+        "Question": "Find the number of rectangles and squares in an 8 by 8 chess board respectively.",
+        "Options": [
+            "a) 296, 204",
+            "b) 1092, 204",
+            "c) 204, 1092",
+            "d) 204, 1296",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 46,
+        "Question": "There are 20 points in a plane, how many triangles can be formed by these points if 5 are colinear?",
+        "Options": [
+            "a) 1130",
+            "b) 550",
+            "c) 1129",
+            "d) 1140",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 47,
+        "Question": "In how many ways can we select 6 people out of 10, of which a particular person is not included?",
+        "Options": [
+            "a) 10C3",
+            "b) 9C5",
+            "c) 9C6",
+            "d) 9C4",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 48,
+        "Question": "Consider a dice with the property that that probability of a face with n dots showing up is proportional to n. The probability of face showing 4 dots is?",
+        "Options": [
+            "a) \\(\\frac{1}{7} \\) ",
+            "b) \\(\\frac{5}{42} \\) ",
+            "c) \\(\\frac{1}{21} \\) ",
+            "d) \\(\\frac{4}{21} \\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 49,
+        "Question": "Runs scored by batsman in 5 one day matches are 50, 70, 82, 93, and 20. The standard deviation is ______",
+        "Options": [
+            "a) 25.79",
+            "b) 25.49",
+            "c) 25.29",
+            "d) 25.69",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 50,
+        "Question": "Find median and mode of the messages received on 9 consecutive days 15, 11, 9, 5, 18, 4, 15, 13, 17.",
+        "Options": [
+            "a) 13, 6",
+            "b) 13, 18",
+            "c) 18, 15",
+            "d) 15, 16",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 51,
+        "Question": "A coin is tossed up 4 times. The probability that tails turn up in 3 cases is ______",
+        "Options": [
+            "a) \\(\\frac{1}{2} \\) ",
+            "b) \\(\\frac{1}{3} \\) ",
+            "c) \\(\\frac{1}{4} \\) ",
+            "d) \\(\\frac{1}{6} \\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 52,
+        "Question": "If E denotes the expectation the variance of a random variable X is denoted as?",
+        "Options": [
+            "a) (E(X))2",
+            "b) E(X2)-(E(X))2",
+            "c) E(X2)",
+            "d) 2E(X)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 53,
+        "Question": "X is a variate between 0 and 3. The value of E(X2) is ______",
+        "Options": [
+            "a) 8",
+            "b) 7",
+            "c) 27",
+            "d) 9",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 54,
+        "Question": "The random variables X and Y have variances 0.2 and 0.5 respectively. Let Z= 5X-2Y. The variance of Z is?",
+        "Options": [
+            "a) 3",
+            "b) 4",
+            "c) 5",
+            "d) 7",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 55,
+        "Question": "Which of the following mentioned standard Probability density functions is applicable to discrete Random Variables?",
+        "Options": [
+            "a) Gaussian Distribution",
+            "b) Poisson Distribution",
+            "c) Rayleigh Distribution",
+            "d) Exponential Distribution",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 56,
+        "Question": "What is the area under a conditional Cumulative density function?",
+        "Options": [
+            "a) 0",
+            "b) Infinity",
+            "c) 1",
+            "d) Changes with CDF",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 57,
+        "Question": "When do the conditional density functions get converted into the marginally density functions?",
+        "Options": [
+            "a) Only if random variables exhibit statistical dependency",
+            "b) Only if random variables exhibit statistical independency",
+            "c) Only if random variables exhibit deviation from its mean value",
+            "d) If random variables do not exhibit deviation from its mean value",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 58,
+        "Question": "Mutually Exclusive events ___________",
+        "Options": [
+            "a) Contain all sample points",
+            "b) Contain all common sample points",
+            "c) Does not contain any sample point",
+            "d) Does not contain any common sample point",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 59,
+        "Question": "What would be the probability of an event ‘G’ if H denotes its complement, according to the axioms of probability?",
+        "Options": [
+            "a) P (G) = 1 / P (H)",
+            "b) P (G) = 1 – P (H)",
+            "c) P (G) = 1 + P (H)",
+            "d) P (G) = P (H)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 60,
+        "Question": "A table with all possible value of a random variable and its corresponding probabilities is called ___________",
+        "Options": [
+            "a) Probability Mass Function",
+            "b) Probability Density Function",
+            "c) Cumulative distribution function",
+            "d) Probability Distribution",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 61,
+        "Question": "A variable that can assume any value between two given points is called ___________",
+        "Options": [
+            "a) Continuous random variable",
+            "b) Discrete random variable",
+            "c) Irregular random variable",
+            "d) Uncertain random variable",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 62,
+        "Question": "If a variable can certain integer values between two given points is called ___________",
+        "Options": [
+            "a) Continuous random variable",
+            "b) Discrete random variable",
+            "c) Irregular random variable",
+            "d) Uncertain random variable",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 63,
+        "Question": "The expected value of a discrete random variable ‘x’ is given by ___________",
+        "Options": [
+            "a) P(x)",
+            "b) ∑ P(x)",
+            "c) ∑ x P(x)",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 64,
+        "Question": "If ‘X’ is a continuous random variable, then the expected value is given by ___________",
+        "Options": [
+            "a) P(X)",
+            "b) ∑ x P(x)",
+            "c) ∫ X P(X)",
+            "d) No value such as expected value",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 65,
+        "Question": "Out of the following values, which one is not possible in probability?",
+        "Options": [
+            "a) P(x) = 1",
+            "b) ∑ x P(x) = 3",
+            "c) P(x) = 0.5",
+            "d) P(x) = – 0.5",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 66,
+        "Question": "If E(x) = 2 and E(z) = 4, then E(z – x) =?",
+        "Options": [
+            "a) 2",
+            "b) 6",
+            "c) 0",
+            "d) Insufficient data",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 67,
+        "Question": "If the values taken by a random variable are negative, the negative values will have ___________",
+        "Options": [
+            "a) Positive probability",
+            "b) Negative Probability",
+            "c) May have negative or positive probabilities",
+            "d) Insufficient data",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 68,
+        "Question": "If f(x) is a probability density function of a continuous random variable, then \\(\\int_{-∞}^∞\\)f(x)=?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) undefined",
+            "d) Insufficient data",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 69,
+        "Question": "The variable that assigns a real number value to an event in a sample space is called ___________",
+        "Options": [
+            "a) Random variable",
+            "b) Defined variable",
+            "c) Uncertain variable",
+            "d) Static variable",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 70,
+        "Question": "A random variable that assumes a finite or a countably infinite number of values is called ___________",
+        "Options": [
+            "a) Continuous random variable",
+            "b) Discrete random variable",
+            "c) Irregular random variable",
+            "d) Uncertain random variable",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 71,
+        "Question": "A random variable that assume a infinite or a uncountably infinite number of values is called ___________",
+        "Options": [
+            "a) Continuous random variable",
+            "b) Discrete random variable",
+            "c) Irregular random variable",
+            "d) Uncertain random variable",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 72,
+        "Question": "If Σ P(x) = k2 – 8 then, the value of k is?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 3",
+            "d) Insufficient data",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 73,
+        "Question": "If P(x) = 0.5 and x = 4, then E(x) = ?",
+        "Options": [
+            "a) 1",
+            "b) 0.5",
+            "c) 4",
+            "d) 2",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 74,
+        "Question": "In a discrete probability distribution, the sum of all probabilities is always?",
+        "Options": [
+            "a) 0",
+            "b) Infinite",
+            "c) 1",
+            "d) Undefined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 75,
+        "Question": "The expected value of a random variable is its ___________",
+        "Options": [
+            "a) Mean",
+            "b) Standard Deviation",
+            "c) Mean Deviation",
+            "d) Variance",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 76,
+        "Question": "The covariance of two independent random variable is ___________",
+        "Options": [
+            "a) 1",
+            "b) 0",
+            "c) – 1",
+            "d) Undefined",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 77,
+        "Question": "The weight of persons in a state is a ___________",
+        "Options": [
+            "a) Continuous random variable",
+            "b) Discrete random variable",
+            "c) Irregular random variable",
+            "d) Not a random variable",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 78,
+        "Question": "In random experiment, observations of random variable are classified as ___________",
+        "Options": [
+            "a) Events",
+            "b) Composition",
+            "c) Trials",
+            "d) Functions",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 79,
+        "Question": "The expectation of a random variable X (E(X)) can be written as _________",
+        "Options": [
+            "a) \\(\\frac{d}{dt} [M_X (t)](t=0) \\) ",
+            "b) \\(\\frac{d}{dx} [M_X (t)](t=0) \\) ",
+            "c) \\(\\frac{d^2}{dt^2}  [M_X (t)](t=0) \\) ",
+            "d) \\(\\frac{d^2}{dx^2}  [M_X (t)](t=0) \\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 80,
+        "Question": "If the probability of hitting the target is 0.4, find mean and variance.",
+        "Options": [
+            "a) 0.4, 0.24",
+            "b) 0.6, 0.24",
+            "c) 0.4, 0.16",
+            "d) 0.6, 0.16",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 81,
+        "Question": "If the probability that a bomb dropped from a place will strike the target is 60% and if 10 bombs are dropped, find mean and variance?",
+        "Options": [
+            "a) 0.6, 0.24",
+            "b) 6, 2.4",
+            "c) 0.4, 0.16",
+            "d) 4, 1.6",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 82,
+        "Question": "If P(1) = P(3) in Poisson’s distribution, what is the mean?",
+        "Options": [
+            "a) \\(\\sqrt{2} \\) ",
+            "b) \\(\\sqrt{3} \\) ",
+            "c) \\(\\sqrt{6} \\) ",
+            "d) \\(\\sqrt{7} \\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 83,
+        "Question": "What is the mean and variance for standard normal distribution?",
+        "Options": [
+            "a) Mean is 0 and variance is 1",
+            "b) Mean is 1 and variance is 0",
+            "c) Mean is 0 and variance is ∞",
+            "d) Mean is ∞ and variance is 0",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 84,
+        "Question": "Find λ in Poisson’s distribution if the probabilities of getting a head in biased coin toss as \\(\\frac{3}{4} \\) and 6 coins are tossed.",
+        "Options": [
+            "a) 3.5",
+            "b) 4.5",
+            "c) 5.5",
+            "d) 6.6",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 85,
+        "Question": "If P(6) = λP(1) in Poisson’s distribution, what is the mean?(Approximate value)",
+        "Options": [
+            "a) 4",
+            "b) 6",
+            "c) 5",
+            "d) 7",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 86,
+        "Question": "Find f(2) in normal distribution if mean is 0 and variance is 1.",
+        "Options": [
+            "a) 0.1468",
+            "b) 0.1568",
+            "c) 0.1668",
+            "d) 0.1768",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 87,
+        "Question": "Find the mean of tossing 8 coins.",
+        "Options": [
+            "a) 2",
+            "b) 4",
+            "c) 8",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 88,
+        "Question": "The expectation of a random variable X(continuous or discrete) is given by _________",
+        "Options": [
+            "a) ∑xf(x), ∫xf(x)",
+            "b) ∑x2 f(x), ∫x2 f(x)",
+            "c) ∑f(x), ∫f(x)",
+            "d) ∑xf(x2), ∫xf(x2)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 89,
+        "Question": "Mean of a random variable X is given by _________",
+        "Options": [
+            "a) E(X)",
+            "b) E(X2)",
+            "c) E(X2) – (E(X))2",
+            "d) (E(X))2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 90,
+        "Question": "Variance of a random variable X is given by _________",
+        "Options": [
+            "a) E(X)",
+            "b) E(X2)",
+            "c) E(X2) – (E(X))2",
+            "d) (E(X))2",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 91,
+        "Question": "Mean of a constant ‘a’ is ___________",
+        "Options": [
+            "a) 0",
+            "b) a",
+            "c) a/2",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 92,
+        "Question": "Variance of a constant ‘a’ is _________",
+        "Options": [
+            "a) 0",
+            "b) a",
+            "c) a/2",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 93,
+        "Question": "Find the expectation of a random variable X if f(x) = ke-x for x>0 and 0 otherwise.",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 2",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 94,
+        "Question": "Find the mean of a random variable X if f(x) = x – 5⁄2 for 0<x<1 and 2x for 1<x<2 and 0 otherwise.",
+        "Options": [
+            "a) 3.5",
+            "b) 3.75",
+            "c) 2.5",
+            "d) 2.75",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 95,
+        "Question": "Find the mean of a continuous random variable X if f(x) = 2e-x for x>0 and -ex for x<0.",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 2",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 96,
+        "Question": "What is moment generating function?",
+        "Options": [
+            "a) Mx(t) = E(etx)",
+            "b) Mx(t) = E(e-tx)",
+            "c) Mx(t) = E(e2tx)",
+            "d) Mx(t) = E(et)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 97,
+        "Question": "Find the Moment Generating Function of f(x) = x for 0<x<1 and 2-x for 1<x<2 and 0 otherwise.",
+        "Options": [
+            "a) \\((\\frac{e^t-1}{t})^2 \\) ",
+            "b) \\((\\frac{e^{-t}-1}{t})^2 \\) ",
+            "c) \\((\\frac{e^{2t}-1}{t})^2 \\) ",
+            "d) \\((\\frac{e^{2t}-1}{t^2}) \\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 98,
+        "Question": "E(X) = npq is for which distribution?",
+        "Options": [
+            "a) Bernoulli’s",
+            "b) Binomial",
+            "c) Poisson’s",
+            "d) Normal",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 99,
+        "Question": "E(X) = λ is for which distribution?",
+        "Options": [
+            "a) Bernoulli’s",
+            "b) Binomial",
+            "c) Poisson’s",
+            "d) Normal",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 100,
+        "Question": "E(X) = μ and V(X) = σ2 is for which distribution?",
+        "Options": [
+            "a) Bernoulli’s",
+            "b) Binomial",
+            "c) Poisson’s",
+            "d) Normal",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 101,
+        "Question": "In a Binomial Distribution, if ‘n’ is the number of trials and ‘p’ is the probability of success, then the mean value is given by ___________",
+        "Options": [
+            "a) np",
+            "b) n",
+            "c) p",
+            "d) np(1-p)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 102,
+        "Question": "In a Binomial Distribution, if p, q and n are probability of success, failure and number of trials respectively then variance is given by ___________",
+        "Options": [
+            "a) np",
+            "b) npq",
+            "c) np2q",
+            "d) npq2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 103,
+        "Question": "If ‘X’ is a random variable, taking values ‘x’, probability of success and failure being ‘p’ and ‘q’ respectively and ‘n’ trials being conducted, then what is the probability that ‘X’ takes values ‘x’? Use Binomial Distribution",
+        "Options": [
+            "a) P(X = x) = nCx px qx",
+            "b) P(X = x) = nCx px q(n-x)",
+            "c) P(X = x) = xCn qx p(n-x)",
+            "d) P(x = x) = xCn pn qx",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 104,
+        "Question": "If ‘p’, ‘q’ and ‘n’ are probability pf success, failure and number of trials respectively in a Binomial Distribution, what is its Standard Deviation?",
+        "Options": [
+            "a) \\(\\sqrt{np}\\) ",
+            "b) \\(\\sqrt{pq}\\) ",
+            "c) (np)2",
+            "d) \\(\\sqrt{npq}\\) ",
+            ""
+        ],
+        "Answer": "Answer:  d"
+    },
+    {
+        "id": 105,
+        "Question": "It is suitable to use Binomial Distribution only for ___________",
+        "Options": [
+            "a) Large values of ‘n’",
+            "b) Fractional values of ‘n’",
+            "c) Small values of ‘n’",
+            "d) Any value of ‘n’",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 106,
+        "Question": "For larger values of ‘n’, Binomial Distribution ___________",
+        "Options": [
+            "a) loses its discreteness",
+            "b) tends to Poisson Distribution",
+            "c) stays as it is",
+            "d) gives oscillatory values",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 107,
+        "Question": "In a Binomial Distribution, if p = q, then P(X = x) is given by?",
+        "Options": [
+            "a) nCx (0.5)n",
+            "b) nCn (0.5)n",
+            "c) nCx p(n-x)",
+            "d) nCn p(n-x)",
+            ""
+        ],
+        "Answer": "Answer:  b"
+    },
+    {
+        "id": 108,
+        "Question": "Binomial Distribution is a ___________",
+        "Options": [
+            "a) Continuous distribution",
+            "b) Discrete distribution",
+            "c) Irregular distribution",
+            "d) Not a Probability distribution",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 109,
+        "Question": "The mean of hypergeometric distribution is _____________",
+        "Options": [
+            "a) n*k / N-1",
+            "b) n*k-1 / N",
+            "c) n-1*k / N",
+            "d) n*k / N",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 110,
+        "Question": "Consider selecting 6 cards from a pack of cards without replacement. What is the probability that 3 of the cards will be black?",
+        "Options": [
+            "a) 0.3320",
+            "b) 0.3240",
+            "c) 0.4320",
+            "d) 0.5430",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 111,
+        "Question": "Suppose we draw eight cards from a pack of 52 cards. What is the probability of getting less than three spades?",
+        "Options": [
+            "a) 0.985",
+            "b) 0.785",
+            "c) 0.685",
+            "d) 0.585",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 112,
+        "Question": "The Variance of hypergeometric distribution is given as __________",
+        "Options": [
+            "a) n * k * (N – k) * (N – 1) / [N2 * (N – 1)] ",
+            "b) n * k * (N – k) * (N – n) / [N2 * (N – k)] ",
+            "c) n * k * (N – 1) * (N – n) / [N2 * (N – 1)] ",
+            "d) n * k * (N – k) * (N – n) / [N2 * (N – 1)] ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 113,
+        "Question": "Hypergeometric probability of hypergeometric distribution function is given by the formula _________",
+        "Options": [
+            "a) h(x; N, n, k) = [kCx] [NCn-x] / [NCn] ",
+            "b) h(x; N, n, k) = [kCx] [N-kCn-x] / [NCn] ",
+            "c) h(x; N, n, k) = [kCx] [N-kCn] / [NCn] ",
+            "d) h(x; N, n, k) = [kCx] [N-kCn-x] / [N-kCn] ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 114,
+        "Question": "Find the Variance of a Hypergeometric Distribution such that the probability that a 3-trial hypergeometric experiment results in exactly 2 successes, when the population consists of 7 items.",
+        "Options": [
+            "a) 0.6212",
+            "b) 0.6612",
+            "c) 0.6112",
+            "d) 0.6122",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 115,
+        "Question": "Suppose we draw 4 cards from a pack of 52 cards. What is the probability of getting exactly 3 aces?",
+        "Options": [
+            "a) 0.9999",
+            "b) 0.9997",
+            "c) 0.0009",
+            "d) 0.0007",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 116,
+        "Question": "Consider Nick draws 3 cards from a pack of 52 cards. What is the probability of getting no kings?",
+        "Options": [
+            "a) 0.8762",
+            "b) 0.7826",
+            "c) 0.8726",
+            "d) 0.7862",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 117,
+        "Question": "Find the Variance of a Hypergeometric Distribution such that the probability that a 6-trial hypergeometric experiment results in exactly 4 successes, when the population consists of 10 items.",
+        "Options": [
+            "a) 14.4",
+            "b) 144",
+            "c) 1.44",
+            "d) 0.144",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 118,
+        "Question": "Emma likes to play cards. She draws 5 cards from a pack of 52 cards. What is the probability of that from the 5 cards drawn Emma draws only 2 face cards?",
+        "Options": [
+            "a) 0.0533",
+            "b) 0.0753",
+            "c) 0.0633",
+            "d) 0.6573",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 119,
+        "Question": "Find the Expectation of a Hypergeometric Distribution such that the probability that a 4-trial hypergeometric experiment results in exactly 2 successes, when the population consists of 16 items.",
+        "Options": [
+            "a) 1/2",
+            "b) 1/4",
+            "c) 1/8",
+            "d) 1/3",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 120,
+        "Question": "In a Poisson Distribution, if ‘n’ is the number of trials and ‘p’ is the probability of success, then the mean value is given by?",
+        "Options": [
+            "a) m = np",
+            "b) m = (np)2",
+            "c) m = np(1-p)",
+            "d) m = p",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 121,
+        "Question": "If ‘m’ is the mean of a Poisson Distribution, then variance is given by ___________",
+        "Options": [
+            "a) m2",
+            "b) m1⁄2",
+            "c) m",
+            "d) m⁄2",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 122,
+        "Question": "The p.d.f of Poisson Distribution is given by ___________",
+        "Options": [
+            "a) \\(\\frac{e^{-m}m^x}{x!}\\) ",
+            "b) \\(\\frac{e^{-m}x!}{m^x}\\) ",
+            "c) \\(\\frac{x!}{m^xe^{-m}}\\) ",
+            "d) \\(\\frac{e^m m^x}{x!}\\) ",
+            ""
+        ],
+        "Answer": "Answer:  a"
+    },
+    {
+        "id": 123,
+        "Question": "If ‘m’ is the mean of a Poisson Distribution, the standard deviation is given by ___________",
+        "Options": [
+            "a) \\(\\sqrt{m}\\) ",
+            "b) m2",
+            "c) m",
+            "d) m⁄2",
+            ""
+        ],
+        "Answer": "Answer:  a"
+    },
+    {
+        "id": 124,
+        "Question": "In a Poisson Distribution, if mean (m) = e, then P(x) is given by ___________",
+        "Options": [
+            "a) \\(\\frac{e^{(x-m)}}{x!}\\) ",
+            "b) \\(\\frac{e^{(m-x)}}{x!}\\) ",
+            "c) \\(\\frac{x!}{e^{(m-x)}}\\) ",
+            "d) \\(\\frac{x!}{e^{(x-m)}}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 125,
+        "Question": "Poisson distribution is applied for ___________",
+        "Options": [
+            "a) Continuous Random Variable",
+            "b) Discrete Random Variable",
+            "c) Irregular Random Variable",
+            "d) Uncertain Random Variable",
+            ""
+        ],
+        "Answer": "Answer:  b"
+    },
+    {
+        "id": 126,
+        "Question": "If ‘m’ is the mean of Poisson Distribution, the P(0) is given by ___________",
+        "Options": [
+            "a) e-m",
+            "b) em",
+            "c) e",
+            "d) m-e",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 127,
+        "Question": "For a Poisson Distribution, if mean(m) = 1, then P(1) is?",
+        "Options": [
+            "a) 1/e",
+            "b) e",
+            "c) e/2",
+            "d) Indeterminate",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 128,
+        "Question": "The recurrence relation between P(x) and P(x +1) in a Poisson distribution is given by ___________",
+        "Options": [
+            "a) P(x+1) – m P(x) = 0",
+            "b) m P(x+1) – P(x) = 0",
+            "c) (x+1) P(x+1) – m P(x) = 0",
+            "d) (x+1) P(x) – x P(x+1) = 0",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 129,
+        "Question": "Normal Distribution is applied for ___________",
+        "Options": [
+            "a) Continuous Random Distribution",
+            "b) Discrete Random Variable",
+            "c) Irregular Random Variable",
+            "d) Uncertain Random Variable",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 130,
+        "Question": "The shape of the Normal Curve is ___________",
+        "Options": [
+            "a) Bell Shaped",
+            "b) Flat",
+            "c) Circular",
+            "d) Spiked",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 131,
+        "Question": "Normal Distribution is symmetric is about ___________",
+        "Options": [
+            "a) Variance",
+            "b) Mean",
+            "c) Standard deviation",
+            "d) Covariance",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 132,
+        "Question": "For a standard normal variate, the value of mean is?",
+        "Options": [
+            "a) ∞",
+            "b) 1",
+            "c) 0",
+            "d) not defined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 133,
+        "Question": "The area under a standard normal curve is?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) ∞",
+            "d) not defined",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 134,
+        "Question": "The standard normal curve is symmetric about the value ___________",
+        "Options": [
+            "a) 0.5",
+            "b) 1",
+            "c) ∞",
+            "d) 0",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 135,
+        "Question": "For a standard normal variate, the value of Standard Deviation is ___________",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) ∞",
+            "d) not defined",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 136,
+        "Question": "Normal Distribution is also known as ___________",
+        "Options": [
+            "a) Cauchy’s Distribution",
+            "b) Laplacian Distribution",
+            "c) Gaussian Distribution",
+            "d) Lagrangian Distribution",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 137,
+        "Question": "Skewness of Normal distribution is ___________",
+        "Options": [
+            "a) Negative",
+            "b) Positive",
+            "c) 0",
+            "d) Undefined",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 138,
+        "Question": "In Normal distribution, the highest value of ordinate occurs at ___________",
+        "Options": [
+            "a) Mean",
+            "b) Variance",
+            "c) Extremes",
+            "d) Same value occurs at all points",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 139,
+        "Question": "The shape of the normal curve depends on its ___________",
+        "Options": [
+            "a) Mean deviation",
+            "b) Standard deviation",
+            "c) Quartile deviation",
+            "d) Correlation",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 140,
+        "Question": "The value of constant ‘e’ appearing in normal distribution is ___________",
+        "Options": [
+            "a) 2.5185",
+            "b) 2.7836",
+            "c) 2.1783",
+            "d) 2.7183",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 141,
+        "Question": "In Standard normal distribution, the value of mode is ___________",
+        "Options": [
+            "a) 2",
+            "b) 1",
+            "c) 0",
+            "d) Not fixed",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 142,
+        "Question": "In Standard normal distribution, the value of median is ___________",
+        "Options": [
+            "a) 1",
+            "b) 0",
+            "c) 2",
+            "d) Not fixed",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 143,
+        "Question": "The mean of exponential distribution is given as __________",
+        "Options": [
+            "a) 1/λ",
+            "b) λ",
+            "c) λ2",
+            "d) 1/λ2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 144,
+        "Question": "A mobile conversation follows a exponential distribution f (x) = (1/3)e-x/3. What is the probability that the conversation takes more than 5 minutes?",
+        "Options": [
+            "a) e-5/3",
+            "b) e-15",
+            "c) 5e-15",
+            "d) e-5/3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 145,
+        "Question": "Consider a random variable with exponential distribution with λ=1. Compute the probability for P (X>3).",
+        "Options": [
+            "a) e-3",
+            "b) e-1",
+            "c) e-2",
+            "d) e-4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 146,
+        "Question": "The mean and the variance for gamma distribution are __________",
+        "Options": [
+            "a) E(X) = 1/λ, Var(X) = α/λ2",
+            "b) E(X) = α/λ, Var(X) = 1/λ2",
+            "c) E(X) = α/λ, Var(X) = α/λ2",
+            "d) E(X) = αλ, Var(X) = αλ2",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 147,
+        "Question": "Putting α=1 in Gamma distribution results in _______",
+        "Options": [
+            "a) Exponential Distribution",
+            "b) Normal Distribution",
+            "c) Poisson Distribution",
+            "d) Binomial Distribution",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 148,
+        "Question": "Sum of n independent Exponential random variables (λ) results in __________",
+        "Options": [
+            "a) Uniform random variable",
+            "b) Binomial random variable",
+            "c) Gamma random variable",
+            "d) Normal random variable",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 149,
+        "Question": "Find the value of Γ(5/2).",
+        "Options": [
+            "a) 5/4 . π1/2",
+            "b) 7/4 . π1/2",
+            "c) 1/4 . π1/2",
+            "d) 3/4 . π1/2",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 150,
+        "Question": "Which of the following graph represents gamma distribution?",
+        "Options": [
+            "a) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2019/07/probability-statistics-questions-answers-gamma-distribution-q7a.png\" alt=\"probability-statistics-questions-answers-gamma-distribution-q7a\" width=\"147\" height=\"129\" class=\"alignnone size-full wp-image-242725\" />",
+            "b) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2019/07/probability-statistics-questions-answers-gamma-distribution-q7b.png\" alt=\"probability-statistics-questions-answers-gamma-distribution-q7b\" width=\"149\" height=\"132\" class=\"alignnone size-full wp-image-242726\" />",
+            "c) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2019/07/probability-statistics-questions-answers-gamma-distribution-q7c.png\" alt=\"probability-statistics-questions-answers-gamma-distribution-q7c\" width=\"131\" height=\"116\" class=\"alignnone size-full wp-image-242727\" />",
+            "d) <img src=\"https://www.sanfoundry.com/wp-content/uploads/2019/07/probability-statistics-questions-answers-gamma-distribution-q7d.png\" alt=\"probability-statistics-questions-answers-gamma-distribution-q7d\" width=\"161\" height=\"130\" class=\"alignnone size-full wp-image-242728\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2019/07/probability-statistics-questions-answers-gamma-distribution-q7d.png 161w, https://www.sanfoundry.com/wp-content/uploads/2019/07/probability-statistics-questions-answers-gamma-distribution-q7d-100x80.png 100w\" sizes=\"(max-width: 161px) 100vw, 161px\" />",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 151,
+        "Question": "How many parameters are there in Weibull distribution?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 152,
+        "Question": "For β greater than 1 there is an inflection point for Weibull function at ___________",
+        "Options": [
+            "a) (e1/β-1)/e1/β-1",
+            "b) (e1/β-1)/e1/β",
+            "c) (e1/β-1)/e1/β-2",
+            "d) (e1/β-1)/e1/β-5",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 153,
+        "Question": "How can we increase the height of the graph of Weibull distribution?",
+        "Options": [
+            "a) if η  is decreased while β and γ  are constant",
+            "b) if η  is increased while β and γ  are constant",
+            "c) if η  is constant while β and γ  are increased",
+            "d) if η  is constant while β and γ  are decreased",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 154,
+        "Question": "What is the effect of the threshold parameter γ on the graph of Weibull distribution?",
+        "Options": [
+            "a) graph shift to left or right",
+            "b) graph shifts up or down",
+            "c) height of the graph decreases",
+            "d) height of the graph increases",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 155,
+        "Question": "What is the mean time to failure if time to failure of a gadget follows Weibull distribution with scale = 1000 hours and shape = 0.5?",
+        "Options": [
+            "a) 2500 hours",
+            "b) 1500 hours",
+            "c) 3000 hours",
+            "d) 2000 hours",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 156,
+        "Question": "The mean time of failure is given by the equation __________",
+        "Options": [
+            "a) E(X) = Γ(1/ 2β + 1)",
+            "b) E(X) = Γ(1/ β + 1)",
+            "c) E(X) = Γ(1/ β + 2)",
+            "d) E(X) = Γ(2/ β + 1)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 157,
+        "Question": "The time to failure of an electric bulb follows a Weibull distribution with scale = 2000 hours and shape = 0.5. What is the probability that the electric bulb will last more than 4000 hours? What is the mean time to failure?",
+        "Options": [
+            "a) 25.3%",
+            "b) 24.3%",
+            "c) 26.3%",
+            "d) 27.3%",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 158,
+        "Question": "γ in Weibull distribution graph indicates _________",
+        "Options": [
+            "a) earliest time of failure",
+            "b) maximum time of failure",
+            "c) shape of the graph",
+            "d) scale of the graph",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 159,
+        "Question": "What does the central limit theorem state?",
+        "Options": [
+            "a) if the sample size increases sampling distribution must approach normal distribution",
+            "b) if the sample size decreases then the sample distribution must approach normal distribution",
+            "c) if the sample size increases then the sampling distribution much approach an exponential distribution",
+            "d) if the sample size decreases then the sampling distribution much approach an exponential distribution",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 160,
+        "Question": "The difference between the sample value expected and the estimates value of the parameter is called as?",
+        "Options": [
+            "a) bias",
+            "b) error",
+            "c) contradiction",
+            "d) difference",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 161,
+        "Question": "In which of the following types of sampling the information is carried out under the opinion of an expert?",
+        "Options": [
+            "a) quota sampling",
+            "b) convenience sampling",
+            "c) purposive sampling",
+            "d) judgement sampling",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 162,
+        "Question": "Which of the following is a subset of population?",
+        "Options": [
+            "a) distribution",
+            "b) sample",
+            "c) data",
+            "d) set",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 163,
+        "Question": "The sampling error is defined as?",
+        "Options": [
+            "a) difference between population and parameter",
+            "b) difference between sample and parameter",
+            "c) difference between population and sample",
+            "d) difference between parameter and sample",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 164,
+        "Question": "Any population which we want to study is referred as?",
+        "Options": [
+            "a) standard population",
+            "b) final population",
+            "c) infinite population",
+            "d) target population",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 165,
+        "Question": "Suppose we want to make a voters list for the general elections 2019 then we require __________",
+        "Options": [
+            "a) sampling error",
+            "b) random error",
+            "c) census",
+            "d) simple error",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 166,
+        "Question": "Selection of a football team for FIFA World Cup is called as?",
+        "Options": [
+            "a) random sampling",
+            "b) systematic sampling",
+            "c) purposive sampling",
+            "d) cluster sampling",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 167,
+        "Question": "A population has N items. Samples of size n are selected without replacement. Find the number of possible samples.",
+        "Options": [
+            "a) NCn",
+            "b) nCN",
+            "c) 2n",
+            "d) 2N",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 168,
+        "Question": "Find the number of all possible samples from a population containing 8 items from which 2 items are selected at random without replacement.",
+        "Options": [
+            "a) 56",
+            "b) 28",
+            "c) 66",
+            "d) 38",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 169,
+        "Question": "A bag contains 6 balls of different colours. A student selects 2 balls at random without replacement. Find all possible combinations of the colours of the selected balls.",
+        "Options": [
+            "a) 13",
+            "b) 14",
+            "c) 15",
+            "d) 16",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 170,
+        "Question": "Consider a population containing N items and n are selected as a sample with replacement. Find all the possible samples.",
+        "Options": [
+            "a) N",
+            "b) nN",
+            "c) NCn",
+            "d) Nn",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 171,
+        "Question": "A bag contains 6 pairs of socks. If 2 pairs of socks are selected at random with replacement then the number of possible samples is?",
+        "Options": [
+            "a) 6",
+            "b) 12",
+            "c) 36",
+            "d) 216",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 172,
+        "Question": "Find the sampling fraction where N is population size and n is the sample size?",
+        "Options": [
+            "a) n/N",
+            "b) NCn",
+            "c) nN",
+            "d) Nn",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 173,
+        "Question": "In a sampling distribution the population correction factor is given by?",
+        "Options": [
+            "a) (N-1/N-n)1/2",
+            "b) (N-n/N-1)1/2",
+            "c) (n-1/N-n)1/2",
+            "d) (N-1/n-1)1/2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 174,
+        "Question": "A population has 10 items and a sample has been selected from it containing 5 items. Find the finite population correction factor.",
+        "Options": [
+            "a) (5/8)1/2",
+            "b) (5/7)1/2",
+            "c) (5/9)1/2",
+            "d) (5/6)1/2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 175,
+        "Question": "Find the value of standard error Ẋ in a sampling distribution with replacement. Given that standard deviation of the population of 16 items is 8.",
+        "Options": [
+            "a) 3",
+            "b) 4",
+            "c) 2",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 176,
+        "Question": "If the mean of population is 29 then the mean of sampling distribution is __________",
+        "Options": [
+            "a) 29",
+            "b) 30",
+            "c) 21",
+            "d) 31",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 177,
+        "Question": "In systematic sampling, population is 240 and selected sample size is 60 then sampling interval is ________",
+        "Options": [
+            "a) 240",
+            "b) 60",
+            "c) 4",
+            "d) 0.25",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 178,
+        "Question": "The method of selecting a desirable portion from a population which describes the characteristics of whole population is called as ________",
+        "Options": [
+            "a) sampling",
+            "b) segregating",
+            "c) dividing",
+            "d) implanting",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 179,
+        "Question": "If the standard deviation of a population is 50 and the sample size is 16 then the standard deviation of the sampling distribution is ________",
+        "Options": [
+            "a) 11.25",
+            "b) 12.25",
+            "c) 13.25",
+            "d) 14.25",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 180,
+        "Question": "In sampling distribution what does the parameter k represents ________",
+        "Options": [
+            "a) Sub stage interval",
+            "b) Secondary interval",
+            "c) Multi stage interval",
+            "d) Sampling interval",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 181,
+        "Question": "If the distribution of sample and population changes then the mean of Sampling distribution must be equal to ________",
+        "Options": [
+            "a) standard deviation of population",
+            "b) variance of population",
+            "c) sample of population",
+            "d) mean of population",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 182,
+        "Question": "The cluster sampling, stratified sampling or systematic samplings are types of ________",
+        "Options": [
+            "a) direct sampling",
+            "b) indirect sampling",
+            "c) random sampling",
+            "d) non random sampling",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 183,
+        "Question": "Which of the following is classified as unknown or exact value that represents the whole population?",
+        "Options": [
+            "a) predictor",
+            "b) guider",
+            "c) parameter",
+            "d) estimator",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 184,
+        "Question": "A sample size is considered large in which of the following cases?",
+        "Options": [
+            "a) n > or = 30",
+            "b) n > or = 50",
+            "c) n < or = 30",
+            "d) n < or = 50",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 185,
+        "Question": "The selected clusters in a clustering sampling are known as ________",
+        "Options": [
+            "a) elementary units",
+            "b) primary units",
+            "c) secondary units",
+            "d) proportional units",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 186,
+        "Question": "The probability of selecting a sample containing n items from a population with N items without replacement in a Sampling Distribution is?",
+        "Options": [
+            "a) 1/NCn",
+            "b) 1/nCN",
+            "c) 1/2n",
+            "d) 1/2N",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 187,
+        "Question": "Find the number of all possible samples from a population containing 18 items from which 6 items are selected at random without replacement.",
+        "Options": [
+            "a) 18564",
+            "b) 15864",
+            "c) 20264",
+            "d) 21564",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 188,
+        "Question": "A pack of cards contains 52 cards. A player selects 4 cards at random without replacement. Find all possible combinations of the cards selected.",
+        "Options": [
+            "a) 207752",
+            "b) 270752",
+            "c) 270725",
+            "d) 207725",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 189,
+        "Question": "A population contains N items out of which n items are selected with replacement. Find the probability of the sample being selected.",
+        "Options": [
+            "a) 1/N",
+            "b) 1/nN",
+            "c) 1/NCn",
+            "d) 1/Nn",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 190,
+        "Question": "A box contains 26 pairs of napkins. If 3 pairs of napkins are selected at random with a replacement then the number of possible samples is _______",
+        "Options": [
+            "a) 17675",
+            "b) 17566",
+            "c) 17576",
+            "d) 17556",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 191,
+        "Question": "A sample was formed consisting of 8 students from a total of 56 students for certain task. Find the sampling fraction of the population of students.",
+        "Options": [
+            "a) 1/7",
+            "b) 7",
+            "c) 49",
+            "d) 1/49",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 192,
+        "Question": "Find the population proportion p for an IPL team having total 30 players with 10 overseas players.",
+        "Options": [
+            "a) 1/2",
+            "b) 1/3",
+            "c) 2/3",
+            "d) 1/4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 193,
+        "Question": "It is provided that for a sampling distribution E(X)=11 and ϕ=13. Find the bias in the sampling.",
+        "Options": [
+            "a) 2",
+            "b) 4",
+            "c) 6",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 194,
+        "Question": "Find the standard error of population proportion p for sampling with replacement. The population proportion is 0.5 and size of sample is 4.",
+        "Options": [
+            "a) 0.5",
+            "b) 0.25",
+            "c) 0.225",
+            "d) 0.375",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 195,
+        "Question": "Find the value of standard error Ẋ in a sampling distribution without replacement. Given that the standard deviation of the population of 100 items is 25.",
+        "Options": [
+            "a) 3",
+            "b) 4",
+            "c) 2",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 196,
+        "Question": "Test the hypothesis that the dice is unbiased (X2 = 11.7). Calculate the frequency observed for Chi Square distribution.",
+        "Options": [
+            "a) Dice is unbiased, 11.3",
+            "b) Dice is biased, 12.9",
+            "c) Dice is unbiased, 10.9",
+            "d) Dice is biased, 12.3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 197,
+        "Question": "Consider a set of 18 samples from a standard normal distribution. We square each sample and sum all the squares. The number of degrees of freedom for a Chi Square distribution will be?",
+        "Options": [
+            "a) 17",
+            "b) 18",
+            "c) 19",
+            "d) 20",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 198,
+        "Question": "What is the mean of a Chi Square distribution with 6 degrees of freedom?",
+        "Options": [
+            "a) 4",
+            "b) 12",
+            "c) 6",
+            "d) 8",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 199,
+        "Question": "Which Chi Square distribution looks the most like a normal distribution?",
+        "Options": [
+            "a) A Chi Square distribution with 4 degrees of freedom",
+            "b) A Chi Square distribution with 5 degrees of freedom",
+            "c) A Chi Square distribution with 6 degrees of freedom",
+            "d) A Chi Square distribution with 16 degrees of freedom",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 200,
+        "Question": "A bag contains 80 chocolates. This bag has 4 different colors of chocolates in it. If all four colors of chocolates were equally likely to be put in the bag, what would be the expected number of chocolates of each color?",
+        "Options": [
+            "a) 12",
+            "b) 11",
+            "c) 20",
+            "d) 9",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 201,
+        "Question": "Suppose a person has 8 red, 5 green, 12 orange, and 15 blue balls. Test the null hypothesis that the colors of the balls occur with equal frequency. What is the Chi Square value you get?",
+        "Options": [
+            "a) 5.6",
+            "b) 5.68",
+            "c) 5.86",
+            "d) 5.8",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 202,
+        "Question": "Infer or not the local option on the sale of liquor is dependent on individual drinker? Find the value of X2 for degrees of freedom at level of significance 3.841.",
+        "Options": [
+            "a) 0.957",
+            "b) 0.975",
+            "c) 0.759",
+            "d) 0.795",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 203,
+        "Question": "Which of these distributions is used for a testing hypothesis?",
+        "Options": [
+            "a) Normal Distribution",
+            "b) Chi-Squared Distribution",
+            "c) Gamma Distribution",
+            "d) Poisson Distribution",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 204,
+        "Question": "The mean of the f – distribution is equal to ___________",
+        "Options": [
+            "a)  v2 / (v2 – 2) for v2 > 2",
+            "b)  v2 / (v2 – 2)2 for v2 > 2",
+            "c)  v2 / (v2 – 2)3 for v2 > 2",
+            "d)  v2 / (v2 – 2)-1 for v2 > 2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 205,
+        "Question": "Which of the following distributions is Continuous?",
+        "Options": [
+            "a) Binomial Distribution",
+            "b) Hyper-geometric Distribution",
+            "c) F-Distribution",
+            "d) Poisson Distribution",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 206,
+        "Question": "Which of the following distributions is used to compare two variances?",
+        "Options": [
+            "a) T – Distribution",
+            "b) F – Distribution",
+            "c) Normal Distribution",
+            "d) Poisson Distribution",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 207,
+        "Question": "Find Variance for an F-Distribution with v1=5 and v2=9.",
+        "Options": [
+            "a) 1.587",
+            "b) 1.378",
+            "c) 1.578",
+            "d) 1.498",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 208,
+        "Question": "Calculate the value of f-statistic having a cumulative probability of 0.95.",
+        "Options": [
+            "a) 0.55",
+            "b) 0.5",
+            "c) 0.05",
+            "d) 0.05",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 209,
+        "Question": "Find the Expectation for a F- Distribution variable with v1 = 7 and  v2 =  8.",
+        "Options": [
+            "a) 4/7",
+            "b) 4/6",
+            "c) 4/3",
+            "d) 4/5",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 210,
+        "Question": "A statement made about a population for testing purpose is called?",
+        "Options": [
+            "a) Statistic",
+            "b) Hypothesis",
+            "c) Level of Significance",
+            "d) Test-Statistic",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 211,
+        "Question": "If the assumed hypothesis is tested for rejection considering it to be true is called?",
+        "Options": [
+            "a) Null Hypothesis",
+            "b) Statistical Hypothesis",
+            "c) Simple Hypothesis",
+            "d) Composite Hypothesis",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 212,
+        "Question": "A statement whose validity is tested on the basis of a sample is called?",
+        "Options": [
+            "a) Null Hypothesis",
+            "b) Statistical Hypothesis",
+            "c) Simple Hypothesis",
+            "d) Composite Hypothesis",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 213,
+        "Question": "A hypothesis which defines the population distribution is called?",
+        "Options": [
+            "a) Null Hypothesis",
+            "b) Statistical Hypothesis",
+            "c) Simple Hypothesis",
+            "d) Composite Hypothesis",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 214,
+        "Question": "If the null hypothesis is false then which of the following is accepted?",
+        "Options": [
+            "a) Null Hypothesis",
+            "b) Positive Hypothesis",
+            "c) Negative Hypothesis",
+            "d) Alternative Hypothesis.",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 215,
+        "Question": "The rejection probability of Null Hypothesis when it is true is called as?",
+        "Options": [
+            "a) Level of Confidence",
+            "b) Level of Significance",
+            "c) Level of Margin",
+            "d) Level of Rejection",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 216,
+        "Question": "The point where the Null Hypothesis gets rejected is called as?",
+        "Options": [
+            "a) Significant Value",
+            "b) Rejection Value",
+            "c) Acceptance Value",
+            "d) Critical Value",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 217,
+        "Question": "If the Critical region is evenly distributed then the test is referred as?",
+        "Options": [
+            "a) Two tailed",
+            "b) One tailed",
+            "c) Three tailed",
+            "d) Zero tailed",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 218,
+        "Question": "The type of test is defined by which of the following?",
+        "Options": [
+            "a) Null Hypothesis",
+            "b) Simple Hypothesis",
+            "c) Alternative Hypothesis",
+            "d) Composite Hypothesis",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 219,
+        "Question": " Which of the following is defined as the rule or formula to test a Null Hypothesis?",
+        "Options": [
+            "a) Test statistic",
+            "b) Population statistic",
+            "c) Variance statistic",
+            "d) Null statistic",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 220,
+        "Question": "Consider a hypothesis H0 where ϕ0 = 5 against H1 where ϕ1 > 5. The test is?",
+        "Options": [
+            "a) Right tailed",
+            "b) Left tailed",
+            "c) Center tailed",
+            "d) Cross tailed",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 221,
+        "Question": "Consider a hypothesis where H0 where ϕ0 = 23 against H1 where ϕ1 < 23. The test is?",
+        "Options": [
+            "a) Right tailed",
+            "b) Left tailed",
+            "c) Center tailed",
+            "d) Cross tailed",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 222,
+        "Question": "Type 1 error occurs when?",
+        "Options": [
+            "a) We reject H0 if it is True",
+            "b) We reject H0 if it is False",
+            "c) We accept H0 if it is True",
+            "d) We accept H0 if it is False",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 223,
+        "Question": "The probability of Type 1 error is referred as?",
+        "Options": [
+            "a) 1-α",
+            "b) β",
+            "c) α",
+            "d) 1-β",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 224,
+        "Question": "Alternative Hypothesis is also called as?",
+        "Options": [
+            "a) Composite hypothesis",
+            "b) Research Hypothesis",
+            "c) Simple Hypothesis",
+            "d) Null Hypothesis",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 225,
+        "Question": "What is the assumption made for performing the hypothesis test with T distribution?",
+        "Options": [
+            "a) the distribution is non-symmetric",
+            "b) the distribution has more than one modal class",
+            "c) the distribution has a constant variance",
+            "d) the distribution follows a normal distribution",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 226,
+        "Question": "If a hypothesis is rejected at 0.6 Level of Significance then ______________",
+        "Options": [
+            "a) it will be rejected at any level",
+            "b) it must be rejected at 0.5 level",
+            "c) it may be rejected at 0.5 level",
+            "d) it cannot be rejected at 0.5 level",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 227,
+        "Question": "In a two tailed test when a Null Hypothesis is rejected for a True Alternative Hypothesis then it has ____________",
+        "Options": [
+            "a) Type 1 error",
+            "b) Type 2 error",
+            "c) No error",
+            "d) Many errors",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 228,
+        "Question": "In a hypothesis test, what does the p value signify?",
+        "Options": [
+            "a) smallest level of significance for rejection of Null Hypothesis",
+            "b) largest level of significance for rejection of Null Hypothesis",
+            "c) smallest level of significance for acceptance of Null Hypothesis",
+            "d) smallest level of significance for acceptance of Null Hypothesis",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 229,
+        "Question": "A Null Hypothesis has Level of Significance 9%. For what values of Level of Significances it will be rejected?",
+        "Options": [
+            "a) 0.99",
+            "b) 0.009",
+            "c) 0.099",
+            "d) 0.9",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 230,
+        "Question": "Consider a trial of a criminal. If a type 1 error has occurred in thee judgement then which of the following statement is true?",
+        "Options": [
+            "a) a guilty person is set free",
+            "b) an innocent person is convicted",
+            "c) a guilty person is convicted",
+            "d) an innocent person is set free",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 231,
+        "Question": "If a Null Hypothesis is accepted then the value of Test statistic lies in the ____________",
+        "Options": [
+            "a) Acceptance region",
+            "b) Rejection region",
+            "c) Critical region",
+            "d) Sample region",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 232,
+        "Question": "The Test Statistic for a Hypothesis testing is given by the formula ____________",
+        "Options": [
+            "a) Sample-Population/Standard Error",
+            "b) Sample statistic-Parameter/Standard Error",
+            "c) Sample mean-Population mean/Population standard deviation",
+            "d) Statistic-E(statistic)/Variance",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 233,
+        "Question": "The range of Level of Significance lies between ____________",
+        "Options": [
+            "a) -∞ and 0",
+            "b) -∞ and ∞",
+            "c) 0 and ∞",
+            "d) 0 and 1",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 234,
+        "Question": "The effect of rejection of a hypothesis with decrease in sample size ____________",
+        "Options": [
+            "a) decreases",
+            "b) increases",
+            "c) remains constant",
+            "d) fluctuates",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 235,
+        "Question": "The composite hypothesis holds true when?",
+        "Options": [
+            "a) ϕ > ϕ0",
+            "b) ϕ < ϕ0",
+            "c) ϕ = ϕ0",
+            "d) ϕ >> ϕ0",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 236,
+        "Question": "A paired T test consists of n pairs of observations. What is the number of degrees of freedom of the test?",
+        "Options": [
+            "a) 2n-1",
+            "b) 2n",
+            "c) n-1",
+            "d) n",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 237,
+        "Question": "Which of the following represents the Confidence coefficient?",
+        "Options": [
+            "a) 1-α",
+            "b) β",
+            "c) 1-β",
+            "d) α",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 238,
+        "Question": "The independent values in a set of values of a test is called as?",
+        "Options": [
+            "a) Degrees of freedom",
+            "b) Test Statistic",
+            "c) Level of Significance",
+            "d) Level of Confidence",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 239,
+        "Question": "A T-test sample has 7 pairs of samples. The distribution should contain ____________",
+        "Options": [
+            "a) 16 degrees of freedom",
+            "b) 15 degrees of freedom",
+            "c) 5 degrees of freedom",
+            "d) 6 degrees of freedom",
+            ""
+        ],
+        "Answer": "Answer: d"
+    }
+]

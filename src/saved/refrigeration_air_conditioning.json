@@ -1,0 +1,5678 @@
+[
+    {
+        "id": 1,
+        "Question": "At what K is the triple point of water?",
+        "Options": [
+            "a) 0 K",
+            "b) 4 K",
+            "c) 273.16 K",
+            "d) -273.16",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 2,
+        "Question": "What is the relation between Celsius and Fahrenheit scale?",
+        "Options": [
+            "a) \\(\\frac{C}{9} = \\frac{F-32}{5}\\) ",
+            "b) \\(\\frac{C}{5} = \\frac{F-32}{9}\\) ",
+            "c) \\(\\frac{C}{32} = \\frac{F-32}{5}\\) ",
+            "d) \\(\\frac{C}{5} = \\frac{F-9}{32}\\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 3,
+        "Question": "What does 298 Kelvin mean on Celsius scale?",
+        "Options": [
+            "a) 27 C",
+            "b) 25 C",
+            "c) 15 C",
+            "d) 35 C",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 4,
+        "Question": "What is the value of 110 C on the Fahrenheit scale?",
+        "Options": [
+            "a) 198 F",
+            "b) 383 F",
+            "c) – 73 F",
+            "d) 230 F",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 5,
+        "Question": "1 Pascal = 1 _____",
+        "Options": [
+            "a) N/mm2",
+            "b) N/m3",
+            "c) N/m2",
+            "d) N/mm3",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 6,
+        "Question": "1 Bar = ______",
+        "Options": [
+            "a) 1×105 N/m2",
+            "b) 1×109 N/m2",
+            "c) 1×105 N/mm2",
+            "d) 1×106 N/m2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 7,
+        "Question": "1 Bar = ______ mm of Hg.",
+        "Options": [
+            "a) 100",
+            "b) 720",
+            "c) 760",
+            "d) 360",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 8,
+        "Question": "What is absolute zero temperature?",
+        "Options": [
+            "a) 0 C",
+            "b) 273 C",
+            "c) -273 K",
+            "d) -273 C",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 9,
+        "Question": "What are the temperature and pressure for S.T.P. (Standard Temperature Pressure)?",
+        "Options": [
+            "a) 0 C, 1 bar",
+            "b) 273 C, 15 bar",
+            "c) 288 K, 1 bar",
+            "d) 273 K, 1 bar",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 10,
+        "Question": "What are the temperature and pressure for N.T.P. (Normal Temperature Pressure)?",
+        "Options": [
+            "a) 0 C, 1 bar",
+            "b) 273 C, 15 bar",
+            "c) 288 K, 1 bar",
+            "d) 273 K, 1 bar",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 11,
+        "Question": "What does 1 Tonne (TR) in refrigeration mean?",
+        "Options": [
+            "a) Weight of gases",
+            "b) Weight of coolant",
+            "c) Capacity of 1 tonne air to be cooled to 0 C in 24 hours",
+            "d) Capacity of 1 tonne water to be cooled to 0 C in 24 hours",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 12,
+        "Question": "1 Tonne = ______ KJ/s.",
+        "Options": [
+            "a) 2.67",
+            "b) 1.087",
+            "c) 3.5",
+            "d) 232.6",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 13,
+        "Question": "Which is the S.I. unit to measure pressure in refrigeration?",
+        "Options": [
+            "a) Newton",
+            "b) Joule",
+            "c) Pascal",
+            "d) Bar",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 14,
+        "Question": "0 Kelvin = ____ Celsius.",
+        "Options": [
+            "a) -273 C",
+            "b) 273 C",
+            "c) -273 K",
+            "d) 0 C",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 15,
+        "Question": "The heat removing capacity of one tonne refrigeration is equal to?",
+        "Options": [
+            "a) 210 KJ/min",
+            "b) 620 KJ/min",
+            "c) 240 KJ/min",
+            "d) 430 KJ/min",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 16,
+        "Question": "What does 35 Celsius (C) mean on Kelvin scale (K)?",
+        "Options": [
+            "a) 350",
+            "b) 135",
+            "c) 308",
+            "d) 298",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 17,
+        "Question": "What is S.I. unit of refrigeration?",
+        "Options": [
+            "a) J/min",
+            "b) KJ/s",
+            "c) KWh",
+            "d) Kg/s",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 18,
+        "Question": "1 N/mm2 = _____ mm of Hg (mercury).",
+        "Options": [
+            "a) 1",
+            "b) 256",
+            "c) 760",
+            "d) 720",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 19,
+        "Question": "What is the S.I. unit required to measure the work done in refrigeration is?",
+        "Options": [
+            "a) Joule/kg",
+            "b) KJ/kg",
+            "c) Joule/m. s",
+            "d) Joule/s",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 20,
+        "Question": "What is the term C.O.P. referred in terms of refrigeration?",
+        "Options": [
+            "a) Capacity of Performance",
+            "b) Co-efficient of Plant",
+            "c) Co-efficient of Performance",
+            "d) Cooling for Performance",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 21,
+        "Question": "C.O.P. can be expressed by which equation?",
+        "Options": [
+            "a) \\(\\frac{Work \\,Done}{Refrigeration \\,effect}\\) ",
+            "b) \\(\\frac{Refrigeration \\,effect}{Work \\,Done}\\) ",
+            "c) \\(\\frac{Work\\, Done}{Heat \\,Transfer}\\) ",
+            "d) \\(\\frac{Heat \\,Transfer}{Work \\,Done}\\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 22,
+        "Question": "What is the term relative C.O.P. referred in terms of refrigeration?",
+        "Options": [
+            "a) \\(\\frac{Actual \\,C.O.P.}{Theoretical \\,C.O.P.}\\) ",
+            "b) \\(\\frac{Theoretical \\,C.O.P.}{Actual \\,C.O.P.}\\) ",
+            "c) \\(\\frac{Actual \\,C.O.P.}{Average \\,C.O.P.}\\) ",
+            "d) \\(\\frac{Average \\,C.O.P.}{Theoretical \\,C.O.P.}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 23,
+        "Question": "Find the C.O.P. of a refrigeration system if the work input is 40 KJ/kg and refrigeration effect produced is 130 KJ/kg of refrigerant flowing.",
+        "Options": [
+            "a) 3.00",
+            "b) 2.25",
+            "c) 3.75",
+            "d) 3.25",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 24,
+        "Question": "Find the Relative C.O.P. of a refrigeration system if the work input is 60 KJ/kg and refrigeration effect produced is 130 KJ/kg of refrigerant flowing. Also Theoretical C.O.P. is 3.",
+        "Options": [
+            "a) 0.65",
+            "b) 0.79",
+            "c) 0.72",
+            "d) 0.89",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 25,
+        "Question": "Find the C.O.P. of a refrigeration system if the work input is 30 KJ/kg and refrigeration effect produced is 120 KJ/kg of refrigerant flowing.",
+        "Options": [
+            "a) 3.00",
+            "b) 4.00",
+            "c) 0.75",
+            "d) 0.25",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 26,
+        "Question": "Which equation represents efficiency in general?",
+        "Options": [
+            "a) \\(\\frac{Work \\,Done}{Refrigeration \\,effect}\\) ",
+            "b) \\(\\frac{Heat \\,Trasfer}{Work \\,Done}\\) ",
+            "c) \\(\\frac{Work\\, Done}{Heat \\,Transfer}\\) ",
+            "d) \\(\\frac{Refrigeration \\,effect}{Work \\,Done}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 27,
+        "Question": "The Co-efficient of Performance is always __________",
+        "Options": [
+            "a) greater than 1",
+            "b) less than 1",
+            "c) equal to 1",
+            "d) zero",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 28,
+        "Question": "In a refrigerating machine, if the lower temperature is fixed, then the C.O.P. of machine can be increased by?",
+        "Options": [
+            "a) Increasing the higher temperature",
+            "b) Decreasing the higher temperature",
+            "c) Operating the machine at lower speed",
+            "d) Operating the machine at higher speed",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 29,
+        "Question": "The reverse Carnot cycle C.O.P. can be expressed as _________ (Where t1 is the lower temperature and t2 is the higher temperature).",
+        "Options": [
+            "a) \\(\\frac{t1-t2}{t2}\\) ",
+            "b) \\(\\frac{t2-t1}{t2}\\) ",
+            "c) \\(\\frac{t2-t1}{t1-t2}\\) ",
+            "d) \\(\\frac{t2-t1}{t1}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 30,
+        "Question": "If a condenser and evaporator temperatures are 120 K and 60 K respectively, then reverse Carnot C.O.P is _________",
+        "Options": [
+            "a) 0.5",
+            "b) 1",
+            "c) 3",
+            "d) 2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 31,
+        "Question": "The C.O.P. of reverse Carnot cycle is most strongly dependent on which of the following?",
+        "Options": [
+            "a) Evaporator temperature",
+            "b) Condenser temperature",
+            "c) Specific heat",
+            "d) Refrigerant",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 32,
+        "Question": "If a condenser and evaporator temperatures are 312 K and 273 K respectively, then reverse Carnot C.O.P is _________",
+        "Options": [
+            "a) \\(\\frac{1}{5}\\) ",
+            "b) \\(\\frac{1}{6}\\) ",
+            "c) \\(\\frac{1}{7}\\) ",
+            "d) \\(\\frac{1}{8}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 33,
+        "Question": "The C.O.P for reverse Carnot refrigerator is 2. The ratio of lowest temperature to highest temperature will be _____",
+        "Options": [
+            "a) twice",
+            "b) half",
+            "c) four times",
+            "d) three times",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 34,
+        "Question": "If a condenser and evaporator temperatures are 250 K and 100 K respectively, then reverse Carnot C.O.P is _________",
+        "Options": [
+            "a) 5.5",
+            "b) 1.5",
+            "c) 2.5",
+            "d) 3.0",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 35,
+        "Question": "Efficiency of the Refrigerator is _________ to the C.O.P of refrigerator.",
+        "Options": [
+            "a) inversely proportional",
+            "b) equal",
+            "c) independent",
+            "d) directly proportional",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 36,
+        "Question": "What is the C.O.P. of a refrigeration system if the work input is 40 KJ/kg and work output is 80 KJ/kg and refrigeration effect produced is 130 KJ/kg of refrigerant flowing.",
+        "Options": [
+            "a) 3.00",
+            "b) 3.25",
+            "c) 2.25",
+            "d) 3.75",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 37,
+        "Question": "Find the Relative C.O.P. of a refrigeration system if the work input is 100 KJ/kg and refrigeration effect produced is 250 KJ/kg of refrigerant flowing. Also Theoretical C.O.P. is 3.",
+        "Options": [
+            "a) 0.65",
+            "b) 0.80",
+            "c) 0.83",
+            "d) 0.91",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 38,
+        "Question": "If a condenser and evaporator temperatures are 225 K and 100 K respectively, then reverse Carnot C.O.P is _________",
+        "Options": [
+            "a) 0.5",
+            "b) 1.5",
+            "c) 1.25",
+            "d) 1.75",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 39,
+        "Question": "If a condenser and evaporator temperatures are 312 K and X K respectively, and C.O.P. is given as 5 then find the value of X.",
+        "Options": [
+            "a) 52",
+            "b) 65",
+            "c) 78",
+            "d) 82",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 40,
+        "Question": "The C.O.P for reverse Carnot refrigerator is 6. The ratio of lowest temperature to highest temperature will be _____",
+        "Options": [
+            "a) twice",
+            "b) three times",
+            "c) four times",
+            "d) seven times",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 41,
+        "Question": "In general the ratio of lowest to highest temperature with respect to C.O.P. can be denoted by _________",
+        "Options": [
+            "a) C.O.P + 1 = Ratio of temperature",
+            "b) C.O.P/2 = Ratio of temperature",
+            "c) C.O.P + 4 = Ratio of temperature",
+            "d) C.O.P + 2 = Ratio of temperature",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 42,
+        "Question": "The C.O.P for reverse Carnot refrigerator is 2. The ratio of highest temperature to lowest temperature will be _____",
+        "Options": [
+            "a) 4 times",
+            "b) 3 times",
+            "c) 1/2 times",
+            "d) 1/3 times",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 43,
+        "Question": "The C.O.P of a reverse Carnot cycle doesn’t depend on which of the following?",
+        "Options": [
+            "a) Moisture",
+            "b) Evaporator temperature",
+            "c) Condenser temperature",
+            "d) Work done",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 44,
+        "Question": "If a condenser and evaporator temperatures are ‘X’ K and 100 K respectively, and reverse Carnot C.O.P is 2.5 then find out the ‘X’.",
+        "Options": [
+            "a) 100 K",
+            "b) 150 K",
+            "c) 350 K",
+            "d) 200 K",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 45,
+        "Question": "Which of the following can be called as a refrigeration process?",
+        "Options": [
+            "a) Cooling of hot ingot from 1000 C to room temperature",
+            "b) Cooling of a pot of water by mixing it with a large block of ice",
+            "c) Cooling in rooms using a ceiling fan",
+            "d) Cooling of hot water by mixing it with tap water",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 46,
+        "Question": "What is the main disadvantage of natural refrigeration methods?",
+        "Options": [
+            "a) They are expensive",
+            "b) They are poisonous",
+            "c) They are not environment friendly",
+            "d) They are dependent on local conditions",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 47,
+        "Question": "For what condition, evaporative cooling system is ideal?",
+        "Options": [
+            "a) Hot and Dry",
+            "b) Hot and Humid",
+            "c) Cold and Humid",
+            "d) Moderate Hot but Humid",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 48,
+        "Question": "Compared to natural refrigeration methods, artificial refrigeration methods are________",
+        "Options": [
+            "a) dis-continuous",
+            "b) not reliable",
+            "c) continuous",
+            "d) environment friendly",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 49,
+        "Question": "What is the main function of an expansion valve?",
+        "Options": [
+            "a) Reduce the refrigerant pressure",
+            "b) Maintain high and low side pressures",
+            "c) Protect evaporator",
+            "d) Control the velocity of flow of refrigerants",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 50,
+        "Question": "In a domestic icebox type refrigerator, the ice block is kept at the top because __________",
+        "Options": [
+            "a) it is easy for the user to operate",
+            "b) disposal of water is easier",
+            "c) hot air can be easily removed from the top",
+            "d) cold air can flow down due to buoyancy effect",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 51,
+        "Question": "Why are vapour absorption system better than compression system?",
+        "Options": [
+            "a) Uses low grade thermal energy",
+            "b) Uses no energy",
+            "c) Uses refined petroleum energy to produce least pollution",
+            "d) Uses high grade thermal energy",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 52,
+        "Question": "In a triple fluid vapour absorption refrigeration system, why is the hydrogen gas used?",
+        "Options": [
+            "a) Improve system performance",
+            "b) Reduce the partial pressure of vapour in the evaporator",
+            "c) Calculate the refrigerant",
+            "d) Provide the vapour seal",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 53,
+        "Question": "Why low temperature refrigeration is produced in an air standard refrigeration system?",
+        "Options": [
+            "a) Evaporation of liquid air",
+            "b) Throttling of air",
+            "c) Expansion of air in turbine",
+            "d) Condensing of air",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 54,
+        "Question": "The required input to the steam jet refrigeration systems is in the form of?",
+        "Options": [
+            "a) Mechanical energy",
+            "b) Thermal energy",
+            "c) High pressure, motive steam",
+            "d) Both mechanical and thermal",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 55,
+        "Question": "What is the common application of Air standard refrigeration system?",
+        "Options": [
+            "a) Domestic refrigerators",
+            "b) Aircraft air conditioning",
+            "c) Cold storage",
+            "d) Car air conditioning system",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 56,
+        "Question": "Why is a nozzle used in a steam jet refrigeration system?",
+        "Options": [
+            "a) To convert the high pressure motive steam into high velocity steam",
+            "b) To reduce energy consumption",
+            "c) To improve safety aspects",
+            "d) To improve thermal conductivity",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 57,
+        "Question": "Which properties are essential for thermoelectric refrigeration?",
+        "Options": [
+            "a) High electrical and thermal conductivity",
+            "b) Low electrical and thermal conductivity",
+            "c) Low electrical conductivity and high thermal conductivity",
+            "d) High electrical conductivity and low thermal conductivity",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 58,
+        "Question": "Why is fast freezing done in various products ?",
+        "Options": [
+            "a) To reduce the cell damage due to ice crystal growth.",
+            "b) To reduce energy consumption of refrigerator",
+            "c) To reduce the bacterial activity",
+            "d) To save time",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 59,
+        "Question": "In a refrigerating machine, heat rejected is ________ the heat absorbed.",
+        "Options": [
+            "a) equal to",
+            "b) less than",
+            "c) in unity with",
+            "d) greater than",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 60,
+        "Question": "What is NOT one of the advantages of using closed Air Refrigeration system?",
+        "Options": [
+            "a) Lighter in weight",
+            "b) Compact in construction",
+            "c) Environmental Friendly",
+            "d) Lower co-efficient of performance",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 61,
+        "Question": "Reduction in operating pressure in the Air refrigeration cycle results in _________",
+        "Options": [
+            "a) increase in C.O.P.",
+            "b) decrease in C.O.P.",
+            "c) no change in C.O.P.",
+            "d) always decreases",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 62,
+        "Question": "How is the refrigerant used in the Air refrigeration cycle?",
+        "Options": [
+            "a) In the condenser",
+            "b) In the compressor",
+            "c) Directly in contact",
+            "d) Not used at all",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 63,
+        "Question": "For a standard system with temperatures T1 and T2, where T1 < Ta < T2 (Ta – Atmospheric Temperature). Q1 is the heat extracted from a body at temperature T1, and Q2 is heat delivered to the body at temperature T2. What is the C.O.P. of the heat pump for given conditions?",
+        "Options": [
+            "a) Q2 / (Q2 − Q1)",
+            "b) (Q2 − Q1) / Q1",
+            "c) (Q2 − Q1) / Q2",
+            "d) Q1 / (Q2 − Q1)",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 64,
+        "Question": "What is the difference between Heat Pump and Refrigerator?",
+        "Options": [
+            "a) Heat Pump Gives efficiency and refrigerator gives C.O.P.",
+            "b) Both are similar",
+            "c) Both are almost similar, just the desired effect is different",
+            "d) Work is output in refrigerator and work is input in heat pump",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 65,
+        "Question": "What is the equation between efficiency of Heat engine and C.O.P. of heat pump?",
+        "Options": [
+            "a) ηE = (C.O.P.)P",
+            "b) ηE = 1 / (C.O.P.)P",
+            "c) ηE / (C.O.P.)P = 1",
+            "d) ηE x (C.O.P.)P = 0",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 66,
+        "Question": "How is the Relative coefficient of performance represented?",
+        "Options": [
+            "a) Theoretical C.O.P. / Actual C.O.P.",
+            "b) Actual C.O.P. / Theoretical C.O.P.",
+            "c) Theoretical C.O.P. x Actual C.O.P.",
+            "d) 1 / Theoretical C.O.P. x Actual C.O.P.",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 67,
+        "Question": "C.O.P. of the heat pump is always _____",
+        "Options": [
+            "a) one",
+            "b) less than One",
+            "c) greater than One",
+            "d) zero",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 68,
+        "Question": "For the systems working on reversed Carnot cycle, what is the relation between C.O.P. of Refrigerator i.e. (C.O.P.)R and Heat Pump i.e. (C.O.P)P?",
+        "Options": [
+            "a) (C.O.P.)R + (C.O.P)P = 1",
+            "b) (C.O.P.)R = (C.O.P)P",
+            "c) (C.O.P.)R = (C.O.P)P – 1",
+            "d) (C.O.P.)R + (C.O.P)P + 1 = 0",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 69,
+        "Question": "If the reversed Carnot cycle operating as a heat pump between temperature limits of 364 K and 294 K, then what is the value of C.O.P?",
+        "Options": [
+            "a) 4.2",
+            "b) 0.19",
+            "c) 5.2",
+            "d) 0.23",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 70,
+        "Question": "A reversed Carnot cycle is operating between temperature limits of (-) 33°C and (+) 27°C. If it acts as a heat engine gives an efficiency of 20%. What is the value of C.O.P. of a heat pump operating under the same conditions?",
+        "Options": [
+            "a) 6.5",
+            "b) 8",
+            "c) 5",
+            "d) 2.5",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 71,
+        "Question": "If the coefficient of performance of the refrigerator is 4.67, then what is the value of the coefficient of performance of the heat pump operating under the same conditions?",
+        "Options": [
+            "a) 3.67",
+            "b) 5.67",
+            "c) 0.214",
+            "d) 9.34",
+            ""
+        ],
+        "Answer": " Answer: b"
+    },
+    {
+        "id": 72,
+        "Question": "A heat pump is used to maintain a hall at 30°C when the atmospheric temperature is 15°C. The heat loss from the hall is 1200 kJ/min. Calculate the power required to run the heat pump if its C.O.P. is 40% of the Carnot machine working between the same temperature limits.",
+        "Options": [
+            "a) 0.495",
+            "b) 4.04",
+            "c) 0.247",
+            "d) 8.08",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 73,
+        "Question": "A heat pump which runs (1/3)rd of time removes on an average 2400 kJ/hr of heat. If power consumed is 0.25 kW, what is the value of the C.O.P.?",
+        "Options": [
+            "a) 4",
+            "b) 2",
+            "c) 8",
+            "d) 6",
+            ""
+        ],
+        "Answer": " Answer: c"
+    },
+    {
+        "id": 74,
+        "Question": "C.O.P. of the refrigerator is always __________ the C.O.P. of the heat pump when both are working between the same temperature limits.",
+        "Options": [
+            "a) less than",
+            "b) greater than",
+            "c) equal to",
+            "d) inverse of",
+            ""
+        ],
+        "Answer": " Answer: a"
+    },
+    {
+        "id": 75,
+        "Question": "What is the coefficient of performance of the refrigerant system working on reversed Carnot cycle, having Qa as heat absorbed by the air during isothermal expansion per kg of air and Qr as heat rejected during isothermal compression per kg of air?",
+        "Options": [
+            "a) COP=\\(\\frac{Q_a}{(Q_r – Q_a)}\\) ",
+            "b) COP=\\(\\frac{Q_r}{(Q_r – Q_a)}\\) ",
+            "c) COP=\\(\\frac{Q_a}{(Q_r + Q_a)}\\) ",
+            "d) COP=\\(\\frac{Q_a}{(Q_a – Q_r)}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 76,
+        "Question": "The COP of refrigerator may be improved by _________",
+        "Options": [
+            "a) decreasing the higher (T2) as well as the lower (T1) temperature",
+            "b) decreasing the higher (T2) temperature and increasing the lower (T1) temperature",
+            "c) increasing the higher (T2) as well as the lower (T1) temperature",
+            "d) keeping the higher (T2) temperature the same while decreasing the lower (T1) temperature",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 77,
+        "Question": "What happens to the COP of a Carnot refrigerator in summer and in winter?",
+        "Options": [
+            "a) The COP is more in winter",
+            "b) The COP is more in summer",
+            "c) The COP remains unaffected",
+            "d) The COP fluctuates continuously during winter and summer",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 78,
+        "Question": "A refrigerating machine working on Carnot cycle operates between 300K and 250K. Determine the COP.",
+        "Options": [
+            "a) 5",
+            "b) 6",
+            "c) 4",
+            "d) 10",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 79,
+        "Question": "The COPr of a Carnot refrigerating machine is 7.89. What will be the COPp of heat pump?",
+        "Options": [
+            "a) 10.3",
+            "b) 7.89",
+            "c) 8.89",
+            "d) 6.89",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 80,
+        "Question": "Which one is not a limitation of the Carnot cycle with air or gas as refrigerant?",
+        "Options": [
+            "a) It has low efficiency when working between two fixed temperature limits",
+            "b) Machine has to run at high and low speeds during adiabatic and isothermal process. Such variation of speed is not possible",
+            "c) Extreme pressure and large volume are developed",
+            "d) It is not possible to carry out isothermal heat transfer process in practice",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 81,
+        "Question": "What is the COP of a refrigerator when it’s refrigerating effect R is 6.2755 KW and work consumed is 0.82 KW?",
+        "Options": [
+            "a) 8.8",
+            "b) 6.77",
+            "c) 7.65",
+            "d) 8.56",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 82,
+        "Question": "Out of the following reasons which one is responsible for Carnot cycle not being used in practice?",
+        "Options": [
+            "a) It gives low COP",
+            "b) It gives high refrigeration effect",
+            "c) It gives low refrigeration effect",
+            "d) It has low theoretical efficiency",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 83,
+        "Question": "If a refrigeration system having T1 and T2 as lower and higher temperatures respectively then, what is the value of C.O.P of the refrigeration system working on the reversed Carnot cycle?",
+        "Options": [
+            "a) T2 / (T2 − T1)",
+            "b) (T2 − T1) / T1",
+            "c) (T2 − T1) / T2",
+            "d) T1 / (T2 − T1)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 84,
+        "Question": "In a refrigerating machine working on the reversed Carnot cycle, if the lower temperature is fixed, then what can be done to increase the C.O.P.?",
+        "Options": [
+            "a) Increasing higher temperature",
+            "b) Operating machine at higher speed",
+            "c) Decreasing higher temperature",
+            "d) Operating machine at a lower speed",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 85,
+        "Question": "If the condenser and evaporator temperatures are 320 K and 240 K respectively, then what is the value of the C.O.P.?",
+        "Options": [
+            "a) 0.25",
+            "b) 4",
+            "c) 0.33",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 86,
+        "Question": "The efficiency of Carnot heat engine is 40%. What is the value of C.O.P. of a refrigerator operating on reversed Carnot cycle?",
+        "Options": [
+            "a) 2.5",
+            "b) 1.5",
+            "c) 4",
+            "d) 10",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 87,
+        "Question": "The C.O.P. of a reversed Carnot refrigerator is 5. What is the ratio of highest temperature to lower temperature?",
+        "Options": [
+            "a) −1.2",
+            "b) 0.8",
+            "c) 1.2",
+            "d) −0.8",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 88,
+        "Question": "For the systems working on reversed Carnot cycle, what is the relation between C.O.P. of Refrigerator i.e. (C.O.P.)R and Heat Pump i.e. (C.O.P.)P?",
+        "Options": [
+            "a) (C.O.P.)R + (C.O.P.)P = 1",
+            "b) (C.O.P.)R = (C.O.P.)P",
+            "c) (C.O.P.)R = (C.O.P.)P − 1",
+            "d) (C.O.P.)R + (C.O.P.)P + 1 = 0",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 89,
+        "Question": "If the reversed Carnot cycle operating as a refrigerator between temperature limits of 405 K and 255 K, then what is the value of C.O.P.?",
+        "Options": [
+            "a) 2.7",
+            "b) 0.588",
+            "c) 1.7",
+            "d) 0.370",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 90,
+        "Question": "A reversed Carnot cycle is operating between temperature limits of 272 K and (+) 49°C. If it acts as a heat engine gives an efficiency of 15.52%. What is the value of C.O.P. of a refrigerator operating under the same conditions?",
+        "Options": [
+            "a) 6.44",
+            "b) 0.1838",
+            "c) 5.44",
+            "d) 2",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 91,
+        "Question": "If the Coefficient of performance of a heat pump is 5, then what is the value of the Coefficient of performance of the refrigerator operating under the same conditions?",
+        "Options": [
+            "a) 4",
+            "b) 6",
+            "c) 0.2",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 92,
+        "Question": "C.O.P. of the refrigerator is always _____ the C.O.P. of the heat pump when both are working between the same temperature limits.",
+        "Options": [
+            "a) less than",
+            "b) greater than",
+            "c) equal to",
+            "d) inverse of",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 93,
+        "Question": "Two refrigerators M and N operate in series. The refrigerator M absorbs energy at the rate of 1 kW from a body at temperature 400 K and rejects energy as heat to a body at a temperature T. The refrigerator N absorbs the same quantity of energy which is rejected by the refrigerator N from the body at temperature T, and rejects energy as heat to a body at temperature 800 K. If both the refrigerators have the same C.O.P., what is the value temperature T?",
+        "Options": [
+            "a) 600 K",
+            "b) 200 K",
+            "c) 565.68 K",
+            "d) 459.21 K",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 94,
+        "Question": "A refrigerator works on a reversed Carnot cycle. The Coefficient of performance is 3.5. If the capacity of the refrigerator is 6 TR. Find out the power required to run the refrigerator.",
+        "Options": [
+            "a) 5 kW",
+            "b) 3.5 kW",
+            "c) 360 kJ/min",
+            "d) 520 kJ/min",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 95,
+        "Question": "A refrigerator works on a reversed Carnot cycle. The Coefficient of performance is 7. If the capacity of the refrigerator is 12 TR. What is the value of heat rejected from the system?",
+        "Options": [
+            "a) 46 kW",
+            "b) 50 kW",
+            "c) 42 kJ/min",
+            "d) 48 kJ/min",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 96,
+        "Question": "Bell-Coleman cycle is also known as _____________",
+        "Options": [
+            "a) Carnot cycle",
+            "b) Reversed Brayton or Joule’s cycle",
+            "c) Rankine cycle",
+            "d) Otto cycle",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 97,
+        "Question": "In transport aviation, the air conditioning systems are based on ______ cycle.",
+        "Options": [
+            "a) Reversed Carnot cycle",
+            "b) Reversed Brayton cycle",
+            "c) Reversed Joule’s cycle",
+            "d) Otto cycle",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 98,
+        "Question": "Which one of the following is not a true disadvantage of the Bell-Coleman cycle?",
+        "Options": [
+            "a) High running cost",
+            "b) Low COP",
+            "c) The danger of frosting at the expander valve is more",
+            "d) The size of the system is small",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 99,
+        "Question": "Which one of the following is not a true advantage of the Bell-Coleman cycle?",
+        "Options": [
+            "a) Air is used a refrigerant which is easily available",
+            "b) It is safe as air is non-inflammable",
+            "c) Air is nontoxic, non-corrosive and stable",
+            "d) Weight of air refrigeration equipment per ton of refrigeration is much more in aircraft than other refrigeration systems",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 100,
+        "Question": "The Bell-Coleman refrigeration cycle uses _____ as refrigerant.",
+        "Options": [
+            "a) Coolant",
+            "b) CO2",
+            "c) Air",
+            "d) H2O",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 101,
+        "Question": "Which one of the following is not a component of a simple air cooling system?",
+        "Options": [
+            "a) Main compressor",
+            "b) Cooling fan",
+            "c) Heat exchanger",
+            "d) Generator",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 102,
+        "Question": "The simple air cooling system is good for _____ flight speed.",
+        "Options": [
+            "a) low",
+            "b) high",
+            "c) moderate",
+            "d) any",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 103,
+        "Question": "What is the main difference between simple air cooling system and simple air evaporative cooling system?",
+        "Options": [
+            "a) Simple air evaporative cooling system has an evaporator",
+            "b) Simple air evaporative cooling system has two evaporators",
+            "c) Simple air evaporative cooling system has an extra compressor",
+            "d) Simple air evaporative cooling system has three evaporators",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 104,
+        "Question": "A simple evaporative air refrigeration system is used for an airplane to take 20 TR of refrigeration load (Q). The power required for the refrigerating system P is 746 KW. What is its COP?",
+        "Options": [
+            "a) 0.086",
+            "b) 0.094",
+            "c) 0.079",
+            "d) 0.099",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 105,
+        "Question": "In Boot-strap air cooling system how many heat exchangers are there?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 0",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 106,
+        "Question": "What is the difference between Boot-strap air cooling system and Boot-strap evaporative cooling system?",
+        "Options": [
+            "a) Boot strap evaporative system has an evaporator",
+            "b) Boot strap evaporative system has two evaporators",
+            "c) Boot-strap evaporator eliminates the need for evaporator",
+            "d) Boot-strap evaporator system has three evaporators",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 107,
+        "Question": "Mass of air per tonne of refrigeration will be _____ in Boot-strap air cooling system than Boot-strap evaporative system.",
+        "Options": [
+            "a) less",
+            "b) more",
+            "c) equal to",
+            "d) can’t say",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 108,
+        "Question": "The air cooling system that is used mostly in transport type aircraft is?",
+        "Options": [
+            "a) Boot-strap air cooling system",
+            "b) Simple air cooling system",
+            "c) Simple evaporative cooling system",
+            "d) Regenerative air cooling system",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 109,
+        "Question": "A Boot-strap air cooling system is used for a transport aircraft to take 10TR of refrigeration load (Q). The power required for the refrigerating system P is 800 KW. What is its COP?",
+        "Options": [
+            "a) 0.06426",
+            "b) 0.04375",
+            "c) 0.05435",
+            "d) 0.04367",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 110,
+        "Question": "Regeneration cooling system is a modification of _________",
+        "Options": [
+            "a) simple air cooling system",
+            "b) simple evaporative cooling system",
+            "c) boot-strap cooling system",
+            "d) boot-strap evaporative cooling system",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 111,
+        "Question": "Cooling system used for supersonic aircrafts and rockets is?",
+        "Options": [
+            "a) Simple air cooling system",
+            "b) Simple evaporative cooling system",
+            "c) Boot-strap cooling system",
+            "d) Regeneration cooling system",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 112,
+        "Question": "Calculate the power required (P) for maintaining the cabin temperature, when the COP of the regenerative cooling system is given to be 0.25 and the refrigeration load (Q) is 25.",
+        "Options": [
+            "a) 305",
+            "b) 350",
+            "c) 530",
+            "d) 503",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 113,
+        "Question": "The vapor compression refrigeration system is similar to a ________",
+        "Options": [
+            "a) latent heat pump",
+            "b) latent heat engine",
+            "c) generator",
+            "d) evaporator",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 114,
+        "Question": "The first vapor compression refrigeration system was developed by ________",
+        "Options": [
+            "a) L. G. Hamilton",
+            "b) Jacob Perkins",
+            "c) Stephen Rossi",
+            "d) Lenard Sandwik",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 115,
+        "Question": "The COP of vapor compression refrigeration compared to simple air refrigeration system is ________",
+        "Options": [
+            "a) high",
+            "b) low",
+            "c) same",
+            "d) can’t say",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 116,
+        "Question": "Which of the following is not an advantage of vapor compression refrigeration system over air refrigeration system?",
+        "Options": [
+            "a) Smaller size for a given capacity of refrigeration",
+            "b) It has less running cost",
+            "c) It can be employed over wide range of temperature",
+            "d) There is no problem of leakage in vapor compression refrigeration system",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 117,
+        "Question": "The low pressure and temperature vapor refrigerant enters the ______ of the vapor compression system.",
+        "Options": [
+            "a) compressor",
+            "b) condenser",
+            "c) receiver",
+            "d) evaporator",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 118,
+        "Question": "The high pressure and temperature vapor refrigerant enters the ______ of the vapor compression system.",
+        "Options": [
+            "a) compressor",
+            "b) condenser",
+            "c) receiver",
+            "d) evaporator",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 119,
+        "Question": "In any compression refrigeration system there are how many pressure conditions?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 120,
+        "Question": "Which of the following is not an advantage of vapor compression cycle over reversed Carnot cycle?",
+        "Options": [
+            "a) It’ COP and refrigeration effect can’t be increased",
+            "b) Use of expansion valve reduces the size and cost of plant",
+            "c) It is a practical cycle on which plant can be built",
+            "d) Wet compression of Carnot cycle is avoided",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 121,
+        "Question": "The pipe line emanating from compressor up to the condenser is called ________",
+        "Options": [
+            "a) suction line",
+            "b) pipe line",
+            "c) liquid line",
+            "d) delivery line",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 122,
+        "Question": "In a refrigeration cycle, in which of the following heat absorption takes place?",
+        "Options": [
+            "a) Evaporator",
+            "b) Condenser",
+            "c) Expansion valve",
+            "d) Compressor",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 123,
+        "Question": "After which process during the VCR cycle, the highest temperature is achieved?",
+        "Options": [
+            "a) Evaporation",
+            "b) Expansion",
+            "c) Condensation",
+            "d) Compression",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 124,
+        "Question": "In a domestic vapour compression refrigerator, which of the following refrigerants commonly used?",
+        "Options": [
+            "a) CO2",
+            "b) NH3",
+            "c) Freon",
+            "d) Air",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 125,
+        "Question": "The COP  of vapor compression having vapor as dry saturated after compression having refrigeration effect (Re) of 58.84  and work done (W) of 17.95 is ________",
+        "Options": [
+            "a) 3.278",
+            "b) 4.39",
+            "c) 4.234",
+            "d) 3.865",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 126,
+        "Question": "In which case does the compression process remains in superheated state?",
+        "Options": [
+            "a) Wet state",
+            "b) Dry state",
+            "c) Semi-dry state",
+            "d) Always",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 127,
+        "Question": "The ratio of COP of vapor compression cycle and COP of Carnot cycle is known as?",
+        "Options": [
+            "a) Relative COP",
+            "b) Ideal COP",
+            "c) Performance index",
+            "d) Theoretical COP",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 128,
+        "Question": "Refrigerating effect corresponds to which of the following processes?",
+        "Options": [
+            "a) Condensing process",
+            "b) Vaporizing process",
+            "c) Compression process",
+            "d) Expansion process",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 129,
+        "Question": "If a process 1 – 2 undergoes a throttling. Which of the following represents the process 1 – 2?",
+        "Options": [
+            "a) T1 = T2",
+            "b) S1 = S2",
+            "c) P1 = P2",
+            "d) H1 = H2",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 130,
+        "Question": "In a vapor compression refrigeration system, the coefficient of performance is observed as 10. If the enthalpy after compression is 1368.28 kJ/kg and after condensation is 598.58 kJ/kg. If the system works on 50% of the C.O.P., then what is the value of enthalpy after evaporation?",
+        "Options": [
+            "a) 1220",
+            "b) 1210",
+            "c) 1240",
+            "d) 1280",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 131,
+        "Question": "The COP of vapor compression when vapor is wet after compression having refrigeration effect (Re) of 60 and work done (W) of 20 is?",
+        "Options": [
+            "a) 3",
+            "b) 4",
+            "c) 4.2",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 132,
+        "Question": "Which case is when the refrigerant compression process is carried while it’s wet?",
+        "Options": [
+            "a) Wet state",
+            "b) Dry state",
+            "c) Semi-dry state",
+            "d) Always",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 133,
+        "Question": "Which one of the following is not an assumption in theoretical vapour compression cycle?",
+        "Options": [
+            "a) There are no pressure losses in the condenser, evaporator, compressor, valves and the connecting part lines",
+            "b) All processes are reversible",
+            "c) There are mechanical and fluid friction losses",
+            "d) There is no heat transfer between the system and surroundings except in the evaporator and condenser",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 134,
+        "Question": "Due to what in wet-compression affects the heat transfer rates from the vapor refrigerant to the cooling medium?",
+        "Options": [
+            "a) Liquid droplets",
+            "b) Work consumed",
+            "c) Power required",
+            "d) In wet-compression the heat transfer remains unaffected",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 135,
+        "Question": "The net effect of superheating is to have ________ COP.",
+        "Options": [
+            "a) higher",
+            "b) lower",
+            "c) moderate",
+            "d) higher or lower depending on the refrigerant used",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 136,
+        "Question": "The COP of vapor compression when vapor is superheated after compression having refrigeration effect (Re) of 360 and work done (W) of 40 is?",
+        "Options": [
+            "a) 8",
+            "b) 6.7",
+            "c) 7.8",
+            "d) 9",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 137,
+        "Question": "What is the mass flow rate of the refrigerant when the heat required is 100 MJ/hr, enthalpy at discharge H2 is 434.5 KJ/kg and enthalpy of liquid Hf3 in KJ/kg at point 3 in p-h diagram is 271.97?",
+        "Options": [
+            "a) 10.254 kg/hr",
+            "b) 15.56 kg/hr",
+            "c) 10.254 kg/min",
+            "d) 15.56 kg/min",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 138,
+        "Question": "In domestic vapor compression refrigeration, the refrigerant commonly used is?",
+        "Options": [
+            "a) Freon – 12",
+            "b) CO2",
+            "c) H2O",
+            "d) Ammonia",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 139,
+        "Question": "The process of under cooling the refrigerant below the saturation temperature happens after?",
+        "Options": [
+            "a) Compression",
+            "b) Before condensation",
+            "c) Evaporation",
+            "d) Before throttling",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 140,
+        "Question": "What effect does the under cooling process have on piston displacement of the compressor?",
+        "Options": [
+            "a) Increases",
+            "b) Reduces",
+            "c) No effect",
+            "d) Can’t say from the given data",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 141,
+        "Question": "The effect of liquid sub cooling is less pronounced in case of?",
+        "Options": [
+            "a) Water",
+            "b) CO2",
+            "c) NH3",
+            "d) Effect is same for all the liquids",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 142,
+        "Question": "The difference between the saturation temperature T3 of liquid refrigerant at pressure p3 = p2 and the actual temperature of liquid refrigerant T3′ is called?",
+        "Options": [
+            "a) Degree of freedom",
+            "b) Degree of subcooling",
+            "c) Degree of superheating",
+            "d) Degree of condensation",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 143,
+        "Question": "Which of the following is not the difference between theoretical and actual VCR cycle?",
+        "Options": [
+            "a) Pressure drops in the evaporator",
+            "b) Pressure drops in the condenser",
+            "c) Compression of refrigerant is never polytropic",
+            "d) Compression of refrigerant is always isentropic",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 144,
+        "Question": "What is the effect of a decrease in suction pressure on C.O.P.?",
+        "Options": [
+            "a) C.O.P. increases",
+            "b) C.O.P. decreases",
+            "c) C.O.P. remains the same",
+            "d) C.O.P. becomes zero",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 145,
+        "Question": "What is the effect of an increase in discharge pressure on C.O.P.?",
+        "Options": [
+            "a) C.O.P. decreases",
+            "b) C.O.P. increases",
+            "c) C.O.P. remains the same",
+            "d) C.O.P. becomes zero",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 146,
+        "Question": "Which of the following factor of the actual VCR affects severely the coefficient of performance?",
+        "Options": [
+            "a) Increase in suction pressure",
+            "b) Decrease in discharge pressure",
+            "c) Decrease in suction pressure",
+            "d) Increase in discharge pressure",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 147,
+        "Question": "Which of these is not an effect of superheat in suction vapour?",
+        "Options": [
+            "a) increase in refrigeration effect",
+            "b) increase in compression work",
+            "c) decrease the capacity of compressor per ton of refrigeration",
+            "d) condenser size decreases",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 148,
+        "Question": "In which case will the refrigeration effect will not increase and the COP of cycle with superheated vapour in suction phase will be less than the COP of ideal cycle?",
+        "Options": [
+            "a) Superheating the vapour from state 1 to 1′",
+            "b) Superheating the vapour from state 1 to 2",
+            "c) Superheating the vapour from state 1′ to 2′",
+            "d) COP always increases when superheating vapour in suction vapour",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 149,
+        "Question": "Which one of the following is not effect of liquid sub cooling?",
+        "Options": [
+            "a) increase the refrigeration effect",
+            "b) reduce the piston displacement",
+            "c) increase the COP",
+            "d) increase the compressor power per ton of refrigeration",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 150,
+        "Question": "Which one of the following is not effect of change in suction pressure?",
+        "Options": [
+            "a) reduces the net refrigeration effect",
+            "b) reduces the mass flow rate of refrigerant per ton of refrigeration",
+            "c) reduces the COP",
+            "d) increases the compressor power per ton of refrigeration",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 151,
+        "Question": "What is the use of a flash chamber in VCR system?",
+        "Options": [
+            "a) To increase pressure",
+            "b) To decrease pressure",
+            "c) To separate vapour and liquid refrigerant",
+            "d) To evaporate refrigerant partially",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 152,
+        "Question": "What is the use of accumulator or pre-cooler in VCR system?",
+        "Options": [
+            "a) To supply dry saturated vapour and pure liquid refrigerant to the respective equipment",
+            "b) To decrease pressure",
+            "c) To increase pressure",
+            "d) To condense refrigerant partially",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 153,
+        "Question": "What is the effect of using a flash chamber in VCR system?",
+        "Options": [
+            "a) C.O.P. increases",
+            "b) C.O.P. decreases",
+            "c) C.O.P. remains the same",
+            "d) Mass of refrigerant flowing through evaporator increases",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 154,
+        "Question": "What is the effect of using accumulator in the VCR system?",
+        "Options": [
+            "a) C.O.P. increases",
+            "b) C.O.P. decreases",
+            "c) Total dry compression of refrigerant occurs",
+            "d) Sub-cooling happens",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 155,
+        "Question": "Which one of the following is not an advantage of compound vapor compression with intercooler?",
+        "Options": [
+            "a) It improves the volumetric efficiency for the given pressure ratio",
+            "b) It reduces the leakage losses",
+            "c) It provides effective lubrication",
+            "d) It does not give a uniform torque",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 156,
+        "Question": "A compound vapour compression with an intercooler system is used to take 10 TR of refrigeration load (Q). The power required for the refrigerating system P is 550 KW. What is its COP?",
+        "Options": [
+            "a) 0.078",
+            "b) 0.086",
+            "c) 0.063",
+            "d) 0.089",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 157,
+        "Question": "Which of the following is not a disadvantage of multiple compressions with intercooling between the stages?",
+        "Options": [
+            "a) Increases the initial cost",
+            "b) Size of plant increases",
+            "c) Increases the maintenance cost",
+            "d) Cylinder wall thickness of low pressure cylinder is increased",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 158,
+        "Question": "Why intercooling by liquid refrigerant never used in R-12 systems?",
+        "Options": [
+            "a) High latent heat of vaporization",
+            "b) Low latent heat of vaporization",
+            "c) Medium latent heat of vaporization",
+            "d) High toxicity",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 159,
+        "Question": "The refrigeration effect produced by a system is 10 TR and work done by the low-pressure compressor, and high-pressure compressor is 3 and 4 kW respectively. What is the value of C.O.P. for the given conditions?",
+        "Options": [
+            "a) 8.75",
+            "b) 11.67",
+            "c) 3.5",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 160,
+        "Question": "Why multi-stage or compound VCR with intercooler is used?",
+        "Options": [
+            "a) To improve C.O.P.",
+            "b) To decrease the refrigeration effect",
+            "c) To increase work",
+            "d) To increase leakage loss",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 161,
+        "Question": "What is the purpose of using intercooler?",
+        "Options": [
+            "a) To increase the cost of the compressor",
+            "b) To reduce the volumetric efficiency",
+            "c) To re-heat superheated refrigerant",
+            "d) To cool the superheated refrigerant",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 162,
+        "Question": "Why is such a type of arrangement used in ammonia plants?",
+        "Options": [
+            "a) High latent heat of vaporization",
+            "b) Low latent heat of vaporization",
+            "c) Medium latent heat of vaporization",
+            "d) High toxicity",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 163,
+        "Question": "A compound vapor compression with a liquid subcooler and a liquid intercooler system is used to take 10 TR of refrigeration load (Q). The power required for the refrigerating system P is 557.7 W. What is its COP?",
+        "Options": [
+            "a) 6.87",
+            "b) 4.75",
+            "c) 3.77",
+            "d) 5.86",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 164,
+        "Question": "What is the value of the load on the evaporator in terms of TR if the power required to drive the system is 25 kW and C.O.P. is 4?",
+        "Options": [
+            "a) 30.75",
+            "b) 28.25",
+            "c) 28.15",
+            "d) 28.57",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 165,
+        "Question": "If the compound vapour compression system is working under the load on the evaporator of 15 TR, the enthalpies corresponding to the evaporator are 1400 and 400 kJ/kg respectively. What is the value of the mass flow rate through the evaporator?",
+        "Options": [
+            "a) 3.75",
+            "b) 3.25",
+            "c) 3.15",
+            "d) 3.45",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 166,
+        "Question": "Why multi-stage or compound VCR with water intercooler and liquid sub-cooler is used?",
+        "Options": [
+            "a) To improve C.O.P.",
+            "b) To decrease the refrigeration effect",
+            "c) To increase work",
+            "d) To increase leakage loss",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 167,
+        "Question": "What is the purpose of using intercooler?",
+        "Options": [
+            "a) To increase the cost of the compressor",
+            "b) To reduce the volumetric efficiency",
+            "c) To re-heat superheated refrigerant",
+            "d) To cool the superheated refrigerant",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 168,
+        "Question": "What is the purpose of using liquid sub-cooler?",
+        "Options": [
+            "a) To increase the cost of compressor",
+            "b) To reduce volumetric efficiency",
+            "c) To re-heat superheated refrigerant",
+            "d) To increase the refrigeration effect",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 169,
+        "Question": "<img src=\"https://www.sanfoundry.com/wp-content/uploads/2019/12/refrigeration-questions-answers-two-multi-stage-compression-water-intercooling-liquid-subcooling-2-q4.png\" alt=\"refrigeration-questions-answers-two-multi-stage-compression-water-intercooling-liquid-subcooling-2-q4\" width=\"540\" height=\"399\" class=\"alignnone size-full wp-image-256942\" srcset=\"https://www.sanfoundry.com/wp-content/uploads/2019/12/refrigeration-questions-answers-two-multi-stage-compression-water-intercooling-liquid-subcooling-2-q4.png 540w, https://www.sanfoundry.com/wp-content/uploads/2019/12/refrigeration-questions-answers-two-multi-stage-compression-water-intercooling-liquid-subcooling-2-q4-300x222.png 300w\" sizes=\"(max-width: 540px) 100vw, 540px\" />",
+        "Options": [
+            "a) (h1 – hf6) / (h2 – h1) – (h4 – h3)",
+            "b) (h1 – hf6) / (h2 – h1) + (h4 – h3)",
+            "c) (h1 – hf6) / (h2 – h1)",
+            "d) (h1 – hf6) / (h4 – h3)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 170,
+        "Question": "Find the coefficient of performance when the refrigeration effect (Re) is 145.7 and the work done (W) is 32.46 KJ.",
+        "Options": [
+            "a) 4.5",
+            "b) 5.5",
+            "c) 4.6",
+            "d) 5.6",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 171,
+        "Question": "Which one of the following is not an advantage of water intercooling when used in a multi stage compression?",
+        "Options": [
+            "a) Reduces the work to be done in high pressure",
+            "b) Reduces the specific volume of the refrigerant",
+            "c) Requires a compressor of more stroke volume",
+            "d) Requires a compressor of less stroke volume",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 172,
+        "Question": "What is the value of Refrigeration effect if m2 = 2 kg/min, m3 = 0.8 kg/min and enthalpies for the refrigerant at saturated vapor and saturated liquid line are 1420 and 1260 kJ/kg?",
+        "Options": [
+            "a) 192",
+            "b) 194",
+            "c) 196",
+            "d) 129",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 173,
+        "Question": "Why is multi-stage or compound VCR with water intercooler, liquid sub-cooler, and the flash chamber used?",
+        "Options": [
+            "a) To improve C.O.P.",
+            "b) To decrease the refrigeration effect",
+            "c) To increase work",
+            "d) To increase leakage loss",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 174,
+        "Question": "What is the purpose of using intercooler?",
+        "Options": [
+            "a) To increase the cost of the compressor",
+            "b) To cool the superheated refrigerant",
+            "c) To re-heat superheated refrigerant",
+            "d) To reduce the volumetric efficiency",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 175,
+        "Question": "What is the purpose of using liquid sub-cooler?",
+        "Options": [
+            "a) To increase the cost of the compressor",
+            "b) To reduce the volumetric efficiency",
+            "c) To re-heat superheated refrigerant",
+            "d) To increase the refrigeration effect",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 176,
+        "Question": "What is the purpose of using a flash chamber?",
+        "Options": [
+            "a) To increase pressure",
+            "b) To decrease pressure",
+            "c) To separate vapor and liquid refrigerant",
+            "d) To evaporate refrigerant partially",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 177,
+        "Question": "Why is multi-stage or compound VCR with water intercooler, liquid sub-cooler, and flash intercooler used?",
+        "Options": [
+            "a) To improve C.O.P.",
+            "b) To decrease refrigeration effect",
+            "c) To increase work",
+            "d) To increase leakage loss",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 178,
+        "Question": "What is the purpose of using intercooler?",
+        "Options": [
+            "a) To increase the cost of the compressor",
+            "b) To cool the superheated refrigerant",
+            "c) To re-heat superheated refrigerant",
+            "d) To reduce the volumetric efficiency",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 179,
+        "Question": "What is the purpose of using liquid sub-cooler?",
+        "Options": [
+            "a) To increase the cost of the compressor",
+            "b) To reduce the volumetric efficiency",
+            "c) To re-heat superheated refrigerant",
+            "d) To increase the refrigeration effect",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 180,
+        "Question": "What is the purpose of using a flash intercooler?",
+        "Options": [
+            "a) To increase pressure",
+            "b) To decrease pressure",
+            "c) To separate vapor and liquid refrigerant and de-superheat",
+            "d) To evaporate refrigerant partially",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 181,
+        "Question": "What is the value of Refrigeration effect if m1 = 4 kg/min, and enthalpies for the point 1, 2, 4, 5, 9 are 1350, 1550, 1480, 1620, and 280 kJ/kg. If the refrigeration effect is 4280 kJ/min and work done is 15 kW, then what is the value of C.O.P.?",
+        "Options": [
+            "a) 4.85",
+            "b) 5.50",
+            "c) 4.75",
+            "d) 6.00",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 182,
+        "Question": "Why is the cascade system used?",
+        "Options": [
+            "a) To attain low C.O.P.",
+            "b) To decrease the refrigeration effect",
+            "c) To produce low temperatures",
+            "d) To increase leakage loss",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 183,
+        "Question": "What is Cryogenics?",
+        "Options": [
+            "a) C.O.P. reduction",
+            "b) Low-temperature refrigeration",
+            "c) Work enhancement",
+            "d) High-temperature refrigeration",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 184,
+        "Question": "What is the principal advantage of the cascade system?",
+        "Options": [
+            "a) Increase of work done",
+            "b) Decrease the refrigeration effect",
+            "c) Use of only one refrigerant",
+            "d) Use of multiple refrigerants",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 185,
+        "Question": "How is a cascade system structured?",
+        "Options": [
+            "a) VCR system in parallel combination",
+            "b) VCR system is not used",
+            "c) VCR system in a series combination",
+            "d) VAR system is used",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 186,
+        "Question": "Low-temperature cascade system use refrigerants with ______ boiling temperature and high temperature cascade system use refrigerants with _________ boiling temperature.",
+        "Options": [
+            "a) low, high",
+            "b) high, low",
+            "c) low, low",
+            "d) high, high",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 187,
+        "Question": "What does low boiling refrigerants ensure?",
+        "Options": [
+            "a) Lower C.O.P.",
+            "b) Higher C.O.P.",
+            "c) Lower pressure",
+            "d) Larger compressor displacement",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 188,
+        "Question": "Which intermediate refrigerants were used for the first time in the cascade system?",
+        "Options": [
+            "a) CO2 and CO",
+            "b) CO and SO2",
+            "c) NH3 and CO2",
+            "d) CO2 and SO2",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 189,
+        "Question": "The difference between low-temperature cascade condenser temperature and high-temperature cascade evaporator temperature is called temperature ______",
+        "Options": [
+            "a) subtraction",
+            "b) overview",
+            "c) overlap",
+            "d) gradient",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 190,
+        "Question": "What is Intermediate temperature?",
+        "Options": [
+            "a) Temperature overlap is zero",
+            "b) Temperature overlap is infinity",
+            "c) The temperature of the low-temperature cascade system",
+            "d) The temperature of the high-temperature cascade system",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 191,
+        "Question": "How is the cascade system achieved?",
+        "Options": [
+            "a) VCR system in a parallel combination",
+            "b) VAR system in a series combination",
+            "c) VAR system in a parallel combination",
+            "d) VCR system in a series combination",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 192,
+        "Question": "The performance of a refrigerant reciprocating compressor is not measured in terms of its ______________",
+        "Options": [
+            "a) refrigerating capacity",
+            "b) brake power per tonne of refrigeration",
+            "c) total brake power",
+            "d) horse power",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 193,
+        "Question": "Which one of the following is not an important parameter in the design of a refrigerant reciprocating compressor?",
+        "Options": [
+            "a) Evaporator temperature",
+            "b) Condenser temperature",
+            "c) Suction temperature",
+            "d) Compressor temperature",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 194,
+        "Question": "The effect of suction temperature on the compressor B.P. per tonne of refrigeration is?",
+        "Options": [
+            "a) Compressor B.P. per tonne of refrigeration decreases with the increase in suction temperature",
+            "b) Compressor B.P. per tonne of refrigeration increases with the increase in suction temperature",
+            "c) Compressor B.P. per tonne of refrigeration remains the same with any change in suction temperature",
+            "d) Compressor B.P. per tonne of refrigeration decreases with the decrease in suction temperature",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 195,
+        "Question": "The effect of suction temperature on the total B.P. is?",
+        "Options": [
+            "a) To increase the B.P. with the decrease of suction temperature",
+            "b) To decrease the B.P. with the decrease of suction temperature",
+            "c) That the total B.P. remains unaffected by the changes in suction temperature",
+            "d) Can’t say only from the suction temperature",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 196,
+        "Question": "What is the effect of condenser temperature on compressor refrigerating capacity?",
+        "Options": [
+            "a) Increase in temperature decreases the refrigeration capacity",
+            "b) Decrease in temperature decreases the refrigeration capacity",
+            "c) Does not affect the capacity of refrigeration",
+            "d) Increase in temperature increases the refrigeration capacity",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 197,
+        "Question": "What is the effect of condenser temperature on B.P. per tonne of refrigeration?",
+        "Options": [
+            "a) Increase in temperature decreases the B.P.",
+            "b) Decrease in temperature increases the B.P.",
+            "c) Does not affect the B.P.",
+            "d) Increase in temperature increases the B.P.",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 198,
+        "Question": "What is the effect of condenser temperature on total B.P.?",
+        "Options": [
+            "a) Increase in temperature decreases the total B.P.",
+            "b) Decrease in temperature increases the total B.P.",
+            "c) Does not affect the total B.P.",
+            "d) Increase in temperature increases the total B.P.",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 199,
+        "Question": "The device which divides the high pressure side and the low pressure side of a refrigerating system is known as _____________",
+        "Options": [
+            "a) condenser device",
+            "b) evaporator device",
+            "c) receiver device",
+            "d) expansion device",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 200,
+        "Question": "Which of the following function is not performed by the expansion device?",
+        "Options": [
+            "a) It reduces the high pressure liquid refrigerant to low pressure liquid refrigerant",
+            "b) It maintains the desired pressure difference between the high and low pressure sides of the system",
+            "c) It controls the flow of refrigerant according to the load on the evaporator",
+            "d) It compresses the vapor",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 201,
+        "Question": "The expansion device is placed between which two components?",
+        "Options": [
+            "a) Condenser and evaporator",
+            "b) Compressor and condenser",
+            "c) Evaporator and compressor",
+            "d) Receiver and evaporator",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 202,
+        "Question": "Which of the following is not an advantage of capillary tube?",
+        "Options": [
+            "a) The cost of capillary tube is less",
+            "b) A high starting motor is not required",
+            "c) No receiver is needed",
+            "d) A capillary tube designed for a specific condition will also work efficiently for other conditions",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 203,
+        "Question": "Capillary tube, as an expansion device is used in?",
+        "Options": [
+            "a) Water coolers",
+            "b) Domestic refrigerators",
+            "c) Room air conditioners",
+            "d) All of the mentioned",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 204,
+        "Question": "Which one of the following is also known as a constant superheat valve?",
+        "Options": [
+            "a) Capillary tube",
+            "b) Hand-operated expansion valve",
+            "c) Thermostatic Expansion valve",
+            "d) Low side float valve",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 205,
+        "Question": "Thermostatic expansion valves are usually set for a superheat of?",
+        "Options": [
+            "a) 10°C",
+            "b) 5°C",
+            "c) 8°C",
+            "d) 15°C",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 206,
+        "Question": "The thermostatic expansion valve operates on the changes in the ___________",
+        "Options": [
+            "a) degree of superheat at exit from the evaporator",
+            "b) temperature of the evaporator",
+            "c) pressure in the condenser",
+            "d) pressure in the evaporator",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 207,
+        "Question": "Which of the following is correct about VARS and VCRS?",
+        "Options": [
+            "a) VARS use mechanical energy, and VCRS use heat energy",
+            "b) VARS use heat energy, and VCRS use mechanical energy",
+            "c) Both use mechanical energy",
+            "d) Both use heat energy",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 208,
+        "Question": "The compressor from VCRS is replaced by which of the following in the VARS?",
+        "Options": [
+            "a) Absorber, Pump",
+            "b) Generator, Pressure reducing valve",
+            "c) Absorber, Pump, Generator, and Pressure reducing valve",
+            "d) Absorber, Rectifier, Generator, and Pressure reducing valve",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 209,
+        "Question": "An ideal vapour absorption refrigeration system may be regarded as a combination of _________",
+        "Options": [
+            "a) Carnot engine and Carnot pump",
+            "b) Carnot refrigerant and Carnot pump",
+            "c) Carnot engine and Carnot refrigerant",
+            "d) Carnot engine alone",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 210,
+        "Question": "What is the fundamental equation of the C.O.P. of Ideal VAR system?",
+        "Options": [
+            "a) Heat absorbed in the evaporator / Work done by a pump",
+            "b) Heat absorbed in the evaporator / Heat supplied in the generator",
+            "c) Heat absorbed in the evaporator / Work done by compressor + Heat supplied in the generator",
+            "d) Heat absorbed in the evaporator / Work done by pump + Heat supplied in the generator",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 211,
+        "Question": "What is the relation between QC, QG, and QE if they represent heat given to the refrigerant in the generator, heat discharging to atmosphere from condenser to absorber and heat absorbed by the refrigerant in the evaporator?",
+        "Options": [
+            "a) QC + QG = QE",
+            "b) QC = QG + QE",
+            "c) QC + QE = QG",
+            "d) QC = QG – QE",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 212,
+        "Question": "What is the equation of VAR system in terms of entropy?",
+        "Options": [
+            "a) QC + QE / TC = QG / TG + QE / TE",
+            "b) QG + QC / TC = QG / TG + QE / TE",
+            "c) QG + QE / TC = QG / TG + QE / TE",
+            "d) QG + QE / TC = QC / TC + QE / TE",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 213,
+        "Question": "What is the value of maximum C.O.P. in terms of heat?",
+        "Options": [
+            "a) QG / QE",
+            "b) QE / QG",
+            "c) QG / QC",
+            "d) QC / QE",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 214,
+        "Question": "What is the value of maximum C.O.P. in terms of temperature?",
+        "Options": [
+            "a) [TC – TE / TE] [TG / TG – TC] ",
+            "b) [TC – TE / TE] [TG / TG – TC] ",
+            "c) [TC – TE / TE] [TG / TG – TC] ",
+            "d) [TG – TC / TG] [TE / TC – TE] ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 215,
+        "Question": "Which of the following is true?",
+        "Options": [
+            "a) (C.O.P.)max = (C.O.P.)Carnot / ηCarnot",
+            "b) (C.O.P.)max = (C.O.P.)Carnot + ηCarnot",
+            "c) (C.O.P.)max = (C.O.P.)Carnot x ηCarnot",
+            "d) (C.O.P.)max = (C.O.P.)Carnot – ηCarnot",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 216,
+        "Question": "In a VAR system, heating, cooling, and refrigeration take place at temperatures 200°C, 30°C, and -10°C respectively. What is the value of maximum C.O.P. of the system?",
+        "Options": [
+            "a) 2.202",
+            "b) 2.808",
+            "c) 3.404",
+            "d) 2.404",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 217,
+        "Question": "What is the value of maximum C.O.P. if the VAR system has a capacity of 12 TR and heat given to the refrigerant in the generator is 40 kW?",
+        "Options": [
+            "a) 0.9523",
+            "b) 0.4878",
+            "c) 1.05",
+            "d) 2.05",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 218,
+        "Question": "Which one of the refrigerant is not used in the domestic Electrolux?",
+        "Options": [
+            "a) Ammonia",
+            "b) Water",
+            "c) Hydrogen",
+            "d) Freon – 12",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 219,
+        "Question": "What is water used for in the Domestic Electrolux?",
+        "Options": [
+            "a) Water is used to absorb hydrogen",
+            "b) Water is used to absorb ammonia",
+            "c) Water is used as a lubricant",
+            "d) Water is used to keep the inner surface clean",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 220,
+        "Question": "The Domestic absorption type refrigerator was invented by?",
+        "Options": [
+            "a) Carl Munters",
+            "b) Baltzer Von Platan",
+            "c) Carl Munters and Baltzer Von Platan",
+            "d) Light Foot",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 221,
+        "Question": "Find the COP of the domestic Electrolux system when the heat supplied in the generator (QG) is 1885 KJ/kg and the heat absorbed in the evaporator (Qe) is 1045 KJ/kg.",
+        "Options": [
+            "a) 0.4",
+            "b) 0.45",
+            "c) 0.55",
+            "d) 0.65",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 222,
+        "Question": "Which of the refrigerant is used as a refrigerant in Lithium Bromide Absorption Refrigeration system?",
+        "Options": [
+            "a) Ammonia",
+            "b) Water",
+            "c) Hydrogen",
+            "d) Lithium Bromide",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 223,
+        "Question": "Find the COP of the lithium bromide absorption system when the heat supplied in the generator (QG) is 1255 KJ/kg and the heat absorbed in the evaporator (Qe) is 955 KJ/kg.",
+        "Options": [
+            "a) 0.66",
+            "b) 0.75",
+            "c) 0.85",
+            "d) 0.76",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 224,
+        "Question": "Find the relative COP of the system whose maximum COP is 2.0 and the actual COP is 0.8.",
+        "Options": [
+            "a) 0.5",
+            "b) 0.4",
+            "c) 0.3",
+            "d) 0.6",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 225,
+        "Question": "What is the key difference between a simple VAR and Electrolux refrigerator?",
+        "Options": [
+            "a) Absorber",
+            "b) Liquid pump",
+            "c) Working mechanism",
+            "d) Generator",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 226,
+        "Question": "What is the other name for Electrolux refrigerator?",
+        "Options": [
+            "a) Single-fluid absorption system",
+            "b) Two-fluid absorption system",
+            "c) Three-fluid absorption system",
+            "d) Four-fluid absorption system",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 227,
+        "Question": "Which of the following is valid for one of the processes in the Electrolux refrigerator?",
+        "Options": [
+            "a) Ammonia evaporates in hydrogen",
+            "b) Hydrogen evaporates in ammonia",
+            "c) Water evaporates in hydrogen",
+            "d) Ammonia evaporates in water",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 228,
+        "Question": "What are the fluids used in the Electrolux refrigerator?",
+        "Options": [
+            "a) Hydrogen, Water",
+            "b) Hydrogen, Water, Lithium",
+            "c) Hydrogen, Water, Bromide",
+            "d) Hydrogen, Water, Ammonia",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 229,
+        "Question": "What is the purpose of using Hydrogen in Electrolux refrigerator?",
+        "Options": [
+            "a) To increase the vapour pressure of ammonia",
+            "b) To increase the rate of evaporation",
+            "c) To decrease the rate of evaporation",
+            "d) To get evaporated by using ammonia",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 230,
+        "Question": "What is the role of water in the Electrolux refrigerator?",
+        "Options": [
+            "a) Solvent",
+            "b) Evaporation rate enhancer",
+            "c) Evaporation rate reducer",
+            "d) Refrigerant",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 231,
+        "Question": "What is the value of C.O.P. in the Electrolux refrigerator?",
+        "Options": [
+            "a) QG / QE",
+            "b) QE / QG",
+            "c) QG / QC",
+            "d) QC / QE",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 232,
+        "Question": "Which refrigerants are used in Electrolux and Li-Br water refrigeration system?",
+        "Options": [
+            "a) Ammonia and Lithium",
+            "b) Water and Water",
+            "c) Water and Bromide",
+            "d) Ammonia and Water",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 233,
+        "Question": "Which of the following nature of Li-Br solution leads to the usage of inhibitors?",
+        "Options": [
+            "a) Toxic",
+            "b) Corrosive",
+            "c) Strong affinity for water vapour",
+            "d) Low boiling point",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 234,
+        "Question": "Which of the following system is used for maintaining at the same temperatures when food products kept in different compartments?",
+        "Options": [
+            "a) Evaporator at the same temperature with a single compressor",
+            "b) Evaporator at the same temperature with multiple compressors",
+            "c) Evaporator at different temperature with a single compressor",
+            "d) Evaporator at different temperature with multiple compressors",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 235,
+        "Question": "Which of the following is not the type of refrigerant?",
+        "Options": [
+            "a) Organic refrigerants",
+            "b) Inorganic refrigerants",
+            "c) Azeotrope refrigerants",
+            "d) Halo-helium refrigerants",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 236,
+        "Question": "When refrigerants take a direct part in the refrigeration system, then these types of refrigerants are called?",
+        "Options": [
+            "a) Primary",
+            "b) Secondary",
+            "c) Tertiary",
+            "d) Mixed",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 237,
+        "Question": "The refrigerants which are first cooled by _________ refrigerants and then used for cooling purposes are known as ___________ refrigerants.",
+        "Options": [
+            "a) secondary, primary",
+            "b) primary, secondary",
+            "c) tertiary, primary",
+            "d) secondary, tertiary",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 238,
+        "Question": "What is the number of halo-carbon compound refrigerants present as per ASHRAE?",
+        "Options": [
+            "a) 40",
+            "b) 41",
+            "c) 42",
+            "d) 43",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 239,
+        "Question": "What does azeotrope mean?",
+        "Options": [
+            "a) Type of molecule",
+            "b) Type of bond",
+            "c) Stable mixture",
+            "d) Unstable mixture",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 240,
+        "Question": "Which one of the following inorganic refrigerants is often used?",
+        "Options": [
+            "a) NH3",
+            "b) CO2",
+            "c) H2O",
+            "d) SO2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 241,
+        "Question": "What is the refrigerant number of water?",
+        "Options": [
+            "a) R – 717",
+            "b) R – 744",
+            "c) R – 118",
+            "d) R – 100",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 242,
+        "Question": "What is the number of halo-carbon compound refrigerants commonly used as per ASHRAE?",
+        "Options": [
+            "a) 42",
+            "b) 14",
+            "c) 41",
+            "d) 15",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 243,
+        "Question": "Which of the following refrigerants are in the Freon group?",
+        "Options": [
+            "a) Organic refrigerants",
+            "b) Inorganic refrigerants",
+            "c) Azeotrope refrigerants",
+            "d) Hydrocarbon refrigerants",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 244,
+        "Question": "Among the following refrigerants, which is having the lowest freezing point?",
+        "Options": [
+            "a) R – 21",
+            "b) R – 11",
+            "c) R – 12",
+            "d) R – 22",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 245,
+        "Question": "What is the boiling point of Ammonia at atmospheric pressure?",
+        "Options": [
+            "a) -10.5°C",
+            "b) -30°C",
+            "c) -33.3°C",
+            "d) -77.7°C",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 246,
+        "Question": "R – 717 is the refrigerant number of which of the following refrigerant?",
+        "Options": [
+            "a) Ammonia",
+            "b) Water",
+            "c) Carbon dioxide",
+            "d) Sulphur dioxide",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 247,
+        "Question": "What is the boiling point of Carbon dioxide at atmospheric pressure?",
+        "Options": [
+            "a) -20.5°C",
+            "b) -73.6°C",
+            "c) -50°C",
+            "d) -68°C",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 248,
+        "Question": "What is the freezing point of R – 12 at atmospheric pressure?",
+        "Options": [
+            "a) -86.6°C",
+            "b) -73.6°C",
+            "c) -157.5°C",
+            "d) -160°C",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 249,
+        "Question": "What is the refrigerant number of Water?",
+        "Options": [
+            "a) R – 717",
+            "b) R – 744",
+            "c) R – 118",
+            "d) R – 100",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 250,
+        "Question": "Among the following refrigerants, which is having the lowest boiling point?",
+        "Options": [
+            "a) Ammonia",
+            "b) R – 12",
+            "c) Carbon dioxide",
+            "d) Sulphur dioxide",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 251,
+        "Question": "Among the following refrigerants, which is having the lowest C.O.P for refrigeration system working under the temperature limits of -15°C and 30°C as evaporator and condenser temperature respectively?",
+        "Options": [
+            "a) Ammonia",
+            "b) R – 12",
+            "c) R – 30",
+            "d) Carbon dioxide",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 252,
+        "Question": "What is right about the flammability of halo-carbon refrigerants?",
+        "Options": [
+            "a) They possess low flammable properties",
+            "b) They possess incredibly high flammable properties",
+            "c) They are not flammable",
+            "d) They possess little flammable properties",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 253,
+        "Question": "What is right about the explosive properties of halo-carbon refrigerants?",
+        "Options": [
+            "a) They are not flammable",
+            "b) They possess incredibly high explosive properties",
+            "c) They possess low explosive properties",
+            "d) They possess low explosive properties",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 254,
+        "Question": "In what proportion when Ammonia mixed with air becomes explosive?",
+        "Options": [
+            "a) 10 – 15 % gas by volume",
+            "b) 16 – 25 % gas by volume",
+            "c) 10 – 15 % gas by weight",
+            "d) 16 – 25 % gas by weight",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 255,
+        "Question": "By what ratio, R – 22 has more solubility in water than R – 12?",
+        "Options": [
+            "a) 2:1",
+            "b) 4:1",
+            "c) 1:2",
+            "d) 3:1",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 256,
+        "Question": "What is the ability of refrigerant to mix with oil called?",
+        "Options": [
+            "a) Toxicity",
+            "b) Flammability",
+            "c) Miscibility",
+            "d) Solubility of water",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 257,
+        "Question": "Among the following refrigerants, which is having relatively higher miscibility?",
+        "Options": [
+            "a) Ammonia",
+            "b) R – 12",
+            "c) Carbon dioxide",
+            "d) Sulphur dioxide",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 258,
+        "Question": "What is right about Ammonia?",
+        "Options": [
+            "a) Ammonia is insoluble in water",
+            "b) Ammonia spoils the taste of fruits and vegetables when mixed with water",
+            "c) Ammonia does not affect the taste of fruits and vegetables when mixed with water",
+            "d) Ammonia is not toxic",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 259,
+        "Question": "Among the following refrigerants, which is the odd refrigerant as per the criterion of toxicity?",
+        "Options": [
+            "a) R – 11",
+            "b) R – 12",
+            "c) R – 22",
+            "d) R – 30",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 260,
+        "Question": "What is the temperature till which Freon group refrigerants remain stable?",
+        "Options": [
+            "a) 545°C",
+            "b) 535°C",
+            "c) 555°C",
+            "d) 565°C",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 261,
+        "Question": "From the following refrigerants, which is one of the most stable refrigerants?",
+        "Options": [
+            "a) Ammonia",
+            "b) R – 12",
+            "c) Carbon dioxide",
+            "d) Sulphur dioxide",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 262,
+        "Question": "In the presence of which of the following, Sulphur dioxide becomes corrosive?",
+        "Options": [
+            "a) R – 12",
+            "b) Ammonia",
+            "c) Water",
+            "d) Carbon dioxide",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 263,
+        "Question": "Which of the following is true about refrigerants?",
+        "Options": [
+            "a) Should be corrosive",
+            "b) Should not be stable",
+            "c) Should have high viscosity",
+            "d) Should have low viscosity",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 264,
+        "Question": "Which of the following has the least viscosity at a liquid temperature of -15°C and atmospheric pressure?",
+        "Options": [
+            "a) R – 764",
+            "b) R – 744",
+            "c) R – 717",
+            "d) R – 11",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 265,
+        "Question": "Which of the following has the least viscosity at a vapour temperature of -15°C and atmospheric pressure?",
+        "Options": [
+            "a) R – 764",
+            "b) R – 744",
+            "c) R – 12",
+            "d) R – 11",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 266,
+        "Question": "What is the criterion to find out leakage of ammonia?",
+        "Options": [
+            "a) Solubility",
+            "b) Corrosiveness",
+            "c) Colour",
+            "d) Odour",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 267,
+        "Question": "Which of the following has the highest thermal conductivity at a liquid temperature of 40°C?",
+        "Options": [
+            "a) R – 22",
+            "b) R – 113",
+            "c) R – 12",
+            "d) R – 11",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 268,
+        "Question": "Which of the following has the highest thermal conductivity at the vapour temperature of 30°C?",
+        "Options": [
+            "a) R – 22",
+            "b) R – 113",
+            "c) R – 12",
+            "d) R – 11",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 269,
+        "Question": "Which of the following has the highest thermal conductivity at the vapour temperature of 0°C?",
+        "Options": [
+            "a) R – 40",
+            "b) R – 717",
+            "c) R – 744",
+            "d) R – 764",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 270,
+        "Question": "Which of the following has the highest thermal conductivity at a liquid temperature of 20°C?",
+        "Options": [
+            "a) R – 40",
+            "b) R – 717",
+            "c) R – 744",
+            "d) R – 764",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 271,
+        "Question": "Which of the following has the highest relative dielectric strength?",
+        "Options": [
+            "a) R – 22",
+            "b) R – 40",
+            "c) R – 12",
+            "d) R – 30",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 272,
+        "Question": "________ is widely used in large industrial plants such as cold storages and ice plants as per the cost basis.",
+        "Options": [
+            "a) R – 40",
+            "b) R – 717",
+            "c) R – 744",
+            "d) R – 764",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 273,
+        "Question": "What is the meaning of using two digits after the R letter?",
+        "Options": [
+            "a) The base of refrigerant",
+            "b) Number of molecules",
+            "c) Number of refrigerants in mixture",
+            "d) Number of isotopes",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 274,
+        "Question": "What is the meaning of using three digits after the R letter?",
+        "Options": [
+            "a) Methane based refrigerants",
+            "b) Number of molecules",
+            "c) Number of refrigerants in the mixture",
+            "d) Ethane based refrigerants",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 275,
+        "Question": "What is the meaning of the last digit in three digits after R type of halo-carbon refrigerants?",
+        "Options": [
+            "a) Number of hydrogen atoms",
+            "b) Number of fluorine atoms",
+            "c) Number of carbon atoms",
+            "d) Ethane based refrigerants",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 276,
+        "Question": "What is the meaning of middle digit in three digits after R type of halo-carbon refrigerants?",
+        "Options": [
+            "a) Number of hydrogen atoms",
+            "b) Number of fluorine atoms",
+            "c) Number of hydrogen atoms + 1",
+            "d) Number of carbon atoms",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 277,
+        "Question": "What is the meaning of the first digit in three digits after R type of halo-carbon refrigerants?",
+        "Options": [
+            "a) Number of hydrogen atoms + 2",
+            "b) Number of carbon atoms – 1",
+            "c) Number of carbon atoms + 1",
+            "d) Number of carbon atoms",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 278,
+        "Question": "Which letter is assigned to the number of hydrogen atoms in a refrigerant as per designation system?",
+        "Options": [
+            "a) m",
+            "b) n",
+            "c) p",
+            "d) q",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 279,
+        "Question": "Which letter is assigned to the number of chlorine atoms in a refrigerant as per designation system?",
+        "Options": [
+            "a) m",
+            "b) n",
+            "c) p",
+            "d) q",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 280,
+        "Question": "Which letter is assigned to the number of carbon atoms in a refrigerant as per designation system?",
+        "Options": [
+            "a) m",
+            "b) n",
+            "c) p",
+            "d) q",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 281,
+        "Question": "Which letter is assigned to the number of fluorine atoms in a refrigerant as per designation system?",
+        "Options": [
+            "a) m",
+            "b) n",
+            "c) p",
+            "d) q",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 282,
+        "Question": "What is the general chemical formula to be fulfilled by the number of atoms present in a refrigerant?",
+        "Options": [
+            "a) n + p + m = 2q + 2",
+            "b) n + p + q = 2m + 2",
+            "c) n + m + q = 2p + 2",
+            "d) m + p + q = 2n + 2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 283,
+        "Question": "Which of the following is the right way to represent a refrigerant number?",
+        "Options": [
+            "a) R (m – 1) (n + 1) (q)",
+            "b) R (m + 1) (n + 1) (q)",
+            "c) R (m – 1) (n + 1) (p)",
+            "d) R (m – 1) (n + 1) (q – 1)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 284,
+        "Question": "__________ based refrigerant is represented by two digits, followed by R?",
+        "Options": [
+            "a) Ethane",
+            "b) Propane",
+            "c) Ammonia",
+            "d) Methane",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 285,
+        "Question": "________ refrigerants follow a formula where the molecular mass of the compound is added.",
+        "Options": [
+            "a) Halocarbon",
+            "b) Halo hydrogen",
+            "c) Inorganic",
+            "d) Azeotrope",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 286,
+        "Question": "What is the purpose of using a refrigerant compressor?",
+        "Options": [
+            "a) Raise the temperature of refrigerant",
+            "b) Reduce the temperature of refrigerant",
+            "c) Reduce the pressure of refrigerant",
+            "d) Expand the refrigerant",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 287,
+        "Question": "What must be the state of refrigerant entering the compressor?",
+        "Options": [
+            "a) Dry saturated vapour refrigerant",
+            "b) Dry saturated liquid refrigerant",
+            "c) Vapour and liquid mixture",
+            "d) Superheated vapour refrigerant",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 288,
+        "Question": "What is the pressure at the outlet of a refrigerant compressor?",
+        "Options": [
+            "a) Critical pressure",
+            "b) Suction pressure",
+            "c) Discharge pressure",
+            "d) Backpressure",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 289,
+        "Question": "What is the pressure at the inlet of a refrigerant compressor?",
+        "Options": [
+            "a) Critical pressure",
+            "b) Suction pressure",
+            "c) Discharge pressure",
+            "d) Backpressure",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 290,
+        "Question": "Where is the reciprocating compressor mostly suitable?",
+        "Options": [
+            "a) Small displacements and low condensing pressures",
+            "b) Small displacements and high condensing pressures",
+            "c) Large displacements and low condensing pressures",
+            "d) Large displacements and high condensing pressures",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 291,
+        "Question": "Which represents compressor ratio or pressure ratio among the following?",
+        "Options": [
+            "a) Relative discharge pressure / Relative suction pressure",
+            "b) Relative discharge pressure / Absolute suction pressure",
+            "c) Absolute discharge pressure / Relative suction pressure",
+            "d) Absolute discharge pressure / Absolute suction pressure",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 292,
+        "Question": "How is the compressor ratio defined in terms of volume?",
+        "Options": [
+            "a) Clearance volume / Total volume of the cylinder",
+            "b) Clearance volume / Swept volume of the cylinder",
+            "c) Total volume of cylinder / Clearance volume of the cylinder",
+            "d) Total volume of cylinder / Swept volume of the cylinder",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 293,
+        "Question": "What is the volume of the amount of refrigerant passing through compressor called?",
+        "Options": [
+            "a) Compressor rating",
+            "b) Compressor ratio",
+            "c) Compressor capacity",
+            "d) Compressor efficiency",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 294,
+        "Question": "What the meaning of VS?",
+        "Options": [
+            "a) Surface volume",
+            "b) Suction volume",
+            "c) Swept volume",
+            "d) Secondary piston volume",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 295,
+        "Question": "What is the volumetric efficiency?",
+        "Options": [
+            "a) VP / VS",
+            "b) VC / VS",
+            "c) VS / VC",
+            "d) VS / VP",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 296,
+        "Question": "Pressure or compression ratio is always __________",
+        "Options": [
+            "a) equal to one",
+            "b) less than one",
+            "c) greater than one",
+            "d) zero",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 297,
+        "Question": "What is the work done during an isothermal compression?",
+        "Options": [
+            "a) 2.3 mRT1 ln (p2 / p1)",
+            "b) 2.3 mRP1 ln (p2 / p1)",
+            "c) 2.3 mRT1 ln (p1 / p2)",
+            "d) mRT1 ln (p2 / p1)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 298,
+        "Question": "What is the work done during a polytropic compression?",
+        "Options": [
+            "a) [n / (n – 1)] mR (T2 – T1)",
+            "b) [n / (n + 1)] mR (T2 – T1)",
+            "c) [n / (n – 1)] mR (T2 + T1)",
+            "d) [n / (n + 1)] mR (T2 + T1)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 299,
+        "Question": "What is the work done during an isentropic compression?",
+        "Options": [
+            "a) [n / (n – 1)] mR (T2 – T1)",
+            "b) [n / (n + 1)] mR (T2 – T1)",
+            "c) [n / (n – 1)] mR (T2 + T1)",
+            "d) [n / (n + 1)] mR (T2 + T1)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 300,
+        "Question": "What is the expression for optimum intercooler or intermediate pressure P2 if the cooling ratio is fixed in a compound compression refrigeration system with intercooling?",
+        "Options": [
+            "a) P2 = P1 / P3",
+            "b) P2 = P3 / P1",
+            "c) P2 = √P1 x P3",
+            "d) P2 = ∛P1 x P3",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 301,
+        "Question": "Where is the centrifugal compressor mostly suitable?",
+        "Options": [
+            "a) Small displacements and low condensing pressures",
+            "b) Small displacements and high condensing pressures",
+            "c) Large displacements and low condensing pressures",
+            "d) Large displacements and high condensing pressures",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 302,
+        "Question": "Where is the reciprocating compressor mostly suitable?",
+        "Options": [
+            "a) Small displacements and low condensing pressures",
+            "b) Small displacements and high condensing pressures",
+            "c) Large displacements and low condensing pressures",
+            "d) Large displacements and high condensing pressures",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 303,
+        "Question": "Where is the reciprocating compressor mostly suitable?",
+        "Options": [
+            "a) Small displacements and low condensing pressures",
+            "b) Small displacements and high condensing pressures",
+            "c) Large displacements and low condensing pressures",
+            "d) Large displacements and high condensing pressures",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 304,
+        "Question": "Where is the centrifugal compressor mostly suitable?",
+        "Options": [
+            "a) Small displacements and low condensing pressures",
+            "b) Small displacements and high condensing pressures",
+            "c) Large displacements and low condensing pressures",
+            "d) Large displacements and high condensing pressures",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 305,
+        "Question": "What is the required condenser and evaporator pressure ratio for reciprocating compressors?",
+        "Options": [
+            "a) > 1.5 bar",
+            "b) < 1.5 bar",
+            "c) 1 bar",
+            "d) > 3.5 bar",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 306,
+        "Question": "What is the required condenser and evaporator pressure ratio for rotary compressors?",
+        "Options": [
+            "a) > 1.5 bar",
+            "b) < 1.5 bar",
+            "c) 1 bar",
+            "d) > 3.5 bar",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 307,
+        "Question": "What is the required condenser and evaporator pressure ratio for centrifugal compressors?",
+        "Options": [
+            "a) > 1.5 bar",
+            "b) < 1.5 bar",
+            "c) 1 bar",
+            "d) > 3.5 bar",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 308,
+        "Question": "Which of the following is the condition to use two compressors in the refrigeration system?",
+        "Options": [
+            "a) The desired temperature is 3°C",
+            "b) The desired temperature is -3°C",
+            "c) The desired temperature is -50°C",
+            "d) The desired temperature is -5°C",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 309,
+        "Question": "Centrifugal compressors are used to handle _______ volume of refrigerant.",
+        "Options": [
+            "a) small",
+            "b) medium",
+            "c) large",
+            "d) very large",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 310,
+        "Question": "Reciprocating compressors are used to handle _______ volume of refrigerant.",
+        "Options": [
+            "a) small",
+            "b) medium",
+            "c) large",
+            "d) very large",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 311,
+        "Question": "Why is multi-stage compression used?",
+        "Options": [
+            "a) To improve C.O.P.",
+            "b) To decrease the refrigeration effect",
+            "c) To increase work",
+            "d) To increase leakage loss",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 312,
+        "Question": "What is the expression for optimum intercooler or intermediate pressure P2 if the cooling ratio is fixed in a compound compression refrigeration system with intercooling?",
+        "Options": [
+            "a) P2 = P1 / P3",
+            "b) P2 = P3 / P1",
+            "c) P2 = √P1 x P3",
+            "d) P2 = ∛P1 x P3",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 313,
+        "Question": "What is the value of optimum intermediate pressure is the cooling ratio is fixed in a compound VCR with intercooling having suction and discharge pressure as 2 and 8 bar respectively?",
+        "Options": [
+            "a) 2 bar",
+            "b) 4 bar",
+            "c) 6 bar",
+            "d) 8 bar",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 314,
+        "Question": "Which of the following is not true about single-stage compression?",
+        "Options": [
+            "a) Size of the cylinder is very large",
+            "b) Difficult to reject a good amount of heat in a lesser time of compression",
+            "c) Volumetric efficiency will be low",
+            "d) Safe at a higher temperature",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 315,
+        "Question": "What is the purpose of using a condenser?",
+        "Options": [
+            "a) To absorb heat",
+            "b) To reject heat",
+            "c) To convert liquid refrigerant to vapor refrigerant",
+            "d) To convert solid refrigerant to vapor refrigerant",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 316,
+        "Question": "Which of the following is not the criterion for the selection of the condenser?",
+        "Options": [
+            "a) The capacity of the condenser",
+            "b) Type of refrigerant used",
+            "c) Type of cooling medium available",
+            "d) Type of compressor and evaporator used",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 317,
+        "Question": "What is the expression for the load on the condenser?",
+        "Options": [
+            "a) QC = RE + W",
+            "b) QC = RE – W",
+            "c) QC = RE x W",
+            "d) QC = RE / W",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 318,
+        "Question": "What is the expression for the heat rejection factor?",
+        "Options": [
+            "a) HRF = W / RE",
+            "b) HRF = RE / W",
+            "c) HRF = QC / RE",
+            "d) HRF = RE / QC",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 319,
+        "Question": "What is the expression for the heat rejection factor in terms of C.O.P.?",
+        "Options": [
+            "a) 1 + C.O.P.",
+            "b) 1 – C.O.P.",
+            "c) 1 – 1 / C.O.P.",
+            "d) 1 + 1 / C.O.P.",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 320,
+        "Question": "Which of the following does not affect the refrigeration capacity of the condenser?",
+        "Options": [
+            "a) Material",
+            "b) Amount of contact",
+            "c) Temperature difference",
+            "d) Type of refrigerant",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 321,
+        "Question": "Materials form deposits inside the condenser water tubes is called _______",
+        "Options": [
+            "a) water rusting",
+            "b) water corrosion",
+            "c) water fouling",
+            "d) water failing",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 322,
+        "Question": "Which of the following is not the effect of water fouling?",
+        "Options": [
+            "a) Increase in heat transfer rate",
+            "b) Tube insulation",
+            "c) Reduction in heat transfer rate",
+            "d) Restrict water flow",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 323,
+        "Question": "What is the fouling factor?",
+        "Options": [
+            "a) Heat transfer coefficient",
+            "b) 1 / Heat transfer coefficient",
+            "c) \\(\\sqrt{Heat \\,transfer \\,coefficient}\\) ",
+            "d) 1 / (Heat transfer coefficient)2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 324,
+        "Question": "What is the pressure side of a refrigerating system in which condenser is used?",
+        "Options": [
+            "a) Low pressure",
+            "b) Zero pressure",
+            "c) Negative pressure",
+            "d) High pressure",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 325,
+        "Question": "What is the optimum temperature difference in Celsius for the operation of most air-cooled condensers and designed based on this difference?",
+        "Options": [
+            "a) 10",
+            "b) 14",
+            "c) 20",
+            "d) 28",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 326,
+        "Question": "What of the following uses natural convection air-cooled condensers?",
+        "Options": [
+            "a) Domestic refrigerators",
+            "b) High capacity room air conditioners",
+            "c) High capacity water coolers",
+            "d) Industrial air conditioners",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 327,
+        "Question": "Which of the following is true about shell and coil condensers?",
+        "Options": [
+            "a) water flows in the shell and refrigerant in the coil",
+            "b) refrigerant flows in the shell and water in the coil",
+            "c) water and refrigerant flow in the coil",
+            "d) water and refrigerant flow in the shell",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 328,
+        "Question": "What is the material of tubes used for shell and tube condenser in ammonia refrigeration system?",
+        "Options": [
+            "a) Aluminum",
+            "b) Brass",
+            "c) Steel",
+            "d) Copper",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 329,
+        "Question": "What is the condensing medium used in evaporative condensers?",
+        "Options": [
+            "a) air only",
+            "b) water only",
+            "c) ammonia",
+            "d) air and water",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 330,
+        "Question": "What is the value of Heat Rejection Factor if the C.O.P. 4.28?",
+        "Options": [
+            "a) 5.28",
+            "b) -3.28",
+            "c) 1.233",
+            "d) 0.766",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 331,
+        "Question": "What is the value of HRF if Work is 10 kW and refrigeration capacity is 40 kW?",
+        "Options": [
+            "a) 1.25",
+            "b) 0.25",
+            "c) 0.75",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 332,
+        "Question": "Which of the following cooling towers possess maximum heat transfer from air to water?",
+        "Options": [
+            "a) Natural Draft",
+            "b) Mechanical Draft",
+            "c) Natural and Mechanical Draft",
+            "d) Atmospheric Draft",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 333,
+        "Question": "How is the performance of the cooling tower indicated?",
+        "Options": [
+            "a) Wet-bulb temperature",
+            "b) Dry bulb temperature",
+            "c) Approach",
+            "d) Range",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 334,
+        "Question": "What is the difference between the temperature of entering and leaving water in the cooling tower?",
+        "Options": [
+            "a) Wet-bulb temperature",
+            "b) Dry bulb temperature",
+            "c) Approach",
+            "d) Range",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 335,
+        "Question": "What is the formula for the effectiveness of cooling tower from the following?",
+        "Options": [
+            "a) Range / (Range + Approach)",
+            "b) Approach / (Range + Approach)",
+            "c) Range / Approach",
+            "d) Approach / Range",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 336,
+        "Question": "A cooling tower brings water temperature to _________",
+        "Options": [
+            "a) WBT",
+            "b) DBT",
+            "c) DPT",
+            "d) Ambient WBT",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 337,
+        "Question": "What is the correct representation of range from the following?",
+        "Options": [
+            "a) Range = Cooling tower water outlet temperature – Wet bulb temperature",
+            "b) Range = Cooling tower water inlet temperature – Wet bulb temperature",
+            "c) Range = Cooling tower water outlet temperature – Dry bulb temperature",
+            "d) Range = Heat load in kcal per hour / Water circulation in liters per hour",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 338,
+        "Question": "What is L / G in terms of the cooling tower?",
+        "Options": [
+            "a) Length / Girth",
+            "b) Length / Gradient",
+            "c) Air mass flow rate / Water flow rate",
+            "d) Water flow rate / Air mass flow rate",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 339,
+        "Question": "Mechanical draft cooling tower size is ________ the size of the natural draft cooling tower.",
+        "Options": [
+            "a) smaller than",
+            "b) larger than",
+            "c) equal to the",
+            "d) very much larger than",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 340,
+        "Question": "Why is the evaporator used?",
+        "Options": [
+            "a) To improve C.O.P.",
+            "b) To decrease the refrigeration effect",
+            "c) To absorb heat",
+            "d) To reject heat",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 341,
+        "Question": "What is the pressure side of a refrigerating system in which evaporator is used?",
+        "Options": [
+            "a) Low pressure",
+            "b) Zero pressure",
+            "c) Negative pressure",
+            "d) High pressure",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 342,
+        "Question": "What evaporator does to the refrigerant coming from expansion valve in terms of state?",
+        "Options": [
+            "a) high-pressure liquid refrigerant",
+            "b) low-pressure liquid and vapor refrigerant",
+            "c) low-pressure vapor refrigerant",
+            "d) high-pressure vapor refrigerant",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 343,
+        "Question": "What is the formula for the capacity of evaporator?",
+        "Options": [
+            "a) Q = U A2 (T2 – T1)",
+            "b) Q = U A (T2 – T1)",
+            "c) Q = A (T2 – T1)",
+            "d) Q = U (T2 – T1)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 344,
+        "Question": "Which of the following is not a factor affecting the capacity of evaporator?",
+        "Options": [
+            "a) Velocity of refrigerant",
+            "b) The thickness of the evaporator coil wall",
+            "c) Material",
+            "d) Evaporator pressure",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 345,
+        "Question": "What is the value of the fluid side heat transfer coefficient when liquid flows through the evaporator shell?",
+        "Options": [
+            "a) C x m",
+            "b) C x (m)0.5",
+            "c) C x (m)2",
+            "d) C x (m)3",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 346,
+        "Question": "What is the value of fluid side heat transfer coefficient when air flows over finned coil by forced convection?",
+        "Options": [
+            "a) C x (m)0.1",
+            "b) C x (m)0.2",
+            "c) C x (m)0.3",
+            "d) C x (m)0.4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 347,
+        "Question": "What is the value of the fluid side heat transfer coefficient when air flows over cold pipes by natural convection?",
+        "Options": [
+            "a) 0.2 (Ta – Tm / D)1/4",
+            "b) 0.2 (Ta – Tm / D)",
+            "c) 0.2 (Ta – Tm / D)1/3",
+            "d) 0.2 (Ta – Tm / D)1/2",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 348,
+        "Question": "The bare tube evaporators are called as _______ evaporators.",
+        "Options": [
+            "a) extended surface",
+            "b) bare surface",
+            "c) pipe surface",
+            "d) prime surface",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 349,
+        "Question": "Which type of evaporator is generally used in home freezers, ice cream cabinets, etc?",
+        "Options": [
+            "a) Shell and coil evaporator",
+            "b) Finned evaporator",
+            "c) Shell and tube evaporator",
+            "d) Plate evaporator",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 350,
+        "Question": "Which type of evaporator is generally used for wine cooling and chilling oil in the petroleum industry?",
+        "Options": [
+            "a) Tube-in-tube evaporator",
+            "b) Finned evaporator",
+            "c) Shell and tube evaporator",
+            "d) Plate evaporator",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 351,
+        "Question": "Which type of evaporator is used in household refrigerators?",
+        "Options": [
+            "a) frosting evaporator",
+            "b) defrosting evaporator",
+            "c) non-frosting evaporator",
+            "d) non-corrosive evaporator",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 352,
+        "Question": "Which type of evaporator is generally used to cool drinking water?",
+        "Options": [
+            "a) Shell and tube evaporator",
+            "b) Finned evaporator",
+            "c) Shell and coil evaporator",
+            "d) Plate evaporator",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 353,
+        "Question": "What is the mixture of a number of gases?",
+        "Options": [
+            "a) Moist air",
+            "b) Dry air",
+            "c) Fresh air",
+            "d) Saturated air",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 354,
+        "Question": "Which of the following has the maximum contribution in the dry air?",
+        "Options": [
+            "a) Nitrogen",
+            "b) Argon",
+            "c) Carbon dioxide",
+            "d) Hydrogen",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 355,
+        "Question": "Mixture of dry air and water vapor is __________",
+        "Options": [
+            "a) moist air",
+            "b) dry air",
+            "c) fresh air",
+            "d) saturated air",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 356,
+        "Question": "The mixture of dry air and water vapor called when the air has diffused the maximum amount of water vapor into it is called ________",
+        "Options": [
+            "a) dry air",
+            "b) moist air",
+            "c) saturated air",
+            "d) specific humidity",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 357,
+        "Question": "What is the ratio of actual mass of water vapor in a unit mass of dry air to the mass of water vapor in the same mass of dry air when it is saturated at the same temperature?",
+        "Options": [
+            "a) Moist air",
+            "b) Dry air",
+            "c) Degree of saturation",
+            "d) Saturated air",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 358,
+        "Question": "What is the mass of water vapor present in 1 kg of dry air called?",
+        "Options": [
+            "a) Specific Humidity",
+            "b) Relative humidity",
+            "c) Degree of saturation",
+            "d) Saturated air",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 359,
+        "Question": "What is the ratio of actual mass of water vapor in a given volume of moist air to the mass of water vapor in the same volume of saturated air at the same pressure and temperature?",
+        "Options": [
+            "a) Specific Humidity",
+            "b) Relative humidity",
+            "c) Degree of saturation",
+            "d) Saturated air",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 360,
+        "Question": "What is the temperature of air recorded by a thermometer, when the moisture present in it starts condensing?",
+        "Options": [
+            "a) DBT",
+            "b) WBT",
+            "c) DPT",
+            "d) WBD",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 361,
+        "Question": "What is the mixture of dry air and water vapor called when the air has diffused the maximum amount of water vapor into it?",
+        "Options": [
+            "a) Dry air",
+            "b) Moist air",
+            "c) Saturated air",
+            "d) Specific humidity",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 362,
+        "Question": "What is the temperature of air recorded by thermometer when it is not affected by the moisture present in it?",
+        "Options": [
+            "a) WBT",
+            "b) DBT",
+            "c) DPT",
+            "d) Sub-zero Temperature",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 363,
+        "Question": "For unsaturated air, the value of DPT is _________ WBT.",
+        "Options": [
+            "a) less than",
+            "b) more than",
+            "c) equal to",
+            "d) much more than",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 364,
+        "Question": "What is the difference between DBT and WBT called?",
+        "Options": [
+            "a) DPD",
+            "b) DBD",
+            "c) Degree of saturation",
+            "d) WBD",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 365,
+        "Question": "What is the value of humidity ratio if pv = 0.387 bar and pa = 0.997 bar?",
+        "Options": [
+            "a) 0.482",
+            "b) 0.241",
+            "c) 0.122",
+            "d) 0.622",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 366,
+        "Question": "What is the value of humidity ratio if mv = 1.423 and ma = 3.589?",
+        "Options": [
+            "a) 0.1",
+            "b) 0.2",
+            "c) 0.4",
+            "d) 0.5",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 367,
+        "Question": "What is the value of relative humidity if mv = 2.901 and ms = 9.056?",
+        "Options": [
+            "a) 0.300",
+            "b) 0.330",
+            "c) 0.310",
+            "d) 0.320",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 368,
+        "Question": "What is the value of relative humidity if pv = 0.468 bar and ps = 0.893 bar?",
+        "Options": [
+            "a) 52 %",
+            "b) 54 %",
+            "c) 56 %",
+            "d) 190 %",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 369,
+        "Question": "What is the value of pb if pa = 1.48 bar and pv = 1.52 bar, according to Dalton’s law of partial pressures?",
+        "Options": [
+            "a) 1 bar",
+            "b) 2 bar",
+            "c) 3 bar",
+            "d) 4 bar",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 370,
+        "Question": "If DBT = 30°C, WBT = 20°C and Barometer reading is 740 mm of Hg. Find out DPT using steam tables.",
+        "Options": [
+            "a) 5°C",
+            "b) 35°C",
+            "c) 15°C",
+            "d) 25°C",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 371,
+        "Question": "If DBT = 30°C, WBT = 20°C and Barometer reading is 740 mm of Hg. Find out relative humidity using steam tables.",
+        "Options": [
+            "a) 40 %",
+            "b) 50 %",
+            "c) 30 %",
+            "d) 20 %",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 372,
+        "Question": "If DBT = 30°C, WBT = 20°C and Barometer reading is 740 mm of Hg. Find out specific humidity using steam tables.",
+        "Options": [
+            "a) 10.914 m3 / kg of dry air",
+            "b) 10.914",
+            "c) 10.914 kg / kg of dry air",
+            "d) 10.914 g / kg of dry air",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 373,
+        "Question": "If DBT = 30°C, WBT = 20°C and Barometer reading is 740 mm of Hg. Find out degree of saturation using steam tables.",
+        "Options": [
+            "a) 40 %",
+            "b) 39 %",
+            "c) 38 %",
+            "d) 35 %",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 374,
+        "Question": "If DBT = 30°C, WBT = 20°C and Barometer reading is 740 mm of Hg. Find out vapor density using steam tables.",
+        "Options": [
+            "a) 0.01216 kg / m3 of dry air",
+            "b) 0.01216 g / m3 of dry air",
+            "c) 0.01216 m3 / m3 of dry air",
+            "d) 0.01216 kg / kg of dry air",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 375,
+        "Question": "What is the humidity ratio in terms of mass?",
+        "Options": [
+            "a) mv / ma",
+            "b) ma / mv",
+            "c) pv / pa",
+            "d) pa / pv",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 376,
+        "Question": "What is the humidity ratio in terms of pressure?",
+        "Options": [
+            "a) 0.622 pv / pb",
+            "b) 0.622 pv / pa",
+            "c) 0.622 mv / mb",
+            "d) 0.622 mv / ma",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 377,
+        "Question": "Relative humidity is represented as __________",
+        "Options": [
+            "a) mv / ma",
+            "b) ma / mv",
+            "c) ps / pv",
+            "d) mv / ms",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 378,
+        "Question": "Which of the following is true, according to Dalton’s law of partial pressures?",
+        "Options": [
+            "a) pb = pa x pv",
+            "b) pb = pa – pv",
+            "c) pb = pa + pv",
+            "d) pa = pb + pv",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 379,
+        "Question": "What do vertical and uniformly spaced lines indicate on the psychrometric chart?",
+        "Options": [
+            "a) DPT",
+            "b) WBT",
+            "c) DBT",
+            "d) Specific humidity",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 380,
+        "Question": "Which of the following is represented by curved lines on the psychrometric chart?",
+        "Options": [
+            "a) Specific humidity",
+            "b) Relative humidity",
+            "c) WBT",
+            "d) DPT",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 381,
+        "Question": "What is represented by inclined straight lines but non-uniformly spaced on the psychrometric chart?",
+        "Options": [
+            "a) Specific humidity",
+            "b) Relative humidity",
+            "c) WBT",
+            "d) DPT",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 382,
+        "Question": "What is represented by horizontal lines but non-uniformly spaced on the psychrometric chart?",
+        "Options": [
+            "a) Specific humidity",
+            "b) Relative humidity",
+            "c) WBT",
+            "d) DPT",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 383,
+        "Question": "What is represented by inclined straight lines but uniformly spaced on the psychrometric chart?",
+        "Options": [
+            "a) Enthalpy",
+            "b) Relative humidity",
+            "c) WBT",
+            "d) DPT",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 384,
+        "Question": "What is represented by obliquely inclined straight lines but uniformly spaced on the psychrometric chart?",
+        "Options": [
+            "a) Enthalpy",
+            "b) Relative humidity",
+            "c) Specific volume",
+            "d) DPT",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 385,
+        "Question": "Specific humidity lines are also known as_________",
+        "Options": [
+            "a) moisture content lines",
+            "b) relative humidity",
+            "c) specific volume",
+            "d) moist lines",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 386,
+        "Question": "Relative humidity on saturation curve has value of ________% at various dry bulb temperatures.",
+        "Options": [
+            "a) 0",
+            "b) 50",
+            "c) 10",
+            "d) 100",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 387,
+        "Question": "Which of the following represents sensible cooling on the psychrometric chart?",
+        "Options": [
+            "a) Horizontal line",
+            "b) Vertical line",
+            "c) Inclined line",
+            "d) Curve",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 388,
+        "Question": "Which of the following represents sensible heating on the psychrometric chart?",
+        "Options": [
+            "a) Horizontal line",
+            "b) Vertical line",
+            "c) Inclined line",
+            "d) Curve",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 389,
+        "Question": "What is the range of DBT on the psychrometric chart usually used?",
+        "Options": [
+            "a) 0 to 30°C",
+            "b) 0 to 45°C",
+            "c) -6 to 45°C",
+            "d) -2 to 45°C",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 390,
+        "Question": "Which of the following is not correct to fill the blank: The psychrometric chart is normally drawn for standard atmospheric pressure of ________",
+        "Options": [
+            "a) 760 mm of Hg",
+            "b) 76 cm of Hg",
+            "c) 1.01325 bar",
+            "d) 1.01325 torr",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 391,
+        "Question": "What is the alternate name for thermodynamic wet-bulb temperature?",
+        "Options": [
+            "a) Isobaric WBT",
+            "b) Isobaric Saturation Temperature",
+            "c) Adiabatic WBT",
+            "d) Adiabatic Saturation Temperature",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 392,
+        "Question": "What is the temperature at which air can be brought to saturation state adiabatically?",
+        "Options": [
+            "a) Thermodynamic WBT",
+            "b) Thermodynamic DBT",
+            "c) Thermodynamic DPT",
+            "d) DPT",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 393,
+        "Question": "Which of the following is carried out to obtain saturation state at the thermodynamic WBT?",
+        "Options": [
+            "a) Condensation",
+            "b) Evaporation",
+            "c) Compression",
+            "d) Expansion",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 394,
+        "Question": "Which of the following is the major equipment in the simplest form is used to do saturation of air?",
+        "Options": [
+            "a) Chamber",
+            "b) Vessel",
+            "c) Insulated Chamber",
+            "d) Pipe",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 395,
+        "Question": "The arrangement for extra-water to flow into the chamber from its top is called as ___________",
+        "Options": [
+            "a) chamber ingot",
+            "b) chamber gate",
+            "c) make-up gate",
+            "d) make-up water",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 396,
+        "Question": "What is the ratio of humidity ratio of entering and discharging air?",
+        "Options": [
+            "a) W2 / W1 = (hs2 – hfw) + ha2 – ha1 / (hs1 – hfw)",
+            "b) W1 / W2 = (hs1 – hfw) + ha2 – ha1 / (hs2 – hfw)",
+            "c) W1 / W2 = (hs2 – hfw) + ha2 – ha1 / (hs1 – hfw)",
+            "d) W1 / W2 = (hs2 – hfw) + ha1 – ha2 / (hs1 – hfw)",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 397,
+        "Question": "The term (h2 – W2 hfw) is known as_________",
+        "Options": [
+            "a) sigma term",
+            "b) sigma heat",
+            "c) heat factor",
+            "d) heat term",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 398,
+        "Question": "If h1 = 32 kJ/kg, h2 = 41 kJ/kg, hfw = 49 kJ/kg, W1 = 0.0109 kg/kg of dry air and W2 = 0.0297 kg/kg of dry air then what is the value of sigma heat?",
+        "Options": [
+            "a) 41.0865",
+            "b) 39.5447",
+            "c) 38.9013",
+            "d) 45.8775",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 399,
+        "Question": "What is the inefficiency of the coil to attain the desired temperature called?",
+        "Options": [
+            "a) By-pass factor",
+            "b) Effectiveness",
+            "c) Efficiency",
+            "d) By-pressure factor",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 400,
+        "Question": "What is the number of fins provided in a unit length called?",
+        "Options": [
+            "a) By-pass",
+            "b) Distance",
+            "c) Pitch",
+            "d) Addendum",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 401,
+        "Question": "Which of the following is true about the effect of velocity on the by-pass factor?",
+        "Options": [
+            "a) decreases with an increase in velocity of air passing through it",
+            "b) remains unchanged with an increase in velocity of air passing through it",
+            "c) may increase or decrease with an increase in velocity of air passing through it depending upon the condition of air entering",
+            "d) increases with an increase in velocity of air passing through it",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 402,
+        "Question": "The by-pass factor of the coil ___________ with _________ in fin spacing.",
+        "Options": [
+            "a) increases, increase",
+            "b) decreases, decrease",
+            "c) increases, decrease",
+            "d) decreases, increase",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 403,
+        "Question": "The by-pass factor of the coil ___________ with _________ in number of rows of fins.",
+        "Options": [
+            "a) increases, increase",
+            "b) decreases, decrease",
+            "c) increases, decrease",
+            "d) decreases, increase",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 404,
+        "Question": "Which of the following does not affect the by-pass factor?",
+        "Options": [
+            "a) Pitch of the coil fins",
+            "b) Velocity of air",
+            "c) Weight of apparatus",
+            "d) Fin spacing",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 405,
+        "Question": "What is the By-pass factor for heating coil, if td1 = temperature at entry, td2 = temperature at exit and td3 = coil temperature?",
+        "Options": [
+            "a) td3 – td1 / td3 – td1",
+            "b) td3 – td2 / td3 – td1",
+            "c) td3 – td2 / td2 – td1",
+            "d) td3 – td2 / td1 – td2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 406,
+        "Question": "What is the By-pass factor for cooling coil, if td1 = temperature at entry, td2 = temperature at exit and td3 = coil temperature?",
+        "Options": [
+            "a) td3 – td1 / td3 – td1",
+            "b) td3 – td2 / td3 – td1",
+            "c) td3 – td2 / td2 – td1",
+            "d) td2 – td3 / td1 – td3",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 407,
+        "Question": "If the value of BPF for one row of a coil is y then what is the value of BPF for n similar rows?",
+        "Options": [
+            "a) n / y",
+            "b) n + y",
+            "c) (y)n",
+            "d) n x y",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 408,
+        "Question": "What is the value of sensible heat given out by the coil?",
+        "Options": [
+            "a) U Ac tm",
+            "b) U Ac",
+            "c) U tm",
+            "d) U Ac2 tm",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 409,
+        "Question": "What is the formula of logarithmic mean temperature in terms of By-pass factor?",
+        "Options": [
+            "a) Tm = td2 – td1 / loge [1/BPF] ",
+            "b) Tm = td2 – td1 / log10 [BPF] ",
+            "c) Tm = td2 – td1 / loge [BPF] ",
+            "d) Tm = td2 – td3 / loge [BPF] ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 410,
+        "Question": "What is the efficiency of the coil?",
+        "Options": [
+            "a) 1 + BPF",
+            "b) 1 / BPF",
+            "c) BPF",
+            "d) 1 – BPF",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 411,
+        "Question": "What is the contact factor for heating coil, if td1 = temperature at entry, t2 = temperature at exit and td3 = coil temperature?",
+        "Options": [
+            "a) td3 – td1 / td3 – td1",
+            "b) td2 – td1 / td3 – td1",
+            "c) td3 – td2 / td2 – td1",
+            "d) td3 – td2 / td1 – td2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 412,
+        "Question": "What is the contact factor for cooling coil, if td1 = temperature at entry, td2 = temperature at exit and td3 = coil temperature?",
+        "Options": [
+            "a) td1 – td2 / td1 – td3",
+            "b) td2 – td1 / td3 – td1",
+            "c) td3 – td2 / td2 – td1",
+            "d) td3 – td2 / td1 – td2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 413,
+        "Question": "What is the By-pass factor for heating coil, if td1 = 19°C, td2 = 25°C and td3 = 37°C?",
+        "Options": [
+            "a) 0.75",
+            "b) 0.4",
+            "c) 0.7",
+            "d) 0.1",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 414,
+        "Question": "What is the By-pass factor for cooling coil, if td1 = 49°C, td2 = 36°C and td3 = 30°C?",
+        "Options": [
+            "a) 0.315",
+            "b) 0.31",
+            "c) 0.320",
+            "d) 0.3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 415,
+        "Question": "If the value of BPF for one row of the coil is one, then what is the value of BPF for 3872 similar rows?",
+        "Options": [
+            "a) 3872",
+            "b) 3871",
+            "c) 3873",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 416,
+        "Question": "If the value of BPF for one row of the coil is 0.4, then what is the value of BPF for 12 similar rows?",
+        "Options": [
+            "a) 0.00000167",
+            "b) 0.0000167",
+            "c) 0.00167",
+            "d) 0.000167",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 417,
+        "Question": "What is the value of sensible heat given out by the coil, if U = 198 W/m2 K, Ac = 11 m2 and tm = 0°C?",
+        "Options": [
+            "a) 1",
+            "b) 0",
+            "c) 594594",
+            "d) 543636",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 418,
+        "Question": "What is the value of BPF, if U = 1.9 W/m2 K, Ac = 1.1 m2 and ma = 0.97 kg?",
+        "Options": [
+            "a) 0.14",
+            "b) 0.12",
+            "c) 0.13",
+            "d) 0.15",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 419,
+        "Question": "What is the value of logarithmic mean temperature if td1 = 300 K, td2 = 400 K and BPF = 0.75?",
+        "Options": [
+            "a) 70°C",
+            "b) 79°C",
+            "c) 85°C",
+            "d) 75°C",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 420,
+        "Question": "What is the efficiency of the coil, if BPF = 0.6913?",
+        "Options": [
+            "a) 1.6913",
+            "b) 0.4467",
+            "c) 0.3087",
+            "d) 1.4467",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 421,
+        "Question": "What is the contact factor for heating coil, if td1 = 11°C, td2 = 32°C and td3 = 47°C?",
+        "Options": [
+            "a) 0.5833",
+            "b) 0.4833",
+            "c) 0.7833",
+            "d) 0.1833",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 422,
+        "Question": "What is the contact factor for cooling coil, if td1 = 44°C, td2 = 26°C and td3 = 19°C?",
+        "Options": [
+            "a) 0.62",
+            "b) 0.72",
+            "c) 0.78",
+            "d) 0.18",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 423,
+        "Question": "Which of the following has the highest DBT in the chart of outside summer design conditions?",
+        "Options": [
+            "a) Agra",
+            "b) Ambala",
+            "c) Banaras",
+            "d) Bangalore",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 424,
+        "Question": "Which of the following has the lowest DBT in the chart of outside summer design conditions?",
+        "Options": [
+            "a) Cochin",
+            "b) Darjeeling",
+            "c) Jaipur",
+            "d) Srinagar",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 425,
+        "Question": "Which of the following has the highest WBT in the chart of outside summer design conditions?",
+        "Options": [
+            "a) Ahmednagar",
+            "b) Baroda",
+            "c) Cuttack",
+            "d) Trivandrum",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 426,
+        "Question": "Which of the following has the lowest WBT in the chart of outside summer design conditions?",
+        "Options": [
+            "a) Cochin",
+            "b) Srinagar",
+            "c) Mahabaleshwar",
+            "d) Darjeeling",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 427,
+        "Question": "What is the value of optimum effective temperature in winter?",
+        "Options": [
+            "a) 17",
+            "b) 18",
+            "c) 19",
+            "d) 20",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 428,
+        "Question": "Which of the following has the highest relative humidity in the chart of outside summer design conditions?",
+        "Options": [
+            "a) Aligarh",
+            "b) Bhopal",
+            "c) Chennai",
+            "d) Trivandrum",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 429,
+        "Question": "Which of the following has the lowest relative humidity in the chart of outside summer design conditions?",
+        "Options": [
+            "a) Jaipur",
+            "b) Chandigarh",
+            "c) Indore",
+            "d) Mysore",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 430,
+        "Question": "What is the value of the optimum effective temperature in summer?",
+        "Options": [
+            "a) 23",
+            "b) 22",
+            "c) 21",
+            "d) 24",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 431,
+        "Question": "Which of the following has the highest effective temperature in the chart of outside summer design conditions?",
+        "Options": [
+            "a) Ahmedabad",
+            "b) Allahabad",
+            "c) Banaras",
+            "d) Cuttack",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 432,
+        "Question": "Which of the following has the lowest effective temperature in the chart of outside summer design conditions?",
+        "Options": [
+            "a) Srinagar",
+            "b) Shimla",
+            "c) Darjeeling",
+            "d) Surat",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 433,
+        "Question": "Which of the following is the odd man out in terms of dry bulb temperature?",
+        "Options": [
+            "a) Ambala",
+            "b) Rajpur",
+            "c) Jodhpur",
+            "d) Pune",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 434,
+        "Question": "Relative humidity at Agra is _____________ the relative humidity at Kanpur.",
+        "Options": [
+            "a) higher than",
+            "b) lower than",
+            "c) equal to",
+            "d) much higher than",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 435,
+        "Question": "Which of the cities has the lowest WBT in the chart?",
+        "Options": [
+            "a) Surat",
+            "b) Shimla",
+            "c) Lucknow",
+            "d) Mumbai",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 436,
+        "Question": "What is the formula for m1 / m2 in terms of enthalpies for adiabatic mixing of two streams?",
+        "Options": [
+            "a) h1 – h2 / h1 – h3",
+            "b) h3 – h2 / h1 – h3",
+            "c) h3 – h2 / h2 – h3",
+            "d) h3 – h2 / h1 – h2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 437,
+        "Question": "What is the formula for m1 / m2 in terms of specific humidity for adiabatic mixing of two streams?",
+        "Options": [
+            "a) W2 – W1 / W1 – W3",
+            "b) W3 – W1 / W1 – W3",
+            "c) W3 – W2 / W1 – W3",
+            "d) W3 – W2 / W2 – W3",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 438,
+        "Question": "Which of the following is true for the adiabatic mixing of two streams?",
+        "Options": [
+            "a) m3 = m3 – m1",
+            "b) m2 = m1 + m3",
+            "c) m1 = m3 + m2",
+            "d) m3 = m1 – m2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 439,
+        "Question": "When the adiabatic mixing is carried out, the air having ______ enthalpies and ____________ specific humidities are mixed.",
+        "Options": [
+            "a) similar, similar",
+            "b) different, similar",
+            "c) similar, different",
+            "d) different, different",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 440,
+        "Question": "What is the value of m1 / m2 if h1 = 81 kJ/ kg of dry air, h2 = 46 kJ/ kg of dry air and h3 = 58 kJ/ kg of dry air?",
+        "Options": [
+            "a) 1",
+            "b) 0",
+            "c) 0.51",
+            "d) 0.52",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 441,
+        "Question": "What is the value of m1 / m2 if W1 = 0.0157 kg/ kg of dry air, W2 = 0.0084 kg / kg of dry air and W3 = 0.0103 kJ/ kg of dry air?",
+        "Options": [
+            "a) 0.31",
+            "b) 0.28",
+            "c) 0.35",
+            "d) 0.52",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 442,
+        "Question": "What is the value of one of the mass before mixing if the other mass is 1.98 kg, and the final is 4.22 kg?",
+        "Options": [
+            "a) 2.24",
+            "b) 1.98",
+            "c) 4.22",
+            "d) 6.20",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 443,
+        "Question": "What is the value of final enthalpy if the enthalpies before mixing were 50 and 28 kJ / kg of dry air respectively and m2 / m1 = 2?",
+        "Options": [
+            "a) 38.67",
+            "b) 48.67",
+            "c) 40.05",
+            "d) 52",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 444,
+        "Question": "Which of the following denotes Humidification process on the psychrometric chart?",
+        "Options": [
+            "a) A horizontal line with an arrow towards right",
+            "b) Vertical line with arrow upwards",
+            "c) Horizontal line with an arrow towards right",
+            "d) Vertical line with arrow downwards",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 445,
+        "Question": "Which of the following denotes dehumidification process on the psychrometric chart?",
+        "Options": [
+            "a) A horizontal line with an arrow towards the right",
+            "b) Vertical line with arrow upwards",
+            "c) A horizontal line with an arrow towards the right",
+            "d) Vertical line with arrow downwards",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 446,
+        "Question": "Which of the following is denoted by LH = (h2 – h1) = hfg (W2 – W1)?",
+        "Options": [
+            "a) Sensible cooling",
+            "b) Sensible heating",
+            "c) Humidification",
+            "d) Dehumidification",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 447,
+        "Question": "Which of the following is denoted by LH = (h1 – h2) = hfg (W1 – W2)?",
+        "Options": [
+            "a) Sensible cooling",
+            "b) Sensible heating",
+            "c) Humidification",
+            "d) Dehumidification",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 448,
+        "Question": "What is the relation between DBT and WBT if the relative humidity is 100%?",
+        "Options": [
+            "a) DBT = WBT",
+            "b) DBT > WBT",
+            "c) DBT ≫ WBT",
+            "d) DBT < WBT",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 449,
+        "Question": "The minimum temperature to which moist air can be cooled under ideal conditions in a spray washer is ___________",
+        "Options": [
+            "a) DPT of inlet air",
+            "b) Water inlet temperature",
+            "c) WBT of inlet air",
+            "d) Water outlet temperature",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 450,
+        "Question": "Which of the following process is used in winter air conditioning?",
+        "Options": [
+            "a) Humidification",
+            "b) Dehumidification",
+            "c) Heating and Humidification",
+            "d) Cooling and Dehumidification",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 451,
+        "Question": "Which of the following process is used in summer air conditioning?",
+        "Options": [
+            "a) Humidification",
+            "b) Dehumidification",
+            "c) Heating and Humidification",
+            "d) Cooling and Dehumidification",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 452,
+        "Question": "What is the value of Latent heat transfer in the process of humidification having enthalpies as 20 and 40 kJ / kg of dry air respectively?",
+        "Options": [
+            "a) 60",
+            "b) 40",
+            "c) -20",
+            "d) 20",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 453,
+        "Question": "What is the value of Latent heat transfer in the process of dehumidification having enthalpies as 19.45 and 13.67 kJ/ kg of dry air respectively?",
+        "Options": [
+            "a) 5.78",
+            "b) -5.78",
+            "c) 33.12",
+            "d) -33.12",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 454,
+        "Question": "What is the value of Latent heat transfer in a process of humidification having hfg = 10 kJ / kg of dry air, W1 = 0.0071 kJ / kg of dry air and W2 = 0.0017 kJ / kg of dry air?",
+        "Options": [
+            "a) 0.054",
+            "b) 0.0054",
+            "c) 0.54",
+            "d) 5.4",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 455,
+        "Question": "During humidification process the dry bulb temperature ___________",
+        "Options": [
+            "a) increases",
+            "b) decreases",
+            "c) tends to zero",
+            "d) remains the same",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 456,
+        "Question": "Which of the following is not an indirect method of air-washer humidification?",
+        "Options": [
+            "a) Using vaporization after cooling",
+            "b) Using heated spray water",
+            "c) Using re-circulated spray water without prior heating of air",
+            "d) By pre-heating the air and then washing it with re-circulated air",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 457,
+        "Question": "What is the value of optimum effective temperature in winter?",
+        "Options": [
+            "a) 17",
+            "b) 18",
+            "c) 19",
+            "d) 20",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 458,
+        "Question": "What is the value of the optimum effective temperature in summer?",
+        "Options": [
+            "a) 23",
+            "b) 22",
+            "c) 21",
+            "d) 24",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 459,
+        "Question": "Which of the following provides the relationship between the optimum indoor effective temperature and optimum outdoor effective temperature?",
+        "Options": [
+            "a) Clothing",
+            "b) Occupants",
+            "c) Duration of stay",
+            "d) Climatic and seasonal differences",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 460,
+        "Question": "A person with _________ clothing needs ___________ optimum temperature.",
+        "Options": [
+            "a) heavy, higher",
+            "b) heavy, lesser",
+            "c) light, higher",
+            "d) light, lesser",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 461,
+        "Question": "A person with heavy clothing needs ____________ optimum temperature as compared to a person with light clothing.",
+        "Options": [
+            "a) higher",
+            "b) lesser",
+            "c) zero",
+            "d) same",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 462,
+        "Question": "What is the value of an increase in effective temperature do women need than men?",
+        "Options": [
+            "a) about 1°C",
+            "b) about 0.25°C",
+            "c) about 0.5°C",
+            "d) about 2°C",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 463,
+        "Question": "Which of the following is true about effective temperature between young and older people?",
+        "Options": [
+            "a) Tyoung > Told",
+            "b) Tyoung < Told",
+            "c) Tyoung ≪ Told",
+            "d) Tyoung = Told",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 464,
+        "Question": "What is the value of an increase in effective temperature do children need than older ones in case of maternity halls?",
+        "Options": [
+            "a) 1 to 2°C",
+            "b) 2 to 3°C",
+            "c) 3 to 4°C",
+            "d) 0 to 1°C",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 465,
+        "Question": "What is the effective temperature needed if the duration of stay in a room is short?",
+        "Options": [
+            "a) Higher",
+            "b) Lower",
+            "c) Much lower",
+            "d) Has no effect of duration of stay",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 466,
+        "Question": "What is the effective temperature needed if a person is entering his office?",
+        "Options": [
+            "a) Higher",
+            "b) Lower",
+            "c) Much higher",
+            "d) Has no effect of duration of stay",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 467,
+        "Question": "What is the effective temperature needed if a person is doing a heavy activity like working with heavy loads?",
+        "Options": [
+            "a) Higher",
+            "b) Lower",
+            "c) Much higher",
+            "d) Has no effect of kind of activity",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 468,
+        "Question": "What is the effective temperature needed if a person is sitting in a cinema hall?",
+        "Options": [
+            "a) Higher",
+            "b) Lower",
+            "c) Much lower",
+            "d) Has no effect of kind of activity",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 469,
+        "Question": "What is the effective temperature needed in a hall with a high density of occupants?",
+        "Options": [
+            "a) Higher",
+            "b) Lower",
+            "c) Much higher",
+            "d) Has no effect of density of occupants",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 470,
+        "Question": "Which of the following is true about the optimum effective temperature for human comfort?",
+        "Options": [
+            "a) Same in winter and summer",
+            "b) Not dependent on season",
+            "c) Lower in winter than in summer",
+            "d) Higher in winter than in summer",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 471,
+        "Question": "The heat production from a normal healthy man when asleep is about _________",
+        "Options": [
+            "a) 50 W",
+            "b) 40 W",
+            "c) 70 W",
+            "d) 60 W",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 472,
+        "Question": "When the heat stored in the body is ________ the human body feels comfortable.",
+        "Options": [
+            "a) zero",
+            "b) infinite",
+            "c) positive",
+            "d) negative",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 473,
+        "Question": "Which of the following does not mainly a factor of dependency for the degree of warmth or cold?",
+        "Options": [
+            "a) Relative humidity",
+            "b) WBT",
+            "c) Air velocity",
+            "d) DBT",
+            ""
+        ],
+        "Answer": "Answer: d"
+    }
+]

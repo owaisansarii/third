@@ -1,0 +1,4766 @@
+[
+    {
+        "id": 1,
+        "Question": "For any integer m, square of the number is of the form ______ or ______",
+        "Options": [
+            "a) 3m + 3, 3m – 2",
+            "b) 3m – 2, 3m + 2",
+            "c) 3m + 2, 3m – 3",
+            "d) 3m, 3m + 1",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 2,
+        "Question": "A number when divided by 60 gives 35 as quotient and leaves 81 as remainder. What is the number?",
+        "Options": [
+            "a) 2121",
+            "b) 4151",
+            "c) 2181",
+            "d) 3171",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 3,
+        "Question": "When a number is divided by 3 it leaves remainder as 5. What will be the remainder when 3n + 3 are divided by 3?",
+        "Options": [
+            "a) 0",
+            "b) 3",
+            "c) 9",
+            "d) 6",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 4,
+        "Question": "The HCF of 80 and 567 is ___________",
+        "Options": [
+            "a) 5",
+            "b) 4",
+            "c) 1",
+            "d) 6",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 5,
+        "Question": "A number in the form of 6n, where n belongs to natural numbers, can never end with the digit",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 2",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 6,
+        "Question": "If the HCF of two numbers is 1 and the LCM is 3395. What is the other number if one of them is 97?",
+        "Options": [
+            "a) 61",
+            "b) 57",
+            "c) 43",
+            "d) 35",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 7,
+        "Question": "Which of the following is a composite number?",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 9",
+            "d) 7",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 8,
+        "Question": "Which of the following is a prime number?",
+        "Options": [
+            "a) 31",
+            "b) 52",
+            "c) 21",
+            "d) 32",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 9,
+        "Question": "The least common multiple of 135 and 24 is _________",
+        "Options": [
+            "a) 90",
+            "b) 360",
+            "c) 240",
+            "d) 1080",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 10,
+        "Question": "The highest common factor of 21 and 90 is _________",
+        "Options": [
+            "a) 3",
+            "b) 2",
+            "c) 1",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 11,
+        "Question": "The LCM of two numbers is 7991 and the two numbers are 61 and 131. What will be their HCF?",
+        "Options": [
+            "a) 2",
+            "b) 1",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 12,
+        "Question": "What will be the largest number that divides 100 and 25, and leaves 3 as remainder in each case?",
+        "Options": [
+            "a) 7",
+            "b) 5",
+            "c) 1",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 13,
+        "Question": "A bakery sells cookies in three boxes. The three boxes contain 60, 84 and 108 number of cookies. The baker wants to sells all the cookies in any of the three boxes. The least number of cookies that he can bake, in a day, so that he is able to sell all his cookies in any of the three boxes is _______",
+        "Options": [
+            "a) 5467",
+            "b) 2243",
+            "c) 1123",
+            "d) 3780",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 14,
+        "Question": "Two buckets contain 546 and 764 liters of water respectively. What will be maximum capacity of container which can measure the water of either buckets exact number of times?",
+        "Options": [
+            "a) 108",
+            "b) 54",
+            "c) 34",
+            "d) 456",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 15,
+        "Question": "If x is a number whose simplest form is \\(\\frac {p}{q}\\), where p and q are integers and q≠0, then x is a terminating decimal only when q is of the form _________",
+        "Options": [
+            "a) 3m×5n",
+            "b) 2m×6n",
+            "c) 2m×5n",
+            "d) 7m×5n",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 16,
+        "Question": "If x is a number whose simplest form is \\(\\frac {p}{q}\\), where p and q are integers and q ≠ 0, then x is a non-terminating repeating decimal only when q is not of the form ________",
+        "Options": [
+            "a) 2m×2n",
+            "b) 5m×5n",
+            "c) 2m×5n",
+            "d) 3m×4n",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 17,
+        "Question": "Which of the following rational is non-terminating repeating decimal?",
+        "Options": [
+            "a) 0.25",
+            "b) \\(\\frac {4}{5}\\) ",
+            "c) \\(\\frac {4}{55}\\) ",
+            "d) \\(\\frac {2}{5}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 18,
+        "Question": "The terminating rational number from the following numbers is _________",
+        "Options": [
+            "a) \\(\\frac {4}{9}\\) ",
+            "b) \\(\\frac {4}{3}\\) ",
+            "c) 0.146",
+            "d) \\(\\frac {4}{5}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 19,
+        "Question": "The simplest form of the rational number 0.196 is ________",
+        "Options": [
+            "a) \\(\\frac {1}{6}\\) ",
+            "b) \\(\\frac {3}{6}\\) ",
+            "c) \\(\\frac {13}{66}\\) ",
+            "d) \\(\\frac {2}{5}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 20,
+        "Question": "After how many places of decimal, will the decimal expansion of the rational number \\(\\frac {57}{2^4 5^6}\\) terminate?",
+        "Options": [
+            "a) 4",
+            "b) 6",
+            "c) 7",
+            "d) 8",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 21,
+        "Question": "From the following numbers, which number is not a rational number?",
+        "Options": [
+            "a) π",
+            "b) \\(\\frac {22}{7}\\) ",
+            "c) \\(\\frac {3}{4}\\) ",
+            "d) 0.666666…..",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 22,
+        "Question": "An irrational number has ________",
+        "Options": [
+            "a) Non-terminating decimal",
+            "b) Non-repeating decimal",
+            "c) Non-terminating and non-repeating decimal",
+            "d) Terminating decimal",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 23,
+        "Question": "Which of the following numbers is not an irrational number?",
+        "Options": [
+            "a) π",
+            "b) \\(\\frac {22}{7}\\) ",
+            "c) 1.5353353335….",
+            "d) 2.7878878887….",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 24,
+        "Question": "The graph of the polynomial 4x2-8x+3 cuts the x-axis at ________ and ________ points.",
+        "Options": [
+            "a) (\\(\\frac {3}{4}\\), 0), (\\(\\frac {1}{2}\\), 0)",
+            "b) (\\(\\frac {3}{2}\\), 0), (\\(\\frac {1}{2}\\), 0)",
+            "c) (\\(\\frac {3}{2}\\), 0), (\\(\\frac {1}{6}\\), 0)",
+            "d) (\\(\\frac {7}{2}\\), 0), (\\(\\frac {3}{2}\\), 0)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 25,
+        "Question": "The graph of the polynomial 2x2-8x+5 cuts the y-axis at __________",
+        "Options": [
+            "a) (6, 0)",
+            "b) (0, 7)",
+            "c) (0, 5)",
+            "d) (8, 9)",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 26,
+        "Question": "How many points will the graph of x2+2x+1 will cut the x-axis?",
+        "Options": [
+            "a) 3",
+            "b) 1",
+            "c) 2",
+            "d) 0",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 27,
+        "Question": "If the graph of a polynomial cuts the x-axis at 3 points, then the polynomial is ______",
+        "Options": [
+            "a) Linear",
+            "b) Quadratic",
+            "c) Cubic",
+            "d) Biquadratic",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 28,
+        "Question": "What will be the nature of the zeros of a quadratic polynomial if it cuts the x-axis at two different points?",
+        "Options": [
+            "a) Real",
+            "b) Distinct",
+            "c) Real, Distinct",
+            "d) Complex",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 29,
+        "Question": "A real number is called zeros of the polynomial p(x) if _________",
+        "Options": [
+            "a) p(α)=4",
+            "b) p(α)=1",
+            "c) p(α)≠0",
+            "d) p(α)=0",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 30,
+        "Question": "Which of the following is a polynomial?",
+        "Options": [
+            "a) x2+2x+5",
+            "b) √x+2x+4",
+            "c) x\\(\\frac {2}{3}\\)+10x",
+            "d) 5x+\\(\\frac {5}{x}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 31,
+        "Question": "The biquadratic polynomial from the following is ______",
+        "Options": [
+            "a) (x2+3)(x2-3)",
+            "b) x2-7",
+            "c) x7+x6+x5",
+            "d) 5x-3",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 32,
+        "Question": "Which of the following is not a polynomial?",
+        "Options": [
+            "a) x2+5x+10",
+            "b) √x+2x+4",
+            "c) x10+10x",
+            "d) 5x+4",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 33,
+        "Question": "If the zeros of a polynomial are 3 and -5, then they cut the x-axis at ____ and _____ points.",
+        "Options": [
+            "a) (8, 0) and (-4, 0)",
+            "b) (3, -3) and (-5, 5)",
+            "c) (-3, 0) and (5, 0)",
+            "d) (3, 0) and (-5, 0)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 34,
+        "Question": "If the graph of the quadratic polynomial is completely above or below the x-axis, then the nature of roots of the polynomial is _____",
+        "Options": [
+            "a) Real and Distinct",
+            "b) Distinct",
+            "c) Real",
+            "d) Complex",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 35,
+        "Question": "The zeros of the polynomial 18x2-27x+7 are ___________",
+        "Options": [
+            "a) \\(\\frac {7}{6}, \\frac {1}{3}\\) ",
+            "b) \\(\\frac {-7}{6}, \\frac {1}{3}\\) ",
+            "c) \\(\\frac {7}{6}, \\frac {-1}{3}\\) ",
+            "d) \\(\\frac {7}{3}, \\frac {1}{3}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 36,
+        "Question": "What will be the polynomial if its zeros are 3, -3, 9 and -9?",
+        "Options": [
+            "a) x4-80x2+729",
+            "b) x4-90x2+729",
+            "c) x4-90x2+79",
+            "d) x4-100x2+729",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 37,
+        "Question": "The sum and product of zeros of a quadratic polynomial are 10 and \\(\\frac {5}{2}\\) respectively. What will be the quadratic polynomial?",
+        "Options": [
+            "a) 2x2-20x+10",
+            "b) 2x2-x+5",
+            "c) 2x2-20x+5",
+            "d) x2-20x+5",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 38,
+        "Question": "If α and β are the zeros of x2+20x-80, then the value of α+β is _______",
+        "Options": [
+            "a) -15",
+            "b) -5",
+            "c) -10",
+            "d) -20",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 39,
+        "Question": "If α and β are the zeros of 3x2-5x-15, then the value of αβ is _______",
+        "Options": [
+            "a) -5",
+            "b) -10",
+            "c) -15",
+            "d) -20",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 40,
+        "Question": "What will be the value of other zero, if one zero of the quadratic polynomial is 5 and the sum of the zeros is 10?",
+        "Options": [
+            "a) 10",
+            "b) 5",
+            "c) -5",
+            "d) -10",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 41,
+        "Question": "The value of a and b, if the zeros of x2+(a+5)x-(b-4) are -5 and 9 will be _________",
+        "Options": [
+            "a) 47, -5",
+            "b) -5, 47",
+            "c) -9, 49",
+            "d) -4, 45",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 42,
+        "Question": "What will be the value of k, if one zero of x2+(k-3)x-16=0 is additive inverse of other?",
+        "Options": [
+            "a) 4",
+            "b) -4",
+            "c) -3",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 43,
+        "Question": "If α and β are the zeros of 10x2+20x-80, then the value of \\(\\frac {1}{\\alpha } + \\frac {1}{\\beta }\\) is _______",
+        "Options": [
+            "a) \\(\\frac {5}{4}\\) ",
+            "b) \\(\\frac {1}{5}\\) ",
+            "c) \\(\\frac {3}{4}\\) ",
+            "d) \\(\\frac {1}{4}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 44,
+        "Question": "If α and β are the zeros of x2+35x-75, then _______",
+        "Options": [
+            "a) α+β<αβ",
+            "b) α+β>αβ",
+            "c) α+β=αβ",
+            "d) α+β≠αβ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 45,
+        "Question": "What will be the value of (α – β)2, if α and β are the zeros of 4x2 – 27x – 40?",
+        "Options": [
+            "a) \\(\\frac {1369}{16}\\) ",
+            "b) \\(\\frac {139}{16}\\) ",
+            "c) \\(\\frac {1369}{6}\\) ",
+            "d) \\(\\frac {19}{16}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 46,
+        "Question": "If β and γ are the zeros of the polynomial ax3 + bx2 + cx + d, then the value of α2 + β2 + γ2 is _________",
+        "Options": [
+            "a) \\(\\frac {b^2-2c}{a^2}\\) ",
+            "b) \\(\\frac {b^2-2ca}{a}\\) ",
+            "c) \\(\\frac {b^2-2ca}{a^2}\\) ",
+            "d) \\(\\frac {b^2+2ca}{a^2}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 47,
+        "Question": "The value of αβ + βγ + γα, if α, β and γ are the zeros of 2x3 – 4x2 + 9x – 7 is _______",
+        "Options": [
+            "a) \\(\\frac {9}{2}\\) ",
+            "b) \\(\\frac {3}{2}\\) ",
+            "c) \\(\\frac {9}{8}\\) ",
+            "d) \\(\\frac {9}{5}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 48,
+        "Question": "If α, β and γ are the zeros of 5x3 + 10x2 – x + 20, then the value of αβγ is _______",
+        "Options": [
+            "a) -1",
+            "b) 5",
+            "c) -10",
+            "d) -4",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 49,
+        "Question": "What will be the polynomial if the value of α + β + γ = -√3 , αβ + βγ + γα = 4 and = \\(\\frac {-5}{3}\\)?",
+        "Options": [
+            "a) x3 + 3x2 + 12x + 5",
+            "b) 3x3 + √3 x2 + 4x + 5",
+            "c) 3x3 + 3√3 x2 + 12x + 5",
+            "d) x3 + √3 x2 + 12x + 5",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 50,
+        "Question": "If α, β and γ are the zeros of 2x3 – 6x2 + 5x + 2, then the value of α + β + γ is _______",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 3",
+            "d) 2",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 51,
+        "Question": "If α and β are the zeros of x2 – (5 + 7k)x + 35k, such that α2 + β2 = 172 is then the value of k is _______",
+        "Options": [
+            "a) 6√3",
+            "b) √3",
+            "c) 3",
+            "d) 3√3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 52,
+        "Question": "If α and β are the zeros of x2 + (k2 – 1)x – 20, such that α2 – β2 – αβ = 29 and α – β = 9 then, the value of k is _______",
+        "Options": [
+            "a) 1",
+            "b) 0",
+            "c) 2",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 53,
+        "Question": "If α and β are the zeros of x2 + bx + c, then the polynomial having -α, -β as zeros is _______",
+        "Options": [
+            "a) -x2 – bx + c",
+            "b) x2 + bx + c",
+            "c) x2 – bx + c",
+            "d) x2 – bx – c",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 54,
+        "Question": "If the two zeros of the polynomial x3 – 9x2 -x + 9, are 1 and 9, then the third zero is ________",
+        "Options": [
+            "a) 9",
+            "b) 1",
+            "c) 2",
+            "d) -1",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 55,
+        "Question": "If α is a zero of the polynomial f(x), then the divisor of f(x) will be _________",
+        "Options": [
+            "a) x<α",
+            "b) x-α",
+            "c) x>α",
+            "d) x+α",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 56,
+        "Question": "If two of the zeros of the polynomial f(x)=x3+(6-√3)x2+(-1-√3)x+30-6√3 are 3 and -2 then, the other zero will be ____________",
+        "Options": [
+            "a) -√3",
+            "b) 5",
+            "c) 5-√3",
+            "d) 5+√3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 57,
+        "Question": "What will be the value of a and b if the polynomial f(x)=30x4-50x3+109x2-23x+25, when divided by 3x2-5x+10, gives 10x2+3 as quotient and ax+b as remainder?",
+        "Options": [
+            "a) a=8, b=5",
+            "b) a=-8, b=5",
+            "c) a=8, b=-5",
+            "d) a=-8, b=-5",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 58,
+        "Question": "The quotient if the polynomial f(x)=50x2-90x-25 leaves a remainder of -5, when divided by 5x-10, will be __________",
+        "Options": [
+            "a) 10x+2",
+            "b) 10x-2",
+            "c) -10x+2",
+            "d) -10x-2",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 59,
+        "Question": "The polynomial (x), if the divisor is 5x2, quotient is 2x+3, and remainder is 10x+20 is __________",
+        "Options": [
+            "a) 10x3-15x2-10x-20",
+            "b) -10x3-15x2+10x+20",
+            "c) 10x3+15x2+10x+20",
+            "d) -10x3+15x2+10x+20",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 60,
+        "Question": "When a polynomial f(x)=acx3+bcx+d, is divided by g(x), it leaves quotient as cx, and remainder as d. The value of g(x)will be _____",
+        "Options": [
+            "a) -ax2+b",
+            "b) ax2-b",
+            "c) ax2+b",
+            "d) x2+b",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 61,
+        "Question": "The real number that should be subtracted from the polynomial f(x)=15x5+70x4+35x3-135x2-40x-11 so that it is exactly divisible by 5x4+10x3-15x2-5x is ____________",
+        "Options": [
+            "a) -12",
+            "b) -11",
+            "c) 11",
+            "d) 12",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 62,
+        "Question": "What real number that should be added to the polynomial f(x)=81x2-31, so that it is exactly divisible by 9x+1?",
+        "Options": [
+            "a) 40",
+            "b) 10",
+            "c) 30",
+            "d) 20",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 63,
+        "Question": "If the polynomial f(x)=x2+kx-15,  is exactly divisible by x-5, then the value of k is _______",
+        "Options": [
+            "a) 3",
+            "b) 2",
+            "c) -3",
+            "d) -2",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 64,
+        "Question": "What will be the nature of the graph lines of the equations 5x-2y+9 and 15x-6y+1?",
+        "Options": [
+            "a) Parallel",
+            "b) Coincident",
+            "c) Intersecting",
+            "d) Perpendicular to each other",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 65,
+        "Question": "What will be the nature of the graph lines of the equations x+3y-2 and 2x-y+5?",
+        "Options": [
+            "a) Parallel",
+            "b) Coincident",
+            "c) Intersecting",
+            "d) Perpendicular to each other",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 66,
+        "Question": "What will be the nature of the graph lines of the equations 2x+5y+15 and 6x+15y+45?",
+        "Options": [
+            "a) Parallel",
+            "b) Coincident",
+            "c) Intersecting",
+            "d) Perpendicular to each other",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 67,
+        "Question": "What will be the value of k, if the lines given by (5+k)x-3y+15 and (k-1)x-y+19 are parallel?",
+        "Options": [
+            "a) 5",
+            "b) 4",
+            "c) 6",
+            "d) 7",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 68,
+        "Question": "What will be the value of k, if the lines given by 3x+ky-4 and 5x+(9+k)y+41 represent two lines intersecting at a point?",
+        "Options": [
+            "a) k≠\\(\\frac {7}{2}\\) ",
+            "b) k≠\\(\\frac {27}{8}\\) ",
+            "c) k=\\(\\frac {27}{2}\\) ",
+            "d) k≠\\(\\frac {27}{2}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 69,
+        "Question": "What will be the value of k, if the lines given by x+ky+3 and 2x+(k+2)y+6 are coincident?",
+        "Options": [
+            "a) 4",
+            "b) 2",
+            "c) 6",
+            "d) 8",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 70,
+        "Question": "The sum of a two digit number and the number obtained by reversing the order of the digits is 187. If the digits differ by 1, then what will be the number?",
+        "Options": [
+            "a) 67",
+            "b) 54",
+            "c) 89",
+            "d) 67",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 71,
+        "Question": "It takes 10 men and 6 women to finish a piece of work in 4 days, while it takes 5 men and 7 women to finish the same job in 6 days. What will be the time taken by 1 man and 1 woman to finish the job?",
+        "Options": [
+            "a) Man = 34 days, Woman = 45 days",
+            "b) Man = 45 days, Woman = 34 days",
+            "c) Man = 53 days, Woman = 96 days",
+            "d) Man = 54 days, Woman = 96 days",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 72,
+        "Question": "10 years ago, a woman was thrice the age of her daughter. Two years later her daughter’s age will be 30 more than the age of the mother. What are the present ages of the woman and the daughter?",
+        "Options": [
+            "a) 70 years, 40 years",
+            "b) 60 years, 40 years",
+            "c) 55 years, 25 years",
+            "d) 45 years, 20 years",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 73,
+        "Question": "The sum of two numbers is 13 and the sum of their reciprocals is \\(\\frac {13}{40}\\). What are the two numbers?",
+        "Options": [
+            "a) 5, 8",
+            "b) 10, 3",
+            "c) 12, 1",
+            "d) 9, 4",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 74,
+        "Question": "In a piggy bank the total number of coins of Rs. 5 and Rs. 1 is 100. If the total coins amount is 300, then what is the number of coins of each denomination?",
+        "Options": [
+            "a) 30, 70",
+            "b) 50, 50",
+            "c) 45, 55",
+            "d) 60, 40",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 75,
+        "Question": "A father gives Rs. 500 to his children every month. If the boy gets Rs. 100 then, the girl gets Rs. 200 and if the boy gets Rs. 100 the girl gets Rs. 150. How many children does he have?",
+        "Options": [
+            "a) 0",
+            "b) 3",
+            "c) 2",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 76,
+        "Question": "The sum of a number and its reciprocal is \\(\\frac {65}{8}\\). What is the number?",
+        "Options": [
+            "a) 8",
+            "b) 4",
+            "c) 2",
+            "d) 6",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 77,
+        "Question": "Find two numbers such that the sum of the numbers is 12 and the sum of their squares is 74.",
+        "Options": [
+            "a) 84",
+            "b) 75",
+            "c) 66",
+            "d) 48",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 78,
+        "Question": "The sum of two numbers is 13 and the sum of their reciprocals is \\(\\frac {13}{40}\\). What are the two numbers?",
+        "Options": [
+            "a) 76",
+            "b) 49",
+            "c) 58",
+            "d) 94",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 79,
+        "Question": "The sum of the squares of the left and right pages of a book is 481. What are the page numbers?",
+        "Options": [
+            "a) 11, 12",
+            "b) 12, 13",
+            "c) 17, 18",
+            "d) 15, 16",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 80,
+        "Question": "The sum of the squares of two consecutive positive even numbers is 3364. What are the two numbers?",
+        "Options": [
+            "a) 40, 42",
+            "b) 38, 40",
+            "c) 42, 44",
+            "d) 44, 46",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 81,
+        "Question": "The sum of the length and the breadth of a rectangle are 97 and the area of the rectangle is 1752. What will be the value of the length and breadth of the rectangle?",
+        "Options": [
+            "a) 42, 76",
+            "b) 73, 24",
+            "c) 45, 73",
+            "d) 22, 77",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 82,
+        "Question": "The product of digits of a two digit number is 21 and when 36 is subtracted from the number, the digits interchange their places. What is the number?",
+        "Options": [
+            "a) -24",
+            "b) 42",
+            "c) 73",
+            "d) -37",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 83,
+        "Question": "If the nth term of the AP is 5n+2. What will be the value of n so that the sum of the first n terms is 295?",
+        "Options": [
+            "a) 9",
+            "b) 10",
+            "c) 11",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 84,
+        "Question": "The denominator of a fraction is 1 more than 9 times the numerator. If the sum of the fraction and its reciprocal is \\(\\frac {101}{10}\\) then, what will be the fraction?",
+        "Options": [
+            "a) \\(\\frac {89}{10}\\) ",
+            "b) \\(\\frac {10}{89}\\) ",
+            "c) \\(\\frac {1}{10}\\) ",
+            "d) 10",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 85,
+        "Question": "If the sides of the right angled triangle is x+2, x+1, x then what is the value of x?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 86,
+        "Question": "What are the roots of the equation x2-9x-10?",
+        "Options": [
+            "a) 9, 1",
+            "b) -9, -1",
+            "c) -10, 1",
+            "d) 10, -1",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 87,
+        "Question": "How many methods are there to find the roots of a quadratic equation?",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 88,
+        "Question": "A metro travels at the speed of 396 km at a uniform speed. If the speed had been 5 km/hr. more, it would have taken 2 hours less for the same journey. What is the speed of the train?",
+        "Options": [
+            "a) 32 km/hr",
+            "b) 30 km/hr",
+            "c) 20.06 km/hr",
+            "d) 29.06 km/hr",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 89,
+        "Question": "The sum of areas of two squares is 625m2. If the difference in their perimeter is 20m then, what will be the sides of squares?",
+        "Options": [
+            "a) 10, 15",
+            "b) 15.28, 20.28",
+            "c) 13, 67.34",
+            "d) 35.67, 46.78",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 90,
+        "Question": "The diagonal of rectangular field is 20 more than the shorter side. If the longer side is 10 more than shorter side what will be the area of the rectangular field?",
+        "Options": [
+            "a) 1000",
+            "b) 1100",
+            "c) 1200",
+            "d) 1500",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 91,
+        "Question": "A rectangular field is 50 m long and 20 m wide. There is a path of equal width all around it having an area of 121 m2. What will be the width of the path?",
+        "Options": [
+            "a) 10.205 m",
+            "b) 11.205 m",
+            "c) 12.56 m",
+            "d) 13.76 m",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 92,
+        "Question": "The area of right angled triangle is 500 cm2. If the base of the triangle is 10 less than the altitude of the triangle, what are the dimensions of the triangle?",
+        "Options": [
+            "a) base = 32 cm, altitude = 42 cm",
+            "b) base = 42 cm, altitude = 62 cm",
+            "c) base = 76 cm, altitude = 42 cm",
+            "d) base = 32 cm, altitude = 55 cm",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 93,
+        "Question": "The perimeter of rectangle is 24 cm and area of rectangle is 35cm2. What are the dimensions of the rectangle?",
+        "Options": [
+            "a) l=9, b=5",
+            "b) l=12, b=5",
+            "c) l=5, b=7",
+            "d) l=5, b=5",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 94,
+        "Question": "The sum of ages of Eera and her sister is 46 and the product of their ages is 465. What are their ages?",
+        "Options": [
+            "a) Eera 31, Her sister 15",
+            "b) Eera 5, Her sister 10",
+            "c) Eera 12, Her sister 37",
+            "d) Eera 57, Her sister 12",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 95,
+        "Question": "The sum of a number and its square root is 110. What is the number?",
+        "Options": [
+            "a) 100",
+            "b) 102",
+            "c) 99",
+            "d) 98",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 96,
+        "Question": "For the equation x2 + 5x – 1, which of the following statements is correct?",
+        "Options": [
+            "a) The roots of the equation are equal",
+            "b) The discriminant of the equation is negative",
+            "c) The roots of the equation are real, distinct and irrational",
+            "d) The discriminant is equal to zero",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 97,
+        "Question": "If the roots of the equation ax2 + bx + c are real and equal, what will be the relation between a, b, c?",
+        "Options": [
+            "a) b = ±\\(\\sqrt {ac}\\) ",
+            "b) b = ±\\(\\sqrt {4c}\\) ",
+            "c) b = ±\\(\\sqrt {-4ac}\\) ",
+            "d) b = ±\\(\\sqrt {4ac}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 98,
+        "Question": "What will be the value of k, so that the roots of the equation are x2 + 2kx + 9 are imaginary?",
+        "Options": [
+            "a) -5 < k < 5",
+            "b) -3 < k < 3",
+            "c) 3 < k <  -3",
+            "d) -5 < k < 3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 99,
+        "Question": "What will be the nature of the roots of the quadratic equation 5x2 – 11x + 13?",
+        "Options": [
+            "a) Imaginary",
+            "b) Real",
+            "c) Irrational",
+            "d) Equal",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 100,
+        "Question": "What will be the nature of the roots of the quadratic equation x2 + 10x + 25?",
+        "Options": [
+            "a) Imaginary",
+            "b) Real",
+            "c) Irrational",
+            "d) Equal",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 101,
+        "Question": "What will be the nature of the roots of the quadratic equation 2x2 + 10x + 9?",
+        "Options": [
+            "a) Imaginary",
+            "b) Real",
+            "c) Irrational",
+            "d) Equal",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 102,
+        "Question": "What will be the value of a, for which the equation 5x2 + ax + 5 and x2 – 12x + a will have real roots?",
+        "Options": [
+            "a) a = 37",
+            "b) 10 < a < 36",
+            "c) 36 < a < 10",
+            "d) a = 9",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 103,
+        "Question": "What will be the value of k, if the roots of the equation (k – 4)x2 – 2kx + (k + 5) = 0 are equal?",
+        "Options": [
+            "a) 18",
+            "b) 19",
+            "c) 20",
+            "d) 21",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 104,
+        "Question": "Which term of the AP 2, 11, 20, 29…… is 290?",
+        "Options": [
+            "a) 32",
+            "b) 35",
+            "c) 30",
+            "d) 33",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 105,
+        "Question": "How many terms are there in the AP 9, 16, 23, 30……………282?",
+        "Options": [
+            "a) 50",
+            "b) 45",
+            "c) 40",
+            "d) 42",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 106,
+        "Question": "The middle term of the AP 11, 8, 5, …  ,  -79 will be?",
+        "Options": [
+            "a) 30",
+            "b) -34",
+            "c) 34",
+            "d) -30",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 107,
+        "Question": "Which term of the AP 80, 76, 72, 68……. is the first negative term?",
+        "Options": [
+            "a) 22",
+            "b) 21",
+            "c) 23",
+            "d) 24",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 108,
+        "Question": "What is the arithmetic mean between a2 and b2 ?",
+        "Options": [
+            "a) \\(\\frac {1}{2}\\) (a – b)",
+            "b) \\(\\frac {1}{2}\\) (a + b)",
+            "c) \\(\\frac {1}{2}\\) (a2 – b2)",
+            "d) \\(\\frac {1}{2}\\) (a2 + b2)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 109,
+        "Question": "What will be the value of k so that (2k + 1), (5k – 3) and (-8k + 5) are three consecutive terms of an AP?",
+        "Options": [
+            "a) 4",
+            "b) 3",
+            "c) \\(\\frac {3}{4}\\) ",
+            "d) \\(\\frac {4}{3}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 110,
+        "Question": "The sum of three numbers is 30 and their product 750. What are the three numbers?",
+        "Options": [
+            "a) -2, -6 and -10",
+            "b) 2, 6, and 10",
+            "c) 5, 10 and 15",
+            "d) -5, -10 and -15",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 111,
+        "Question": "Four numbers whose sum is 40 and sum of their squares is 480. What are the four numbers?",
+        "Options": [
+            "a) 4, 8, 12, and -16",
+            "b) 4, 8, 12, and 16",
+            "c) -4, 8, 12, and 16",
+            "d) 4, -8, 12, and 16",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 112,
+        "Question": "The sum of 5 numbers in AP is 10 and their product is 80. What are the five numbers?",
+        "Options": [
+            "a) 2 + 2√6, 2 + √6, 2, 2 – 2√6, 2 – √6",
+            "b) 2 + 2√6, 2 + √6, 2 – 2√6, 2 – √6",
+            "c) 2 + 2√6, 2 – √6, 2, 2 – 2√6, 2 – √6",
+            "d) 2 + 2√6, 2, 2 – 2√6, 2 – √6",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 113,
+        "Question": "What will be the nth term of the AP 1, 5, 9, 13, 17…….?",
+        "Options": [
+            "a) 4n – 3",
+            "b) 3n – 4",
+            "c) 4n + 3",
+            "d) 3n + 4",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 114,
+        "Question": "If the nth  term of the AP is 2n + 7, then the common difference will be _____",
+        "Options": [
+            "a) -2",
+            "b) 2",
+            "c) 3",
+            "d) -3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 115,
+        "Question": "If the nth  term of the AP is 7n – 9, then the first term is ________",
+        "Options": [
+            "a) 1",
+            "b) 6",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 116,
+        "Question": "If the nth  term of the AP is 8n + 1, then the 20th term will be ______",
+        "Options": [
+            "a) 160",
+            "b) 120",
+            "c) 161",
+            "d) 121",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 117,
+        "Question": "What will be the 99th  term from the end of the AP 500, 489, 478, 467… – 1139?",
+        "Options": [
+            "a) 1078",
+            "b) 1123",
+            "c) 12",
+            "d) 61",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 118,
+        "Question": "If the pth term of an AP is q and its qth term is p, then what will be the value of its (p + q)th term?",
+        "Options": [
+            "a) 1",
+            "b) p + q – 1",
+            "c) 0",
+            "d) 2(p + q – 1)",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 119,
+        "Question": "If 5 times the 5th  term of an AP is equal to 15 times its 15th  term, then the value of its 20th  term will be _______",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 2",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 120,
+        "Question": "If the 11th  term of an AP is \\(\\frac {1}{13}\\) and its 13th  term is \\(\\frac {1}{11}\\), then what will be the value of  143th term?",
+        "Options": [
+            "a) \\(\\frac {1}{143}\\) ",
+            "b) 1",
+            "c) 0",
+            "d) \\(\\frac {23}{143}\\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 121,
+        "Question": "If the 7th  term of an AP is 20 and its 11th  term is 40 then, what will be the common difference?",
+        "Options": [
+            "a) 3",
+            "b) 4",
+            "c) 5",
+            "d) 2",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 122,
+        "Question": "What will be the 14th  term of the AP 5, 8, 11, 14, 17…….?",
+        "Options": [
+            "a) 30",
+            "b) 41",
+            "c) 40",
+            "d) 44",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 123,
+        "Question": "The sum of first 20 terms of the AP 10, 12, 14, 16, 18…. is _________",
+        "Options": [
+            "a) 200",
+            "b) 580",
+            "c) 620",
+            "d) 440",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 124,
+        "Question": "The sum of 50 + 100 + 150 + 200 + …….. + 1000 is _________",
+        "Options": [
+            "a) 10000",
+            "b) 14400",
+            "c) 10500",
+            "d) 12100",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 125,
+        "Question": "The nth term if an AP is 5n + 2, then the sum of first n terms of the AP will be __________",
+        "Options": [
+            "a) \\(\\frac {n^2 – 8}{2}\\) ",
+            "b) \\(\\frac {n^2 + 8}{2}\\) ",
+            "c) \\(\\frac {n^2 – 9}{2}\\) ",
+            "d) \\(\\frac {n^2 + 9}{2}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 126,
+        "Question": "What will be the sum of all 3-digit even positive numbers?",
+        "Options": [
+            "a) 247050",
+            "b) 269450",
+            "c) 269350",
+            "d) 269580",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 127,
+        "Question": "The sum of all 2 – digit numbers divisible by 19 will be __________",
+        "Options": [
+            "a) 345",
+            "b) 245",
+            "c) 275",
+            "d) 285",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 128,
+        "Question": "What will be the sum of all natural numbers lying between 500 and 5000, which are divisible by 17?",
+        "Options": [
+            "a) 567898",
+            "b) 729810",
+            "c) 765835",
+            "d) 234526",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 129,
+        "Question": "If the sum of first n terms of an AP is given by Sn = 4n2 + 6, then its first term will be _________",
+        "Options": [
+            "a) 4",
+            "b) 3",
+            "c) 5",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 130,
+        "Question": "How many terms of the AP 5,10,15,20….. must be added to get a sum of 330?",
+        "Options": [
+            "a) -11",
+            "b)  -12",
+            "c) 12",
+            "d) 11",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 131,
+        "Question": "The sum of the first 10 terms of an AP is the same as the sum of its first 5 terms, then the sum of its 15th term will be _______",
+        "Options": [
+            "a) 1",
+            "b) 0",
+            "c) 2",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 132,
+        "Question": "The sum of the first 12 terms of an AP is 15 and the sum of its first 15 terms is 12, then the sum of its first 27 terms will be __________",
+        "Options": [
+            "a) -24",
+            "b) 24",
+            "c) 27",
+            "d) -27",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 133,
+        "Question": "The perimeters of two similar triangles ABC, PQR is 64 cm and 24 cm respectively. If PQ is 12 cm what will be the length of AB?",
+        "Options": [
+            "a) 30 cm",
+            "b) 32 cm",
+            "c) 12 cm",
+            "d) 16 cm",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 134,
+        "Question": "If ∠A = ∠P, ∠B = ∠Q, ∠C = ∠R then, ∆ABC & ∆PQR  are similar according to which test?",
+        "Options": [
+            "a) AAA test",
+            "b) AA test",
+            "c) SAS test",
+            "d) SSS test",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 135,
+        "Question": "If ∠D = ∠L, ∠E = ∠M then, ∆DEF & ∆LMN are similar according to which test?",
+        "Options": [
+            "a) AAA test",
+            "b) AA test",
+            "c) SAS test",
+            "d) SSS test",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 136,
+        "Question": "If \\(\\frac {AB}{XY} = \\frac {BC}{YZ} = \\frac {AC}{XZ}\\) then, ∆ABC & ∆XYZ are similar according to which test?",
+        "Options": [
+            "a) AAA test",
+            "b) AA test",
+            "c) SAS test",
+            "d) SSS test",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 137,
+        "Question": "If the areas of two similar triangles are in the ratio 361:529. What would be the ratio of the corresponding sides?",
+        "Options": [
+            "a) 19 : 23",
+            "b) 23 : 19",
+            "c) 361 : 529",
+            "d) 15 : 23",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 138,
+        "Question": "What will be the value of BC if the area of two similar triangles ∆ABC and ∆PQR is 64cm2 and 81cm2 respectively and the length of QR is 15cm.",
+        "Options": [
+            "a) \\(\\frac {40}{9}\\) ",
+            "b) \\(\\frac {40}{6}\\) ",
+            "c) \\(\\frac {4}{3}\\) ",
+            "d) \\(\\frac {40}{3}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 139,
+        "Question": "The areas of two similar triangles are 100cm2 and 64cm2. If the altitude of the smaller triangle is 5.5 cm, then what will be the altitude of the corresponding bigger triangle?",
+        "Options": [
+            "a) 4.4 cm",
+            "b) 4.5 cm",
+            "c) 2.4 cm",
+            "d) 2.5 cm",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 140,
+        "Question": "The area of two similar triangles is 25cm2 and 121cm2. If the median of the bigger triangle is 10 cm, then what will be the corresponding median of the smaller triangle?",
+        "Options": [
+            "a) \\(\\frac {51}{11}\\) ",
+            "b) \\(\\frac {10}{11}\\) ",
+            "c) \\(\\frac {50}{11}\\) ",
+            "d) \\(\\frac {5}{11}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 141,
+        "Question": "∆ABC ∼ ∆PQR, AD & PS are the angle bisectors of respectively. If AD = 1.5cm and PS = 2.3 cm then, what will be the ratio of the areas of ∆ABC and ∆PQR?",
+        "Options": [
+            "a) 19 : 15",
+            "b) 225 : 529",
+            "c) 529 : 225",
+            "d) 15 : 17",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 142,
+        "Question": "In the given figure, AC is the angle bisector and AB = 5.2 cm, AD = 4.5 cm. What will be ratios of areas of ∆ABC and ∆ACD?",
+        "Options": [
+            "a) 131 : 90",
+            "b) 131 : 91",
+            "c) 121 : 81",
+            "d) 120 : 80",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 143,
+        "Question": "What will be the ratios of areas of similar ∆ABC and ∆PQR, if the altitudes of the triangles are 10cm and 5.5cm respectively?",
+        "Options": [
+            "a) 150 : 4",
+            "b) 300 : 7",
+            "c) 100 : 3",
+            "d) 400 : 9",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 144,
+        "Question": "What will be the distance of the foot of ladder from the building, if the ladder of 12 m high reaches the top of a building 35 m high from the ground?",
+        "Options": [
+            "a) 32.65 m",
+            "b) 32.87 m",
+            "c) 31.87 m",
+            "d) 32.85 m",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 145,
+        "Question": "The heights of two vertical lamp posts are 33 m and 24 m high. If the distance between them is 40 m, then what will be the distance between their tops?",
+        "Options": [
+            "a) 47.89m",
+            "b) 56.56m",
+            "c) 32.81m",
+            "d) 41m",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 146,
+        "Question": "∆ABC is a right-angled triangle, right angled at B and BD ⊥ AC. If BD = 10cm, AB = 5 cm and BC = 5 cm then AC will be?",
+        "Options": [
+            "a) 44.72 cm",
+            "b) 5.59 cm",
+            "c) 18.11 cm",
+            "d) 22.36 cm",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 147,
+        "Question": "Which of triangle whose sides are given below are right angled?",
+        "Options": [
+            "a) AB = 89, AC = 80, BC = 39",
+            "b) AB = 57, AC = 50, BC = 45",
+            "c) AC = 34, AB = 20, BC = 21",
+            "d) AC = 50, AB = 32, BC = 20",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 148,
+        "Question": "The lengths of diagonals of a rhombus are 10 cm and 8 cm. What will be the length of the sides of rhombus?",
+        "Options": [
+            "a) 6.40 cm",
+            "b) 5.25 cm",
+            "c) 2.44 cm",
+            "d) 3.29 cm",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 149,
+        "Question": "If the side of rhombus is 13 cm and one of its diagonals is 24 cm, then what will be length of the other diagonal?",
+        "Options": [
+            "a) 8.4 cm",
+            "b) 4 cm",
+            "c) 11 cm",
+            "d) 10 cm",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 150,
+        "Question": "What will be the length of the altitude of an equilateral triangle whose side is 9 cm?",
+        "Options": [
+            "a) 4.567 cm",
+            "b) 7.794 cm",
+            "c) 8.765 cm",
+            "d) 4.567 cm",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 151,
+        "Question": "What will be the length of the square inscribed in a circle of radius 5 cm?",
+        "Options": [
+            "a) 2.34 cm",
+            "b) 3.45 cm",
+            "c) 5√2 cm",
+            "d) 2.45 cm",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 152,
+        "Question": "The distance between the points (5, 7) and (8, -5) is ________",
+        "Options": [
+            "a) √153",
+            "b) √154",
+            "c) √13",
+            "d) √53",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 153,
+        "Question": "The distance of the point (9, -12) from origin will be ___________",
+        "Options": [
+            "a) 13",
+            "b) 15",
+            "c) 14",
+            "d) 17",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 154,
+        "Question": "What will be the value of x, if the distance between the points (5, 11) and (2, x) is 10?",
+        "Options": [
+            "a) -11 + √91, -11 – √91",
+            "b) 11 + √91, 11 – √91",
+            "c) 11 + √91, 11 + √91",
+            "d) -11 + √91, 11 – √91",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 155,
+        "Question": "What will be the point of x-axis which will be equidistant from the points (9, 8) and (3, 2)?",
+        "Options": [
+            "a) (10, 0)",
+            "b) (13, 0)",
+            "c) (11, 0)",
+            "d) (12, 0)",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 156,
+        "Question": "What will be the point of y-axis which will be equidistant from the points (-1, 0) and (3, 9)?",
+        "Options": [
+            "a) (5, \\( \\frac {89}{18} \\))",
+            "b) (1, \\( \\frac {89}{18} \\))",
+            "c) (16, \\( \\frac {89}{18} \\))",
+            "d) (0, \\( \\frac {89}{18} \\))",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 157,
+        "Question": "If the point P(a, b) is equidistant from the points (3, 1) and (2, 0) then ____________",
+        "Options": [
+            "a) a + b = -3",
+            "b) a – b = -3",
+            "c) a + b = 3",
+            "d) a – b = 3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 158,
+        "Question": "The point on y-axis which is at a distance 5 unit from the point (-5, 7) is ___________",
+        "Options": [
+            "a) (7, 0)",
+            "b) (0, 7)",
+            "c) (1, 7)",
+            "d) (7, 7)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 159,
+        "Question": "The point on x-axis which is at a distance 12 unit from the point (4, 6) is ___________",
+        "Options": [
+            "a) (-4 + \\( \\sqrt {11i} \\), 0), (-4 – \\( \\sqrt {11i} \\), 0)",
+            "b) (-4 – \\( \\sqrt {11i} \\), 0), (4 – \\( \\sqrt {11i} \\), 0)",
+            "c) (4 – \\( \\sqrt {11i} \\), 0), (4 – \\( \\sqrt {11i} \\), 0)",
+            "d) (4 + \\( \\sqrt {11i} \\), 0), (4 – \\( \\sqrt {11i} \\), 0)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 160,
+        "Question": "If A(0, 3), B(5, 0) and C(-5, 0) are the vertices of ∆ABC, then the triangle is __________",
+        "Options": [
+            "a) Right-angled",
+            "b) Isosceles",
+            "c) Scalene",
+            "d) Equilateral",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 161,
+        "Question": "The area of the triangle if A (-1, -1), B(-1, 3) and C (2, -1) are the vertices of the triangle is ____________",
+        "Options": [
+            "a) 8 units",
+            "b) 4 units",
+            "c) 6 units",
+            "d) 5 units",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 162,
+        "Question": "What will be the coordinates of the point which divides the line segment joining the points A(-2, 2) and B(-1, 5) in the ratio 2:5?",
+        "Options": [
+            "a) (\\(\\frac {-4}{3}, \\frac {-20}{9}\\))",
+            "b) (\\(\\frac {-4}{3}, \\frac {20}{9}\\))",
+            "c) (\\(\\frac {4}{3}, \\frac {20}{9}\\))",
+            "d) (\\(\\frac {4}{3}, \\frac {-20}{9}\\))",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 163,
+        "Question": "What will be the coordinates of the midpoint of the line segment joining the points (-5, 10) and(15, 2)?",
+        "Options": [
+            "a) (-5, -6)",
+            "b) (-5, 6)",
+            "c) (5, 6)",
+            "d) (5, -6)",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 164,
+        "Question": "In what ratio does the point (\\(\\frac {-19}{3}, \\frac {7}{3}\\)) divide the line segment joining A(3, 7) and B(-11, 0)?",
+        "Options": [
+            "a) 1:2 (externally)",
+            "b) 1:2 (internally)",
+            "c) 2:1 (externally)",
+            "d) 2:1 (internally)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 165,
+        "Question": "What will be the value of y, if the ratio in which the point (\\(\\frac {3}{4}\\), y) divides the line segment joining the points A(-1, 4) and B(6, 5)is 1:3?",
+        "Options": [
+            "a) y = \\(\\frac {9}{2}\\) ",
+            "b) y = \\(\\frac {5}{2}\\) ",
+            "c) y = \\(\\frac {9}{4}\\) ",
+            "d) y = \\(\\frac {5}{2}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 166,
+        "Question": "What will be ratio in which the line 3x + y – 11 = 0 divides the line segment joining the points (0, -1) and (-3, -4)?",
+        "Options": [
+            "a) 1:2 (internally)",
+            "b) 1:2 (externally)",
+            "c) 2:1 (externally)",
+            "d) 2:1 (internally)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 167,
+        "Question": "In what ratio is the line segment joining the points A(-5, 2) and B(3, 9) divided by the x-axis?",
+        "Options": [
+            "a) 2:5 (internally)",
+            "b) 2:5 (externally)",
+            "c) 2:9 (externally)",
+            "d) 2:9 (internally)",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 168,
+        "Question": "In what ratio is the line segment joining the points A(2, 4) and B(6, 5) divided by the y-axis?",
+        "Options": [
+            "a) 2:1 (internally)",
+            "b) 2:1 (externally)",
+            "c) 3:1 (internally)",
+            "d) 3:1 (externally)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 169,
+        "Question": "What will be the coordinates of B, if the point C\\((\\frac {29}{7}, \\frac {46}{7} )\\), divides the line segment joining A (5, 8) and B (a, b) in the ratio 2:5?",
+        "Options": [
+            "a) a = 2, b = 3",
+            "b) a = -2, b = 3",
+            "c) a = 2, b = -3",
+            "d) a = -2, b = -3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 170,
+        "Question": "What will be the length of the median through the vertex A, if the coordinates of the vertices of  ∆ABC are A(2, 5), B(5, 0), C(-2, 5)?",
+        "Options": [
+            "a) \\(\\sqrt {\\frac {113}{3}}\\) units",
+            "b) \\(\\sqrt {\\frac {13}{2}}\\) units",
+            "c) \\(\\sqrt {\\frac {113}{2}}\\) units",
+            "d) \\(\\sqrt {\\frac {13}{2}}\\) units",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 171,
+        "Question": "What will be the coordinates of the fourth vertex S, if P(-1, -1), Q(2, 0), R(2, 3) are the three vertices of a parallelogram?",
+        "Options": [
+            "a) (-5, -12)",
+            "b) (5, -12)",
+            "c) (5, 12)",
+            "d) (-5, 12)",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 172,
+        "Question": "What will be the value of a and b, if (-5, a), (-3, -3), (-b, 0) and (-3, 3) are the vertices of the parallelogram?",
+        "Options": [
+            "a) a = 0, b = -1",
+            "b) a = -1, b = 1",
+            "c) a = 1, b = 1",
+            "d) a = 0, b = 1",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 173,
+        "Question": " What will be the centroid of the ∆ABC whose vertices are A(-2, 4), B(0, 0) and C(4, 2)?",
+        "Options": [
+            "a) (\\(\\frac {2}{3}\\), 2)",
+            "b) (\\(\\frac {2}{3}\\), 1)",
+            "c) (\\(\\frac {2}{5}\\), 2)",
+            "d) (\\(\\frac {1}{3}\\), 2)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 174,
+        "Question": "The coordinates of one end of the diameter AB of a circle are A (-2, -3) and the coordinates of diameter are (-2, 0). What will be the coordinates of B?",
+        "Options": [
+            "a) (2, -3)",
+            "b) (-2, 3)",
+            "c) (2, 3)",
+            "d) (-2, -3)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 175,
+        "Question": "The coordinates of the ends of the diameter AB of a circle are A (-4, 7) and B(4, 7). What will be the coordinates of the center of the circle?",
+        "Options": [
+            "a) (0, -8)",
+            "b) (0, 8)",
+            "c) (0, 7)",
+            "d) (0, -7)",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 176,
+        "Question": "The two vertices of ∆ABC are given by A(-3, 0) and B(-8, 5) and its centroid is (-2, 1).What will be the coordinates of the third vertex C?",
+        "Options": [
+            "a) (-5, -2)",
+            "b) (5, 2)",
+            "c) (-5, 2)",
+            "d) (5, -2)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 177,
+        "Question": "What will be the area of a triangle whose vertices are (3, 1), (0, 4) and (5, 9)?",
+        "Options": [
+            "a) 5 units",
+            "b) -5 units",
+            "c) -15 units",
+            "d) 15 units",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 178,
+        "Question": "What will be the area of the quadrilateral ABCD whose vertices are A (8, 6), B (9, 0), C (1, 2) and D (3, 4)?",
+        "Options": [
+            "a) -20 units",
+            "b) 26 units",
+            "c) 23 units",
+            "d) 3 units",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 179,
+        "Question": "What will be the area of triangle PQR formed by joining the midpoints of the sides of the triangle whose vertices are (3, 3), (9, 9) and (4, 6)?",
+        "Options": [
+            "a) \\(\\frac {1}{2}\\) units",
+            "b) \\(\\frac {3}{2}\\) units",
+            "c) \\(\\frac {3}{5}\\) units",
+            "d) \\(\\frac {5}{2}\\) units",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 180,
+        "Question": "What will be the area of triangle formed by joining the points P (2, 3), Q (4, 6) and R (6, 9)?",
+        "Options": [
+            "a) 0",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer:"
+    },
+    {
+        "id": 181,
+        "Question": "What will be the value of p, for which the points (-3, p), (-1, 2) and (1, 1) are collinear?",
+        "Options": [
+            "a) p = -4",
+            "b) p = 4",
+            "c) p = 3",
+            "d) p = -3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 182,
+        "Question": "If sin (A + B) = \\(\\frac {\\sqrt {3}}{2}\\) and tan (A – B) = 1. What are the values of A and B?",
+        "Options": [
+            "a) 37, 54",
+            "b) 35.7, 40.7",
+            "c) 50, 10",
+            "d) 52.5, 7.5",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 183,
+        "Question": "If cos θ = \\(\\frac {3}{4}\\) then value of cos 2θ is ___________",
+        "Options": [
+            "a) \\(\\frac {1}{6}\\) ",
+            "b) \\(\\frac {1}{4}\\) ",
+            "c) \\(\\frac {1}{8}\\) ",
+            "d) \\(\\frac {3}{8}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 184,
+        "Question": "If sin A = \\(\\frac {8}{17}\\), what will be the value of cos A sec A?",
+        "Options": [
+            "a) 2",
+            "b) -1",
+            "c) 1",
+            "d) 0",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 185,
+        "Question": "If tan α = √3 and cosec β = 1, then the value of α – β?",
+        "Options": [
+            "a) -30°",
+            "b) 30°",
+            "c) 90°",
+            "d) 60°",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 186,
+        "Question": "In triangle ABC, right angled at C, then the value of cosec (A + B) is __________",
+        "Options": [
+            "a) 2",
+            "b) 0",
+            "c) 1",
+            "d) ∞",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 187,
+        "Question": "If tan θ = \\(\\frac {3}{4}\\) then the value of sinθ is _________",
+        "Options": [
+            "a) \\(\\frac {3}{5}\\) ",
+            "b) \\(\\frac {4}{4}\\) ",
+            "c) \\(\\frac {3}{4}\\) ",
+            "d) \\(\\frac {-3}{5}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 188,
+        "Question": "What is the value of sin30°cos15° + cos30°sin15°?",
+        "Options": [
+            "a) \\(\\frac {1}{2}\\) ",
+            "b) 0",
+            "c) 1",
+            "d) \\(\\frac {1}{\\sqrt {2}}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 189,
+        "Question": "What is the value of cos A sec A + sin A cosec A – tan A cot A?",
+        "Options": [
+            "a) 0",
+            "b) 2",
+            "c) 1",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 190,
+        "Question": "Trigonometric ratios are only applicable to which kind of triangles?",
+        "Options": [
+            "a) Right-angled triangles",
+            "b) Any type of triangles",
+            "c) Acute angled triangles",
+            "d) Obtuse angled triangles",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 191,
+        "Question": "Trigonometric ratios are  ______",
+        "Options": [
+            "a) sine, cosine and cotangent",
+            "b) sine, tangent, cotangent and secant",
+            "c) sine, cosine, tangent, cotangent, secant and cosecant",
+            "d) tangent, cotangent and secant",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 192,
+        "Question": "What is the inverse of cosecant?",
+        "Options": [
+            "a) Cosine",
+            "b) Secant",
+            "c) Sine",
+            "d) Tangent",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 193,
+        "Question": "\\(\\frac {Sin \\theta }{Cos \\theta}\\) equals to ______",
+        "Options": [
+            "a) tan θ",
+            "b) cot θ",
+            "c) cosec θ",
+            "d) sec θ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 194,
+        "Question": "Who is the ‘Father of Trigonometry’?",
+        "Options": [
+            "a) Hipparchus",
+            "b) Euclid",
+            "c) Aristotle",
+            "d) Archimedes",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 195,
+        "Question": "What is the cotangent of an angle θ if the side adjacent to θ is 8 units and the side opposite to θ is 3 units?",
+        "Options": [
+            "a) \\(\\frac {3}{8}\\) ",
+            "b) \\(\\frac {8}{3}\\) ",
+            "c) \\(\\frac {4}{3}\\) ",
+            "d) \\(\\frac {3}{4}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 196,
+        "Question": "Choose the correct reciprocal ratios.",
+        "Options": [
+            "a) Tan θ, Sec θ",
+            "b) Cosec θ, Sec θ",
+            "c) Sec θ, Sin θ",
+            "d) Tan θ, Cot θ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 197,
+        "Question": "The basic trigonometric ratios are _____",
+        "Options": [
+            "a) sine",
+            "b) tangent",
+            "c) sine, cosine and tangent",
+            "d) cosine",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 198,
+        "Question": "\\(\\frac {Length \\, of \\, hypotenuse}{Length \\, of \\, opposite \\, to \\, angle \\, A}\\) is _____",
+        "Options": [
+            "a) sine of angle A",
+            "b) cosec of angle A",
+            "c) tan of angle A",
+            "d) cot of angle A",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 199,
+        "Question": "If sin A = \\(\\frac {3}{5}\\), then find tan A.",
+        "Options": [
+            "a) \\(\\frac {3}{4}\\) ",
+            "b) \\(\\frac {3}{5}\\) ",
+            "c) \\(\\frac {5}{3}\\) ",
+            "d) \\(\\frac {4}{3}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 200,
+        "Question": "\\(\\frac {Cos A}{Sin A}\\) = ______",
+        "Options": [
+            "a) Tan A",
+            "b) Sin A",
+            "c) Cot A",
+            "d) Sec A",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 201,
+        "Question": "If sin B = \\(\\frac {3}{5}\\), then find sec B.",
+        "Options": [
+            "a) \\(\\frac {3}{4}\\) ",
+            "b) \\(\\frac {4}{5}\\) ",
+            "c) \\(\\frac {5}{4}\\) ",
+            "d) \\(\\frac {5}{3}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 202,
+        "Question": "What is the value of cos2θ – sin2θ if the length of the opposite side is 20 units and the length of the hypotenuse is 29 units?",
+        "Options": [
+            "a) \\(\\frac {- 41}{841}\\) ",
+            "b) \\(\\frac {- 41}{840}\\) ",
+            "c) \\(\\frac {41}{841}\\) ",
+            "d) \\(\\frac {41}{840}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 203,
+        "Question": "If the length of the side opposite to angle A is 15 units and the length of the hypotenuse is 17 units then the length of the side adjacent to angle A is _____",
+        "Options": [
+            "a) 8 units",
+            "b) 7 units",
+            "c) 4 units",
+            "d) 5 units",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 204,
+        "Question": "If the length of the opposite side is 20 units and the length of the hypotenuse is 29 units then find cosec A?",
+        "Options": [
+            "a) \\(\\frac {20}{29}\\) ",
+            "b) \\(\\frac {29}{21}\\) ",
+            "c) \\(\\frac {21}{20}\\) ",
+            "d) \\(\\frac {29}{20}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 205,
+        "Question": "If tan A = \\(\\frac {89}{17}\\), then cot A is _____",
+        "Options": [
+            "a) \\(\\frac {89}{17}\\) ",
+            "b) \\(\\frac {89}{16}\\) ",
+            "c) \\(\\frac {17}{89}\\) ",
+            "d) \\(\\frac {16}{89}\\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 206,
+        "Question": "What is the value of sec θ when θ is 45°?",
+        "Options": [
+            "a) √3",
+            "b) 1",
+            "c) 0",
+            "d) √2",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 207,
+        "Question": "What is the value of sin 0° + cos 0°?",
+        "Options": [
+            "a) 0",
+            "b) 2",
+            "c) 1",
+            "d) ∞",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 208,
+        "Question": "Evaluate cos 30° sin 60° + cos 60° sin 30°.",
+        "Options": [
+            "a) 2",
+            "b) 0",
+            "c) 1",
+            "d) ∞",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 209,
+        "Question": "What is the value of cos (30° + 60°)?",
+        "Options": [
+            "a) 1",
+            "b) \\(\\frac {1}{4}\\) ",
+            "c) \\(\\frac {3}{4}\\) ",
+            "d) 0",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 210,
+        "Question": "60° lies in the_____ quadrant.",
+        "Options": [
+            "a) first",
+            "b) second",
+            "c) third",
+            "d) fourth",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 211,
+        "Question": "What is the value of  \\(\\frac {2 cot \\, ⁡60^{\\circ }}{1 + cot \\, ⁡⁡45^{\\circ }}\\)?",
+        "Options": [
+            "a) Cot 30°",
+            "b) Cot 45°",
+            "c) Cot 60°",
+            "d) Tan 60°",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 212,
+        "Question": "Cosec 0° is _____",
+        "Options": [
+            "a) Not defined",
+            "b) 1",
+            "c) 0",
+            "d) 2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 213,
+        "Question": "The value of sin 90° + cos 0° + √2 cos 45° is_____",
+        "Options": [
+            "a) 2",
+            "b) 1",
+            "c) 4",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 214,
+        "Question": "Cosec 90° is _____",
+        "Options": [
+            "a) 0",
+            "b) 2",
+            "c) 1",
+            "d) √3",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 215,
+        "Question": "\\(\\frac {Cos \\, ⁡0^{\\circ }}{1 – Sin \\, ⁡30^{\\circ }}\\) is _____",
+        "Options": [
+            "a) 1",
+            "b) 2",
+            "c) 3",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 216,
+        "Question": "What is the value of tan θ when θ is 30°?",
+        "Options": [
+            "a) \\( \\frac {1}{\\sqrt 3}\\) ",
+            "b) 1",
+            "c) 0",
+            "d) 2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 217,
+        "Question": "What is the value of sec 0° + cosec 90°?",
+        "Options": [
+            "a) 0",
+            "b) 2",
+            "c) 1",
+            "d) ∞",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 218,
+        "Question": "Evaluate sin2 30.",
+        "Options": [
+            "a) 2",
+            "b) 0",
+            "c) \\( \\frac {1}{4}\\) ",
+            "d) ∞",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 219,
+        "Question": "What is the value of cos 45° + sin 45°?",
+        "Options": [
+            "a) 1",
+            "b) \\( \\frac {1}{4}\\) ",
+            "c) \\( \\frac {3}{4}\\) ",
+            "d) √2",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 220,
+        "Question": "What is the value of sec 60° – \\( \\frac {1}{cosec \\, 90^{\\circ }}\\)?",
+        "Options": [
+            "a) Cot 30°",
+            "b) Cot 45°",
+            "c) Cot 60°",
+            "d) Tan 60°",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 221,
+        "Question": "Tan 90° is _____",
+        "Options": [
+            "a) Not defined",
+            "b) 1",
+            "c) 0",
+            "d) 2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 222,
+        "Question": "The value of sin2 90° + √2 cos 45° + √3 cot 30° is_____",
+        "Options": [
+            "a) 2",
+            "b) 0",
+            "c) 4",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 223,
+        "Question": "The product of sec 30° and cos 60° is _____",
+        "Options": [
+            "a) 0",
+            "b) 2",
+            "c) 1",
+            "d) \\( \\frac {1}{\\sqrt 3}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 224,
+        "Question": "\\( \\frac {1 – cot \\, 45^{\\circ}}{1+ cot \\, 45^{\\circ}}\\) is _____",
+        "Options": [
+            "a) 0",
+            "b) 2",
+            "c) 3",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 225,
+        "Question": "Which among these are complementary angles?",
+        "Options": [
+            "a) ∠A + ∠B = 90°",
+            "b) ∠A + ∠B = 180°",
+            "c) ∠A + ∠B = 60°",
+            "d) ∠A + ∠B = 45°",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 226,
+        "Question": "Which trigonometric ratios are positive in the second quadrant?",
+        "Options": [
+            "a) Cosec, Sin",
+            "b) Sec, Tan",
+            "c) Sin, Cot",
+            "d) Tan, Cot",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 227,
+        "Question": "Sin (90° – x) equals to ______",
+        "Options": [
+            "a) cos x",
+            "b) cot x",
+            "c) cosec x",
+            "d) sec x",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 228,
+        "Question": "What is the value of tan 48°?",
+        "Options": [
+            "a) Cot 42°",
+            "b) Tan 42°",
+            "c) Tan 16°",
+            "d) Cot 16°",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 229,
+        "Question": "Sec 75° equals to _____",
+        "Options": [
+            "a) cosec 15°",
+            "b) sec 15°",
+            "c) 1",
+            "d) 0",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 230,
+        "Question": "Evaluate \\(\\frac {Cot \\, 54^{\\circ }}{tan \\, ⁡36^{\\circ }}\\).",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) \\(\\frac {4}{3}\\) ",
+            "d) \\(\\frac {3}{4}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 231,
+        "Question": "Find the value of cos 135°.",
+        "Options": [
+            "a) \\(\\frac {1}{\\sqrt {2}}\\) ",
+            "b) √2",
+            "c) -√2",
+            "d) \\(\\frac {-1}{\\sqrt {2}}\\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 232,
+        "Question": "Evaluate tan 75° + cot 65°.",
+        "Options": [
+            "a) Cot 25° + Tan 15°",
+            "b) Cot 25° – Tan 15°",
+            "c) Cot 15° + Tan 25°",
+            "d) Cot 15° – Tan 25°",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 233,
+        "Question": "Cot(180° – a) is _____",
+        "Options": [
+            "a) sine of angle A",
+            "b) -cosec of angle A",
+            "c) tan of angle A",
+            "d) -cot of angle A",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 234,
+        "Question": "Which trigonometric ratios are positive in the fourth quadrant?",
+        "Options": [
+            "a) Cos, Sin",
+            "b) Sec, Cos",
+            "c) Sin, Cot",
+            "d) Tan, Cot",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 235,
+        "Question": "Sin (270° – x) equals to ______",
+        "Options": [
+            "a) -cos x",
+            "b) cot x",
+            "c) -cosec x",
+            "d) sec x",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 236,
+        "Question": "What is the product of cot 42° and tan 48°?",
+        "Options": [
+            "a) Cot2 42°",
+            "b) Tan2 42°",
+            "c) 2Tan 16°",
+            "d) 2Cot 16°",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 237,
+        "Question": "Cot 405° equals to _____",
+        "Options": [
+            "a) cosec 15°",
+            "b) sec 15°",
+            "c) 1",
+            "d) 0",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 238,
+        "Question": "Evaluate \\(\\frac {sin \\, 54^{\\circ }}{cos⁡ \\, 36^{\\circ }}\\).",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) \\(\\frac {4}{3}\\) ",
+            "d) \\(\\frac {3}{4}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 239,
+        "Question": "Find the value of tan 225°.",
+        "Options": [
+            "a) \\(\\frac {1}{\\sqrt 2}\\) ",
+            "b) 1",
+            "c) -√2",
+            "d) \\(\\frac {-1}{\\sqrt 2}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 240,
+        "Question": "Evaluate sec 65° + cosec 75°.",
+        "Options": [
+            "a) Cosec 25° + Sec 15°",
+            "b) Cosec 25° – Sec 15°",
+            "c) Cosec 15° + Sec 25°",
+            "d) Cosec 15° – Sec 25°",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 241,
+        "Question": "Sec (360° – θ) is _____",
+        "Options": [
+            "a) sine of angle θ",
+            "b) secant of angle θ",
+            "c) tan of angle θ",
+            "d) cot of angle θ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 242,
+        "Question": "Find the correct trigonometric identity.",
+        "Options": [
+            "a) tan2θ = sec2θ – 1",
+            "b) tan2θ + sec2θ = 1",
+            "c) tan2θ – sec2θ = 1",
+            "d) tan2θ = sec2θ + 1",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 243,
+        "Question": "Evaluate (cosec θ – cot θ) (cosec θ – cot θ).",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 2",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 244,
+        "Question": "Evaluate cosec θ sec θ.",
+        "Options": [
+            "a) cos θ + tan θ",
+            "b) cos θ – tan θ",
+            "c) tan θ – cot θ",
+            "d) cot θ + tan θ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 245,
+        "Question": "Evaluate \\(\\frac {1+cos \\, \\theta }{sin \\, \\theta } \\)(cosec θ – cot θ).",
+        "Options": [
+            "a) cosec θ + cot θ",
+            "b) cot2 θ + tan2 θ",
+            "c) cot θ – tan θ",
+            "d) cosec2 θ – cot2 θ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 246,
+        "Question": "Sec2 θ – Sec4 θ equals to _____",
+        "Options": [
+            "a) –Sec2 θ Tan2 θ",
+            "b) – Sec2 θ Tan2 θ",
+            "c) 1",
+            "d) 0",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 247,
+        "Question": "Find the distance between (sin θ, 0) and (0, cos θ).",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) \\(\\frac {4}{3} \\) ",
+            "d) \\(\\frac {3}{4} \\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 248,
+        "Question": "(sin A – cos A)2 is equal to _____",
+        "Options": [
+            "a) 1 + 2sin A cos A",
+            "b) 1 – 2sin A cos A",
+            "c) 2sin A cos A – 1",
+            "d) 2sin A cos A + 1",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 249,
+        "Question": "Evaluate sec2 A + (1 + tan A) (1 – tan A).",
+        "Options": [
+            "a) 3",
+            "b) 0",
+            "c) 2",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 250,
+        "Question": "Sec θ – \\(\\frac {1}{sec \\, \\theta }\\) is _____",
+        "Options": [
+            "a) Tan θ / Sec ⁡θ",
+            "b) Tan2 θ / Sec ⁡θ",
+            "c) Tan θ / Sec2 ⁡θ",
+            "d) Sec⁡ θ / Tan ⁡θ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 251,
+        "Question": "Find the correct trigonometric identity.",
+        "Options": [
+            "a) cos2 θ = 1 – sin2 θ",
+            "b) cos2 θ = 1 + sin2 θ",
+            "c) tan2 θ + sec2 θ = 1",
+            "d) tan2 θ = sec2 θ + 1",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 252,
+        "Question": "Evaluate (sec θ – tan θ) (sec θ + tan θ).",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 2",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 253,
+        "Question": "Evaluate \\(\\sqrt {\\frac {1 – sin⁡ \\, ⁡A}{1 + sin \\, ⁡⁡A}}\\).",
+        "Options": [
+            "a) cos A + tan A",
+            "b) cos A – tan A",
+            "c) tan A – cot A",
+            "d) sec A + tan A",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 254,
+        "Question": "Evaluate (cosec2 θ – cot2 θ)2 . (cosec θ + cot θ)2.",
+        "Options": [
+            "a) 1",
+            "b) 0",
+            "c) (cosec2 θ – cot2 θ)2",
+            "d) (cosec θ + cot θ)2",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 255,
+        "Question": "(1 – sin2 A) (1 + tan2 A) equals to _____",
+        "Options": [
+            "a) – Sec2 θ Tan2 θ",
+            "b) – Sec2 θ Tan2 θ",
+            "c) 1",
+            "d) 0",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 256,
+        "Question": "Evaluate (cosec A – 1) (cosec A + 1) (sec2 A – 1).",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) \\(\\frac {4}{3}\\) ",
+            "d) \\(\\frac {3}{4}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 257,
+        "Question": "(sin A + cos A)2 is equal to _____",
+        "Options": [
+            "a) 1 + 2sin A cos A",
+            "b) 1 – 2sin A cos A",
+            "c) 2sin A cos A – 1",
+            "d) 2sin A cos A + 1",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 258,
+        "Question": "Evaluate tan2 A + (1 + sec A) (sec A – 1).",
+        "Options": [
+            "a) 3 tan2 A",
+            "b) 0",
+            "c) 2tan2 A",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 259,
+        "Question": "(1 + cosec⁡ θ) (1 – cosec⁡ θ) + cot2⁡ θ is _____",
+        "Options": [
+            "a) Cot ⁡θ",
+            "b) 0",
+            "c) 1",
+            "d) Tan ⁡θ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 260,
+        "Question": "_____ is drawn from the eye of an observer to the targeted object.",
+        "Options": [
+            "a) A parallel line",
+            "b) Line of sight",
+            "c) Elevation line",
+            "d) Depression line",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 261,
+        "Question": "What happens to the angle of elevation if the height of a tower, the distance between the tower and the observer is doubled?",
+        "Options": [
+            "a) Doubled",
+            "b) halved",
+            "c) Tripled",
+            "d) Remains the same",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 262,
+        "Question": "The angle of depression is always a/an _____ angle.",
+        "Options": [
+            "a) right",
+            "b) obtuse",
+            "c) complete",
+            "d) acute",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 263,
+        "Question": "A pole stands vertically on the floor. From a point, it is 120 meters away from the foot of the pole and the angle of elevation is 45° then find the height of the pole.",
+        "Options": [
+            "a) 100 meters",
+            "b) 180 meters",
+            "c) 120 meters",
+            "d) 10 meters",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 264,
+        "Question": "A slope is built against a wall which makes an angle 30° with the ground and the height of the wall is 2 meters. Find the length of the slope in meters.",
+        "Options": [
+            "a) 2",
+            "b) 4",
+            "c) 1",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 265,
+        "Question": "A slide should be built in a park that has to be set up at 10 meters height and also 10 meters away from the support. What should be the angle of elevation?",
+        "Options": [
+            "a) 45°",
+            "b) 30°",
+            "c) 60°",
+            "d) 90°",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 266,
+        "Question": "A tree trunk of height 12 meters is erected with the support of three metal chains. An angle of 60° is made by each metal chain with the tree trunk. Find the length of the metal chain.",
+        "Options": [
+            "a) 32 meters",
+            "b) 10meters",
+            "c) 24 meters",
+            "d) 18 meters",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 267,
+        "Question": "A ship has to cross a sea by making an angle of 30° and with a distance of 200 meters to reach the shore then find the width of the sea.",
+        "Options": [
+            "a) 300 meters",
+            "b) 100 meters",
+            "c) 110 meters",
+            "d) 50 meters",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 268,
+        "Question": "Identify the parts of a circle.",
+        "Options": [
+            "a) Sides",
+            "b) Chord",
+            "c) Corners",
+            "d) Faces",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 269,
+        "Question": "Choose the correct statement.",
+        "Options": [
+            "a) The center of the circle belongs to the circle",
+            "b) The angle in a semi-circle is a complete angle",
+            "c) A circle can have only two parallel tangents",
+            "d) Radius equals to twice of the diameter",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 270,
+        "Question": "The angle in a semi-circle is _____",
+        "Options": [
+            "a) 90°",
+            "b) 180°",
+            "c) 0°",
+            "d) 360°",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 271,
+        "Question": "Length of the tangent is _____",
+        "Options": [
+            "a) \\(\\sqrt {d^2+c^2}\\) ",
+            "b) \\(\\sqrt {r^2-d^2}\\) ",
+            "c) \\(\\sqrt {d^2-c^2}\\) ",
+            "d) \\(\\sqrt {d^2-r^2}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 272,
+        "Question": "The line intersecting a circle at exactly one point is called as _____",
+        "Options": [
+            "a) arc",
+            "b) secant",
+            "c) chord",
+            "d) tangent",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 273,
+        "Question": "What is the name of the point which is common to circle and the tangent?",
+        "Options": [
+            "a) Intersection point",
+            "b) Tangential point",
+            "c) Point of contact",
+            "d) Point of touch",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 274,
+        "Question": "The radius is always _____ to the tangent.",
+        "Options": [
+            "a) equal",
+            "b) perpendicular",
+            "c) twice",
+            "d) parallel",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 275,
+        "Question": "Find the length of the tangent if d = 5 cm and r = 4 cm.",
+        "Options": [
+            "a) 3 cm",
+            "b) 4 cm",
+            "c) 5 cm",
+            "d) 9 cm",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 276,
+        "Question": "Find the radius of a circle if 8 m is the length of the tangent, 11 m is the distance between the center of the circle the external point.",
+        "Options": [
+            "a) 7 m",
+            "b) 5 m",
+            "c) √57 m",
+            "d) √58 m",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 277,
+        "Question": "Find the area of the circle if 8 cm is the length of the tangent, 11 cm is the distance between the center of the circle the external point.",
+        "Options": [
+            "a) 100 cm",
+            "b) 110 cm",
+            "c) 197.14 cm",
+            "d) 179.14 cm",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 278,
+        "Question": "How many tangents can a circle have?",
+        "Options": [
+            "a) Zero",
+            "b) Infinity",
+            "c) Estimated on the value of the radius",
+            "d) Fixed for every kind of circle",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 279,
+        "Question": "How many tangents can be drawn at one point on a circle?",
+        "Options": [
+            "a) Only one",
+            "b) Three",
+            "c) Zero",
+            "d) Two",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 280,
+        "Question": "Number of tangents passing through a circle is _____",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 1",
+            "d) 0",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 281,
+        "Question": "What happens to the length of the chord when the chord comes closer to the center?",
+        "Options": [
+            "a) Decreases",
+            "b) Becomes an arc",
+            "c) Increases",
+            "d) Becomes a segment",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 282,
+        "Question": "Find the area of the sector if the radius is 6 cm and with an angle of 60°.",
+        "Options": [
+            "a) 18.35 cm",
+            "b) 18.85 cm",
+            "c) 18.00 cm",
+            "d) 18.05 cm",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 283,
+        "Question": "The area of the sector is _____",
+        "Options": [
+            "a) \\(\\frac {x^{\\circ }}{360^{\\circ }}\\) × πr2",
+            "b) \\(\\frac {x^{\\circ }}{360^{\\circ }}\\) – πr2",
+            "c) \\(\\frac {x^{\\circ }}{360^{\\circ }}\\) + πr3",
+            "d) \\(\\frac {x^{\\circ }}{360^{\\circ }}\\) × πr3",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 284,
+        "Question": "Find the radius of a circle if 2 m is the length of the tangent, 6 m is the distance between the center of the circle the external point.",
+        "Options": [
+            "a) 7 m",
+            "b) 5 m",
+            "c) √32 m",
+            "d) √38 m",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 285,
+        "Question": "What is the formula for the circumference of a circle?",
+        "Options": [
+            "a) C = 2πd",
+            "b) C = 2πr",
+            "c) C = 2πa",
+            "d) C = 2πs",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 286,
+        "Question": "What is the formula for the area of a circle?",
+        "Options": [
+            "a) A = πd2",
+            "b) A = πs2",
+            "c) A = πr2",
+            "d) A = πa2",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 287,
+        "Question": "Find the area of the circle if the radius is 3.14 cm.",
+        "Options": [
+            "a) 30.98 cm",
+            "b) 30.48 cm",
+            "c) 30.68 cm",
+            "d) 30.58 cm",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 288,
+        "Question": "The area of a semicircle is _____",
+        "Options": [
+            "a) \\(\\frac {2\\pi r}{2}\\) ",
+            "b) \\(\\frac {2\\pi r}{2}\\) ",
+            "c) \\(\\frac {\\pi r}{2}\\) ",
+            "d) \\(\\frac {\\pi r^2}{2}\\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 289,
+        "Question": "What is the circumference of a circle if the radius is 7 m?",
+        "Options": [
+            "a) 8 m",
+            "b) 2 m",
+            "c) 44 m",
+            "d) 22 m",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 290,
+        "Question": "Find the area of a semicircle if the radius is 6 cm.",
+        "Options": [
+            "a) 1.35 m",
+            "b) 6.54 m",
+            "c) 18.00 m",
+            "d) 8.05 m",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 291,
+        "Question": "Find the radius of the circle if the circumference is 12 m.",
+        "Options": [
+            "a) 1.90 m",
+            "b) 1.09 m",
+            "c) 7.90 m",
+            "d) 1.40 m",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 292,
+        "Question": "Find the radius of a circle if 2 m is the area of the circle.",
+        "Options": [
+            "a) √0.83 m",
+            "b) 5 m",
+            "c) √0.63 m",
+            "d) √38 m",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 293,
+        "Question": "Find the radius of the circle if the area of the circle is 22 cm.",
+        "Options": [
+            "a) 1521.14 m",
+            "b) 1511.14 m",
+            "c) 1021.14 m",
+            "d) 1520.14 m",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 294,
+        "Question": "What is the circumference of the circle if the radius is 121 cm?",
+        "Options": [
+            "a) 760.00 cm",
+            "b) 765.57 cm",
+            "c) 750.57 cm",
+            "d) 760.57 cm",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 295,
+        "Question": "Find the radius of the wheel if the wheel rotates 100 times to cover 500 m.",
+        "Options": [
+            "a) 0.07 m",
+            "b) 0.47 cm",
+            "c) 0.79 m",
+            "d) 0.57 cm",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 296,
+        "Question": "The difference between circumference and diameter of a ring is 10 cm. Find the radius of the ring.",
+        "Options": [
+            "a) 3.07 cm",
+            "b) 0.37 cm",
+            "c) 2.33 cm",
+            "d) 4.57 cm",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 297,
+        "Question": "Find the diameter of the circle if the area of the circle is 6 m.",
+        "Options": [
+            "a) 3.07 m",
+            "b) 2.74 m",
+            "c) 2.33 m",
+            "d) 4.57 m",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 298,
+        "Question": "Find the diameter of the circle if the circumference of the circle is  \\(\\frac {11}{5}\\)m.",
+        "Options": [
+            "a) 23.07 cm",
+            "b) 20.74 cm",
+            "c) 72.33 cm",
+            "d) 70 cm",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 299,
+        "Question": "What is the name of the sector with a larger area?",
+        "Options": [
+            "a) Large",
+            "b) Major",
+            "c) Big",
+            "d) Wide",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 300,
+        "Question": "What is the name of the sector with a smaller area?",
+        "Options": [
+            "a) Small",
+            "b) Narrow",
+            "c) Minor",
+            "d) Tiny",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 301,
+        "Question": "What is the formula to calculate the area of a sector?",
+        "Options": [
+            "a) \\(\\frac {x^{\\circ }}{360^{\\circ }}\\) × πr2",
+            "b) \\(\\frac {x^{\\circ }}{360^{\\circ }}\\) + πr2",
+            "c) \\(\\frac {x^{\\circ }}{360^{\\circ }}\\) – πr2",
+            "d) \\(\\frac {x^{\\circ }}{360^{\\circ }}\\) × πr3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 302,
+        "Question": "Find the area of the sector if the radius is 5 cm and with an angle of 50°.",
+        "Options": [
+            "a) 11.90 cm",
+            "b) 10.90 cm",
+            "c) 12.90 cm",
+            "d) 13.90 cm",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 303,
+        "Question": "Find the area of the sector if the radius is 12 cm and with an angle of 134°.",
+        "Options": [
+            "a) 158.38 cm",
+            "b) 168.00 cm",
+            "c) 167.38 cm",
+            "d) 168.38 cm",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 304,
+        "Question": "A man goes to a walking track twice a day in the shape of a sector with an angle of 123° and a radius of 138 m. Find the area covered by the man of the walking track in a day.",
+        "Options": [
+            "a) 20441.4 m",
+            "b) 20882.8 m",
+            "c) 40882.8 m",
+            "d) 81765.6 m",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 305,
+        "Question": "A horse is grazing in a field. It is tied to a pole with a rope of length 6 m. The horse moves from point A to point B making an arch with an angle of 70°. Find the area of the sector grazed by the horse.",
+        "Options": [
+            "a) 20.99 m",
+            "b) 21.99 m",
+            "c) 22.99 m",
+            "d) 23.99 m",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 306,
+        "Question": "Number of sectors in a circle are ____",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 4",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 307,
+        "Question": "Find the area of the segment if the area of the sector is 44 m and the part of a triangle in the sector is 12 m.",
+        "Options": [
+            "a) 39 m",
+            "b) 22 m",
+            "c) 32 m",
+            "d) 31 m",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 308,
+        "Question": "A funnel is in the shape of a right circular cone with a base radius of 3 cm and a height of 4 cm. Find the slant height of the funnel.",
+        "Options": [
+            "a) 4 cm",
+            "b) 5 cm",
+            "c) 7 cm",
+            "d) 7.5 cm",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 309,
+        "Question": "What is the total surface area of a cylinder with a radius of 7 m and a height of 8 m?",
+        "Options": [
+            "a) 609.4 m2",
+            "b) 659.4 m2",
+            "c) 650.4 m2",
+            "d) 689.4 m2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 310,
+        "Question": "A right circular cone has a radius of 7 cm and a height of 24 cm. Find the area of the sheet required to make 7 such cones.",
+        "Options": [
+            "a) 3846.5 cm2",
+            "b) 1052 cm2",
+            "c) 1153.4 cm2",
+            "d) 3172 cm2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 311,
+        "Question": "What is the formula for the volume of a right circular cone?",
+        "Options": [
+            "a) \\(\\frac {1}{3}\\)πr3h",
+            "b) \\(\\frac {1}{3}\\)πr2h",
+            "c) \\(\\frac {1}{2}\\)πr2h",
+            "d) \\(\\frac {1}{2}\\)πr3h",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 312,
+        "Question": "What is the formula for the curved surface area of a rectangular circular cylinder?",
+        "Options": [
+            "a) 2πr2h",
+            "b) 2πrh",
+            "c) 2π(r + h)",
+            "d) 2π(rh)",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 313,
+        "Question": "What is the total surface area of an iron sphere having a radius of 11 cm?",
+        "Options": [
+            "a) 1529.76 cm2",
+            "b) 1514.76 cm2",
+            "c) 1519.76 cm2",
+            "d) 1419.76 cm2",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 314,
+        "Question": "What is the volume of a hemisphere if the radius of the hemisphere is 3 m?",
+        "Options": [
+            "a) 135.4 m3",
+            "b) 56.52 m3",
+            "c) 120.23 m3",
+            "d) 105.5 m3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 315,
+        "Question": "Find the slant height of the right circular cone if the base diameter of the right circular cone is 14 cm and the height is 24 cm.",
+        "Options": [
+            "a) 11 cm",
+            "b) 13 cm",
+            "c) 28 cm",
+            "d) 25 cm",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 316,
+        "Question": "The lateral surface area of a right circular cone is 2020 cm2 and its radius is 10 cm. What is its slant height?",
+        "Options": [
+            "a) 28.3 cm",
+            "b) 25.6 cm",
+            "c) 68.23 cm",
+            "d) 64.33 cm",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 317,
+        "Question": "Find the volume of the right prism with an area of base 121 m2 and a height of 23 m.",
+        "Options": [
+            "a) 4793 m3",
+            "b) 2763 m3",
+            "c) 2783 m3",
+            "d) 4783 m3",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 318,
+        "Question": "Find the lateral surface area of a rectangular room with a height of 22 m, length 27 m and a breadth of 23 m.",
+        "Options": [
+            "a) 4793 m2",
+            "b) 2263 m2",
+            "c) 2200 m2",
+            "d) 4783 m2",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 319,
+        "Question": "Find the total surface area of a square-shaped box having a length of 2 m for its side.",
+        "Options": [
+            "a) 47 m2",
+            "b) 22 m2",
+            "c) 24 m2",
+            "d) 48 m2",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 320,
+        "Question": "A solid is in the form of a cone mounted on a hemisphere. The radius and height of the cone are 3 m and 4 m. Find the surface area of the given solid.",
+        "Options": [
+            "a) 114.4 m2",
+            "b) 103.62 m2",
+            "c) 70 m2",
+            "d) 72.5 m2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 321,
+        "Question": "Two cubes each of volume 27 cm3 are joined together. Find the surface area of the resulting solid?",
+        "Options": [
+            "a) 109.4 cm2",
+            "b) 126 cm2",
+            "c) 150 cm2",
+            "d) 189.4 cm2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 322,
+        "Question": "A medicine capsule is in the form of a cylinder with two hemispheres joined together at the ends. Find the surface area if the length of the capsule is 14 mm and the width is 5 mm.",
+        "Options": [
+            "a) 219.8 mm2",
+            "b) 105 mm2",
+            "c) 115.4 mm2",
+            "d) 317.2 mm2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 323,
+        "Question": "A solid is in the form of a cone mounted on a hemisphere. The radius and height of the cone are 3 m and 4 m. Find the volume of the given solid?",
+        "Options": [
+            "a) 93.21 m3",
+            "b) 94.21 m3",
+            "c) 84.21 m3",
+            "d) 82.21 m3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 324,
+        "Question": "What is the length of the resulting solid if two identical cubes of side 8 cm are joined end to end?",
+        "Options": [
+            "a) 26 cm",
+            "b) 16 cm",
+            "c) 21 cm",
+            "d) 14 cm",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 325,
+        "Question": "Two cubes each of volume 64 cm3 are joined together. Find the volume of the resulting solid?",
+        "Options": [
+            "a) 152.76 cm3",
+            "b) 154 cm3",
+            "c) 256 cm3",
+            "d) 141.76 cm3",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 326,
+        "Question": "What is the skeletal formula to find the T.S.A of the tank consisting of a circular cylinder with a hemisphere attached on either end?",
+        "Options": [
+            "a) 2πrh + 2(2πr3)",
+            "b) 2πrh + 2(πr2)",
+            "c) 2πrh + 2(\\(\\frac {2}{3}\\)πr2)",
+            "d) 2πrh + 2(2πr2)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 327,
+        "Question": "What is the formula to find the height of the tank consisting of a circular cylinder with a hemisphere attached on either end?",
+        "Options": [
+            "a) Radius of the cylinder + 2(height of the hemisphere)",
+            "b) Height of the cylinder + 2(height of the hemisphere)",
+            "c) Radius of the cylinder + 2(radius of the hemisphere)",
+            "d) Height of the cylinder + 2(radius of the hemisphere)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 328,
+        "Question": "What is the C.S.A of resulting solid if two identical cubes are joined end to end together with the length of the sides of the cube is 4 m?",
+        "Options": [
+            "a) 160 cm2",
+            "b) 205.6 cm2",
+            "c) 168.23 cm2",
+            "d) 604 cm2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 329,
+        "Question": "What is the formula required to find the height of a solid in the form of a right circular cylinder with a hemisphere at one end and a cone at the other end?",
+        "Options": [
+            "a) 4793 m3",
+            "b) 2763 m3",
+            "c) 2783 m3",
+            "d) 4783 m3",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 330,
+        "Question": "Find the surface area of the given solid which is in the form of a cone mounted on a hemisphere. The radius and height of the cone are 5cm and 12cm.",
+        "Options": [
+            "a) 214.4 cm2",
+            "b) 279.53 cm2",
+            "c) 70 cm2",
+            "d) 72.5 cm2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 331,
+        "Question": "A wooden box is in the shape of a cuboid with three conical depressions. 7 cm × 3 cm × 4 cm are the dimensions of the cuboid and the radius and depth of the conical depressions are 0.5 cm and 1.2 cm. Find the volume of the entire wooden box?",
+        "Options": [
+            "a) 109.4 cm3",
+            "b) 80.05 cm3",
+            "c) 150 cm3",
+            "d) 89.4 cm3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 332,
+        "Question": "Find the volume of the largest right circular cone that can be cut out of cube having 5 cm as its length of the side.",
+        "Options": [
+            "a) 32.72 cm3",
+            "b) 15 cm3",
+            "c) 25.4 cm3",
+            "d) 37.2 cm3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 333,
+        "Question": "A toy is in the form of a cone mounted on a hemisphere and a cylinder. The radius and height of the cone are 3 m and 4 m. Find the volume of the given solid?",
+        "Options": [
+            "a) 193.21 m3",
+            "b) 207.30 m3",
+            "c) 184.21 m3",
+            "d) 282.21 m3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 334,
+        "Question": "What is the length of the resulting solid if two identical cubes of side 7 cm are joined end to end?",
+        "Options": [
+            "a) 26 cm",
+            "b) 16 cm",
+            "c) 21 cm",
+            "d) 14 cm",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 335,
+        "Question": "The length, breadth and height of the cuboid is 8 cm, 4 cm and 4 cm. Find the volume of the cuboid?",
+        "Options": [
+            "a) 152.76 cm3",
+            "b) 154 cm3",
+            "c) 128 cm3",
+            "d) 141.76 cm3",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 336,
+        "Question": "What is the volume of an article which is made by digging out a hemisphere from each end of a solid cylinder?",
+        "Options": [
+            "a) πr2h + 2(2πr3)",
+            "b) 2πrh – 2(πr2)",
+            "c) 2πrh + 2(\\(\\frac {2}{3}\\) πr2)",
+            "d) πr2h – 2(\\(\\frac {2}{3}\\)πr3)",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 337,
+        "Question": "What is the formula to find the height of an iron pillar consisting of a cylinder and a cone mounted on it?",
+        "Options": [
+            "a) The radius of the cylinder + 2(height of the cone)",
+            "b) Height of the cylinder + 2(height of the cone)",
+            "c) The radius of the cylinder + radius of the cone",
+            "d) Height of the cylinder + height of the cone",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 338,
+        "Question": "What is the volume of an article which is made by digging out a hemisphere from each end of a solid cylinder where the radius, height of the cylinder is 5 cm, 8 cm respectively and the radius of the hemisphere is 5 cm?",
+        "Options": [
+            "a) 104.40 cm3",
+            "b) 205.6 cm3",
+            "c) 168.23 cm3",
+            "d) 604 cm3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 339,
+        "Question": "What is the formula required to use for T.S.A of an article which is made by digging out a hemisphere from each end of a solid cylinder?",
+        "Options": [
+            "a) C.S.A of the cylinder – 2(C.S.A of the hemisphere)",
+            "b) C.S.A of the cylinder + C.S.A of the hemisphere",
+            "c) C.S.A of the cylinder + 2(C.S.A of the hemisphere)",
+            "d) C.S.A of the cylinder – C.S.A of the hemisphere",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 340,
+        "Question": "A metallic sphere whose radius is 5 cm is melted and cast into the shape of a cylinder of radius 6 cm. Find the height of the cylinder.",
+        "Options": [
+            "a) 21.4 cm",
+            "b) 43.63 cm",
+            "c) 70 cm",
+            "d) 72.5 cm2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 341,
+        "Question": "Three metallic spheres of radius 3 cm, 6 cm, 9 cm are melted into a single sphere. Find the radius of the resulting sphere.",
+        "Options": [
+            "a) 109.4 cm3",
+            "b) 4071.48 cm3",
+            "c) 1520 cm3",
+            "d) 1869.4 cm3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 342,
+        "Question": "A well of depth 25 m with a radius 4 m is dug from the earth forming a platform of length 28 m and a breadth of 16 m. Find the height of the platform.",
+        "Options": [
+            "a) 2.8 m3",
+            "b) 5 m3",
+            "c) 5.4 m3",
+            "d) 7.2 m3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 343,
+        "Question": "How many coins of 1 cm in diameter and thickness of 1.2 cm need to be melted to form a cuboid with dimensions of 5 cm × 10 cm × 4 cm?",
+        "Options": [
+            "a) 193",
+            "b) 213",
+            "c) 184",
+            "d) 282",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 344,
+        "Question": "A sphere of radius 14 cm is melted and cast into a number of tiny cones of radius 2.33 cm each and height 6 cm. Find the number of cones that will be formed?",
+        "Options": [
+            "a) 726",
+            "b) 816",
+            "c) 721",
+            "d) 821",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 345,
+        "Question": "How many cylinders having 2.1 cm of radius and 1.4 cm of height can be made out of a cuboid metal box having dimensions 33 cm, 21 cm, 10.5 cm?",
+        "Options": [
+            "a) 152",
+            "b) 154",
+            "c) 844",
+            "d) 841",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 346,
+        "Question": "A sphere having a radius of 3 cm is melted and elongated into a wire having a circular cross-section of radius 0.1 cm. Find the length of the wire?",
+        "Options": [
+            "a) 2400 cm",
+            "b) 3100 cm",
+            "c) 1200 cm",
+            "d) 3600 cm",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 347,
+        "Question": "A cylindrical hole of depth 20 m with a radius 5 m is dug from the earth forming a platform of length 14 m and a breadth of 12 m. Find the height of the platform.",
+        "Options": [
+            "a) 8.34 m3",
+            "b) 11.84 m3",
+            "c) 7.64 m3",
+            "d) 9.34 m3",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 348,
+        "Question": "What is the formula to find the rise in the water level when ‘x’ spherical balls are dropped into a cylindrical beaker?",
+        "Options": [
+            "a) \\(\\frac {Volume \\, of \\, ‘x’ \\, spherical \\, balls}{Base \\, area \\, of \\, cylinder}\\) ",
+            "b) \\(\\frac {Volume \\, of \\, ‘x’ \\, spherical \\, balls}{2(Base \\, area \\, of \\, cylinder)}\\) ",
+            "c) The volume of the cylinder + volume of the beaker",
+            "d) The volume of the cylinder – 2(volume of the beaker)",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 349,
+        "Question": "A metallic sphere whose radius is 4 cm is melted and cast into the shape of a right circular cone of radius 7 cm. Find the height of the cylinder?",
+        "Options": [
+            "a) 14.48 cm",
+            "b) 22.36 cm",
+            "c) 16.40 cm",
+            "d) 20.32 cm",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 350,
+        "Question": "Three metallic spheres of radius 2 cm, 4 cm, 8 cm are melted into a single sphere. Find the radius of the resulting sphere.",
+        "Options": [
+            "a) 1009.4 cm3",
+            "b) 2446.25 cm3",
+            "c) 1520 cm3",
+            "d) 2869.4 cm3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 351,
+        "Question": "The frustum of a cone has its circular ends radius as 15 cm and 30 cm where the height is 10cm. Find the volume of the frustum.",
+        "Options": [
+            "a) 21544.4 cm2",
+            "b) 16485 cm2",
+            "c) 16570 cm2",
+            "d) 16572.5 cm2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 352,
+        "Question": "Find the slant height if the frustum of height 10cm and having its diameter as 20 cm and 40 cm.",
+        "Options": [
+            "a) 10.4 cm",
+            "b) 14.14 cm",
+            "c) 15.50 cm",
+            "d) 89.4 cm",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 353,
+        "Question": "Find the Lateral surface area of the frustum, if the slant height is 15cm and having radii as 14 cm and 21 cm.",
+        "Options": [
+            "a) 1648.5 cm2",
+            "b) 1115 cm2",
+            "c) 2105.4 cm2",
+            "d) 1237.2 cm2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 354,
+        "Question": "Find the total surface area of  a frustum whose slant height is 10 cm and having radii as 10 cm and 20 cm.",
+        "Options": [
+            "a) 1923.21 m3",
+            "b) 2512 cm2",
+            "c) 2184.21 m3",
+            "d) 2842.21 m3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 355,
+        "Question": "Find the difference between the radii of a Frustum, if the slant height and height are 10 cm and 8 cm.",
+        "Options": [
+            "a) 4 cm",
+            "b) 1 cm",
+            "c) 2 cm",
+            "d) 6 cm",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 356,
+        "Question": "The frustum of a cone has its circular ends radius as 5 cm and 15 cm where the height is given as 8 cm. Find the volume of the frustum.",
+        "Options": [
+            "a) 2152.76 cm3",
+            "b) 1254 cm3",
+            "c) 2721.33 cm3",
+            "d) 1421.76 cm3",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 357,
+        "Question": "Find the Lateral surface area of the frustum, if the slant height is 12 cm and having radii as 15  cm and 35 cm.",
+        "Options": [
+            "a) 1984 cm2",
+            "b) 1804 cm2",
+            "c) 1984 cm2",
+            "d) 1884 cm2",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 358,
+        "Question": "The difference between the radii is 12 cm and slant height is given as 15 cm. Find the height of the frustum.",
+        "Options": [
+            "a) 5.4 cm",
+            "b) 1.2 cm",
+            "c) 3 cm",
+            "d) 9 cm",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 359,
+        "Question": "Find the total surface area of a frustum whose slant height is 18 cm and having radii as 8 cm and 16 cm.",
+        "Options": [
+            "a) 2361.28 cm2",
+            "b) 2205.6 cm2",
+            "c) 1628.23 cm2",
+            "d) 2604 cm2",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 360,
+        "Question": "Find the slant height if the Frustum of height 22 cm has its diameter as 34 and 50cm.",
+        "Options": [
+            "a) 83.40 cm",
+            "b) 43.90 cm",
+            "c) 23.40 cm",
+            "d) 73.48 cm",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 361,
+        "Question": "What is statistics?",
+        "Options": [
+            "a) Statistics is the collection of data",
+            "b) Statistics is the collection, classification and interpretation of data",
+            "c) Statistics is the classification of data",
+            "d) Statistics is the interpretation of data",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 362,
+        "Question": "Who is the pioneer that contributed to the development of statistics?",
+        "Options": [
+            "a) Albert Einstein",
+            "b) Lewis Capaldi",
+            "c) Ronald Fisher",
+            "d) Harold Fisher",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 363,
+        "Question": "What is Range?",
+        "Options": [
+            "a) Largest value – Smallest value",
+            "b) Smallest value – Largest value",
+            "c) Mid value – Average value",
+            "d) Average value – Mid value",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 364,
+        "Question": "What is the formula for the arithmetic mean?",
+        "Options": [
+            "a) \\(\\frac {Number \\, of \\, the \\, observations}{Sum \\, of \\, observations}\\) ",
+            "b) \\(\\frac {Sum \\, of \\, the \\, observations}{Number \\, of \\, observations}\\) ",
+            "c) \\(\\frac {Product \\, of \\, the  \\, observations}{Number \\, of \\, observations}\\) ",
+            "d) \\(\\frac {Sum \\, of \\, the \\, observations}{Product \\, of \\, the \\, observations}\\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 365,
+        "Question": "What is the arithmetic mean of the observations 2, 8.2, 3, 9, 11.2, 4?",
+        "Options": [
+            "a) 5.5",
+            "b) 8.45",
+            "c) 6.23",
+            "d) 7.1",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 366,
+        "Question": "What is the mean of 142, 143, 145, 158, 139?",
+        "Options": [
+            "a) 135.4",
+            "b) 145.4",
+            "c) 0.23",
+            "d) 135.5",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 367,
+        "Question": "Find the sum of the observations if the mean is 143 and the number of observations is 8.",
+        "Options": [
+            "a) 1148",
+            "b) 1344",
+            "c) 1244",
+            "d) 1144",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 368,
+        "Question": "Find the sum of the observations if the mean is 23 and the number of the observations is 11?",
+        "Options": [
+            "a) 283",
+            "b) 256",
+            "c) 293",
+            "d) 253",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 369,
+        "Question": "Find the number of observations if the sum of the observations is 37.4 and the mean of the observations is 6.23?",
+        "Options": [
+            "a) 9",
+            "b) 7",
+            "c) 6",
+            "d) 4",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 370,
+        "Question": "What is the mode in a data set?",
+        "Options": [
+            "a) The lowest number in a data set",
+            "b) The number that occurs less frequently",
+            "c) The number that occurs most frequently",
+            "d) The highest number in a data set",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 371,
+        "Question": "What is the mode of 8, 5, 7, 10, 15, 21, 5, 7, 2, 5?",
+        "Options": [
+            "a) 2",
+            "b) 5",
+            "c) 7",
+            "d) 21",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 372,
+        "Question": "What is the mode of 19, 18, 9, 24, 1, 12, 23, 75?",
+        "Options": [
+            "a) 75",
+            "b) 1",
+            "c) 19",
+            "d) No mode",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 373,
+        "Question": "What is the mode of 20, 15, 13, 12, 9, 17, 13, 1, 9?",
+        "Options": [
+            "a) 13",
+            "b) 9",
+            "c) Both 13 and 19",
+            "d) No mode",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 374,
+        "Question": "The Values of mean and median are given as 22.5 and 20 respectively. Find the approximate value of Mode.",
+        "Options": [
+            "a) 15",
+            "b) 20",
+            "c) 12",
+            "d) 13.5",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 375,
+        "Question": "Find the value of mode if the mean and median are 25 and 20 respectively.",
+        "Options": [
+            "a) 12",
+            "b) 18",
+            "c) 10",
+            "d) 17.5",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 376,
+        "Question": "If the value of the mean is 10 and the median is 2 less than the mean. Find the Mode.",
+        "Options": [
+            "a) 2",
+            "b) 3",
+            "c) 4",
+            "d) 5",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 377,
+        "Question": "What is the median?",
+        "Options": [
+            "a) Difference between higher half and lower half of the data set",
+            "b) Mean of the highest and lowest number in a data sample",
+            "c) Value separating higher half from the lower half of a data sample",
+            "d) Difference between the highest and lowest number.",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 378,
+        "Question": "If the mean and the mode are given as 35 and 30. Find the Median.",
+        "Options": [
+            "a) 75",
+            "b) 33.33",
+            "c) 19",
+            "d) 32",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 379,
+        "Question": "If the Mean and Mode are 25, then find the Median.",
+        "Options": [
+            "a) 13",
+            "b) 9",
+            "c) 25",
+            "d) 0",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 380,
+        "Question": "What is the formula for the median of Grouped data?",
+        "Options": [
+            "a) Median = L + [(n / 2 – cf) / f] * h",
+            "b) Median = L + [(n / 2 + cf) / f] * h",
+            "c) Median = L + [(n / 2 – cf) / f] + h",
+            "d) Median = L * [(n / 2 – cf) / f] * h",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 381,
+        "Question": "is less than 32 and greater than 12. So, the Median Class is 5 – 10.",
+        "Options": [
+            "L = 5, h = 5, cf = 12, f = 20",
+            "Median = L + [(n / 2 – c.f) / f] * h",
+            "= 5 + [(24 – 12) / 20] * 5",
+            "= 8",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 382,
+        "Question": "is less than 45 and greater than 15. So, the median class is 40 – 60.",
+        "Options": [
+            "L = 40, h = 20, cf = 15, f = 30",
+            "Median = L + [(n / 2 – c.f) / f] * h",
+            "= 40 + [(30 – 15) / 30] * 20",
+            "= 50",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 383,
+        "Question": "Who gave the definition of probability?",
+        "Options": [
+            "a) Euclid",
+            "b) Simon Laplace",
+            "c) Archimedes",
+            "d) Einstein",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 384,
+        "Question": "What is the sum of the probability of occurring an event E and the probability of not occurring the event E?",
+        "Options": [
+            "a) 0",
+            "b) -1",
+            "c) 1",
+            "d) ∞",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 385,
+        "Question": "What is the name of the event for which the probability is zero?",
+        "Options": [
+            "a) Impossible event",
+            "b) Random event",
+            "c) Exhaustive events",
+            "d) Mutual events",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 386,
+        "Question": "What is the probability of a sure event?",
+        "Options": [
+            "a) 0",
+            "b) 1",
+            "c) 2",
+            "d) 3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 387,
+        "Question": "What kind of an event is getting a head or a tail when a coin is tossed?",
+        "Options": [
+            "a) Impossible event",
+            "b) Equal event",
+            "c) Exhaustive event",
+            "d) Equally likely",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 388,
+        "Question": "The probability of occurring an event is 0.45. Find the probability of not occurring the event.",
+        "Options": [
+            "a) 0.5",
+            "b) 0.45",
+            "c) 0.55",
+            "d) 0.1",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 389,
+        "Question": "What is the probability of selecting 8 blue balls from 10 green balls?",
+        "Options": [
+            "a) 1",
+            "b) 0",
+            "c) 0.23",
+            "d) 0.5",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 390,
+        "Question": "What is the probability of getting even numbers when a die is rolled?",
+        "Options": [
+            "a) \\(\\frac {1}{2}\\) ",
+            "b) \\(\\frac {3}{2}\\) ",
+            "c) \\(\\frac {1}{4}\\) ",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 391,
+        "Question": "What is the probability of getting factors of 3 when a die is rolled?",
+        "Options": [
+            "a) \\(\\frac {1}{3}\\) ",
+            "b) \\(\\frac {2}{3}\\) ",
+            "c) \\(\\frac {1}{6}\\) ",
+            "d) 0",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 392,
+        "Question": "A bag contains 3 black, 2 brown, 4 blue balls. What is the probability of getting a brown ball?",
+        "Options": [
+            "a) \\(\\frac {1}{9}\\) ",
+            "b) \\(\\frac {7}{9}\\) ",
+            "c) \\(\\frac {2}{9}\\) ",
+            "d) \\(\\frac {4}{9}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 393,
+        "Question": "A bag contains 3 black, 7 brown, 4 green marbles. What is the probability of getting a green ball?",
+        "Options": [
+            "a) \\(\\frac {1}{9}\\) ",
+            "b) \\(\\frac {7}{9}\\) ",
+            "c) \\(\\frac {2}{7}\\) ",
+            "d) \\(\\frac {4}{9}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 394,
+        "Question": "What is the probability of getting a vowel in the English alphabet?",
+        "Options": [
+            "a) \\(\\frac {1}{21}\\) ",
+            "b) \\(\\frac {5}{19}\\) ",
+            "c) \\(\\frac {5}{26}\\) ",
+            "d) \\(\\frac {21}{26}\\) ",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 395,
+        "Question": "What is the probability of getting the letter ‘E’ in the English alphabet?",
+        "Options": [
+            "a) \\(\\frac {1}{21}\\) ",
+            "b) \\(\\frac {5}{19}\\) ",
+            "c) \\(\\frac {5}{26}\\) ",
+            "d) \\(\\frac {1}{26}\\) ",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 396,
+        "Question": "What is the probability of getting a black card from the deck of playing cards?",
+        "Options": [
+            "a) \\(\\frac {1}{2}\\) ",
+            "b) \\(\\frac {5}{52}\\) ",
+            "c) \\(\\frac {5}{26}\\) ",
+            "d) \\(\\frac {1}{26}\\) ",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 397,
+        "Question": "What is the probability of getting a card of Queen from the deck of playing cards?",
+        "Options": [
+            "a) \\(\\frac {1}{2}\\) ",
+            "b) \\(\\frac {1}{13}\\) ",
+            "c) \\(\\frac {5}{26}\\) ",
+            "d) \\(\\frac {1}{52}\\) ",
+            ""
+        ],
+        "Answer": "Answer: b"
+    }
+]

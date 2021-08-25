@@ -1,0 +1,4154 @@
+[
+    {
+        "id": 1,
+        "Question": "What mixture of gases are used in anesthesia?",
+        "Options": [
+            "a) O2 and N2O",
+            "b) O2  and CO2",
+            "c) CO2  and N2O",
+            "d) O2 , CO2  and N2O",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 2,
+        "Question": "The oxygen flush system provides a higher flow of oxygen of ________ L/min when the patient’s need for oxygen is greater than the amount the breathing circuit can provide.",
+        "Options": [
+            "a) 25-50",
+            "b) 35-75",
+            "c) 55-95",
+            "d) 65-105",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 3,
+        "Question": "One of the methods to measure changes in the levels of consciousness during anesthesia is ________",
+        "Options": [
+            "a) Auditory Evoked Potential",
+            "b) Visual Evoked Potential",
+            "c) Tactile Evoked Potential",
+            "d) Speech Evoked Potential",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 4,
+        "Question": "AEP stands for ________",
+        "Options": [
+            "a) Auditory Evoked Potential",
+            "b) Auxiliary Evoked Potential",
+            "c) Audiovisual Evoked Potential",
+            "d) Ambulatory Evoked Potential",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 5,
+        "Question": "What causes the pre-selected volume of air to flow into the patient by communicating directly with a breathing circuit?",
+        "Options": [
+            "a) Nebulizer",
+            "b) Microcontroller",
+            "c) Bellows",
+            "d) Humidifier",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 6,
+        "Question": "What is the function of a nebulizer?",
+        "Options": [
+            "a) To supply moisture in the form of droplets",
+            "b) To maintain temperature",
+            "c) To maintain the gas levels of individual gases",
+            "d) To check the safety of valves",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 7,
+        "Question": "What is one of the crucial reasons for lung compliance to fall?",
+        "Options": [
+            "a) Wet gases",
+            "b) Dry gases",
+            "c) High temperature gases",
+            "d) Low temperature gases",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 8,
+        "Question": "_______ is the most commonly used material for vapourizer.",
+        "Options": [
+            "a) Steel",
+            "b) Cast iron",
+            "c) copper",
+            "d) Brass",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 9,
+        "Question": "The gas pressure supplied by the hospital is maintained at the wall outlet at______ kPa.",
+        "Options": [
+            "a) 275-345",
+            "b) 245-325",
+            "c) 266-376",
+            "d) 225-315",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 10,
+        "Question": "Which of the following is known as laughing gas?",
+        "Options": [
+            "a) CO2",
+            "b) N2O",
+            "c) NO2",
+            "d) B2O",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 11,
+        "Question": "After oxygenation of blood, what is the percentage of oxygen carried by hemoglobin?",
+        "Options": [
+            "a) 70 %",
+            "b) 75 %",
+            "c) 87 %",
+            "d) 97 %",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 12,
+        "Question": "What is the pressure of gases maintained in medical air supply?",
+        "Options": [
+            "a) 300 – 345 kPa",
+            "b) 345 – 380 kPa",
+            "c) 380 – 400 kPa",
+            "d) 400 – 425 kPa",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 13,
+        "Question": "What is the residual capacity of the lungs?",
+        "Options": [
+            "a) 2000 ml",
+            "b) 2300 ml",
+            "c) 2500 ml",
+            "d) 2700 ml",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 14,
+        "Question": "What all modes exist in ventilator?",
+        "Options": [
+            "a) Neonatal mode, normal mode",
+            "b) Normal mode, geriatric mode",
+            "c) Neonatal mode, normal mode, geriatric mode",
+            "d) Neonatal mode, pediatric mode, normal mode, geriatric mode",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 15,
+        "Question": "The operation which allows air to be given directly in the trachea is called ________",
+        "Options": [
+            "a) Tracheotomy",
+            "b) Vasectomy",
+            "c) Disc Prolapse",
+            "d) Clog Removing",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 16,
+        "Question": "The pump used to pump air mechanically into the respiratory tract __________",
+        "Options": [
+            "a) Mechanical Pump",
+            "b) Ventilator",
+            "c) Ambulatory Bag",
+            "d) CPR",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 17,
+        "Question": "Prolonged bed rest can lead to which problem?",
+        "Options": [
+            "a) Tuberculosis",
+            "b) Diarrhea",
+            "c) Cholera",
+            "d) Hyper Tension",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 18,
+        "Question": "The first anesthesia used was ___________",
+        "Options": [
+            "a) polyvinyl chloride",
+            "b) trichloro methane",
+            "c) chlorofluorocarbon",
+            "d) tetra fluorocarbon",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 19,
+        "Question": "Which of the following parameters does not affect anesthesia?",
+        "Options": [
+            "a) Blood pressure",
+            "b) Blood sugar",
+            "c) Temperature",
+            "d) Moisture content of the exhaled air",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 20,
+        "Question": "What is epidural?",
+        "Options": [
+            "a) A type of anesthesia used during childbirth",
+            "b) A type of anesthesia used for implants",
+            "c) A type of anesthesia used for rheumatic surgery",
+            "d) A type of anesthesia used for renal transplant",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 21,
+        "Question": "The anesthesia applied directly to the skin is ___________",
+        "Options": [
+            "a) Topical Anesthesia",
+            "b) Caudal Anesthesia",
+            "c) Local Blocks",
+            "d) General Anesthesia",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 22,
+        "Question": "In a caudal block, where is the anesthesia injected?",
+        "Options": [
+            "a) Thoracic Canal",
+            "b) Lumbar Canal",
+            "c) Sacral Canal",
+            "d) Coccyx Canal",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 23,
+        "Question": "In this type of anesthesia, all the impulses from a nerve are blocked.",
+        "Options": [
+            "a) Nerve Blocks",
+            "b) Spinal Anesthesia",
+            "c) Topical Anesthesia",
+            "d) Epidural Blocks",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 24,
+        "Question": "In a spinal anesthesia, where all is the anesthetic injected?",
+        "Options": [
+            "a) 1st and 2nd thoracic space, 11th and 12th thoracic space",
+            "b) 3rd and 4th Lumbar space, 5th lumbar and 1st sacral space",
+            "c) 7th cervical and 1st thoracic space, 12th thoracic and 1st lumbar space",
+            "d) 1st and 2nd lumbar space, 4th and 5th lumbar space",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 25,
+        "Question": "In which of these sub cutaneous infiltration with a desensitizing agent is done?",
+        "Options": [
+            "a) Saddle Blocks",
+            "b) Epidural Blocks",
+            "c) Local Blocks",
+            "d) General Anesthesia",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 26,
+        "Question": "Immediately after the surgery, the patient is usually shifted to _____________",
+        "Options": [
+            "a) ICU",
+            "b) PACU",
+            "c) CCU",
+            "d) Recovery room",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 27,
+        "Question": "In the usual preparation for general surgery, the client may be __________",
+        "Options": [
+            "a) Given specifically ordered oral medications with small amounts of water",
+            "b) Given ice chips",
+            "c) NPO for 12 to 14 hours before",
+            "d) Allowed regular diet",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 28,
+        "Question": "If a nurse finds that a patient’s abdominal wound has eviscerated, she should ________",
+        "Options": [
+            "a) Administer antibiotics",
+            "b) Position the patient sideways and call for help",
+            "c) Attempt to drain the site",
+            "d) Cover the site with saline-soaked sterile gauze",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 29,
+        "Question": "After surgery, an incentive spirometer is used to prevent _________",
+        "Options": [
+            "a) Lung collapse",
+            "b) Gastric and intestinal problems",
+            "c) Elevated blood pressure",
+            "d) Blood Clotting",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 30,
+        "Question": "What is the ideal time interval for patient monitoring in the Postanesthesia care unit?",
+        "Options": [
+            "a) Every hour",
+            "b) Every 15 mins",
+            "c) Every 30 mins",
+            "d) Every 10 mins",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 31,
+        "Question": "Spinal Anaesthesia used on a patient needs monitoring for ________",
+        "Options": [
+            "a) Oxygen levels",
+            "b) Hyper tension",
+            "c) Renal Function",
+            "d) Brain activity",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 32,
+        "Question": "To be approved for discharge from PACU, the patient should exhibit:",
+        "Options": [
+            "a) Normal breathing",
+            "b) No bleeding and swelling",
+            "c) Oxygen saturation of min 90",
+            "d)Temperature greater than 96.8",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 33,
+        "Question": "A preoperative assessment should include all of the following except:",
+        "Options": [
+            "a) Current medication and drugs",
+            "b) Psychological aspects",
+            "c) Patient knowledge of rehabilitation",
+            "d) Age, Weight, Height",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 34,
+        "Question": "Paralytic ileus is a possible postoperative complication. To check for it, which of the following should be done?",
+        "Options": [
+            "a) Monitor renal function",
+            "b) Auscultate for bowel sounds every 4 hours",
+            "c) Administer antibiotics",
+            "d) Observe and monitor patient heart rate",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 35,
+        "Question": "Before reaching the operation theater, how many zones exist?",
+        "Options": [
+            "a) 1",
+            "b) 3",
+            "c) 5",
+            "d) 7",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 36,
+        "Question": "How many sections are there in the operation table?",
+        "Options": [
+            "a) 1 – 3",
+            "b) 4 – 5",
+            "c) 6 – 7",
+            "d) 7 – 8",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 37,
+        "Question": "What kind of lights exists in the OT?",
+        "Options": [
+            "a) Fluorescent Lamps",
+            "b) LED lights",
+            "c) Tungsten Light",
+            "d) LCD",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 38,
+        "Question": "When a baby is born, why are they placed under UV lamps?",
+        "Options": [
+            "a) To reduce the possibility of skin disease",
+            "b) To reduce the possibility of jaundice",
+            "c) To ensure proper blood flow",
+            "d) To allow the bones to absorb nutrients",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 39,
+        "Question": "What is the ratio of the gases in medical air?",
+        "Options": [
+            "a) 78% Nitrogen, 21 % oxygen",
+            "b) 75 % Oxygen, 25 % Carbon dioxide",
+            "c) 60% Nitrogen, 20% Oxygen, 20% Carbon Di oxide",
+            "d) 50% Nitrogen, 50% Oxygen",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 40,
+        "Question": "How are the OT ventilated?",
+        "Options": [
+            "a) Air is blown in from the lower part of the wall",
+            "b) Air is sucked out from the upper region of the wall",
+            "c) Air is blown in from the lower part and sucked out from the upper part",
+            "d) Air is blown in from the upper part and sucked out from the lower part",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 41,
+        "Question": "What is the resolution of the microscopes used in neurosurgery?",
+        "Options": [
+            "a) 1 μm",
+            "b) 1 nm",
+            "c) 1 Åm",
+            "d) 1 pm",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 42,
+        "Question": "For how long can a heart lung machine be used?",
+        "Options": [
+            "a) 4 hours",
+            "b) 6 hours",
+            "c) 8 hours",
+            "d) 10 hours",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 43,
+        "Question": "In which of the following is not used for suturing?",
+        "Options": [
+            "a) Silk",
+            "b) Nylon",
+            "c) Polyester",
+            "d) Bakelite",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 44,
+        "Question": "What are all precautions taken for a patient directly out of surgery?",
+        "Options": [
+            "a) The injury should not be infected",
+            "b) The person must take a bath",
+            "c) The blood pressure should go down",
+            "d) The blood sugar should go up",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 45,
+        "Question": "What are the temperature and humidity maintained in an OT?",
+        "Options": [
+            "a) T = 20 – 26 ℃, H = 20% – 30% air exchanges = 7 – 8 per hour",
+            "b) T = 18 – 22 ℃, H = 40% – 50% air exchanges = 10 – 12 per hour",
+            "c) T = 10 – 12 ℃, H = 10% – 30% air exchanges = 9 – 10 per hour",
+            "d) T = 30 – 35 ℃, H = 50% – 60% air exchanges = 15 – 20 per hour",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 46,
+        "Question": "What is the purpose of CSSD?",
+        "Options": [
+            "a) storage of clean equipment",
+            "b) providing sterile equipment to the operation theater",
+            "c) storing sterile equipment",
+            "d) pharmacy of the operation theater",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 47,
+        "Question": "Which machine uses the temperature and pressure of the steam for disinfection?",
+        "Options": [
+            "a) Laminar Airflow",
+            "b) Autoclave",
+            "c) Oven",
+            "d) Water Jet",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 48,
+        "Question": "Which of the following cannot be autoclaved?",
+        "Options": [
+            "a) catheter",
+            "b) mes",
+            "c) scalpel",
+            "d) scissors",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 49,
+        "Question": " How are the gauze and cotton sterilized?",
+        "Options": [
+            "a) Hot air sterilization",
+            "b) Wet Heat Sterilization",
+            "c) Sterilization Under High Pressure",
+            "d) Chemical Sterilization",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 50,
+        "Question": "What machine is used to package the cotton and gauze?",
+        "Options": [
+            "a) Heat Sealing Machine",
+            "b) UV sealing Machine",
+            "c) Zip Lock Machine",
+            "d) Needle and Thread Sealing",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 51,
+        "Question": " What is sterilized in dry conditions?",
+        "Options": [
+            "a) Implant",
+            "b) Gauze",
+            "c) Scalpel",
+            "d) Cannula",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 52,
+        "Question": "How is dry sterilization done?",
+        "Options": [
+            "a) In autoclave",
+            "b) In oven",
+            "c) In Magnetic Vibrator",
+            "d) In Hot Plate",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 53,
+        "Question": "What is the pH of an empty stomach?",
+        "Options": [
+            "a) 0.13",
+            "b) 1.3",
+            "c) 13",
+            "d) 130",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 54,
+        "Question": "islets of Langerhans are found in __________",
+        "Options": [
+            "a) Liver",
+            "b) Stomach",
+            "c) Pancreas",
+            "d) Intestines",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 55,
+        "Question": "Digestion of fats begins in _______",
+        "Options": [
+            "a) Mouth",
+            "b) Esophagus",
+            "c) Stomach",
+            "d) Duodenum",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 56,
+        "Question": "Chewing of food is called ______",
+        "Options": [
+            "a)  Emulsification",
+            "b) Mastication",
+            "c) Injection",
+            "d) Peristalses",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 57,
+        "Question": "Which organ contributes the most enzymes and hormones towards digestion?",
+        "Options": [
+            "a) Liver",
+            "b) Pancreas",
+            "c) Duodenum",
+            "d) Ileum",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 58,
+        "Question": "The movement of an esophagus to help the food down the GI tract __________",
+        "Options": [
+            "a) Mastication",
+            "b) Emulsification",
+            "c) Peristalses",
+            "d) Ejection",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 59,
+        "Question": "The three different cells found in the stomach",
+        "Options": [
+            "a) Chief cells, renal cells, nephron",
+            "b) Renal cells, mucous cells, hepatic cells",
+            "c) Nephrons, hepatic cells, parietal cells",
+            "d)  Chief cells, parietal cells, mucous cells",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 60,
+        "Question": "The band of muscles guarding the two openings of the stomach towards the esophageal and intestinal sides is called as _______________",
+        "Options": [
+            "a) pyloric sphincter and pyruvic sphincter",
+            "b) diaphragm and pyloric sphincter",
+            "c) cardiac sphincter and lower sphincter",
+            "d) cardiac sphincter and pyloric sphincter",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 61,
+        "Question": "A vestigial organ for humans found near the junction of the small and large intestine is the _______",
+        "Options": [
+            "a) Appendix",
+            "b) Nictitating Membrane",
+            "c) Coccyx",
+            "d) Pinna",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 62,
+        "Question": "The cells of the small intestine have a special structure that helps in the absorption of food. This structure is ________",
+        "Options": [
+            "a) villi",
+            "b) pseudopodia",
+            "c) flagella",
+            "d) attachment sites",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 63,
+        "Question": "Fats effectively begin digesting due to  __________",
+        "Options": [
+            "a) Salivary emulsification",
+            "b) Esophageal emulsification",
+            "c) Acidic emulsification",
+            "d) Bile emulsification",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 64,
+        "Question": "Fats are absorbed by ________ in the form of a ________",
+        "Options": [
+            "a) micelles, lacteal",
+            "b) lacteal, enterocytes",
+            "c) enterocytes, micelles",
+            "d) micelles, enterocytes",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 65,
+        "Question": "Enzyme secreted by the small intestine to digest protein is ____________",
+        "Options": [
+            "a) trypsin",
+            "b) chymotrypsin",
+            "c) zymogens",
+            "d) peptidase",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 66,
+        "Question": "The enzyme that breaks ________ into 2 glucose molecules is ________",
+        "Options": [
+            "a) maltose, lactase",
+            "b) lactose, lactase",
+            "c)  maltose, maltase",
+            "d)  lactose, maltase",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 67,
+        "Question": "An enzyme that is secreted by infants but not by adults",
+        "Options": [
+            "a) Renin",
+            "b) Gelatinase",
+            "c) Pepsinogen",
+            "d) Amylase",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 68,
+        "Question": "Amylase works in pH as _________",
+        "Options": [
+            "a) 1.3 – 2.5",
+            "b) 2.5 – 5.7",
+            "c) 5.7 – 6.8",
+            "d) 6.8 – 7.2",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 69,
+        "Question": "pH in the small intestine is __________",
+        "Options": [
+            "a) 2",
+            "b) 5",
+            "c) 7",
+            "d) 8",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 70,
+        "Question": "The _______ connects the small intestine and liver.",
+        "Options": [
+            "a) pulmonary vein",
+            "b) renal vein",
+            "c) hepatic portal",
+            "d) cardiac vein",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 71,
+        "Question": "Where are the access sites for the stomach wash tubes?",
+        "Options": [
+            "a) Mouth",
+            "b) Diaphragm",
+            "c) Abdomen",
+            "d) Anus",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 72,
+        "Question": "How is a graft made?",
+        "Options": [
+            "a) By surgically connecting two arteries",
+            "b) By externally connecting two veins",
+            "c) By surgically placing a connection between two capillaries",
+            "d) By surgically placing a connection between an artery and vein",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 73,
+        "Question": "What is a fistula?",
+        "Options": [
+            "a) The connection between two arteries",
+            "b) The connection between two veins",
+            "c) The connection between two capillaries",
+            "d) The connection between artery and vein",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 74,
+        "Question": "Cannula acts like an access point for _________",
+        "Options": [
+            "a) catheters",
+            "b) syringe",
+            "c) scalpel",
+            "d) mes",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 75,
+        "Question": "Long periods of cannulization can lead to ___________",
+        "Options": [
+            "a) Inflammation in the area",
+            "b) Heart Diseases",
+            "c) Increase in uric acid",
+            "d) Death",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 76,
+        "Question": "How is monitoring done for stomach wash?",
+        "Options": [
+            "a) Air insufflation while listening to the stomach",
+            "b) Auscultation",
+            "c) Patting the stomach",
+            "d) Ultrasound",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 77,
+        "Question": "Why is the stomach lavage done?",
+        "Options": [
+            "a) to remove poison",
+            "b) to induce vomiting",
+            "c) to allow better respiration",
+            "d) to hydrate the stomach",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 78,
+        "Question": "What is the entry site for a feeding tube?",
+        "Options": [
+            "a) Oral cavity",
+            "b) G – tube site",
+            "c) Ileum",
+            "d) Diaphragm",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 79,
+        "Question": "Which gas is used for insufflation in surgical processes?",
+        "Options": [
+            "a) Carbon Di Oxide",
+            "b) Helium",
+            "c) Nitrogen",
+            "d) Oxygen",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 80,
+        "Question": "What is the difference between the infusion pump and syringe pump?",
+        "Options": [
+            "a) Syringe Pumps are used when a larger amount of medication has to be sent in while infusion pumps are used for smaller doses of medication",
+            "b) Infusion pump injects into the abdomen and syringe pump injects in the blood vessels",
+            "c) Infusion Pumps are used when a larger amount of medication has to be sent in while syringe pumps are used for smaller doses of medication",
+            "d) Syringe pump injects into the abdomen and infusion pump injects in the blood vessels",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 81,
+        "Question": "What are feeding tubes made of?",
+        "Options": [
+            "a) Bakelite",
+            "b) Polyurethane",
+            "c) Polyvinyl Chloride",
+            "d) Poly ethene",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 82,
+        "Question": "The endoscope that examines the respiratory tract is called as ____________",
+        "Options": [
+            "a) Bronchoscopy",
+            "b) Laparoscopy",
+            "c) Colonoscopy",
+            "d) Arthroscopy",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 83,
+        "Question": "Endoscope used to examine the upper GI tract is ___________",
+        "Options": [
+            "a) Laparoscopy",
+            "b) Bronchoscopy",
+            "c) Esophagogastroduodenoscopy",
+            "d) Laryngoscopy",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 84,
+        "Question": "Capsule endoscope has a ________ for taking images.",
+        "Options": [
+            "a) CCD camera",
+            "b) LED camera",
+            "c) X-Ray camera",
+            "d) US camera",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 85,
+        "Question": "Extraction of a small piece of the diseased organ is called __________",
+        "Options": [
+            "a) biopsy",
+            "b) surgery",
+            "c) chemotherapy",
+            "d) replacement",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 86,
+        "Question": "Which if the following diagnostic procedures require an endoscope?",
+        "Options": [
+            "a) Transesophagal Echocardiography",
+            "b) X Ray of the Chest",
+            "c) Counting the Number of Platelets",
+            "d) Detecting Leukemia",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 87,
+        "Question": "Which endoscope can be used to look at the knees before and after a surgery?",
+        "Options": [
+            "a) Colonoscopy",
+            "b) Arthroscopy",
+            "c) Bronchoscopy",
+            "d) Laryngoscopy",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 88,
+        "Question": "A Histopathology lab will deal with _________",
+        "Options": [
+            "a) Cells",
+            "b) Tissues",
+            "c) Organs",
+            "d) Organ System",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 89,
+        "Question": "What is the temperature which is maintained by the Freezers in the pathology labs?",
+        "Options": [
+            "a) 10℃ – 15℃",
+            "b) 0℃ – 10℃",
+            "c) -10℃ –  -60℃",
+            "d) -100℃",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 90,
+        "Question": "What solution is used to maintain sterility in labs?",
+        "Options": [
+            "a) Sodium Chloride",
+            "b) Sodium Hypochlorite",
+            "c) Sodium Cyanide",
+            "d) Sodium Sulphate",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 91,
+        "Question": "An electrophoresis machine is used to __________",
+        "Options": [
+            "a) separate DNA",
+            "b) separate blood components",
+            "c) separate the bone components",
+            "d) separate the muscle fibers",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 92,
+        "Question": "Which of the following devices are used to maintain a sterile environment while working with microorganisms?",
+        "Options": [
+            "a) Laminar Airflow",
+            "b)  Microwave oven",
+            "c) Water Bath",
+            "d) Incubator",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 93,
+        "Question": "Which device is used to separate the components of blood?",
+        "Options": [
+            "a) auto analyzer",
+            "b) centrifuge",
+            "c) hematocrit",
+            "d) magnetic stirrer",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 94,
+        "Question": "How are the blood cells and plasma separated?",
+        "Options": [
+            "a) hematocrit",
+            "b) hot plate",
+            "c) centrifuge",
+            "d) water bath",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 95,
+        "Question": "The cells related to blood are collectively called as",
+        "Options": [
+            "a) oestoblast cells",
+            "b) concdrocyte cells",
+            "c)  hematopoietic cells",
+            "d) megakaryocytes",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 96,
+        "Question": "On what basis is the blood type classified?",
+        "Options": [
+            "a) Antigen",
+            "b) Antibody",
+            "c) Rhesus Factor",
+            "d) Oxygen Content",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 97,
+        "Question": "On what basis is the blood group classified?",
+        "Options": [
+            "a) Antigen and antibody",
+            "b) Haemoglobin content",
+            "c) Rhesus Factor",
+            "d) Oxygen Content",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 98,
+        "Question": "How many blood types exist including the positive and negative factors?",
+        "Options": [
+            "a) 3",
+            "b) 4",
+            "c) 8",
+            "d) 6",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 99,
+        "Question": "If the blood of two different groups is mixed together, what problem is observed?",
+        "Options": [
+            "a) Coagulation",
+            "b) Agglutination",
+            "c) Thrombus formation",
+            "d) Embolism",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 100,
+        "Question": "Other than transfusion, when is it necessary to take the Rh factor into consideration?",
+        "Options": [
+            "a) Cathertization",
+            "b) Spleen Rupture",
+            "c) Pregnancy",
+            "d) Blood Donation",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 101,
+        "Question": "Which blood type is a universal donor?",
+        "Options": [
+            "a) O –",
+            "b) O +",
+            "c) AB –",
+            "d) AB +",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 102,
+        "Question": "If a person has AB- blood, who all can donate blood to him?",
+        "Options": [
+            "a) A+ , B-, O -, AB+",
+            "b) A- , B -, O+, AB+",
+            "c)  A+, B+, O+, AB-",
+            "d) A-, B-, O-, AB-",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 103,
+        "Question": "Extraction of a small section of diseased tissue to study and diagnose is called ______",
+        "Options": [
+            "a) autopsy",
+            "b) biopsy",
+            "c) necrosis",
+            "d) endoscopy",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 104,
+        "Question": "On collecting blood, what solution is added to it?",
+        "Options": [
+            "a) sodium citrate",
+            "b) potassium citrate",
+            "c) sodium phosphate",
+            "d) potassium phosphate",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 105,
+        "Question": "How much blood does the body have in reserve and where is it stored?",
+        "Options": [
+            "a) 150 ml stored in liver",
+            "b) 10 ml stored in gall bladder",
+            "c) 100 ml stored in the spleen",
+            "d) 15 ml stored in the heart",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 106,
+        "Question": "What is the optimum temperature to store blood right after collecting it?",
+        "Options": [
+            "a) 25℃",
+            "b) 22℃",
+            "c) 20℃",
+            "d) 15℃",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 107,
+        "Question": "How is dengue detected in blood?",
+        "Options": [
+            "a) Low level of RBCs",
+            "b) Low level of WBCs",
+            "c) Low level of Platelets",
+            "d) Low level of fibrin",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 108,
+        "Question": "What machine is used to test the blood?",
+        "Options": [
+            "a) Auto analyzer",
+            "b) Hemodialyzer",
+            "c) Diathermy machine",
+            "d) Ventilator",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 109,
+        "Question": "What is the normal haemoglobin content of the RBCs?",
+        "Options": [
+            "a) 0.3pgm",
+            "b) 3.0pgm",
+            "c) 30pgm",
+            "d) 300pgm",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 110,
+        "Question": "Anaemia is caused due to deficiency of _________",
+        "Options": [
+            "a) Haemoglobin",
+            "b) Fibrin",
+            "c)Thrombin",
+            "d) Neutrophils",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 111,
+        "Question": "Hemophilia is more dominant in _________",
+        "Options": [
+            "a) Males",
+            "b) Females",
+            "c) Young children",
+            "d) Transvestite",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 112,
+        "Question": "A virus that destroys the immunity of the body and can spread through blood is __________",
+        "Options": [
+            "a) HIV",
+            "b) Gonorrhea",
+            "c) Anemia",
+            "d) Hemophilia",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 113,
+        "Question": "In a normal adult male, what is the ration of RBCs: WBCs: Platelets per ml of blood?",
+        "Options": [
+            "a) 5000:11:300",
+            "b) 50:11:300",
+            "c) 5000:11:3",
+            "d) 50:11:3",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 114,
+        "Question": "Where are the platelets produced?",
+        "Options": [
+            "a) In Liver",
+            "b) In Spleen",
+            "c) In Gall Bladder",
+            "d) In Megakaryocytes",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 115,
+        "Question": "What is the ratio of basophils to eosinophils?",
+        "Options": [
+            "a) 4:1",
+            "b) 1:4",
+            "c) 2:1",
+            "d) 1:2",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 116,
+        "Question": "How to distinguish eosinophils from basophils?",
+        "Options": [
+            "a) Eosinophils have a bilobed nucleus and basophils have a single round nucleus",
+            "b) Eosinophils are granulated while Basophils are non granulated",
+            "c) Eosinophils have a single nucleus and basophils have a trilobed nucleus",
+            "d) Eosinophils stain blue while basophils stain pink",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 117,
+        "Question": "Where are Kupffer cells found?",
+        "Options": [
+            "a) Brain",
+            "b) Lungs",
+            "c) Liver",
+            "d) Spleen",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 118,
+        "Question": "The leaving of neutrophils from the blood vessels to act on the site of injury is called as ________",
+        "Options": [
+            "a) Histosis",
+            "b) Diapedesis",
+            "c) Amboidal Movement",
+            "d) Flagellation",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 119,
+        "Question": "How are mature and non – matured RBCs distinguished?",
+        "Options": [
+            "a) Mature RBCs are biconcave while non – mature RBCs are round",
+            "b) Mature RBCs have mitochondria while non – mature RBCs do not have mitochondria",
+            "c) Mature RBCs have nucleus while non – mature RBCs do not have nucleus",
+            "d) Mature RBCs have haemoglobin while non – mature RBCs do not have haemoglobin",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 120,
+        "Question": "Where are the RBCs destroyed?",
+        "Options": [
+            "a) Liver",
+            "b) Pancreas",
+            "c) Stomach",
+            "d) Intestines",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 121,
+        "Question": "What is the lifespan of platelets?",
+        "Options": [
+            "a) 1 – 7 days",
+            "b) 8 – 12 days",
+            "c) 14 days",
+            "d) 1 month",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 122,
+        "Question": "The number of cartilagineous structures in a long bone are ____________",
+        "Options": [
+            "a) 2",
+            "b) 5",
+            "c) 0",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 123,
+        "Question": "The reason why people have joint pain in old age is because _____________",
+        "Options": [
+            "a) the bones become weak",
+            "b) the bones become too strong",
+            "c) the chondrocytes in articular cartilage become lesser in number",
+            "d) the blood supply to the joints reduces",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 124,
+        "Question": "Ellipsoid joint is found at __________",
+        "Options": [
+            "a) atlanto-occipital joint",
+            "b)  first carpo-metacarple joint",
+            "c) first tarso-metatarsle joint",
+            "d) atlando-axial joint.",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 125,
+        "Question": "Which of these is a multi-axial joint?",
+        "Options": [
+            "a) elbow joint",
+            "b)  ball and Socket joint",
+            "c) shoulder joint",
+            "d) thumb joint",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 126,
+        "Question": "Other name for condylar joint is ___________",
+        "Options": [
+            "a) Saddle joint",
+            "b) Plain joint",
+            "c) Ball and Socket Joint",
+            "d) Hinge Joint",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 127,
+        "Question": "Synovial fluid secreted by synovial is rich in ___________",
+        "Options": [
+            "a) proteins",
+            "b) vitamins",
+            "c) minerals",
+            "d) fats",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 128,
+        "Question": "Acromioclavicular joint is an example of   ___________",
+        "Options": [
+            "a) Ball and Socket Joint",
+            "b) Hinge Joint",
+            "c) Plain Joint",
+            "d) Pivot Joint",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 129,
+        "Question": "The tooth like structure of C2 vertebra that forms Pivot Joint with C1 vertebra is called as odontoint. The other name is ____________",
+        "Options": [
+            "a) flagella",
+            "b) dens",
+            "c) matrix",
+            "d) condyl",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 130,
+        "Question": "In a bone, if concavity : elongation :: convexity:_________",
+        "Options": [
+            "a) compression",
+            "b) depression",
+            "c) suppression",
+            "d) extension",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 131,
+        "Question": "In which of the following injuries to the bone, the bone is actually not broken?",
+        "Options": [
+            "a) Simple Fracture",
+            "b) Hairline Fracture",
+            "c) Contusion",
+            "d) Multiple",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 132,
+        "Question": "In fracture, especially in long bones, the body starts giving weight ___________",
+        "Options": [
+            "a) medially",
+            "b) axially",
+            "c) centrally",
+            "d) normally",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 133,
+        "Question": "Which of these fractures necessitates the use of bone cement or some other implant?",
+        "Options": [
+            "a) Multiple Fractures",
+            "b) Compound Fracture",
+            "c) Simple Fracture",
+            "d) Hairline Fracture",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 134,
+        "Question": "Which of the following is an important component for any bone related implant?",
+        "Options": [
+            "a) Titanium",
+            "b) Iron",
+            "c) Calcium and Phosphorus",
+            "d) Calcium Hydroxyapatite",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 135,
+        "Question": "In the bones, the calcium and phosphate ions are organized in which biological structure?",
+        "Options": [
+            "a) Tetrahedral",
+            "b) Hydroxyapatite",
+            "c) Clustered",
+            "d) Random",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 136,
+        "Question": "Mr. A met with an accident and his right femur broke at 3 different places. The cut was a clean break and the four pieces were put back together in their original place. What kind of fracture did he have?",
+        "Options": [
+            "a) Contusion",
+            "b) Hairline Fracture",
+            "c) Multiple Fracture",
+            "d) Simple Fracture",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 137,
+        "Question": "The severity of a ligament injury progresses from ___________",
+        "Options": [
+            "a) strain to tear",
+            "b) sprain to tear",
+            "c) strain to sprain",
+            "d) sprain to strain",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 138,
+        "Question": "In medical terminology, what is the difference between Superior & Inferior and Cranial & Caudal?",
+        "Options": [
+            "a) No difference",
+            "b) Superior & Inferior is for large structures while Cranial & Caudal is for those in and around the brain and tail",
+            "c) Superior & inferior is used for humans while Cranial & Caudal is used for animals",
+            "d) Superior & Inferior is used for animals while Cranial & Caudal is used for plants",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 139,
+        "Question": "The antonym for ‘medial’ will be ___________",
+        "Options": [
+            "a) lateral",
+            "b) central",
+            "c) frontal",
+            "d) parallel",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 140,
+        "Question": "The term for ‘away from the surface’ is _____________",
+        "Options": [
+            "a) internal",
+            "b) external",
+            "c) superficial",
+            "d) deep",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 141,
+        "Question": "In ‘flexion’ of the forearm, the humerus moves towards the radius and ulna. What movement will take the humerus away from the radius and ulna?",
+        "Options": [
+            "a) reflexion",
+            "b) deflection",
+            "c) extension",
+            "d) abduction",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 142,
+        "Question": "The antonym for ‘abduction’ will be ___________",
+        "Options": [
+            "a) adduction",
+            "b) reflexion",
+            "c) flexion",
+            "d) extension",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 143,
+        "Question": "If the palm is facing downwards, then the movement that a person must do to make the palm face upwards is called as _________",
+        "Options": [
+            "a) abduction",
+            "b) adduction",
+            "c) pronation",
+            "d) supination",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 144,
+        "Question": "The difference between rotation and circumduction is __________",
+        "Options": [
+            "a) rotation is any circular movement while circumduction is circular movement around something",
+            "b) rotation is the circular movement along the sagittal axis of the body while circumduction is the conical movement of the body around the sagittal axis of the body",
+            "c) circumduction is any circular movement while rotation is circular movement around something",
+            "d) circumduction is the circular movement along the sagittal axis of the body while rotation is the conical movement of the body around the sagittal axis of the body",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 145,
+        "Question": "The placement of the sensors on the cranium in order to take EEG is called ________",
+        "Options": [
+            "a) Montage",
+            "b) Cranial Cap",
+            "c) Electrode Placement",
+            "d) Electrode Cap",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 146,
+        "Question": "The frequency of the waves acquired when the person is in an alert and wakeful state is _______",
+        "Options": [
+            "a) 4 – 8 Hz",
+            "b) 8 – 13 Hz",
+            "c) 13 – 30 Hz",
+            "d) > 30 Hz",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 147,
+        "Question": "The electrode gel is used to _________",
+        "Options": [
+            "a) reduce skin resistance",
+            "b) increase skin resistance",
+            "c) moisturize the skin",
+            "d) cause skin flaking",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 148,
+        "Question": "EEG is the recording of the   _________",
+        "Options": [
+            "a) signal from axons of the pyramidal cells",
+            "b) signal from the dendrites of the pyramidal cells",
+            "c) cyton secretions",
+            "d) axon secretions",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 149,
+        "Question": "When a person moves his arms and legs, the EEG is generated from _______",
+        "Options": [
+            "a) Temporal Lobe",
+            "b) Parietal Lobe",
+            "c) Occipital Lobe",
+            "d) Frontal Lobe",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 150,
+        "Question": "When an EEG is taken from the Occipital Region of the brain, what signal will cause the maximum amount of noise?",
+        "Options": [
+            "a) EOG",
+            "b) EMG",
+            "c) ECG",
+            "d) EEG from other parts of the brain",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 151,
+        "Question": "Which of the following conditions will give slow waves with high amplitude?",
+        "Options": [
+            "a) Hypoglycemia",
+            "b) Hypothermia",
+            "c) Hypocapnia",
+            "d) Low Glucocorticoids",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 152,
+        "Question": "Certain natural processes interrupt the normal alpha waves. This process is called as alpha block or ________",
+        "Options": [
+            "a) disruption",
+            "b) beta introduction",
+            "c) asynchronization",
+            "d) desynchronization",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 153,
+        "Question": "Sleep spindles are found __________   of the sleep.",
+        "Options": [
+            "a) first phase",
+            "b) second phase",
+            "c) third phase",
+            "d) fourth phase",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 154,
+        "Question": "Abnormal sleep spindles can indicate _______",
+        "Options": [
+            "a) Cerebral Palsy",
+            "b) Meningitis",
+            "c) Epilepsy",
+            "d) Paralysis",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 155,
+        "Question": "Which wave can help point out the place of a brain tumor?",
+        "Options": [
+            "a) Alpha waves",
+            "b) Beta waves",
+            "c) Delta waves",
+            "d) Gamma waves",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 156,
+        "Question": "Narcolepsy is a condition in which a person has excessive sleepiness during daytime as they are unable to regulate their sleep cycle. It’s a neurological disorder and can be traced with the help of an EEG. What kind of EEG can be expected in this kind of disorder?",
+        "Options": [
+            "a) Alpha waves with short bursts of Beta waves",
+            "b) Alpha Waves with short burst of Gamma waves",
+            "c) Alpha Waves with short bursts of sleep spindles",
+            "d) Continuous alpha waves",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 157,
+        "Question": "An EEG for seizure is characterized by ___________",
+        "Options": [
+            "a) low amplitude, high frequency waves",
+            "b) high amplitude, low frequency waves",
+            "c) high amplitude, high frequency waves",
+            "d) low amplitude, low frequency waves",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 158,
+        "Question": "What is the term used for portable EEG?",
+        "Options": [
+            "a) Travel EEG",
+            "b) Ambulatory EEG",
+            "c) Personalized EEG",
+            "d) Transport EEG",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 159,
+        "Question": "What is a neuro-muscular disorder?",
+        "Options": [
+            "a) The nerves are damaged so they do not give proper impulses to the muscles",
+            "b) The muscles are damaged and so they are not able to act according to the impulses given by the nerves",
+            "c) The nerves are damaged so they do not give proper impulses to the muscles or the muscles are damaged and so they are not able to act according to the impulses given by the nerves",
+            "d) Nerves and muscles are both damaged",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 160,
+        "Question": "Which of them is a neurological disorder which is expressed muscularly?",
+        "Options": [
+            "a) Paralysis",
+            "b) Muscular Dystrophy",
+            "c) Dementia",
+            "d) Alzheimer’s",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 161,
+        "Question": "Which of them is a muscular disorder?",
+        "Options": [
+            "a) Paralysis",
+            "b) Muscular Dystrophy",
+            "c) Dementia",
+            "d) Alzheimer’s",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 162,
+        "Question": "The typical range of EMG can be _______",
+        "Options": [
+            "a) 0 – 1 mV",
+            "b) 1 – 5mV",
+            "c) 0 – 0.1 mV",
+            "d) 0.1 – 0.5 mV",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 163,
+        "Question": "The use of EMG during surgery is to monitor _____________",
+        "Options": [
+            "a)  the neuromuscular function with the neuromuscular blocking drug during general anaesthesia",
+            "b)  the muscle tone during surgery",
+            "c)  the muscle movement during surgery",
+            "d)  the presence of impulses in muscles during surgery",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 164,
+        "Question": "In order to take EMG, there exists a special electrode of 25μ diameter and 14 needles like pick up surfaces. What is this electrode used for?",
+        "Options": [
+            "a) Deeper penetration of muscle to take ECG",
+            "b) The larger surface area is covered",
+            "c) Multiple signals from the same muscle",
+            "d) Individual signals from individual muscle fibers",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 165,
+        "Question": "How does signal delay and triggering unit help in EMG?",
+        "Options": [
+            "a) It delays the incoming signal and allows the current signal to be processed properly",
+            "b) The delayed signals keep the system working for a longer time",
+            "c) The delayed signal is actually signal acquired from individual muscles",
+            "d) The delayed signal provides clarity in processing",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 166,
+        "Question": "The number of leads necessary for an ECG is _________",
+        "Options": [
+            "a) 3",
+            "b) 6",
+            "c) 12",
+            "d) 24",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 167,
+        "Question": "Which of the four limbs acts like a ground and thus is not a part of the ECG test?",
+        "Options": [
+            "a) Right Arm",
+            "b) Left Arm",
+            "c) Right Leg",
+            "d) Left Leg",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 168,
+        "Question": "What result do the various combinations of limb leads give?",
+        "Options": [
+            "a) Einthoven’s Triangle",
+            "b) Beethoven’s Triangle",
+            "c) Bermuda’s Triangle",
+            "d) Electrical Triangle",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 169,
+        "Question": "The most common placement of the leads from the Einthoven’s triangle is __________",
+        "Options": [
+            "a) Positive Left Arm and Negative Right Arm",
+            "b) Positive Left Leg and Negative Right Arm",
+            "c) Positive Left Leg and Negative Left Arm",
+            "d) Positive Right Arm and Negative Left Leg",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 170,
+        "Question": "A typical ECG wave is _______",
+        "Options": [
+            "a) Periodic",
+            "b) A-periodic",
+            "c) Quasi – Periodic",
+            "d) Non – Periodic",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 171,
+        "Question": "Bradycardia ECG will show what kind of wave?",
+        "Options": [
+            "a) The impulses have increased",
+            "b) The impulses have decreased",
+            "c) Pronounced P waves",
+            "d) Pronounced T waves",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 172,
+        "Question": "Which of these conditions are natural conditions for tachycardia?",
+        "Options": [
+            "a) Running",
+            "b) Grief",
+            "c) Shock",
+            "d) Sleep",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 173,
+        "Question": "Angiography is _________",
+        "Options": [
+            "a) a surgical procedure",
+            "b) a diagnosis",
+            "c) an imaging technique",
+            "d) a disease of the nerves",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 174,
+        "Question": "What is the principle of fluoroscopy?",
+        "Options": [
+            "a) Radiation",
+            "b) Fluorescence",
+            "c) Phosphorescence",
+            "d) Scintillation",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 175,
+        "Question": "Which machine is used for angiography?",
+        "Options": [
+            "a) X-Ray and fluoroscopy machine",
+            "b) CT scanner",
+            "c) C – Arm",
+            "d) MRI",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 176,
+        "Question": "The dye is made of ________",
+        "Options": [
+            "a) Iodine",
+            "b) Phosphorus",
+            "c) Fluorine",
+            "d) Nitrogen",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 177,
+        "Question": "The dye is inserted into the body with the help of _________",
+        "Options": [
+            "a) stent",
+            "b) syringe",
+            "c) catheter",
+            "d) endoscope",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 178,
+        "Question": "The access point of the catheter for coronary angiography is ________",
+        "Options": [
+            "a) arm",
+            "b) neck",
+            "c) groin",
+            "d)  arm or groin",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 179,
+        "Question": "Angioplasty  is _________",
+        "Options": [
+            "a) a minimally invasive surgical procedure",
+            "b) a diagnosis",
+            "c) an imaging technique",
+            "d) a disease of the nerves",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 180,
+        "Question": "Angioplasty is done for __________",
+        "Options": [
+            "a) testing blood pressure",
+            "b) opening the blockages in blood vessels",
+            "c) suturing the blood vessels",
+            "d) detecting plaque",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 181,
+        "Question": "What does the plaque constitute of?",
+        "Options": [
+            "a) Carbohydrates and calcium",
+            "b) Fats and phosphorus",
+            "c) Carbohydrates and phosphorus",
+            "d) Fats and calcium",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 182,
+        "Question": "Deposition of the plaque in the blood vessels is called as ______________",
+        "Options": [
+            "a) Atherosclerosis",
+            "b) Multiple Sclerosis",
+            "c) Tunica Media",
+            "d) Tunica Intima",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 183,
+        "Question": "What are the catheters made of?",
+        "Options": [
+            "a) Polyethylene fluoride",
+            "b) Polyethylene terephthalate",
+            "c) Polyethylene",
+            "d) Polyethylene chloride",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 184,
+        "Question": "Medical grade steel for stent making is ____________",
+        "Options": [
+            "a) Austenitic",
+            "b) Ferritic",
+            "c) Martensitic",
+            "d) Duplex",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 185,
+        "Question": "Blood pressure measurement can be classified in _____ major way(s).",
+        "Options": [
+            "a) 2",
+            "b) 5",
+            "c) 7",
+            "d) 10d",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 186,
+        "Question": " How is the oxygen content monitored in blood?",
+        "Options": [
+            "a) By Korotkoff Sounds",
+            "b) By Pulse Oximetry",
+            "c) By Fluorescence",
+            "d) By luminescence",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 187,
+        "Question": " What principle does pulse oximetry follow?",
+        "Options": [
+            "a) Law of Absorbance",
+            "b) Law of Reflection",
+            "c) Beer – Lambert Law",
+            "d) Law of Irradiance",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 188,
+        "Question": "The normal BP cuff using instrument is called as____________",
+        "Options": [
+            "a) Spirometer",
+            "b) Sphygmomanometer",
+            "c) Stethoscope",
+            "d) Oscilloscope",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 189,
+        "Question": "What is the normal range of blood pressure?",
+        "Options": [
+            "a) 70/40 – 90/60",
+            "b) 90/60 – 120/80",
+            "c) 120/80 – 140/90",
+            "d) 140/90 – 190/100",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 190,
+        "Question": "Which instrument is used to listen to the Korotkoff sounds?",
+        "Options": [
+            "a) Stethoscope",
+            "b) Pneumotachometer",
+            "c)  Piezoelectric Microphone",
+            "d) Sphygmomanometer",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 191,
+        "Question": "For infants, the pulse oximetry band is attached to their ______",
+        "Options": [
+            "a) arm",
+            "b) leg",
+            "c) palm",
+            "d) foot",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 192,
+        "Question": "Which of the following devices/ methods do not use a cuff?",
+        "Options": [
+            "a) Rheographic Method",
+            "b)  Automatic Blood Pressure Measuring using Korotkoff method",
+            "c) Oscillometric Measurement Method",
+            "d) Continuous Slow Flow Flushing Method",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 193,
+        "Question": " Which type of transducer is commonly used for invasive blood pressure measurement?",
+        "Options": [
+            "a) Capacitive",
+            "b) Rheostatic",
+            "c) Piezoelectric",
+            "d) Potentiometric",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 194,
+        "Question": "Which of the following uses ultrasound to check the blood flow?",
+        "Options": [
+            "a) Doppler  Shift Method",
+            "b) Catheter Tip Method",
+            "c) Differential Auscultatory Technique",
+            "d) Oscillometric Method",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 195,
+        "Question": "In the differential auscultatory technique, where is the pressure sensor located?",
+        "Options": [
+            "a) In the middle of the cuff",
+            "b) In the upper portion of the cuff",
+            "c) In the lower portion of the cuff",
+            "d) Outside the cuff",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 196,
+        "Question": "The nerve impulses are actually _______",
+        "Options": [
+            "a) ATP",
+            "b) Action Potential",
+            "c) Re-polarization of nerves",
+            "d) Perception",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 197,
+        "Question": "The impulses travel faster when _________",
+        "Options": [
+            "a) the axon has myelin sheath",
+            "b) the axon does not have myelin sheath",
+            "c) the cyton is small",
+            "d) the dendrites are longer",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 198,
+        "Question": "What is the jumping of impulses between the Nodes of Ranvir called?",
+        "Options": [
+            "a) Ionic Impulses Exchange",
+            "b) Alternative Depolarization",
+            "c) Saltatory Conduction",
+            "d) Impulse Jumping",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 199,
+        "Question": " Which of the following can help determine the extent of nerve damage?",
+        "Options": [
+            "a) EMG",
+            "b) EEG",
+            "c) Nerve Conduction Velocity Test",
+            "d) BUN Test",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 200,
+        "Question": "How many electrodes are normally needed for an NCV?",
+        "Options": [
+            "a) 12",
+            "b) 6",
+            "c) 2",
+            "d) 1",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 201,
+        "Question": "If the doctors suspect peripheral neuropathy in the legs, where will the electrodes be placed?",
+        "Options": [
+            "a) At the buttocks",
+            "b) At the thighs",
+            "c) At the calves",
+            "d) At the feet",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 202,
+        "Question": "Carpel Tunnel Syndrome is a result of __________",
+        "Options": [
+            "a) diabetes",
+            "b) excessive weight",
+            "c)  nerve impingement",
+            "d) blood vessel impingement",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 203,
+        "Question": "To test for sciatica, where will the electrodes be placed?",
+        "Options": [
+            "a) From the shoulder to elbow",
+            "b) From lower back to a knee",
+            "c) From elbow to wrist",
+            "d) From knee to ankle",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 204,
+        "Question": "Which of the following can be a result of spinal disk herniation?",
+        "Options": [
+            "a) Sciatica",
+            "b) Spondylolisthesis",
+            "c) Spondylosis",
+            "d) Peripheral Vascular Disease",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 205,
+        "Question": "What property of sound waves acts like the principle of ultrasound?",
+        "Options": [
+            "a) Reflection and Refraction",
+            "b) Reflection only",
+            "c) Refraction only",
+            "d) Propagation",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 206,
+        "Question": "Which of the following medical imaging modality other than ultrasound does not use any form of radiation?",
+        "Options": [
+            "a) PET Scan",
+            "b) SPECT  Scan",
+            "c) CT Scan",
+            "d) MRI",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 207,
+        "Question": "For which of these areas can the ultrasound be taken for an infant but not for an adult?",
+        "Options": [
+            "a) Cranium",
+            "b) Chest",
+            "c) Arms",
+            "d) Legs",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 208,
+        "Question": "A piezoelectric crystal is used to produce the ultrasound waves. What kind of ultrasound is produced?",
+        "Options": [
+            "a) Pressure wave ultrasound",
+            "b) Electrical wave ultrasound",
+            "c) Sound wave ultrasound",
+            "d) Simple ultrasound",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 209,
+        "Question": "How is a medium characterized?",
+        "Options": [
+            "a) By its thickness",
+            "b) By its acoustic impedance",
+            "c) By its water content",
+            "d) By its density",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 210,
+        "Question": "The wave velocity of ultrasound in soft tissues is 1540m/s and the impedance offered by it is 1.63 X 106 kg/m2s. What is the density of the soft tissue?",
+        "Options": [
+            "a) 0.1058441 kg/m3",
+            "b) 10.58441 kg/m3",
+            "c) 1058.441kg/m3",
+            "d) 105844.1 kg/m3",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 211,
+        "Question": "Which of the following relations are true?",
+        "Options": [
+            "a) γ increases, penetration of sound increases, resolution decreases",
+            "b) γ increases, penetration of sound decreases, resolution decreases",
+            "c)  γ increases, penetration of sound decreases, resolution increases",
+            "d) γ decreases, penetration of sound increases, resolution increases",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 212,
+        "Question": "When an abdominal ultrasound is done, why is it advised to have a full bladder?",
+        "Options": [
+            "a) To have a good acoustic window",
+            "b) To increase the water content",
+            "c) To lower impedance",
+            "d) To allow for better propagation of waves",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 213,
+        "Question": "What does the red dot on the probe help within the produced image?",
+        "Options": [
+            "a) To check if the correct probe was used",
+            "b) To check the probe orientation",
+            "c) To check the depth of the probe that was used",
+            "d) To check the plane of the image.",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 214,
+        "Question": "Echocardiography is essentially ________",
+        "Options": [
+            "a) ultrasound of the heart",
+            "b) echoing sound of the heart",
+            "c) another name for a treadmill test",
+            "d) recording of heart sounds",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 215,
+        "Question": "The probe used for imaging the heart is ________",
+        "Options": [
+            "a) Linear Probe",
+            "b) Curvilinear Probe",
+            "c) Phase Array Probe",
+            "d) Endocavitary Probe",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 216,
+        "Question": "Which mode is used for cardiac imaging?",
+        "Options": [
+            "a) A – Mode",
+            "b) B – Mode",
+            "c) M – Mode",
+            "d) 3D – Mode",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 217,
+        "Question": "Continuous Wave (CW), Pulsed Wave (PW) and Color Flow (CF) are terms used for which kind of ultrasound?",
+        "Options": [
+            "a)  3D ultrasound",
+            "b) Dynamic Ultrasound",
+            "c) Doppler Ultrasound",
+            "d) Advanced Ultrasound",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 218,
+        "Question": "Echocardiography can be used for even _________",
+        "Options": [
+            "a) remove embolus of the heart",
+            "b) correctly locate the blockages in the arteries and veins",
+            "c) assess the baby’s heart, anatomy and function",
+            "d) measure heartbeat",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 219,
+        "Question": "Which kind of echocardiography may be recommended to diagnose coronary heart disease?",
+        "Options": [
+            "a) Thoracic Echocardiography",
+            "b) Stress Echocardiography",
+            "c) Transesophageal Echocardiography",
+            "d) 3D Echocardiography",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 220,
+        "Question": "Which of the following ultrasound techniques gives the best Ultrasound Image of the heart?",
+        "Options": [
+            "a) 2D phased array",
+            "b) Linear phased array",
+            "c) Transesophageal",
+            "d) Curvilinear array",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 221,
+        "Question": "In a normal X-Ray machine, X – Rays are produced by ________",
+        "Options": [
+            "a) bombardment of cathode rays on a radioactive material",
+            "b) nuclear fission",
+            "c) nuclear fusion",
+            "d) super heating of an element",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 222,
+        "Question": "How much of the generated energy actually utilized for taking an X-Ray?",
+        "Options": [
+            "a) 0.1%",
+            "b) 1%",
+            "c) 10%",
+            "d) 100%",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 223,
+        "Question": "Dental X-Ray is also known as __________",
+        "Options": [
+            "a) Orthopedics",
+            "b) Orthopentology",
+            "c) Orthology",
+            "d) Orthopantomography",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 224,
+        "Question": "Which of the following machines is often placed together with an X-Ray machine?",
+        "Options": [
+            "a) Endoscopy",
+            "b) Ultrasound",
+            "c) Fluoroscopy",
+            "d) C – Arm",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 225,
+        "Question": "Up to what intensity of radiation is used for mammography?",
+        "Options": [
+            "a) < 10keV",
+            "b) < 20keV",
+            "c) < 30keV",
+            "d) < 40keV",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 226,
+        "Question": "What should be the minimum distance maintained when an X-Ray is being taken?",
+        "Options": [
+            "a) 10 m",
+            "b) 15 m",
+            "c) 35 m",
+            "d) 50 m",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 227,
+        "Question": "Which of the following needs the longest exposure for an X-Ray image?",
+        "Options": [
+            "a) Thoracic",
+            "b) Abdomen",
+            "c) Spine",
+            "d) Pelvis",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 228,
+        "Question": "The X-Ray is recorded on a plate coated with _____________",
+        "Options": [
+            "a) Gold Halide",
+            "b) Silver Halide",
+            "c) Copper Halide",
+            "d) Iron Halide",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 229,
+        "Question": "Drinking radioactive Barium solution helps look at the _________",
+        "Options": [
+            "a) Respiratory Tract",
+            "b) Gastrointestinal Tract",
+            "c) Neural Tract",
+            "d) Thorax",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 230,
+        "Question": "Which another method can be used to look in the compete for GI tract?",
+        "Options": [
+            "a) Endoscopy",
+            "b) Capsule Endoscopy",
+            "c) Colonoscopy",
+            "d) Laryngoscopy",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 231,
+        "Question": "Which of the following agents should not be used as an agent for fluoroscopy?",
+        "Options": [
+            "a) Silver",
+            "b) Bismuth",
+            "c) Thoria",
+            "d) Tungsten",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 232,
+        "Question": "If a PET scan is being used to detect tumors, an important constituent of the injected radioligand will be _____",
+        "Options": [
+            "a) glucose",
+            "b) lipids",
+            "c) keratin",
+            "d) riboflavin",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 233,
+        "Question": "Bone Scintigraphy done with the help of Tc-99m with methylene diphosphonate (MDP) is an example of   ________",
+        "Options": [
+            "a) PET",
+            "b) SPECT",
+            "c) CT",
+            "d) MRI",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 234,
+        "Question": "What does the ‘P’ in PET stand for?",
+        "Options": [
+            "a) Positron",
+            "b) Photon",
+            "c) Proton",
+            "d) P – orbital",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 235,
+        "Question": "What does the ‘P’ in SPECT stand for?",
+        "Options": [
+            "a) Positron",
+            "b) Photon",
+            "c) Proton",
+            "d) P – orbital",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 236,
+        "Question": "What makes PET and SPECT so unique when it comes to nuclear imaging?",
+        "Options": [
+            "a) Do not require dyes",
+            "b) Do not require X – Rays",
+            "c) They show the metabolic functions",
+            "d) They give more details about the imaged organ/tissue",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 237,
+        "Question": "SPECT includes a  ___________ for imaging.",
+        "Options": [
+            "a) Gamma Camera",
+            "b) Silver Halide Film",
+            "c) Phosphorus Sheet",
+            "d) Lead Sheet",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 238,
+        "Question": "The detector of PET is made of _________",
+        "Options": [
+            "a) Silver",
+            "b) Gadolinium",
+            "c) Tungsten",
+            "d) Lead",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 239,
+        "Question": "As compared to PET, SPECT isotopes have _________ half life.",
+        "Options": [
+            "a) longer",
+            "b) shorter",
+            "c) equivalent",
+            "d) unstable",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 240,
+        "Question": "The most preferred radioisotope element for SPECT is",
+        "Options": [
+            "a) Mo",
+            "b) W",
+            "c) Tc",
+            "d) Ba",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 241,
+        "Question": "Which of the following radiations are used for imaging purposes?",
+        "Options": [
+            "a)  alpha",
+            "b) beta",
+            "c)  gamma",
+            "d) delta",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 242,
+        "Question": "CAT scan is essentially _________",
+        "Options": [
+            "a) a finer X-ray of bones",
+            "b) a detailed x-ray",
+            "c) x-ray of soft tissues",
+            "d) x-ray of brain",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 243,
+        "Question": "CAT scan is often combined with _____",
+        "Options": [
+            "a) PET",
+            "b) SPECT",
+            "c) Fluoroscopy",
+            "d) MRI",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 244,
+        "Question": "Why is contrast used in CT scan?",
+        "Options": [
+            "a)  To suppress particular tissues",
+            "b) To enhance a particular tissue",
+            "c) To ensure correct tissue is being imaged",
+            "d) To reduce bone interference",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 245,
+        "Question": "The current generation CT scanner use __________ for scanning",
+        "Options": [
+            "a) pencil beam and stationary detectors",
+            "b) pencil beam and rotating detectors",
+            "c) fan beam and detectors",
+            "d) electron beam and detectors",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 246,
+        "Question": "In order to visualize the flow of blood in the renal arteries, what process is done with CT?",
+        "Options": [
+            "a) CT Angioplasty",
+            "b) CT Angiography",
+            "c) Simple CT",
+            "d) CT Cardiography",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 247,
+        "Question": "The radiodensity or the radiopacity is measured in _________",
+        "Options": [
+            "a) mA",
+            "b) mV",
+            "c) g/m3",
+            "d) HU",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 248,
+        "Question": "The commonly used MRI’s have a magnetic strength of ______",
+        "Options": [
+            "a) 1.5 – 3 Tesla",
+            "b) 3 – 6 Tesla",
+            "c) 6 – 12 Tesla",
+            "d) 12 – 24 Tesla",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 249,
+        "Question": "The cooling agent for the MRI magnet is _______",
+        "Options": [
+            "a) Helium",
+            "b) Neon",
+            "c) Argon",
+            "d) Xenon",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 250,
+        "Question": "If an MRI was done for a long bone, the part of the bone that will be imaged is the _________",
+        "Options": [
+            "a) Bone salts",
+            "b) Bony Prominence",
+            "c) Inflamed Joints",
+            "d) Bone Marrow",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 251,
+        "Question": "A hypothetical MRI is made having a magnetic field (B0) of 7 Tesla. This uses nitrogen for study. The gyrometric ratio of nitrogen 15 is -4.316. Find the Lamar frequency.",
+        "Options": [
+            "a) -35.889",
+            "b) – 30.212",
+            "c) 0",
+            "d) -189.812",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 252,
+        "Question": "If the XY grid is selected in MRI then the slice selection is in which plane?",
+        "Options": [
+            "a) X plane",
+            "b)  Y plane",
+            "c) Z plane",
+            "d) XY plane",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 253,
+        "Question": "The smallest unit in the reconstruction/projection of an MRI image is called as ________",
+        "Options": [
+            "a) pixel",
+            "b) voxel",
+            "c) binary unit",
+            "d) dot",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 254,
+        "Question": "MRI has a high _______ resolution.",
+        "Options": [
+            "a) spatial",
+            "b) temporal",
+            "c) frequency",
+            "d) magnitude",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 255,
+        "Question": "In a brain scan of a person suffering/suspected of suffering from schizophrenia, the brain _______",
+        "Options": [
+            "a) has gray matter which more than normal",
+            "b) has white matter which more than normal",
+            "c) is of a size bigger than normal",
+            "d) has shrunk",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 256,
+        "Question": "The scans for lissencephaly will show a brain _______",
+        "Options": [
+            "a) with no gyri and sulci",
+            "b) with excess gyri and sulci",
+            "c) with deformed brain structure",
+            "d) with a smaller than normal brain size",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 257,
+        "Question": "Frontotemporal Dementia brain scan shows a __________",
+        "Options": [
+            "a) growing brain",
+            "b) shrinking brain",
+            "c) brain with lesions",
+            "d) brain with a tumour",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 258,
+        "Question": "What does the ‘f’ in the fMRI stand for?",
+        "Options": [
+            "a) Fractional",
+            "b) Functional",
+            "c) Fundamental",
+            "d) Fast",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 259,
+        "Question": "What part of the body mostly scanned by fMRI?",
+        "Options": [
+            "a) Brain",
+            "b) Heart",
+            "c) Liver",
+            "d) Kidneys",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 260,
+        "Question": "Which element does the fMRI target when taking the scan?",
+        "Options": [
+            "a) Hydrogen",
+            "b) Oxygen",
+            "c) Carbon",
+            "d) Nitrogen",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 261,
+        "Question": "fMRI is mostly dependent on which parameter?",
+        "Options": [
+            "a) T1 time",
+            "b) T2 time",
+            "c) T2* time",
+            "d) T1 + T2 time",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 262,
+        "Question": "The underlying principle of fMRI is that ___________",
+        "Options": [
+            "a) cerebral blood flow and neuronal activity are not connected",
+            "b) cerebral blood flow and neuronal activity are connected",
+            "c) certain parts of the brain receive more blood",
+            "d) certain parts of the brain are more active than other parts",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 263,
+        "Question": "fMRI images the brain tissues with respect to ______",
+        "Options": [
+            "a) density",
+            "b) thickness",
+            "c) time",
+            "d) blood flow",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 264,
+        "Question": "In a transverse section of the CT of the brain, a ring of the cranium is seen which is absent or not so prominent in MRI. What is this reason?",
+        "Options": [
+            "a) The cranium is negated out while imaging",
+            "b) Cranial ring is made of bones which do not have water, so it cannot give an MRI",
+            "c) The EM waves received by MRI does not have sufficient magnetic strength to view the bones",
+            "d) MRI images soft tissues so it does not image the cranium properly. Thus, the cranial ring is more prominent in CT than in MRI",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 265,
+        "Question": "The process of destroying cancer cells with the help of radiation is ________",
+        "Options": [
+            "a) radiotherapy",
+            "b) physiotherapy",
+            "c) uroplasty",
+            "d) rehabilitation",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 266,
+        "Question": "Which of the following pair of scattering is important for therapeutic purposes?",
+        "Options": [
+            "a) Coherent and Pair Production",
+            "b) Photoelectric and Disintegration",
+            "c) Compton and Photoelectric",
+            "d) Pair Production and Disintegration",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 267,
+        "Question": "Which of the following pair of scattering is important for diagnostic purposes?",
+        "Options": [
+            "a) Coherent and Compton",
+            "b) Photoelectric and Pair Production",
+            "c) Compton and Photoelectric",
+            "d) Pair Production and Disintegration",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 268,
+        "Question": "Which of the following cells have a low resistance to radiations?",
+        "Options": [
+            "a) Lymphocytes, Spermatogonia, Erythroblasts, Intestinal crypt cells",
+            "b) Megakaryocytes, embryo, pancreatic cells, Intestinal crypt cells",
+            "c) Lymphocytes, Spermatogonia, hepatic cells, nephrons",
+            "d) Megakaryocytes, neurons, cardiac cells, Intestinal crypt cells",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 269,
+        "Question": "In the cardiovascular system, which is more affected by the radiations?",
+        "Options": [
+            "a) Capillaries",
+            "b) Artery",
+            "c) Vein",
+            "d) Cardiac Muscles",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 270,
+        "Question": "Why are the fast dividing cells more easily targeted?",
+        "Options": [
+            "a) Due to the high protein and carbohydrate content of the cells",
+            "b) Due to the higher energy of the cells",
+            "c) Due to the low energy of the cells",
+            "d) Due to the high oxygen content of the cells",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 271,
+        "Question": "The machine used for radiotherapy is called as _________",
+        "Options": [
+            "a) Therapeutic X-Ray machine",
+            "b) Linear Accelerator",
+            "c) Diathermy Machine",
+            "d) Radioactive Ultrasound Machine",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 272,
+        "Question": "When radiation therapy is done to reduce the effect of cancer, it is called as ______",
+        "Options": [
+            "a) Mutative Treatment",
+            "b) Reduction Treatment",
+            "c) Palliative Treatment",
+            "d) Genesis Treatment",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 273,
+        "Question": "What radiations occur when the electrons are used in radio therapy?",
+        "Options": [
+            "a) Ionizing Radiations",
+            "b) Gamma Rays",
+            "c) Bremsstrahlung Radiation",
+            "d) Infrared Rays",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 274,
+        "Question": "What is the oxygen effect?",
+        "Options": [
+            "a) Detrimental effect of oxygen in presence of therapeutic radiations",
+            "b) A positive effect of oxygen in absence of therapeutic radiations",
+            "c) Enhancement effect of oxygen in presence of therapeutic radiation",
+            "d) Presence of oxygen during radiation treatment",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 275,
+        "Question": "There are two cells, one with OER as 2.5 and other as 7. Which cell is more sensitive to radiation?",
+        "Options": [
+            "a) The cell with OER 2.5",
+            "b) The Cell with OER 7",
+            "c) Both the cells",
+            "d) Insufficient data",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 276,
+        "Question": "What role does oxygen play?",
+        "Options": [
+            "a) It causes a damage to the DNA",
+            "b) It oxygenates the cells that have undergone necrosis",
+            "c) It regulates the work of free radicals",
+            "d) It reduces the tumour size",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 277,
+        "Question": "For what all purposes is diathermy principal used?",
+        "Options": [
+            "a) Surgical and Therapeutic",
+            "b) Therapeutic and Diagnostic",
+            "c) Diagnostic and surgical",
+            "d) Diagnostic and rehabilitative",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 278,
+        "Question": "What surgical functions are performed by the diathermy machine?",
+        "Options": [
+            "a) cutting, coagulation, fulguration",
+            "b) cutting, fulguration",
+            "c) cutting, coagulation",
+            "d) coagulation, fulguration",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 279,
+        "Question": "The types of therapeutic diathermy machines that exist are ___________",
+        "Options": [
+            "a) Short wave, micro wave and ultrasound",
+            "b) Short wave, ultrasound and cold compress",
+            "c) Cold compress, microwave and electrical impulse",
+            "d) Electrical impulse, microwave and ultrasound",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 280,
+        "Question": "Which of the diathermy machine is good for deep tissue healing?",
+        "Options": [
+            "a) short wave",
+            "b) ultrasound",
+            "c) cold compress",
+            "d) electrical impulse",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 281,
+        "Question": "What is the frequency range of the sound used for ultrasound diathermy?",
+        "Options": [
+            "a) 0.1 – 0.7 MHz",
+            "b) 0.7 – 3.3 MHz",
+            "c) 3.3 – 5 MHz",
+            "d) 5 – 15 MHz",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 282,
+        "Question": "What precaution is used in diathermy?",
+        "Options": [
+            "a) the patient is made to lie on a soft pillow",
+            "b) pads are used for grounding and completing the circuit",
+            "c) the patient is made to drink a large number of fluids",
+            "d) wooden blocks are used for grounding",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 283,
+        "Question": "In heat wave diathermy, the maximum power given out is 500 W and the maximum voltage possible is 4000V. Thus, what is the highest resistance that heat wave diathermy machine can deal with?",
+        "Options": [
+            "a) 3.2 K ohm",
+            "b) 32 K ohm",
+            "c) 320 K ohm",
+            "d) 3200 K ohm",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 284,
+        "Question": "Which of the following is used to measure the biological damage caused by radiation?",
+        "Options": [
+            "a) Curie",
+            "b) Rem",
+            "c) Rad",
+            "d) Roentgens",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 285,
+        "Question": "Beyond what dose is the cerebral system shows signs of failure?",
+        "Options": [
+            "a) 25 – 200 rad",
+            "b) 200 – 600 rad",
+            "c) 600 – 1000 rad",
+            "d) > 1000 rad",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 286,
+        "Question": "What is the relation between 1 Rad, 1 Rem and 1 R?",
+        "Options": [
+            "a) 1 Rad ≈ 1.5 Rem ≈ 1000 R",
+            "b) 1 Rad ≈ 10 Rem ≈ 1.8 R",
+            "c) 1 Rad ≈ 1 Rem ≈ 1 R",
+            "d) 1 Rad ≈ 10 Rem ≈ 100 R",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 287,
+        "Question": "The two known units of radioactivity and the relation between the two are _______",
+        "Options": [
+            "a) Curie and Becquerel 1 Ci = 3.7 x 1010 Bq",
+            "b) Curie and Becquerel 1 Bq = 3.7 x 1010 Ci",
+            "c) Curie and Roentgens   1 Ci = 1000 R",
+            "d) Roentgen and Becquerel  1 R = 1000 Bq",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 288,
+        "Question": "In a hypothetical radioactive material, the total number of active photons are 20000 and the decay constant is found out to be 4.916 X 10-17 per second. How much of the material will be left in a 100 years? (1 year = 365 days. Leap year is not assumed in the calculations)",
+        "Options": [
+            "a) 1589.99999",
+            "b) 19,999.9999",
+            "c) 19.999999",
+            "d) 123.99999",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 289,
+        "Question": "If the half life is found to be 100 msec, what is the decay constant?",
+        "Options": [
+            "a) 693 per second",
+            "b) 24948 per hour",
+            "c) 0.1155 per minute",
+            "d) 59875.2 per day",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 290,
+        "Question": "With what energy must the radiation be given to image a bone of thickness 5 cm which has covering of skin of thickness of 2 cm on the both sides and the emerging intensity of the X – Ray is 200MeV. (impedance for bone = b  for skin = s )",
+        "Options": [
+            "a) 2000e9",
+            "b) 200e(4s + 5b)",
+            "c) 20/e",
+            "d) 2e",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 291,
+        "Question": "After a simple fracture, what is the recommended period of bed rest?",
+        "Options": [
+            "a) 1 week",
+            "b) 2 weeks",
+            "c) 1 month",
+            "d) 2 months",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 292,
+        "Question": "Cerebral Palsy can be detected by which gait pattern?",
+        "Options": [
+            "a) Waddling gait",
+            "b) Stomping gait",
+            "c) Scissoring Gait",
+            "d) Swayback Gait",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 293,
+        "Question": "Why should wheelchairs be avoided by young population?",
+        "Options": [
+            "a) It damages the neural system of the body",
+            "b) It causes inflammation in the GI track",
+            "c) It causes low blood pressure",
+            "d) It damages the bones and skeletal muscles",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 294,
+        "Question": "What kind of assistive device does a person hard of hearing use?",
+        "Options": [
+            "a) cochlear implant",
+            "b) hearing aid",
+            "c) device giving electrical impulses to the ear",
+            "d) surgical methods",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 295,
+        "Question": "To help a child with scissoring gait, what should not be done?",
+        "Options": [
+            "a) releasing a tendon surgically",
+            "b) tying two pillows on the inner side of the leg and having the child walk",
+            "c) surgical amputation of legs",
+            "d) making the child walk with a mild obstruction between the two legs",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 296,
+        "Question": "What can be done for a person suffering from a foot drop palsy?",
+        "Options": [
+            "a) wear the brace in the form of socks or stiff shoes",
+            "b) surgical amputation",
+            "c) releasing a tendon",
+            "d) use calipers",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 297,
+        "Question": "Which of the following happens in hemiplegic gait?",
+        "Options": [
+            "a) circumduction of the legs",
+            "b) swayback posture",
+            "c) stomping of the foot",
+            "d) swinging of the arms",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 298,
+        "Question": "In cases of neuromuscular injury, which method is used to rehabilitate them?",
+        "Options": [
+            "a) Transcutaneus Electrical Nerve Stimulation",
+            "b) Heat Therapy",
+            "c) Acupuncture",
+            "d) Massage",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 299,
+        "Question": "Dialysis commonly refers to ___________",
+        "Options": [
+            "a) heamo dialysis",
+            "b) chemo dialysis",
+            "c) liver dialysis",
+            "d) pancreatic dialysis",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 300,
+        "Question": "The membrane used for dialysis is made of ____________",
+        "Options": [
+            "a) cellulose",
+            "b) polyvinyl chloride",
+            "c) polyethylene",
+            "d) chitin",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 301,
+        "Question": "The latest form of dialysis machine being used has what kind of membrane arrangements",
+        "Options": [
+            "a) Parallel Plate",
+            "b) Hollow Fibre",
+            "c) Coil Tube",
+            "d) Hollow Plate",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 302,
+        "Question": "Dialysis can also be used in situations of _________",
+        "Options": [
+            "a) extreme fever",
+            "b) acute poisoning",
+            "c) low blood pressure",
+            "d) blood transfusions",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 303,
+        "Question": "The dialysis that can be performed even at home is ___________",
+        "Options": [
+            "a) Apheresis",
+            "b) Peritoneal Dialysis",
+            "c) Hemodialysis",
+            "d) Perfusion",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 304,
+        "Question": "The principle behind dialysis is ________",
+        "Options": [
+            "a) Adhesion",
+            "b) Cohesion",
+            "c) Capillary Action",
+            "d) Reverse – Osmosis",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 305,
+        "Question": "How does the doctor diagnose dialysis?",
+        "Options": [
+            "a) GFR via Blood Test",
+            "b) Number of WBCs in Blood Test",
+            "c) Presence of blood in urine",
+            "d) Low urine quantity",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 306,
+        "Question": "When a subclavian vein or a femoral vein is used for dialysis, what kind of incision/insertion is made?",
+        "Options": [
+            "a) Catheter",
+            "b) Shunt",
+            "c) Graft",
+            "d) Fistula",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 307,
+        "Question": "Which of the following artificial organ has been mechanically reproduced in a compact form?",
+        "Options": [
+            "a) Heart",
+            "b) Lungs",
+            "c) Kidney",
+            "d) Liver",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 308,
+        "Question": "What is the difference between a pacemaker and the total artificial heart (TAH)?",
+        "Options": [
+            "a) A pacemaker is smaller in size and completely embedded in the body as compared to TAH in which some system lies outside the body",
+            "b) A pacemaker replaces only the ventricles but a TAH replaces the whole heart",
+            "c) A pacemaker is an assistive device which helps the original heart to generate impulses but a TAH completely replaces the heart",
+            "d) A pacemaker is made out of organic polymers while the TAH is metallic",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 309,
+        "Question": "After extraction, how long can the heart survive outside the body before being transplanted?",
+        "Options": [
+            "a) 2 hours",
+            "b) 4 hours",
+            "c) 6 hours",
+            "d) 8 hours",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 310,
+        "Question": "A liver performs multiple functions and is also one of the heaviest organs in the body, second only to the brain. So, when an artificial liver is being produced, recreating what physical property of the liver poses a challenge?",
+        "Options": [
+            "a) mass of the cells",
+            "b) volume of the cells",
+            "c) density of the cells",
+            "d) size of the cells",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 311,
+        "Question": "In a heart, what is most commonly replaced?",
+        "Options": [
+            "a) Artery and/or Vein",
+            "b) Auricles",
+            "c) Valves",
+            "d) Ventricles",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 312,
+        "Question": "Jarvik 7 and AbioCor are names of _________",
+        "Options": [
+            "a) Artificial Brains",
+            "b) Artificial Hearts",
+            "c) Artificial Liver",
+            "d) Artificial Kidney",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 313,
+        "Question": "In order to maintain the levels of sugar in the blood, what devices are commonly being used?",
+        "Options": [
+            "a) Glucometer",
+            "b) Insulin Pump",
+            "c) Gluco Strips",
+            "d) Potable Pulse Oximeter",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 314,
+        "Question": "In which of the following problems does the body develop a resistance to insulin?",
+        "Options": [
+            "a) Type 1 Diabetes",
+            "b) Type 2 Diabetes",
+            "c) Insulin Shock",
+            "d) High Blood Pressure",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 315,
+        "Question": "Transplant of which organ may also cause a liver transplant in future?",
+        "Options": [
+            "a) Lungs",
+            "b) Heart",
+            "c) Kidney",
+            "d) Bladder",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 316,
+        "Question": "It is difficult to make an artificial liver so a substitutive technology, like the dialysis machine, is being made. Which of the options is mostly considered in making such machines?",
+        "Options": [
+            "a) Using hepatocytes to filter blood",
+            "b) Using semi permeable membrane to filter plasma",
+            "c) Using solutions of different organic and inorganic composition, just like dialysate, to filter blood",
+            "d) Filtering the organic and inorganic components of the blood separately",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 317,
+        "Question": "An artificial skin is needed the most in the cases of __________",
+        "Options": [
+            "a) Amputation",
+            "b) Burns",
+            "c) Eczema",
+            "d) Skin Cancer",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 318,
+        "Question": "Which of the following are used as blood substitutes?",
+        "Options": [
+            "a) Hemoglobin based oxygen carriers, Perfluorocarbon emulsions",
+            "b) Plasma, hemoglobin based oxygen carriers",
+            "c) Plasma, hematopoetic cells",
+            "d) Hematopoetic cells encapsulating hemoglobin, perfluorocarbon emulsions",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 319,
+        "Question": "Which of the following is not a reason for blindness?",
+        "Options": [
+            "a) Damage to the retina",
+            "b) Low blood supply to the cornea",
+            "c) Damage to the optic nerve",
+            "d) Injury in the occipital lobe of the brain",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 320,
+        "Question": "What is the difference between blindness and cataract?",
+        "Options": [
+            "a) Cataract happens in the retina and blindness happens to cornea",
+            "b) Cataract is clouding up of the cornea while blindness happens if either retina, optic nerve or the occipital lobe is injured or damages",
+            "c) Cataract can be corrected with surgery while blindness can be cured by increasing the intake of vitamin A",
+            "d) Blindness is when cilliary muscles do not contract properly while cataract is when the eyeball has gotten deformed",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 321,
+        "Question": "When is a cochlear implant used?",
+        "Options": [
+            "a) When the sensory hair in the auditory canal have been damaged",
+            "b) When the tympanic membrane has been damaged",
+            "c) When the ossicular chain has been damaged",
+            "d) When the fluid in the eustancian tube has been dis-balanced",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 322,
+        "Question": "Which of the following person is famous as ‘Blade Runner’?",
+        "Options": [
+            "a) Usain Bolt",
+            "b) Milkha Singh",
+            "c) Oscar Pistorius",
+            "d) Meb Keflezighi",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 323,
+        "Question": "When the food is directly given in the veins, it is called ______ nutrition.",
+        "Options": [
+            "a) Parenteral",
+            "b) Enteral",
+            "c) Intravenous",
+            "d) Saline",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 324,
+        "Question": "When food is given in the stomach or intestines directly then it is ________ nutrition.",
+        "Options": [
+            "a) Intravenous",
+            "b) Saline",
+            "c) Enteral",
+            "d) Parenteral",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 325,
+        "Question": "A person who has had a renal transplant should regulate the intake of ______",
+        "Options": [
+            "a) carbohydrates",
+            "b) proteins",
+            "c) fats",
+            "d) vitamins",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 326,
+        "Question": "To overcome diabetes, a person can increase the intake of ______ and reduce the intake of ___________",
+        "Options": [
+            "a) carbohydrates, proteins",
+            "b) proteins, fats",
+            "c) fats, carbohydrates",
+            "d) carbohydrates, fats",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 327,
+        "Question": "For a person suffering from problems like slow neural transmission, eg dementia, they should be given __________",
+        "Options": [
+            "a) increased sodium",
+            "b) increased potassium",
+            "c) increased calcium",
+            "d) increased magnesium",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 328,
+        "Question": "A person who is suffering from high blood pressure should cut down on _______",
+        "Options": [
+            "a) sodium",
+            "b) potassium",
+            "c) calcium",
+            "d) magnesium",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 329,
+        "Question": "Long periods of parenteral nutrition is not recommended because of ______",
+        "Options": [
+            "a) it increases the toxicity of blood",
+            "b) it puts pressure on the kidney",
+            "c) it puts pressure on the heart",
+            "d) it causes the GI track to degenerate",
+            ""
+        ],
+        "Answer": "Answer: d"
+    },
+    {
+        "id": 330,
+        "Question": "In cases of renal insufficiency, what should take in place of proteins?",
+        "Options": [
+            "a) Triglycerides",
+            "b) Essential Amino Acids",
+            "c) Glucose",
+            "d) Vitamin K",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 331,
+        "Question": "In cases of muscle fatigue, which of the Vitamin should be taken?",
+        "Options": [
+            "a) A",
+            "b) D",
+            "c) E",
+            "d) K",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 332,
+        "Question": "Which Vitamin in large amounts harms the bones?",
+        "Options": [
+            "a) A",
+            "b) B",
+            "c) C",
+            "d) D",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 333,
+        "Question": "What form must be filled before starting a surgery?",
+        "Options": [
+            "a) SF 520",
+            "b) SF 521",
+            "c) SF 522",
+            "d) SF 523",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 334,
+        "Question": "What color code is used for a person suffering from cardiac arrest?",
+        "Options": [
+            "a) Red",
+            "b) Blue",
+            "c) Black",
+            "d) Green",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 335,
+        "Question": "What are the ISO standards for hospital equipment?",
+        "Options": [
+            "a) 9001 – product design, development, installation and servicing, 9002 – quality assurance at production and installation charges, 9003 – testing and inspections",
+            "b) 9001 – sterility in hospitals, 9002 – regulations to follow before surgery, 9003 – post operative regulations",
+            "c) 9001 – designing of hospitals, 9002 – maintenance of hospitals, 9003 – hospital procedures",
+            "d) 9001 – setting up of hospital labs, 9002 – maintenance of sterility in labs, 9003 – maintenance of hospital equipment",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 336,
+        "Question": "What is AMC?",
+        "Options": [
+            "a) Annual Machine Calibration",
+            "b) Annual Maintenance Contract",
+            "c) Atomic Mass Calibration",
+            "d) Autonomous Machine Calibration",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 337,
+        "Question": "In what cases can the medical data of the patient be disclosed?",
+        "Options": [
+            "a) In case of emergency",
+            "b) In case of legal issues",
+            "c) In case of celebrity deaths",
+            "d) In case of study purposes",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 338,
+        "Question": "What is the thickness of the lead jacket that is maintained for X-Ray procedures?",
+        "Options": [
+            "a) 0.25 mm",
+            "b) 2.5 mm",
+            "c) 25 mm",
+            "d) 250 mm",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 339,
+        "Question": "Who is the authority on laying the guidelines for Radioactive exposure?",
+        "Options": [
+            "a) Defense Research And Development Organization",
+            "b) Bhabha Atomic Research Center",
+            "c) Atomic Energy Regulation Board",
+            "d) Indian Space Research Organization",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 340,
+        "Question": "Which authority sets the standards for hospitals in India?",
+        "Options": [
+            "a) NABH",
+            "b) NBRI",
+            "c) CBI",
+            "d) DRDO",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 341,
+        "Question": "Where are the radioactive devices mostly kept?",
+        "Options": [
+            "a) In the basement",
+            "b) On the top floor",
+            "c) Outside the building",
+            "d) Close to the power generation room",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 342,
+        "Question": "In India, where are the radioactive badges sent for monitoring?",
+        "Options": [
+            "a) Bhabha Atomic Research Center",
+            "b) Atomic Energy Regulation Board",
+            "c) Defence Research And Development Organization",
+            "d) Indian Space Research Organization",
+            ""
+        ],
+        "Answer": "Answer: a"
+    },
+    {
+        "id": 343,
+        "Question": "What is the acceptable level of exposure to radioactive material to a radiologist per year?",
+        "Options": [
+            "a) 1000 mrem",
+            "b) 2000 mrem",
+            "c) 5000 mrem",
+            "d) 7000 mrem",
+            ""
+        ],
+        "Answer": "Answer: c"
+    },
+    {
+        "id": 344,
+        "Question": "What are the temperatures maintained in a morgue?",
+        "Options": [
+            "a) 0℃ – 2℃",
+            "b) 2℃ – 4℃",
+            "c) 4℃ – 6℃",
+            "d) 6℃ – 8℃",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 345,
+        "Question": "What stops the X – Rays from infecting the person in the control room?",
+        "Options": [
+            "a) Protective gear worn by the person conducting X – Ray",
+            "b) Lead Patches on the glass",
+            "c) Thick Glass",
+            "d) absorption of X – Rays by the room",
+            ""
+        ],
+        "Answer": "Answer: b"
+    },
+    {
+        "id": 346,
+        "Question": "What should be the minimum distance maintained when performing an X-Ray with the help of a portable X – Ray?",
+        "Options": [
+            "a) 0.5 m",
+            "b) 5.0 m",
+            "c) 50 m",
+            "d) 500 m",
+            ""
+        ],
+        "Answer": "Answer: c"
+    }
+]
