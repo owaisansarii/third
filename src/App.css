@@ -50,3 +50,12 @@
   cursor: pointer;
   /* border-bottom: 2px solid black; */
 }
+
+@media screen and (max-width: 600px) {
+  .container,
+  .container li {
+    width: 95%;
+    font-size: 1rem;
+    transition: 0.5s;
+  }
+}
