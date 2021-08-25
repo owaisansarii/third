@@ -3,7 +3,7 @@ import "./App.css";
 const links = require("./saved/contents.json");
 
 const App = () => {
-  const [mid, setmid] = useState([]);
+  const [content, setcontent] = useState([]);
   const [title, settitle] = useState([]);
   const [loading, setLoading] = useState(true);
 
@@ -15,7 +15,7 @@ const App = () => {
   };
 
   const Titles = () => {
-    const list = mid.map((curElem, i) => {
+    const list = content.map((curElem, i) => {
       curElem = curElem.replace("1000", "");
       curElem = curElem.replace("-questions-answers", "").trim();
       curElem = curElem.replace(/-/g, " ");
@@ -38,7 +38,7 @@ const App = () => {
         <li
           key={id}
           style={{ fontWeight: "bold", letterSpacing: "2px" }}
-          onClick={() => setmid(content)}
+          onClick={() => setcontent(content)}
         >
           {Title}
         </li>
