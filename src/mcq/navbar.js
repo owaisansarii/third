@@ -8,7 +8,7 @@ const Navbar = () => {
     <>
       <nav className="navbar navbar-light bg-light sticky-top">
         <div className="container-fluid">
-          <span onClick={() => history.push("/")} className="navbar-brand">
+          <span onClick={() => history.push("/third")} className="navbar-brand">
             MCQ
           </span>
           <form className="d-flex">

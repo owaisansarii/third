@@ -4,6 +4,7 @@ const Index = (props) => {
   let title = props.fileName;
   console.log("https://mcq1-api.herokuapp.com/api/" + title);
   const [data, setData] = useState(null);
+
   useEffect(() => {
     const fetchApi = async () => {
       const url = `https://mcq1-api.herokuapp.com/api/${title}`;
@@ -23,18 +24,28 @@ const Index = (props) => {
       <p>{title}</p> */}
       {data &&
         data.map((item, index) => {
-          const { Question, Options, Answer } = item;
+          let { Question, Options, Answer } = item;
+          let code;
+          let ques, ans;
+          if (Answer) {
+            ans = Answer.split("\n")[0];
+          }
+          if (Question) {
+            code = Question.substring(Question.indexOf("<"));
+            ques = Question.replace(code, "");
+          }
           return (
             <div key={index} className="mcq">
               <div className="question">
-                <span>{Question}</span>
+                <span>{ques}</span>
+                <div dangerouslySetInnerHTML={{ __html: code }}></div>
                 <div className="border"></div>
               </div>
               <div className="option-ans">
                 {Options.map((option, index) => {
                   return <p key={index}>{option}</p>;
                 })}
-                <div className="answer">{Answer}</div>
+                <div className="answer">{ans}</div>
               </div>
             </div>
           );

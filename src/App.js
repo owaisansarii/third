@@ -9,8 +9,9 @@ const App = () => {
       <Router>
         <Navbar />
         <Switch>
-          <Route exact path="/" component={Headings} />
+          <Route exact path="/third" component={Headings} />
           <Route exact path="/mcq/:fileName" component={MCQ} />
+          <Route path="/" component={Headings} />
         </Switch>
       </Router>
     </>
